@@ -27,7 +27,7 @@ MGI_ACCESSION	${MGI}searches/accession_report.cgi?id=
 MGI_HOME	${MGI}mgihome/
 
 # link to MGI Glossary
-MGI_GLOSSARY	${MGI_HOME}glossary.shtml
+MGI_GLOSSARY	${MGI_HOME}other/glossary.shtml
 
 # link to MGI user support page
 MGI_SUPPORT	${MGI}mgihome/support/tjl_inbox.shtml
