@@ -6,9 +6,6 @@ PYTHON		/usr/local/bin/python
 # Unix group to which to chmod the files, must be web-accessible
 GROUP		www
 
-# octal permissions for all *.shtml files (640 is rw-r----)
-SHTML_PERMS	0640
-
 # colon-delimited list of Python library directories
 LIBDIRS		/usr/local/mgi/lib/python
 
