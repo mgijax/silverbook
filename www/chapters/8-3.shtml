@@ -1,0 +1,720 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>8.3 POLYMORPHISMS DETECTED BY PCR</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="8-2.shtml">Previous</A> <A HREF="8-4.shtml">Next</A></H4></DIV>
+
+<a name="8.3"></a><H2>8.3 POLYMORPHISMS DETECTED BY PCR</H2>
+
+<P>Without a doubt, the polymerase chain reaction (PCR) represents the single most important technique in the field of molecular biology today. 
+What PCR accomplishes in technical terms can be described very simply &#151; it allows the rapid and unlimited amplification of specific nucleic acid 
+sequences that may be present at very low concentrations in very complex mixtures. Within less than a decade after its initial development, it 
+has become a critical tool for all practicing molecular biologists, and it has served to bring molecular biology into the practice of many other 
+fields in the biomedical sciences and beyond. The reasons are several fold. First, PCR provides the ultimate in sensitivity &#151; single DNA molecules 
+can be detected and analyzed for sequence content 
+(<A HREF="../references.shtml#Li1" TARGET="_top">Li et al., 1988</A>; 
+<A HREF="../references.shtml#Arnheim2" TARGET="_top">Arnheim et al., 1990</A>). Second, it provides the ultimate in resolution &#151; all polymorphisms, from single base 
+changes to large rearrangements, can be distinguished by an appropriate PCR-based assay. Third, it is extremely rapid &#151; for many applications, 
+it is possible to go from crude tissue samples to results within the confines of a single workday. Finally, the technique is an agent of democracy &#151; 
+once the sequences of the pair of oligonucleotides that define a particular PCR reaction are published, anyone anywhere with the funds to buy the 
+oligonucleotides can reproduce the same reaction on samples of his or her choosing; this stands in contrast to RFLP analyses in which investigators 
+are often dependent upon the generosity of others to provide clones to be used as probes. Numerous books and thousands of journal articles have 
+been published on the principles and applications of the technique 
+[<A HREF="../references.shtml#Erlich1" TARGET="_top">Erlich (1989)</A> and 
+<A HREF="../references.shtml#Innis1" TARGET="_top">Innis et al. (1990)</A> are two early examples].
+
+<P>Although the applications of PCR are as varied as the laboratories in which the technique is practiced, this section will focus entirely on six 
+general applications that are relevant to the detection and typing of genetic variation in the mouse. Four of these applications are based on the PCR 
+amplification of particular loci that have been previously characterized at the sequence level. In these cases, primer pairs must be chosen to be as 
+specific as possible for the locus in question in order to avoid artifactual PCR products. Computer programs are available to assist in primer design 
+(<A HREF="../references.shtml#Lowe1" TARGET="_top">Lowe et al., 1990</A>; 
+<A HREF="../references.shtml#Dietrich1" TARGET="_top">Dietrich et al., 1992</A>), but manual inspection is usually adequate. One must be careful to avoid self-complementarity 
+within any one primer and the presence of complementary sequences between the two primers. Also, potential primers should be screened with use of a 
+sequence comparison program to avoid homology with the highly repeated elements B1, B2, and L1 (see 
+<A HREF="5-4.shtml">Section 5.4</A>). The primer length should be at least 20 bases, the G:C content should be at least 50%, and the melting temperature 
+should be at least 60&#176;C.
+
+<P>Even when all of these conditions are adhered to, it is still possible to find that a particular pair of primers will not work properly to amplify a 
+specific locus into a reproducible product that can be clearly distinguished from artifactual background bands. There are a variety of approaches that 
+one can take to eliminate such problems 
+(<A HREF="../references.shtml#Erlich1" TARGET="_top">Erlich, 1989</A>; 
+<A HREF="../references.shtml#Innis1" TARGET="_top">Innis et al., 1990</A>), but if all else fails, one should replace one or both primers with alternatives derived from other 
+nearby flanking sequences that also fit the rules listed above.
+
+<a name="8.3.1"></a><H3>8.3.1 Restriction site polymorphisms</H3>
+
+<a name="8.3.1.1"></a><H3><I>8.3.1.1 Overview</I></H3>
+
+<P>Rapid, highly efficient PCR-based assays can be designed to detect all RFLPs &#151; previously-defined by Southern blot analysis &#151; as long as the nature 
+of the RFLP is understood and sequence information flanking the actual polymorphic site is available. A pair of PCR primers that flank this site can 
+then be synthesized according to the rules just described and tested for their ability to amplify a specific product that can be readily identified as 
+an ethidium bromide-stained band by gel electrophoresis.
+
+<P>With the simplest and most common type of RFLP illustrated in 
+<a href="javascript:windowf86 = window.open('../figures/figure8.6.shtml', 'windowf86', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowf86.focus()">Figure 8.6</A>, 
+the polymorphism results from a single nucleotide difference that provides a recognition site for a restriction 
+enzyme in one allelic form and not the other. A polymorphism of this type can be rapidly detected by (1) amplifying the region around the polymorphic site 
+from each sample; (2) subjecting the amplified material to the appropriate restriction enzyme for a brief period of digestion; and (3) distinguishing the 
+undigested PCR product from the smaller digested fragments by gel electrophoresis. By choosing primers that are relatively equidistant to and sufficiently 
+far from the polymorphic site, one can easily resolve allelic forms on agarose or polyacrylamide gels as illustrated in 
+<a href="javascript:windowf86 = window.open('../figures/figure8.6.shtml', 'windowf86', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowf86.focus()">Figure 8.6</A>.
+
+<P>This PCR-based protocol provides results much more rapidly and is much easier to carry out than the Southern blot alternative which requires blotting, 
+probe labeling, hybridization, and autoradiography. Since the major expense involved with PCR is in the initial sequencing of the locus and the synthesis 
+of PCR primers, it is also less costly in all cases where one expects to type large numbers of samples for the particular locus in question.
+
+<P>Even RFLPs caused by more complex mutational events can be analyzed by PCR. 
+<a href="javascript:windowf87 = window.open('../figures/figure8.7.shtml', 'windowf87', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf87.focus()">Figure 8.7</A> 
+illustrates the logic behind devising PCR strategies for detecting deletions, insertions, inversions, and translocations. 
+The only requirement is a knowledge of the sequences that surround the breakpoints associated with each particular genetic event.
+
+<a name="8.3.1.2"></a><H3><I>8.3.1.2 &#032;&#032;3'-untranslated regions as a mapping resource</I></H3>
+
+<P>An important resource for the identification of new restriction site polymorphisms that can be typed by PCR is the 3'-untranslated (3'-UT) regions of 
+transcripts. These regions are not under the same selective constraints as coding sequences and are frequently just as polymorphic as random non-transcribed 
+genomic regions. However, 3'-UT regions are direct markers for the 3' ends of genes. They are usually not interrupted by introns and are often sufficiently 
+divergent between different members of a gene family to allow locus-specific analysis.
+
+<P>Nearly all cDNA libraries are constructed from cDNA molecules that have been initiated by priming from the poly(A) tail present at the 3' end of the 
+mRNA. For all clones obtained from these libraries, it is straightforward to obtain sequence information for a few hundred basepairs of 3'-UT region 
+directly adjacent to the poly(A) tail. This sequence information can be used to design a pair of PCR primers that can be used, in turn, to amplify and 
+sequence the same region from a different strain or species of mice such as <i>M. spretus</i> or <i>M. m. castaneus</i>. In a comparison of 2,312 bp 
+present in 3'-UT regions derived from 22 random mouse cDNA clones, 
+<A HREF="../references.shtml#Takahashi1" TARGET="_top">Takahashi and Ko (1993)</A> found an overall polymorphism rate of one change in every 92 bp. These single base changes 
+translated into restriction site polymorphisms within nine of the 22 clones analyzed. With primers already in-hand, these newly identified polymorphisms provide 
+PCR markers for the direct mapping of corresponding genes that are indistinguishable in their coding regions.
+
+<a name="8.3.2"></a><H3>8.3.2 Detection of allelic changes defined by single basepairs</H3>
+
+<a name="8.3.2.1"></a><H3><I>8.3.2.1 Hybridization and single basepair changes</I></H3>
+
+<P>Although PCR detection of RFLPs is an improvement over Southern blot detection, the real advantage of PCR lies within its nearly universal ability to 
+discriminate alleles differing by single base changes even when they do not create or destroy any known restriction site. In fact, most random basepair 
+changes will be of the non-RFLP type, and before the advent of PCR, there was no efficient means by which these alleles could be easily followed in 
+large numbers of samples. It was this limitation that led originally to the development of the PCR protocol 
+(<A HREF="../references.shtml#Saiki1" TARGET="_top">Saiki et al., 1986</A>).
+
+<P>The inability to detect single base changes on Southern blots was a consequence of both theoretical limitations inherent in the process of hybridization 
+as well as practical limitations in the sensitivity of nucleic acid probes and the elimination of background noise. With Southern blot analysis, the 
+sensitivity at which target sequences can be detected within a defined sample is directly proportional to the length of the probe. For example, a 1 kb 
+probe will hybridize to ten times the amount of target sequence as a 100 bp probe (having the same specific activity), and this will lead to a signal 
+which is ten times stronger. It is for this reason that it is always best to use the longest probes possible for traditional Southern blot studies as 
+well as for other protocols such as <i>in situ</i> hybridization. Signal strength is important not simply to reduce the amount of time required for 
+autoradiographic exposure, but also to allow detection over the background &#034;noise&#034; inherent in any hybridization experiment. If conditions are at all 
+less than optimal, the signal to noise ratio will drop below 1.0 as the probe size is reduced below 100-200 bp.
+
+<P>The only forces holding the two strands of a DNA double helix together are the double or triple hydrogen bonds that exist within each basepair. 
+Individual hydrogen bonds are very weak, and it is only when they are added together in large numbers that the double helix has sufficient stability to 
+avoid being split apart by normal thermal fluctuations. Thus, for DNA molecules having a size in the range from a few basepairs up until a critical value 
+of &#126;50 bp, the length itself plays a critical role in the determination of whether the helix will remain intact or fall apart. However, once this 
+upper boundary is crossed, length is no longer a factor in thermal stability. In effect, there is only a small window &#151; &#126;10 to 40 bp &#151; over which 
+it is possible to obtain differential hybridization of probe to target based on differences in hybrid length.
+
+<P>But how could length make a difference in allele detection when both the target and probe lengths are held constant? The answer is that the <i>effective</i> 
+length of a hybrid is determined by the <i>longest</i> stretch of DNA that does not contain any mismatches. Thus, when a probe of 21 bases in length hybridizes 
+to a target that differs at a single base directly in the middle of the sequence, the effective length of the hybrids that are formed is only 10 bp. Since a 
+10 bp hybrid is significantly less stable than a 21 bp hybrid, it is becomes easy to devise hybridization conditions (essentially by choosing the right 
+temperature) such that the perfect hybrid will remain intact while the imperfect hybrid will not. In contrast, the thermal stability of a 50 bp hybrid is not 
+sufficiently different from the thermal stability of a 100 bp hybrid (of equivalent sequence composition) to allow detection by differential hybridization.
+
+<P>Thus, in 1985, the detection of single base differences through differential Southern blot hybridization was not possible because of two counteracting 
+problems. First, it was only with very short probes &#151; oligonucleotides of less than 50 bases &#151; that single base changes provided a large enough difference 
+to be readily detected. However, it was only with much longer probes &#151; of several hundred bases or greater &#151; that signal strength and signal to noise ratio 
+were sufficient to allow specific detection of the target sequence in any allelic form within the high complexity mouse genome. How could one break this impasse?
+
+<P>The answer, of course, was to focus on the target sequences rather than the probe or hybridization conditions. PCR provided a means to increase the absolute 
+amount of target sequence, as well as the target to non target ratio, by virtually-unlimited orders of magnitude. This, in turn, results in a proportional 
+increase in potential signal strength which, in turn, allows one to use short oligonucleotides for hybridization and which, in turn, allows for the detection 
+of single base differences in a simple plus/minus assay.
+
+<a name="8.3.2.2"></a><H3><I>8.3.2.2 Allele-specific oligonucleotides</I></H3>
+
+<P>Once alternative alleles have been sequenced and a single basepair change between the two has been identified, it becomes possible to design a PCR protocol 
+that allows one to follow their segregation 
+(<A HREF="../references.shtml#Farr1" TARGET="_top">Farr, 1991</A>). First, PCR primers are identified that allow specific amplification 
+of a region that encompasses the variant nucleotide site (for this application, the length of the product is not critical and can be anywhere from 150 to 400 bp 
+in length). Next, two 
+<A HREF="../glossary.shtml#Allele-specific_Oligonucleotide" TARGET="_top">allele-specific oligonucleotides (ASOs)</A> 
+are produced in which the variant nucleotide is as close to the center as possible considering other factors described at the front of 
+<A HREF="8-3.shtml">Section 8.3</A>. The ideal ASO length is 19-21 bases &#151; short enough to allow differential hybridization based on a single base change and 
+long enough to provide a high probability of locus specificity. The two ASOs are used with defined samples to determine a temperature at which positive 
+hybridization is obtained with target DNA containing the correct allele but not with target DNA containing only the alternative allele.
+
+<P>Typically, a sample of genomic DNA is subjected to PCR amplification with the locus-specific primers, aliquots of the amplified material are spotted into two 
+&#034;dots,&#034; and each is probed with labeled forms of each of the two ASOs. Hybridization at one dot but not the other is indicative of a homozygote for that allele, 
+while hybridization at both dots is indicative of a heterozygote that carries both alleles.
+
+<P>The power of this protocol for allele detection is its simplicity. The elimination of gel running saves both time and allows for easy automation. With large 
+amounts of target sequence, it becomes possible to use non-radioactive labeling protocols that are safer and allow for long-term storage of labeled probes 
+(<A HREF="../references.shtml#Helmuth1" TARGET="_top">Helmuth, 1990</A>; 
+<A HREF="../references.shtml#Levenson1" TARGET="_top">Levenson and Chang, 1990</A>). However, there are pitfalls that are important to keep in mind. First, some variants may be 
+refractory to reproducible PCR analysis because of problems inherent in the sequence that surrounds the site of the base change. Second, plus/minus assays of 
+any kind are subject to the problem of false negatives. (One can always insert a gel running step prior to hybridization to be certain that amplified material 
+is actually present in the aliquot under analysis.) Finally, in the analysis of mice derived from anything other than a defined cross, there is always the risk 
+that a third novel allele will exist that cannot be detected by either of the two ASOs developed for the analysis. An animal heterozygous for such a novel allele 
+(along with one of the two known alleles) could be falsely characterized as homozygote for the one known allele present since the protocol is not quantitative. 
+Nevertheless, even with these pitfalls, the PCR/ASO protocol remains a useful tool for genetic analysis.
+
+<a name="8.3.2.3"></a><H3><I>8.3.2.3 The oligonucleotide ligation assay</I></H3>
+
+<P>An alternative protocol for the detection of well-defined alleles that differ by single base changes has been developed by Hood and his colleagues 
+(<A HREF="../references.shtml#Landegren2" TARGET="_top">Landegren et al., 1988</A>; 
+<A HREF="../references.shtml#Landegren1" TARGET="_top">Landegren et al., 1990</A>). This method, called the oligonucleotide ligation assay (OLA) or ligase-mediated gene detection, 
+is predicated on the requirement for proper base pairing at the 3'-end of one oligonucleotide as well as the 5'-end of an adjacent oligonucleotide before ligase 
+can work to form a covalent phosphodiester bond. The conceptual framework behind the protocol is illustrated in 
+<a href="javascript:windowf88 = window.open('../figures/figure8.8.shtml', 'windowf88', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf88.focus()">Figure 8.8</A>. 
+First, the potential target sequence is amplified by PCR. Next hybridization is carried out simultaneously with two 
+oligonucleotides complementary to sequences that are adjacent to each other and directly flank the variant nucleotide. The variant base itself will be either 
+complementary or non-complementary to the most 3'-base of the first allele-specific oligonucleotide. This ASO is modified ahead of time with an attached biotin 
+moiety but is not otherwise labeled. The second oligonucleotide, which is labeled radioactively or non-isotopically, extends across an adjacent sequence that is 
+common to both alleles under analysis. Ligase is also present in the reaction, and if both oligonucleotides are perfectly matched with the target sequence, the 
+ligase will create a covalent bond between them. If a mismatch occurs at the junction site, the two oligonucleotides will <i>not</i> become ligated. Biotinylated 
+material can be easily and absolutely separated from non-biotinylated material with the use of a streptavidin matrix and the resulting sample can then be tested 
+for the presence of the label associated with the second oligonucleotide.
+
+<P>There are two main advantages to using the ligase-mediated detection protocol as a substitute for the PCR/hybridization protocol described in the 
+<A HREF="8-3.shtml#8.3.2.2">previous section</A>. 
+First, the chance of a false positive arising from the OLA protocol is essentially zero. Second, the OLA protocol is highly amenable to automation. 
+However, as in all plus/minus assays, proper controls are critical to rule out the possibility of false negatives.
+
+<a name="8.3.2.4"></a><H3><I>8.3.2.4 The ligase chain reaction</I></H3>
+
+<P>By combining OLA together with the exponential amplification strategy of PCR, a new technique has been developed that is referred to as the ligase chain 
+reaction or LCR 
+(<A HREF="../references.shtml#Barany1" TARGET="_top">Barany, 1991</A>; 
+<A HREF="../references.shtml#Weiss1" TARGET="_top">Weiss, 1991</A>). Like OLA, detection of nucleotide differences with the LCR protocol is based upon a requirement for perfect 
+pairing at the two sites that flank the break between two oligonucleotides in order for ligase to form a phosphodiester bond between them as illustrated in 
+<a href="javascript:windowf88 = window.open('../figures/figure8.8.shtml', 'windowf88', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf88.focus()">Figure 8.8</A>. 
+The difference is that in the LCR protocol, four oligonucleotides are used corresponding to the regions that flank 
+the polymorphic site on <i>both</i> strands of the target DNA molecule. Therein lies the mechanism of amplification. If the target sequence provides a match, 
+both sets of flanking oligonucleotides will become ligated. After denaturation, each of the newly created double-length oligonucleotides can now act as a 
+template for a new set of oligonucleotides to basepair and ligate. Thus, LCR proceeds by rounds of annealing in the presence of a heat-stable ligase followed 
+by denaturation and then annealing again. The only difference in the thermocycler pattern from that used for PCR is the elimination of the elongation step. 
+At the end of the process, the products of LCR can be detected easily in the same manner used for OLA as shown in 
+<a href="javascript:windowf88 = window.open('../figures/figure8.8.shtml', 'windowf88', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf88.focus()">Figure 8.8</A>. 
+In contrast, detection of polymorphic sites with PCR requires a follow-up protocol &#151; either hybridization to an 
+allele-specific oligonucleotide or restriction digestion followed by gel electrophoresis.
+
+<P>The essential difference between LCR and the original OLA protocol is sensitivity: LCR requires far less starting material since the product is amplified 
+during the protocol. The advantages of the LCR protocol over PCR are several. First, like OLA, LCR will not produce false positives. Second, because the 
+product of LCR is directly assayable without further detection schemes, the process is much more amenable to automation and is much more likely to be 
+quantitative. The disadvantage of LCR is that it can only be used to detect single base substitutions that have been previously characterized by sequence analysis.
+
+<a name="8.3.3"></a><H3>8.3.3 Single Strand Conformation Polymorphism (SSCP)</H3>
+
+<a name="8.3.3.1"></a><H3><I>8.3.3.1 Historical background</I></H3>
+
+<P>There are many circumstances where it is most useful to be able to follow genes &#151; in contrast to anonymous sequences &#151; directly within experimental crosses. 
+A number of different approaches have already been described, but they all have limitations. Gene-associated RFLPs are detected between different species &#151; 
+<i>M. spretus</i> and traditional inbred <i>M. musculus</i> strains, for example &#151; at a reasonable frequency, but are much more difficult to find among the 
+inbred <i>M. musculus</i> strains themselves. To use any of the approaches dependent on Allele-Specific Oligonucleotides, it is first necessary to sequence 
+the locus in question from different strains of mice, identify basepair variants, synthesize the ASOs as well as other locus-specific primer(s), test their 
+specificity and optimize the reaction conditions for each locus. And at this point, one still only has a protocol for distinguishing two allelic states.
+
+<P>A geneticist's perfect protocol for detection and analysis of polymorphisms at any locus would satisfy the following criteria. First, it would allow the 
+detection of any and all basepair variants in a DNA region as multiple alleles. Second, it would not require prior sequence information from each allele. 
+Third, it would not require the synthesis of ASOs. Fourth, the assay protocol itself would require no special equipment or special skills above and beyond 
+that found in a standard molecular biology laboratory. Finally, the assay would be rapid and the results would be readily reproducible.
+
+<P>All of these criteria have been satisfied, to a good degree, with a simple protocol that takes advantage of the fact that even single nucleotide changes 
+can alter the three dimensional equilibrium conformation that <i>single strands</i> will assume at low temperatures 
+(<A HREF="../references.shtml#Orita1" TARGET="_top">Orita et al., 1989a</A>). If a sample of DNA is denatured at high temperature and then quickly placed onto ice, reformation 
+of DNA hybrids will be inhibited. Instead, each single strand will collapse onto itself in what is often called a random coil. In fact, it is now clear that 
+each single strand will assume a most-favored conformation based on the lowest free energy state. Presumably, the most favored state is one in which a large 
+number of bases can form hydrogen bonds with each other. Even a single nucleotide change could conceivably disrupt the previous most favored state and promote 
+a different one, which, if different enough, would run with an altered mobility on a gel. Different allelic states of a locus that are detected with this 
+protocol are called <i>single-strand conformation polymorphisms</i> (SSCPs) 
+(<A HREF="../references.shtml#Beier2" TARGET="_top">Beier et al., 1992</A>; 
+<A HREF="../references.shtml#Beier1" TARGET="_top">Beier, 1993</A>).
+
+<a name="8.3.3.2"></a><H3><I>8.3.3.2 Denaturing gradient gel electrophoresis</I></H3>
+
+<P>The development of the SSCP protocol was an outgrowth of an earlier technique that allowed the detection of single base changes in genomic DNA upon 
+electrophoresis through an increasing gradient of denaturant 
+(<A HREF="../references.shtml#Fischer1" TARGET="_top">Fischer and Lerman, 1983</A>). This technique is called denaturing gradient gel electrophoresis (DGGE). Small changes in 
+sequence have dramatic effects on the point in the denaturing gradient at which particular double-stranded genomic restriction fragments would split into 
+single strands. With the attachment of a &#034;GC-clamp&#034; &#151; composed of a stretch of tightly bonding G:C basepairs &#151; the DNA fragment could be held together with 
+a double helix in the clamped region attached to the open single strands present in the melted region. This two-phase molecule would be very resistant to 
+further migration in the gel and would essentially <i>stop in its track</i>. Two allelic forms of a genomic fragment that differed by even a single basepair 
+would undergo this transition at different denaturant points and this would be observed as different migration distances in the denaturing gradient gel. In 
+the original protocol, different allelic forms were detected directly within total genomic DNA upon Southern blotting and hybridization to a locus-specific 
+probe. At the time DGGE was developed, there was no other means available for detecting basepair changes that did not alter restriction sites, and thus DGGE 
+expanded the polymorphism horizon. Unfortunately, DGGE requires the use of custom-made equipment and is tedious to perform on a routine basis.
+
+<P>In recent years, the DGGE protocol has been modified for use in conjunction with PCR as a means for the initial detection of allelic variants among samples 
+recovered from different individuals within a population 
+(<A HREF="../references.shtml#Sheffield2" TARGET="_top">Sheffield et al., 1989</A>). The differential migration of PCR 
+products can be detected directly in gels with ethidium bromide staining and variant alleles can be excised from the gel for sequence analysis. The main 
+advantage to the use of DGGE is that nearly all single base substitutions can be detected 
+(<A HREF="../references.shtml#Myers1" TARGET="_top">Myers et al., 1985</A>). Thus, it is ideal for the situation where one wants to search for rare variant alleles among 
+individuals within a population without the need for sequencing through all of the wild-type alleles that will be present in most samples. Nevertheless, 
+DGGE does not scale up easily and, thus, it is not the method of choice when another less labor-intensive protocol can also be used for the detection of 
+allelic variants. In many cases, the better protocol will be SSCP.
+
+<a name="8.3.3.2"></a><H3><I>8.3.3.2 The SSCP protocol and its sensitivity</I></H3>
+
+<P>One of the main virtues of the new SSCP detection protocol developed by Orita et al. (1989a; 1989b) is its simplicity. In its basic form, PCR products 
+are simply denatured at 94&#176;, cooled to ice temperature to prevent hybrid formation, and then electrophoresed on standard non-denaturing polyacrylamide 
+gels. 
+
+<P>The two strands of the PCR product will usually run with very different mobilities, and base changes can act to further alter the mobility of each 
+strand. Thus, what appears to be a single PCR product by standard analysis, can split into four different bands on an SSCP gel if the original DNA sample 
+was heterozygous for base changes that altered the mobility of both strands.
+
+<P>Various studies have analyzed pairs of PCR products known to differ by single base substitutions to obtain an estimate of the fraction that can be 
+distinguished by the SSCP protocol. In one such study, 80% of 228 variant PCR products were distinguishable 
+(<A HREF="../references.shtml#Sheffield1" TARGET="_top">Sheffield et al., 1993</A>). In another study, the rate of detection was 80-90% 
+(<A HREF="../references.shtml#Michaud1" TARGET="_top">Michaud et al., 1992</A>). However, when this last set of samples was analyzed under three different electrophoretic 
+conditions, the detection rate was an astonishing 100%.
+
+<a name="8.3.3.3"></a><H3><I>8.3.3.3 A powerful tool for the detection of polymorphisms among classical inbred strains</I></H3>
+
+<P>When SSCP analysis was performed on a set of PCR products amplified from either the 3'-untranslated or intronic regions of 30 random mouse genes, 
+43% showed polymorphism in a comparison of the classical inbred strains B6 and DBA, and 86% showed polymorphism between B6 and <i>M. spretus</i> 
+(<A HREF="../references.shtml#Beier2" TARGET="_top">Beier et al., 1992</A>). The rate at which SSCP polymorphisms are detected between B6 and DBA is much greater than that 
+observed with RFLP analysis, and in the same ballpark as the polymorphism frequencies observed for microsatellites described in 
+<A HREF="8-3.shtml#8.3.6">Section 8.3.6</A>.
+
+<P>There are a number of advantages to the SSCP approach over other systems for detecting polymorphisms: (1) SSCP has potential applicability to all unique 
+sequences, both within genes and non-genic regions; (2) PCR primers can be designed directly from cDNA sequences; and (3) If one amplified region does not 
+show polymorphism, one can always move upstream or downstream to another. However, it is still likely to be the case that microsatellites &#151; described in 
+<A HREF="8-3.shtml#8.3.6">Section 8.3.6</A> &#151; will have larger numbers of different alleles and this makes them more useful in straightforward fingerprinting 
+approaches. Together, SSCP and microsatellite analysis provide a powerful pair of PCR-based tools for classical linkage analysis with recombinant panels 
+derived from both intra- and interspecific crosses.
+
+<a name="8.3.4"></a><H3>8.3.4 Random amplification of polymorphic DNA</H3>
+
+<P>With all of the PCR protocols described so far, there is an absolute requirement for pre-existing sequence information to design the primers upon which 
+specific amplification depends. In 1990, two groups demonstrated that single short random oligonucleotides of arbitrary sequence could be used to prime the 
+amplification of genomic sequences in a reproducible and polymorphic fashion 
+(<A HREF="../references.shtml#Welsh1" TARGET="_top">Welsh and McClelland, 1990</A>; 
+<A HREF="../references.shtml#Welsh2" TARGET="_top">Welsh et al., 1991</A>; 
+<A HREF="../references.shtml#Williams1" TARGET="_top">Williams et al., 1990</A>). This protocol is called random amplification of polymorphic DNA 
+(RAPD). The principle behind the protocol is as follows. Short oligonucleotides of random sequence will, just by chance, be complementary to numerous sequences 
+within the genome. If two complementary sequences are present on opposite strands of a genomic region in the correct orientation and within a close enough 
+distance from each other, the DNA between them can become amplified by PCR. Each amplified fragment will be independent of all others and, by chance, will 
+likely be of different length as well; if few enough bands are amplified, all will be resolvable from each other by gel electrophoresis. Different 
+oligonucleotides will amplify completely different sets of loci.
+
+<P>RAPD polymorphisms result from the fact that a primer hybridization site in one genome that is altered at a <i>single</i> nucleotide in a second genome 
+can lead to the elimination of a specific amplification product from that second genome as illustrated in 
+<a href="javascript:windowf89 = window.open('../figures/figure8.9.shtml', 'windowf89', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf89.focus()">Figure 8.9</A>. 
+If, for example, the random primer being used has a length of 10 bases, then each PCR product will be defined by 
+20 bases (10 in the primer target at each end) that are all susceptible to polymorphic changes.
+<SUP><A HREF="notes.shtml#60" TARGET="_top">60</A></SUP> 
+The resulting polymorphism will be detected as a di-allelic 
+&#043;/ - system.
+
+<P>If one starts with the assumption that complete complementarity between primer and target is required for efficient amplification, it becomes possible to 
+derive a general equation to predict the approximate number, <i>A</i>, of amplified bands expected as PCR products from a genome of complexity <i>C</i> that 
+is primed with a single oligomer of length <i>N</i>.
+<SUP><A HREF="notes.shtml#61" TARGET="_top">61</A></SUP> 
+For amplified fragments of 2 kb or smaller in size
+<SUP><A HREF="notes.shtml#62" TARGET="_top">62</A></SUP> 
+the equation is:<BR><BR>
+
+<P><A NAME="equation8.1"></A>(Equation 8.1)<BR><BR>
+
+<IMG SRC="../images/8-1.jpg" WIDTH="148" HEIGHT="59"><BR><BR>
+
+<P>Let us use 2x10<SUP>9</SUP> as an estimate for the complexity of the single copy portion of the mouse genome (see 
+<A HREF="5-1.shtml#5.1.2">Section 5.1.2</A>) and solve 
+<A HREF="#equation8.1">Equation 8.1</A> for primer lengths that vary from eight to 11. With <i>N</i> &#061; 8, the predicted number 
+of PCR products is 18,626 &#151; far too many to resolve by any type of gel analysis. With <i>N</i> &#061; 9, the equation predicts 116 PCR products, which is still too 
+high a number. With <i>N</i> &#061; 10, the prediction is 7.2 products, and with an 11-mer, the prediction is 0.45 products. Thus, the use of random 10-mers would be 
+most appropriate for obtaining a maximal number of easily resolvable bands from the mouse genome.
+
+<P>Optimizations of the complete RAPD protocol, from the parameters upon which primer sequences are chosen to the conditions used for PCR, have been published 
+(<A HREF="../references.shtml#Williams1" TARGET="_top">Williams et al., 1990</A>; 
+<A HREF="../references.shtml#Nadeau2" TARGET="_top">Nadeau et al., 1992</A>). It is actually possible to obtain multiple PCR products with primers longer than 10-mers when relaxed 
+reaction conditions are used to allow amplification from mismatched target sequences. In fact, one group has suggested that 12-14-mer primers are optimal 
+(<A HREF="../references.shtml#Nadeau2" TARGET="_top">Nadeau et al., 1992</A>). It is also possible to increase the predicted number of products by a simple factor of three by 
+including two unrelated random primers of the same length in each PCR reaction. However, in any case where the number of visible PCR products goes above 12-20, 
+it would become necessary to use polyacrylamide gels, rather than agarose gels, in order to clearly resolve each band; thus, the trade-off for the detection of 
+more loci is a more time-consuming analysis. In the end, the protocol that requires the least amount of time for typing <i>per locus</i> is the one which should 
+be chosen. Since different laboratories often excel at different techniques, the optimal conditions for RAPD analysis should be determined independently in each 
+laboratory.
+
+<P>A comprehensive RAPD analysis of the two most well-characterized inbred strains &#151; B6 and DBA &#151; has been performed with 481 independent 10-mers used singly in 
+PCR reactions 
+(<A HREF="../references.shtml#Woodward1" TARGET="_top">Woodward et al., 1992</A>). An average of 5.8 PCR products per reaction were observed, which is not very 
+different from that predicted from 
+<A HREF="#equation8.1">Equation 8.1</A>. In a direct strain comparison, 95 reproducible differences were observed between B6 and DBA among the complete 
+set of 2,900 discrete bands detected. Assuming that each polymorphism results from a single nucleotide change in one of the two primer targets and all such 
+changes are detectable, it becomes possible to calculate the average sequence difference between these two strains at 1.6 changes per 1,000 nucleotides. 
+This low level of polymorphism is not unexpected given the high degree of relatedness known to exist among all of the classical inbred strains (see 
+<A HREF="2-3.shtml#2.3.4">Section 2.3.4</A>).
+
+<P>Using RAPD as a method for detecting polymorphisms between B6 and DBA would appear to be rather inefficient &#151; on average, only one polymorphism was detected 
+among every five primer reactions that were run. A second negative factor is that all RAPD polymorphisms are binary &#043;/ - systems. Thus, as discussed above for 
+RFLPs, a polymorphism detected between one pair of strains may not translate into use for another pair of strains. Furthermore, it is not possible to distinguish 
+animals that are heterozygous at any locus from those that are homozygous for the &#034;&#043;&#034; allele. Thus, on average, only half of the RAPD polymorphisms 
+detected between two strains would be mappable among offspring from a backcross to one parent, and with an intercross mapping system, the RAPD approach is even 
+more limited (see 
+<A HREF="9-4.shtml#9.4.3">Section 9.4.3</A>).
+
+<P>Nevertheless, there are many features that speak to the utility of the RAPD approach. Foremost among these is the relative speed and ease with which results 
+can be obtained &#151; there is no need for blotting or radioactive hybridization, and a complete analysis from start to finish can be performed within a single 
+working day, unlike RFLP or minisatellite studies. Unlike all other PCR-based protocols, RAPD primers are not dependent on the results of costly cloning and 
+sequencing studies, and once they are obtained, the main cost per sample is the DNA polymerase used for PCR. Thus, even in comparisons of inbred strains, the 
+RAPD protocol may be more efficient in the long run relative to other techniques for generating random DNA markers. Additionally, cloning of RAPD fragments 
+can be rapidly accomplished after the simple recovery of ethidium bromide-detected bands. Cloned RAPD loci will have an advantage over minisatellites and 
+microsatellites in that RAPD loci need not, and most will not, contain repetitive sequences.
+
+<P>As is the case with traditional RFLP loci, the interspecies level of RAPD polymorphism is much greater than that observed among the traditional inbred strains. 
+The data of 
+<A HREF="../references.shtml#Serikawa1" TARGET="_top">Serikawa et al. (1992)</A> indicate a five-fold increase in the number of polymorphic bands observed in comparisons 
+between <i>M. spretus</i> and traditional laboratory strains; this increase parallels the known increase in genetic diversity. Thus, the RAPD technology will be 
+even more efficient for marker development in crosses that incorporate one parent that is not derived from one of the traditional inbred strains.
+
+<P>Like minisatellite analysis, the RAPD protocol can provide genomic fingerprints that simultaneously scan loci dispersed throughout the genome. In an analysis 
+of 32 representative inbred strains maintained at the Jackson Laboratory, 
+<A HREF="../references.shtml#Nadeau2" TARGET="_top">Nadeau and colleagues (1992)</A> defined 29 unique strain fingerprints with the use of only six primers. Thus, RAPD would appear 
+to provide an efficient and easy means by which to monitor the genetic purity of inbred lines on an ongoing basis.
+
+<P>Finally, it should be mentioned that while the RAPD protocol is a useful, and important, addition to the arsenal of tools available for genetic analysis of 
+the mouse, it is of vastly greater importance for genetic studies of other species, including both animals and plants, that are not well-characterized at the 
+DNA level. For these other species, the RAPD technology can provide a unique method for the rapid development of genetic markers and maps even before DNA 
+libraries and clones are available.
+
+<a name="8.3.5"></a><H3>8.3.5 Interspersed repetitive sequence PCR</H3>
+
+<P>The principle behind the RAPD approach is that oligonucleotides having essentially a random sequence will be present at random positions in the genome 
+(of the mouse and every other species) at a frequency that can be predetermined mathematically. Thus, by choosing oligonucleotides of an appropriate size 
+and by running PCR amplification reactions under the appropriate conditions, one can control the number of independent genomic fragments that are amplified 
+such that they can be optimally resolved by a chosen system of gel electrophoresis. Although useful for linkage analysis, the RAPD approach does not allow 
+the discrimination of mouse sequences from those of other species and, thus, it cannot be used as a means for recovering mouse genomic fragments from cells 
+that contain a defined portion of the mouse genome within the context of heterologous genetic background.
+
+<P>An alternative approach that, like RAPD, also allows the simultaneous PCR amplification of multiple genomic fragments is based on the natural occurrence of 
+highly repeated DNA elements that are dispersed throughout the genome. Three families of mouse repeat elements &#151; B1, B2, and L1 &#151; are each present in 
+approximately 100,000 copies (see 
+<A HREF="5-4.shtml">Section 5.4</A>). Amplification of these elements in and of themselves with repeat-specific primers would not be useful, first, because 
+their copy numbers are too great to be resolved by any available gel system and, second, because there would be no way of distinguishing most individual 
+elements from each other since most would be of the same consensus size. However, if instead one used a repeat-specific primer that &#034;faced-out&#034; from the 
+element, one would amplify only regions of DNA present between two elements that were sufficiently close to each and in the correct orientation to allow the 
+PCR reaction to proceed. The number of instances in which two elements would satisfy these conditions will be much lower than the total copy number since, 
+on average, these elements will be spaced apart at distances of approximately 30 kb
+<SUP><A HREF="notes.shtml#63" TARGET="_top">63</A></SUP> 
+and, for all practical purposes, PCR amplification does not occur over 
+distances greater than 1-2 kilobases. By working with (1) one or a combination of two or more primers together that (2) hybridize to whole families 
+or subsets of elements within a family, from (3) two ends of the same element or from different elements, one can adjust the number of PCR products that 
+will be generated to obtain the maximal number that can be resolved by a chosen system of gel electrophoresis 
+(<A HREF="../references.shtml#Herman2" TARGET="_top">Herman et al., 1992</A>).
+
+<P>This general protocol is referred to as <i>Interspersed Repetitive Sequence (IRS) PCR</i> (IRS-PCR). It was first developed for use with the highly repeated 
+<i>Alu</i> family of elements in the human genome 
+(<A HREF="../references.shtml#Nelson2" TARGET="_top">Nelson et al., 1989</A>), and was subsequently applied to the mouse genome 
+(<A HREF="../references.shtml#Cox2" TARGET="_top">Cox et al., 1991</A>). Cox and co-workers used individual primers representing each of the major classes of highly dispersed 
+repetitive elements &#151; B1, B2 and L1 &#151; to amplify genomic fragments from inbred B6 mice (<i>M. musculus</i>) and <i>M. spretus</i>. Although the IRS-PCR 
+patterns obtained upon agarose gel electrophoresis were extremely complex, it was possible to see clear evidence of species specificity. To simplify the 
+patterns, these workers blotted and sequentially hybridized the IRS-PCR products to simple sequence oligonucleotides (12-mers containing three tandem 
+copies of a tetramer) present frequently in the genome but only, by chance, in a subset of the amplified inter-repeat regions. The simplified patterns 
+obtained allowed the identification and mapping of 13 new polymorphic loci.
+
+<P>Clearly, the utility of IRS-PCR as a general mapping tool is no greater than that of the RAPD technique or any other protocol that allows the random 
+amplification of PCR fragments from around the genome. However, the real power of IRS-PCR is not in general mapping but in the identification and recovery 
+of mouse-specific sequences from cell hybrids as discussed in 
+<A HREF="8-4.shtml">Section 8.4</A>.
+
+<a name="8.3.6"></a><H3>8.3.6 Microsatellites: Simple Sequence Length Polymorphisms</H3>
+
+<a name="8.3.6.1"></a><H3><I>8.3.6.1 The magic bullet has arrived</I></H3>
+
+<P>Although the ability to identify and type simple basepair substitutions changed the face of genetics, it has not been a panacea. Finding RFLPs within a 
+cloned region is often not easy; when they are found, their polymorphic content is often limited and di-allelic; finally, typing large numbers of RFLP loci 
+by Southern blot analysis is relatively labor-intensive. Non-RFLP base changes can also be difficult to find, although this task has become easier with the 
+development of the SSCP protocol. However, most SSCPs still show a limited polymorphic content with just two distinguishable alleles. Minisatellites are much 
+more polymorphic than loci defined by nucleotide substitutions and minisatellite probes often allow one to simultaneously type multiple loci dispersed 
+throughout the genome. However, minisatellite elements as a class have no unique sequence characteristics and are recognized only by the Southern blot 
+patterns they produce when they are used as probes. The number of minisatellite loci uncovered to date numbers less than 1,000. Thus, in general, minisatellites 
+cannot provide specific handles for typing newly cloned genes or genomic regions. Other methods of multi-locus analysis described previously suffer from the 
+same limitations.
+
+<P>In the next chapter, it will be seen that one very important use of DNA markers is not to follow particular genes of interest in a segregation analysis, 
+but rather to provide &#034;anchors&#034; that are spaced at uniform distances along each chromosome in the genome. Together, these anchor loci can be used to establish 
+&#034;framework maps&#034; for new crosses which, in turn, can be used to rapidly map any new locus or mutation that is of real interest. If the number of anchors is 
+sufficient, it will only take a single cross to provide a map position for the new locus. There is no need for anchor loci to represent actual genes. Their 
+only purpose is to mark particular points along the DNA molecule in each of the chromosomes in a genome.
+
+<P>There are three criteria that define perfect 
+<A HREF="../glossary.shtml#Anchor_locus" TARGET="_top">anchor loci</A>. First, they should be extremely polymorphic so that there is good chance that any two chromosome 
+homologs in a species will carry different alleles. Second, they should be easy to identify so that one can develop an appropriate set of anchors for the 
+analysis of any complex species that a geneticist wishes to study. Finally, they should be easy to type rapidly in large numbers of individuals.
+ 
+<P>Now with the dawn of the 1990s has come what may indeed be the magic bullet that geneticists (who study the mouse as well as all other mammals) have been 
+waiting for &#151; a genomic element with unusually high polymorphic content, that is present at high density throughout all mammalian genomes examined, is easily 
+uncovered and quickly typed: the microsatellite. A microsatellite &#151; also known as a simple sequence repeat (or SSR) &#151; is a genomic element that consists of a 
+mono-, di-, tri- or tetrameric sequence repeated multiple times in a tandem array.
+
+<P>Unlike other families of dispersed cross-hybridizing elements &#151; such as B1, B2, and L1 &#151; in which individual loci are derived by retrotransposition from 
+common ancestral sequences (see 
+<A HREF="5-4.shtml">Section 5.4</A>), individual microsatellite loci are almost certainly derived <i>de novo</i>, through 
+the chance occurrence of short simple sequence repeats that provide a template for unequal crossover events (as illustrated in 
+<a href="javascript:windowf84 = window.open('../figures/figure8-4.shtml', 'windowf84', 'width=700,height=370,resizable=yes,scrollbars=yes'); windowf84.focus()">Figure 8.4</A>) 
+that can lead to an increase in the number of repeats through stochastic processes. In general, microsatellite loci 
+are not conserved across distant species lines, for example, from mice to humans, and it seems unlikely that these elements &#151; which are practically devoid in 
+information content &#151; have any functionality either to the benefit of the host genome
+<SUP><A HREF="notes.shtml#64" TARGET="_top">64</A></SUP> 
+or in and of themselves. Microsatellites do not appear to be selfish 
+elements (discussed in 
+<A HREF="5-4.shtml">Section 5.4</A>). Rather, microsatellites, like minisatellites, are simply genomic quirks that result from errors in recombination or replication.
+
+<P>Microsatellites containing all nucleotide combinations have been identified. However, the class found most often in the mouse genome contains a 
+(CA)<SUB><I>n</I></SUB>&#149;(GT)<SUB><I>n</I></SUB> 
+dimer, and is often referred to as a CA repeat. The existence of CA repeats, their presence at high copy number, and their dispersion throughout the genomes of a 
+variety of higher eukaryotic species was first demonstrated a decade ago by several different laboratories 
+(<A HREF="../references.shtml#Miesfeld1" TARGET="_top">Miesfeld et al., 1981</A>; 
+<A HREF="../references.shtml#Hamada1" TARGET="_top">Hamada et al., 1982</A>; 
+<A HREF="../references.shtml#Jeang1" TARGET="_top">Jeang and Hayward, 1983</A>). Although independent examples of CA-repeat polymorphisms surfaced over the following decade, 
+it was not until 1989 that three groups working independently uncovered sufficient evidence to suggest that microsatellites as a class were intrinsically 
+extremely polymorphic 
+(<A HREF="../references.shtml#Pickford1" TARGET="_top">Pickford, 1989</A>; 
+<A HREF="../references.shtml#Weber2" TARGET="_top">Weber and May, 1989</A>; 
+<A HREF="../references.shtml#Pedersen1" TARGET="_top">Pedersen et al., 1993</A>). 
+Further systematic studies have confirmed the high level of polymorphism associated with many 
+microsatellite loci in all higher eukaryotes that have been looked at.
+
+<a name="8.3.6.2"></a><H3><I>8.3.6.2 Typing by PCR</I></H3>
+
+<P>Without PCR, most microsatellites would be useless as genetic markers. Allelic variation
+<SUP><A HREF="notes.shtml#65" TARGET="_top">65</A></SUP> 
+is based entirely on differences in the number of repeats present 
+in a tandem array rather than specific basepair changes. Thus, the only way in which alleles can be distinguished is by measuring the total length of the 
+microsatellite. This is most readily accomplished through PCR amplification of the microsatellite itself along with a small amount of defined flanking 
+sequence on each side followed by gel electrophoresis to determine the relative size of the product as illustrated in 
+<a href="javascript:windowf810 = window.open('../figures/figure8.10.shtml', 'windowf810', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowf810.focus()">Figure 8.10</A>.
+
+<P>Microsatellite loci can be identified in two ways &#151; by searching through DNA sequence databases or by hybridization to libraries or clones with an 
+appropriate oligonucleotide such as (CA)<SUB>15</SUB>. In the former case, flanking sequence information is obtained directly from the database. In the latter case, 
+it is first necessary to sequence across the repeat region to derive flanking sequence information. A unique oligonucleotide on each side of the repeat is 
+chosen for the production of a primer according to the criteria described in the front of 
+<A HREF="8-3.shtml">Section 8.3</A>. It is best to choose two primers that are as close to 
+the repeat sequence as possible &#151; the smaller the PCR product, the easier it is to detect any absolute difference in size. 
+Variations in the length of PCR products can be detected by separation on NuSieve&#153; agarose (FMC Corp.) gels 
+(<A HREF="../references.shtml#Love1" TARGET="_top">Love et al., 1990</A>; 
+<A HREF="../references.shtml#Cornall1" TARGET="_top">Cornall et al., 1991</A>) or polyacrylamide gels 
+(<A HREF="../references.shtml#Weber2" TARGET="_top">Weber and May, 1989</A>; 
+<A HREF="../references.shtml#Love1" TARGET="_top">Love et al., 1990</A>). Agarose gels are easier to handle, but polyacrylamide gels provide higher resolution. When alleles 
+are difficult to resolve with native gels, it is often possible to improve the level of resolution by running denaturing gels. Bands are detected by ethidium 
+bromide or silver staining of gels or by autoradiography of PCR products formed with labeled primers.
+
+<P>An even higher level of cost efficiency can be achieved by combining two or more loci for simultaneous analysis through multiplex PCR. Samples can be 
+combined before the PCR reaction &#151; if the different primer pairs have been shown not to cause combinatorial artifacts &#151; or after the PCR reaction but 
+before the gel run. In all cases, the entire process is amenable to automation.
+
+<a name="8.3.6.3"></a><H3><I>8.3.6.3 Classification and frequency of microsatellites</I></H3>
+
+<P>Microsatellites can be classified first according to the number of nucleotides in the repeat unit. Mononucleotide and dinucleotide repeat elements are 
+quite common; with each subsequent increment in nucleotide length &#151; from trinucleotide to tetranucleotide to pentanucleotide &#151; the frequency of occurrence 
+drops quickly. <i>Perfect</i> microsatellites are those that contain a single uninterrupted repeat element flanked on both sides by non-repeated sequences 
+(<A HREF="../references.shtml#Weber1" TARGET="_top">Weber, 1990</A>). A large proportion of microsatellite loci are <i>imperfect</i> with two or more runs of the same repeat 
+unit interrupted by short stretches of other sequences. The polymorphic properties of imperfect microsatellites are determined by the longest stretch of 
+perfect repeat within the locus. Not infrequently, microsatellites are of an <i>imperfect</i> and <i>compound</i> nature, with a mingling of two or more 
+distinct runs of different repeat units.
+
+<P>The most common microsatellites in the mouse genome are members of the dinucleotide class. With complementarity and frame-shift symmetry, there are only four 
+unrelated types of dinucleotide repeats that can be formed:<UL> 
+<LI>(CA)<SUB><I>n</I></SUB>&#149;(GT)<SUB><I>n</I></SUB> 
+<LI>(GA)<SUB><I>n</I></SUB>&#149;(CT)<SUB><I>n</I></SUB>
+<LI>(CG)<SUB><I>n</I></SUB>&#149;(GC)<SUB><I>n</I></SUB>
+<LI>(TA)<SUB><I>n</I></SUB>&#149;(AT)<SUB><I>n</I></SUB>
+</UL>
+Of these four, two are not useful as microsatellite markers for different reasons: 
+(CG)<SUB><I>n</I></SUB>&#149;(GC)<SUB><I>n</I></SUB> is present only infrequently within all mammalian genome (as discussed in 
+Sections 
+<A HREF="8-2.shtml#8.2.2">8.2.2</A> and 
+<A HREF="10-3.shtml#10.3.4.4">10.3.4.4</A>), and long 
+(TA)<SUB><I>n</I></SUB>&#149;(AT)<SUB><I>n</I></SUB> 
+stretches do not allow for stable hybrid formation at the temperature normally used for PCR strand elongation.
+<SUP><A HREF="notes.shtml#66" TARGET="_top">66</A></SUP>
+Of the remaining two classes, CA repeats are found most often in the mouse genome. Furthermore, although CA repeats have been found in all 
+eukaryotes examined, they are absent from prokaryotes. This fact greatly simplifies the task of screening for their presence in traditional <i>E. coli</i>-based 
+libraries.
+
+<P>Based on a quantitative dot blot analysis, 
+Hamada and his colleagues 
+(<A HREF="../references.shtml#Hamada1" TARGET="_top">1982a</A>, 
+<A HREF="../references.shtml#Hamada2" TARGET="_top">1982b</A>) estimated the number of CA repeat loci in the mouse genome at &#126;100,000, equivalent to an 
+average of one locus every 30 kb. Another estimate of CA-repeat copy number was obtained by scanning 287 kb of mouse genomic sequences entered in GenBank for 
+(CA)<SUB><I>n</I></SUB> where <I>n</I> was six or greater 
+(<A HREF="../references.shtml#Stallings1" TARGET="_top">Stallings et al., 1991</A>). This analysis found CA-repeats once every 18 kb on 
+average. The difference between these two estimates can be accounted for entirely by sequences having only 6-9 repeats, which are too short to be detected 
+by the hybridization-based dot blot analysis 
+(<A HREF="../references.shtml#Weber1" TARGET="_top">Weber, 1990</A>).
+
+<P>The second most frequent microsatellite class in the mouse genome is the GA repeat, which occurs at a frequency of approximately half that observed for CA repeats 
+(<A HREF="../references.shtml#Cornall1" TARGET="_top">Cornall et al., 1991</A>). GA-repeat loci are just as likely to be polymorphic as CA-repeat loci. Thus by screening for both 
+simultaneously, one can increase the chances of finding a useful microsatellite by 50%.
+
+<P>The mononucleotide repeat poly(A&#149;T) is found in the mouse genome at a frequency similar to, if not greater than, the CA repeats. However, it is often 
+contained within the highly dispersed B1, B2, and L1 repeats, which are themselves present in &#126;100,000 copies per haploid genome. Thus, random screens for 
+poly(A&#149;T) tracts will frequently land investigators in these more extensive repetitive regions where it will be difficult to derive locus-specific primer 
+pairs for PCR analysis. Nevertheless, if one is aware of this pitfall, it becomes possible to use computer programs to assist one in this task, and it is often 
+possible to type microsatellite-containing B1 (or B2 or L1) elements 
+(<A HREF="../references.shtml#Aitman1" TARGET="_top">Aitman et al., 1991</A>). Mononucleotide repeats, both within and apart from the more complex repeat elements, are just as likely 
+to be polymorphic as dinucleotide repeats 
+(<A HREF="../references.shtml#Aitman1" TARGET="_top">Aitman et al., 1991</A>). However, a second potential pitfall with long poly(A&#149;T) 
+tracts is that, as is the case with long 
+(TA)<SUB><I>n</I></SUB>&#149;(AT)<SUB><I>n</I></SUB> dinucleotide tracts, there is a reduced melting temperature which necessitates the use of PCR elongation 
+steps under conditions of reduced specificity, leading to an increased incidence of artifactual products. As a consequence of these pitfalls, poly(A&#149;T) tracts 
+have been used much less frequently as a source of polymorphic microsatellite markers. The microsatellite poly(C&#149;G) is not associated with either of these 
+pitfalls, but it is much less frequently observed &#151; by an order of magnitude &#151; in the mouse genome 
+(<A HREF="../references.shtml#Aitman1" TARGET="_top">Aitman et al., 1991</A>).
+
+<P>Tri- and tetranucleotide repeat unit microsatellites are also present in the genome, but at a frequency ten-fold below that of the dinucleotide 
+(CA)<SUB><I>n</I></SUB> and (GA)<SUB><I>n</I></SUB> loci 
+(<A HREF="../references.shtml#Hearne1" TARGET="_top">Hearne et al., 1992</A>).
+<SUP><A HREF="notes.shtml#67" TARGET="_top">67</A></SUP> 
+As such, they will be represented much less often in genomic libraries and individual clones. 
+However, once uncovered, these higher-order microsatellites are much better to work with than the dinucleotide loci. The level of polymorphism observed with the 
+tri- and tetranucleotide loci appears similar to that observed with CA and GA repeats, but alleles are much more readily resolved with 3-4 bp mobility shifts for 
+each repeat unit difference. Furthermore, ladders of artifactual PCR products commonly seen with dinucleotide repeats do not appear as often or as intensely with 
+higher-order repeat unit loci 
+(<A HREF="../references.shtml#Hearne1" TARGET="_top">Hearne et al., 1992</A>).
+
+<a name="8.3.6.4"></a><H3><I>8.3.6.4 Polymorphism levels and mutation rates</I></H3>
+
+<P>As is the case with minisatellite loci, the generation of new microsatellite alleles is not due to classical mechanisms of mutagenesis. Rather, the number of 
+tandem repeats is altered as a consequence of mispairing, or slippage, during recombination or replication within the tandem repeat sequence. As illustrated in 
+<a href="javascript:windowf84 = window.open('../figures/figure8-4.shtml', 'windowf84', 'width=700,height=370,resizable=yes,scrollbars=yes'); windowf84.focus()">Figure 8.4</A>, 
+events of this type will create new alleles by expanding or contracting the size of the locus. The frequency with which 
+these events occur is a function of the number of repeats in the locus with a sigmoidal distribution. CA-microsatellites with 10 or fewer repeat units are unlikely 
+to show polymorphism; with 11 to 14 repeat units, there is an intermediate, and climbing, probability of detecting polymorphism; with 15 repeat units or more, 
+there is a maximal probability of detecting polymorphism 
+(<A HREF="../references.shtml#Weber1" TARGET="_top">Weber, 1990</A>; 
+<A HREF="../references.shtml#Dietrich1" TARGET="_top">Dietrich et al., 1992</A>). Thus, to maximize the probability of detecting polymorphism, one should focus analyses on CA-repeat 
+loci having <i>n</i> &#062;&#061; 15. Hybridization screens can be set up to accomplish this task by probing blots with a (CA)<SUB><I>15</I></SUB> 
+oligonucleotide under high stringency conditions of 65&#176;C with 0.1 X SSC 
+(<A HREF="../references.shtml#Dietrich1" TARGET="_top">Dietrich et al., 1992</A>).
+
+<P>A large number of laboratories have now reported the results of investigations into the frequencies at which microsatellite polymorphisms are detected in 
+comparisons of two or more inbred strains or mouse species. The actual results would be expected to vary depending on the method used to recover microsatellites 
+(because this will determine the lower boundary for repeat number) and the method used to type the PCR products (because agarose gels are less resolving than 
+polyacrylamide gels). In an analysis of over 300 CA-repeat microsatellites that are predominantly of the <i>n</i> &#062;&#061; 15 class, an average polymorphism rate 
+of approximately 50% was observed in pairwise comparisons among nine classical <i>M. musculus</i> inbred strains; the lowest level of polymorphism observed was 
+35% between DBA/2J and C3H/HeJ, and the highest was 57% between B6 and LP/J 
+(<A HREF="../references.shtml#Dietrich1" TARGET="_top">Dietrich et al., 1992</A>). Not unexpectedly, even higher levels of polymorphism were observed in pairwise comparisons between 
+classical inbred strains and other <i>Mus</i> species or subspecies. The rate of polymorphism between B6 and <i>M. m. castaneus</i> was 77%, and between B6 and 
+<i>M. spretus</i>, it was &#126;90% 
+(<A HREF="../references.shtml#Love1" TARGET="_top">Love et al., 1990</A>; 
+<A HREF="../references.shtml#Dietrich1" TARGET="_top">Dietrich et al., 1992</A>). For a small but significant number of loci, the primers designed to amplify an inbred strain locus 
+failed to amplify an allelic product from the <i>M. spretus</i> genome 
+(<A HREF="../references.shtml#Love1" TARGET="_top">Love et al., 1990</A>); this is almost certainly due to an 
+interspecific polymorphism in a target sequence recognized by one of the flanking primers.
+
+<P>A number of investigators have attempted to measure the rate at which new microsatellite alleles are created. This can be readily accomplished in the mouse 
+where the relationships among a large number of different inbred strains have been well documented and it is possible to count the generations that separate 
+various strains from each other 
+(<A HREF="../references.shtml#Bailey2" TARGET="_top">Bailey, 1978</A>). The results of these studies indicate that the rate of <i>mutation</i> is highly variable &#151; over at least 
+an order of magnitude. This variability could be a consequence of genomic position effects, but the mechanism of allele generation must be clarified before one 
+can say for sure. In the most comprehensive analysis to date, 
+<A HREF="../references.shtml#Dietrich1" TARGET="_top">Dietrich and colleagues (1992)</A> analyzed the average rate of mutation at 300 loci within the BXD set of recombinant inbred strains. The average 
+mutation rate was calculated at one in 22,000 per locus per generation, which is 5-50-fold greater than that normally attributed to mutagenesis at classical 
+loci. This average microsatellite &#034;mutation&#034; rate is high enough to allow the generation of a large amount of polymorphism among individuals within a species, 
+but low enough to allow one to accurately follow the segregation of two or more alleles from one generation to the next within a typical genetic cross.
+
+<a name="8.3.6.5"></a><H3><I>8.3.6.5 The awesome power of microsatellites</I></H3>
+
+<P>The high level of polymorphism associated with microsatellites (as a class) represents just one component of their rapid rise to become the &#034;genetic tool of choice&#034; 
+for mappers working with all animal species. Their uniqueness and power also lies within the ease with which they can be uncovered, the ease with which they can be 
+typed, and the ease with which they can be disseminated. To develop a panel of microsatellite loci for analysis of the mouse genome, Todd and his colleagues simply 
+searched through the EMBL and GenBank databases for entries that contained 
+(CA)<SUB>10</SUB>, (GA)<SUB>10</SUB>, or their complements 
+(<A HREF="../references.shtml#Love1" TARGET="_top">Love et al., 1990</A>). To increase the size of this panel for higher resolution mapping analysis, genomic libraries constructed to 
+contain short inserts were screened with CA-repeat probes, and positive clones were isolated and sequenced 
+(<A HREF="../references.shtml#Cornall1" TARGET="_top">Cornall et al., 1991</A>; 
+<A HREF="../references.shtml#Dietrich1" TARGET="_top">Dietrich et al., 1992</A>).
+
+<P>Using a combined panel of 317 microsatellite loci, the Whitehead/MIT Genome Center developed a first-generation whole mouse genome linkage map with an average 
+spacing of 4.3 cM 
+(<A HREF="../references.shtml#Dietrich1" TARGET="_top">Dietrich et al., 1992</A>). With the publication of the oligonucleotide sequences that define and allow the 
+typing of each locus, the markers became available to everyone in a democratic fashion. As of January, 1994, the Whitehead group had defined and mapped over 3,000 
+microsatellite loci.
+<SUP><A HREF="notes.shtml#68" TARGET="_top">68</A></SUP>
+Up to date mapping, strain distribution, and sequence information on all of these loci can be obtained electronically as described in 
+<A HREF="b.shtml">Appendix B</A>. Furthermore, the commercial concern Research Genetics Inc. has made life even easier for the mouse genetics community by offering 
+each primer pair in this panel at a greatly reduced cost relative to custom DNA synthesis.
+
+<P>Since microsatellite typing is PCR based, and there is usually no need for blotting or probing, results can be obtained rapidly with a minimal expenditure of 
+often precious material and always precious man- and woman-hours. 
+<A HREF="../references.shtml#Dietrich1" TARGET="_top">Dietrich and colleagues (1992)</A> reported that two scientists can &#034;genotype new crosses for the entire genome in a few weeks per 
+cross&#034; which represents an order of magnitude improvement over RFLP-based approaches.
+
+<P>Microsatellites can serve not only as tags for anonymous loci but for functional genes as well. 
+<A HREF="../references.shtml#Stallings1" TARGET="_top">Stallings and his colleagues (1991)</A> found that 78% of the clones from a mouse cosmid library have CA repeats. If one also 
+searched for GA repeats, the percentage of microsatellite-positive cosmid clones would be even greater. An even higher probability of identifying microsatellite loci &#151; 
+close to 100% &#151; can be achieved with clones recovered from larger insert libraries constructed with yeast artificial chromosomes (YACs) or special prokaryotic vectors (see 
+<A HREF="10-3.shtml#10.3.3">Section 10.3.3</A>). Small fragments that contain the microsatellite can be subcloned and sequenced to identify a unique set of 
+flanking primers for genetic analysis. Microsatellites can truly be viewed as universal genetic mapping reagents.
+
+<P>During the 1980s, the difficulties encountered in the search for RFLPs among the classical inbred strains led to the emergence of the interspecific cross &#151; 
+between a <i>M. musculus</i>-derived inbred strain and <i>M. spretus</i> &#151; which became a critical tool for the development of the first high-resolution DNA-locus-based 
+maps of the mouse genome 
+(<A HREF="../references.shtml#Avner2" TARGET="_top">Avner et al., 1988</A>; 
+<A HREF="../references.shtml#Copeland1" TARGET="_top">Copeland and Jenkins, 1991</A> and 
+<A HREF="9-3.shtml">Section 9.3</A>). Interspecific backcross panels still represent a 
+powerful tool for mapping newly characterized DNA clones. However, with microsatellites, it is now possible to go back to classical crosses among <i>M. musculus</i> 
+strains to map interesting phenotypic variants as discussed in 
+<A HREF="9-4.shtml">Section 9.4</A>.
+
+<DIV Align="center"><H4> <A HREF="8-2.shtml">Previous</A> <A HREF="8-4.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

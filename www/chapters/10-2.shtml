@@ -1,0 +1,242 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>10.2 CHROMOSOMAL MAPPING TOOLS</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="10-1.shtml">Previous</A> <A HREF="10-3.shtml">Next</A></H4></DIV>
+
+<a name="10.2"></a><H2>10.2 CHROMOSOMAL MAPPING TOOLS</H2>
+
+<a name="10.2.1"></a><H3>10.2.1 Conservation of synteny</H3>
+
+<P>As cloning and mapping of both the mouse and human genomes began in earnest during the 1980s, two important evolutionary facts became clear. 
+First, nearly all human genes have homologs in the mouse and vice versa. Second, not only are the genes themselves conserved, but so is their order &#151; 
+to a certain extent &#151; along the chromosome. In 1984, Nadeau and Taylor used linkage data obtained from 83 loci that had been mapped in both species 
+to estimate the average length of conserved autosomal segments as 8.2 cM in the mouse 
+(<A HREF="../references.shtml#Nadeau1" TARGET="_top">Nadeau, 1984</A>). In 1993, the same analysis was performed on linkage data obtained from 917 homologous loci mapped 
+in both species to yield an average conserved chromosomal length of 8.8 cM which is not significantly different from the earlier estimate.
+<SUP><A HREF="notes.shtml#104" TARGET="_top">104</A></SUP>
+The major evolutionary implication of this result is that approximately 150 major rearrangements have occurred along the human or mouse lines as they diverged 
+from a common ancestor that existed 65 million years ago.
+
+<P>The practical implication of conserved chromosomal segments is that the mapping of a gene in one species can provide a clue to the location of its 
+homolog in the other species. One should be cautious, however, in not overinterpreting synteny information. There are many examples of smaller genomic 
+segments that have popped out or into larger syntenic regions. Thus, even if a human gene maps between two human loci with demonstrated synteny in the 
+mouse as well, there is still a small chance that it will have moved to another location in the mouse genome. Nevertheless, over 80% of the autosomal 
+genomes of mice and humans have now been matched up at the subchromosomal level 
+(<A HREF="../references.shtml#Copeland2" TARGET="_top">Copeland et al., 1993</A>). Thus, with map information for a gene in humans, it will often be possible to identify 
+a corresponding mouse chromosomal segment of &#126;10 cM in length as a likely location to test first for linkage with nearby DNA markers.
+
+<a name="10.2.2"></a><H3>10.2.2 <i>In situ</i> hybridization</H3>
+
+<a name="10.2.2.1"></a><H3><I>10.2.2.1 Overview</I></H3>
+
+<P>The technique of <i>in situ</i> hybridization was conceived of by 
+<A HREF="../references.shtml#Gall1" TARGET="_top">Gall and Pardue (1969)</A> and 
+<A HREF="../references.shtml#John1" TARGET="_top">John and his colleagues (1969)</A>. 
+These workers demonstrated that the DNA within preparations of chromosomes attached to microscope slides could be denatured in a gentle manner so as not 
+to disrupt the overall morphology of the chromosomes themselves. Target sequences within these chromosomes are then available for hybridization to labeled 
+nucleic acid probes. Thus, <i>in situ</i> hybridization allows the mapping of cloned DNA sequences to specific chromosomal sites that can be visualized directly by light microscopy.
+
+<P>In early work, probes were labeled with radioactive isotopes and target sequences were identified by autoradiography. This method of labeling and 
+detection limited both the sensitivity of the technique and its resolution 
+(<A HREF="../references.shtml#Lawrence1" TARGET="_top">Lawrence, 1990</A>). In particular, the original protocol only allowed the detection of tandemly repeated sequences 
+such as the ribosomal genes and satellite DNA. By 1981, however, investigators had optimized the <i>in situ</i> protocol for use in mapping single copy 
+mammalian sequences 
+(<A HREF="../references.shtml#Harper1" TARGET="_top">Harper et al., 1981</A>), and in 1984, an improved method was developed for better resolution of chromosome banding patterns 
+(<A HREF="../references.shtml#Cannizzarro1" TARGET="_top">Cannizzarro and Emanuel, 1984</A>). Nevertheless, the technique was still not ideal because with single-copy radioactive probes, 
+localization could not be determined within the chromosomes of a single cell; instead, it was necessary to perform a statistical analysis of silver grain 
+distributions in 50-100 sets of metaphase chromosomes.
+
+<P>Two critical changes in the protocol now allow the detection of single-copy sequences and their high-resolution mapping through the direct observation 
+of single chromosomes. The first change was in the nature of the label; with the substitution of fluorescent tags for radioactive ones, the physical 
+resolution of the hybridization site was dramatically improved. The modified <i>in situ</i> protocol that utilizes fluorescent tags is referred to as FISH 
+(for fluorescent <i>in situ</i> hybridization). The second change was in the nature of the hybridization cocktail. With the inclusion of a large excess of 
+unlabeled total genomic DNA, it is possible to block dispersed repetitive sequences &#151; present in essentially every genomic region larger than a few kilobases 
+in length &#151; from hybridization to their targets throughout the genome. This allows the use of whole-phage or cosmid clones as probes leading to a substantial 
+increase in signal strength which will be proportional to the length of single-copy DNA in the clone. With these major changes in the protocol and other 
+optimizations, it is now possible to use <i>in situ</i> hybridization to visualize the map position of any cloned locus within single chromosomes from any mammalian species 
+(<A HREF="../references.shtml#Lawrence1" TARGET="_top">Lawrence, 1990</A>; 
+<A HREF="../references.shtml#Trask1" TARGET="_top">Trask, 1991</A>).
+
+<P>Although <i>in situ</i> hybridization has played a pivotal role in the construction of the human gene map, its role in mouse gene mapping has been more 
+limited for several reasons. First, a certain amount of specialized training and experience is required to perform this protocol, and thus, it is often not 
+an option for independent investigators in the absence of a collaboration. Second, in humans, classical linkage analysis is not easily performed, and thus, 
+alternative methods for human mapping are much more important. Third, whereas the human karyotype is highly amenable to direct cytogenetic analysis &#151; 
+chromosomes come in a variety of shapes and sizes and staining techniques yield excellent banding resolution &#151; the mouse karyotype is a cytologist's nightmare. 
+All 20 chromosomes have the same shape with only a single visible arm and a centromere that appears to lie at one end (see 
+<a href="javascript:windowf51 = window.open('../figures/figure5-1.shtml', 'windowf51', 'width=450,height=500,resizable=yes,scrollbars=yes'); windowf51.focus()">Figure 5.1</A>). 
+A continuum of chromosome lengths makes the identification of individual chromosomes more difficult, and finally, banding 
+patterns are much less distinct and more difficult to resolve.
+
+<P>In the past, <i>in situ</i> hybridization had the advantage that it did not require the existence of variants between parental strains for mapping to be 
+accomplished. However, with the advent of new methods for the detection of polymorphism discussed in 
+<A HREF="8-1.shtml">Chapter 8</A>, it has become possible to quickly identify DNA variants at essentially all cloned loci. Consequently, <i>in situ</i> hybridization 
+is now used most often only for specific experimental problems such as those that described below.
+
+<a name="10.2.2.2"></a><H3><I>10.2.2.2 Experimental usage</I></H3>
+
+<P>The power of <i>in situ</i> hybridization lies in the fact that it allows the direct localization of DNA sequences relative to all visible cytological landmarks 
+such as centromeres, telomeres, and rearrangement breakpoints in aberrant chromosomes. In some instances, it will be important to localize a DNA marker relative to 
+one or more of these landmarks. For example, an investigator may have a DNA marker that maps to the beginning or end of a linkage map associated with a particular 
+chromosome. <i>In situ</i> hybridization can be used to determine how close to the centromere or telomere the DNA marker actually is (in physical terms); this information 
+can serve to establish the size of the chromosomal region that is not contained within the associated linkage map. In another example, an investigator may have a DNA clone, 
+from either a wild-type or mutant animal, that is believed to extend across a cytologically visible inversion or translocation breakpoint. If the clone was derived from a 
+wild-type genome, the <i>in situ</i> results would show hybridization to two sites in the rearranged karyotype.
+
+<P>As discussed in 
+<A HREF="7-3.shtml#7.3.2">Section 7.3.2</A>, <i>in situ</i> hybridization is also useful in the special case of mapping transgene insertion sites. The 
+same DNA construct that was originally injected into the embryo can often be used directly as a probe. In another instance, <i>in situ</i> hybridization can be combined 
+with classical linkage analysis using the <i>M. spretus</i> backcross system to follow the segregation of centromeres from one parental chromosome or the other as described in 
+<A HREF="9-1.shtml#9.1.2">Section 9.1.2</A> 
+(<A HREF="../references.shtml#Matsuda1" TARGET="_top">Matsuda and Chapman, 1991</A>; 
+<A HREF="../references.shtml#Matsuda2" TARGET="_top">Matsuda et al., 1993</A>). Finally, <i>in situ</i> hybridization is useful in experiments aimed at questions that go beyond the simple 
+mapping of genes. For example, the technology has revealed the unexpected finding that both LINE and SINE sequences are non-randomly distributed among bands and interband 
+regions of all chromosomes as described in 
+<A HREF="5-4.shtml#5.4.4">Section 5.4.4</A>.
+
+<a name="10.2.3"></a><H3>10.2.3 Somatic cell hybrid genetics</H3>
+
+<a name="10.2.3.1"></a><H3><I>10.2.3.1 Overview of the classical approach</I></H3>
+
+<P>The ability to derive long-term cultures of mammalian cells was perfected during the 1950s. Cell cultures provided important experimental material for early biochemists 
+and molecular biologists interested in molecules and processes that occur within mammalian cells, but they were of little use to geneticists since somatic cell genomes remain 
+essentially unchanged during continual renewal through mitotic division. This situation changed dramatically during the early 1960s when investigators discovered and developed 
+methods for the induction of cell fusion in culture 
+(<A HREF="../references.shtml#Ephrussi1" TARGET="_top">Ephrussi and Weiss, 1969</A>).
+
+<P>Normal diploid cells from all species of mammals carry approximately the same amount of DNA in their nucleus (twice the haploid amount of 3,000 mb). Thus, after fusion 
+between any two mammalian cells, the hybrid cell nucleus becomes, in effect, tetraploid, with a genome that is twice the normal size. The enlarged genomes of hybrid cells 
+are inherently unstable. Presumably, the increased requirement for DNA replication acts to slow down the rate of cell division, and as a consequence, cells that lose 
+chromosomes during mitotic segregation will divide more quickly and outgrow those cells that maintain a larger genome content. Eventually, after many events of this type, 
+cells can reach a relatively stable genome size that is close to that normally found in diploid mammalian cells. For reasons that are not understood, hybrids formed 
+between particular combinations of species will preferentially eliminate chromosomes from just one of the parental lines. In hybrids formed between mouse cells and either 
+hamster or human cells, mouse chromosomes will be eliminated in a relatively random manner. This process has allowed the derivation and characterization of a number of 
+somatic cell hybrid lines that stably maintain only one or a few mouse chromosomes.
+
+<P>The field of somatic cell genetics had its heyday in the 1970s and early 1980s when it provided the predominant methodology for mapping loci &#151; albeit, often to the 
+resolution of whole chromosomes. The major tools for gene detection in this era (before the recombinant DNA revolution was in full gear) were species-specific assays for 
+various housekeeping enzymes. Somatic cell geneticists could type each member of a panel of hybrid cells for the presence of a particular enzyme and then use karyotypic 
+analysis to demonstrate concordance with a particular chromosome. In a strictly formal sense, this type of analysis is analogous to classical two-locus linkage studies 
+studies with one marker being the enzymatic activity and the other marker being the particular chromosome that contains the gene encoding the enzyme.
+
+<P>The somatic cell hybrid approach has always been more important to human geneticists than to mouse geneticists. This is because well-established somatic cell hybrid 
+lines with one or a few mouse chromosomes are relatively rare compared to the large number of well-characterized hybrid lines with individual human chromosomes. There 
+are several reasons for this state of affairs. First, the power of mouse linkage mapping has always been so great that somatic cell hybrid lines were never considered 
+to be essential tools. Second, most mouse/hamster hybrid lines are chromosomally unstable and must be recharacterized each time they are grown in culture. With the 
+difficulty of performing karyotypic analysis on mouse chromosomes, most investigators have shied away from this approach in the past. However, with alternative PCR-based 
+methods for characterizing the chromosomal content of hybrids 
+(<A HREF="../references.shtml#Abbott1" TARGET="_top">Abbott, 1992</A>), this problem may have been overcome so that the derivation 
+of new hybrids for special situations may no longer be as formidable as it once was.
+
+<P>The use of somatic cell hybrid panels as a general approach to gene mapping has now been superseded by <i>in situ</i> hybridization &#151; which resolves map positions to 
+chromosome bands rather than whole chromosomes &#151; and, of course, classical linkage analysis. However, there are two special cases where somatic cell hybrid lines can 
+provide unique tools for mouse geneticists. First, their DNA can be used as a source of material for the rapid derivation of panels of DNA markers to saturate particular 
+chromosomes or subchromosomal regions as described in 
+<A HREF="8-4.shtml#8.4.4">Section 8.4.4</A> 
+(<A HREF="../references.shtml#Herman1" TARGET="_top">Herman et al., 1991</A>; 
+<A HREF="../references.shtml#Simmler1" TARGET="_top">Simmler et al., 1991</A>). Second, their DNA can also be used for the rapid screening of new clones obtained from other sources for their presence 
+in a particular interval of interest as described in 
+<A HREF="7-3.shtml#7.3.3">Section 7.3.3</A>. This can be accomplished with the use of duplicate blots containing just three lanes of restriction digested and fractionated 
+DNA from: (1) the somatic cell hybrid line containing the chromosome of interest; (2) mouse tissue (a positive control); and (3) the host cell line without mouse chromosomes 
+(a negative control). Each blot can be subjected to repeated probing with different potential markers. A negative result allows one to discard a particular probe immediately; 
+a positive result can be followed-up by higher resolution linkage analysis.
+
+<a name="10.2.3.2"></a><H3><I>10.2.3.2 Radiation hybrid analysis</I></H3>
+
+<P>In 1990, Cox, Meyers, and their colleagues described a novel technique for determining gene order and distance which is as highly resolving as traditional linkage analysis 
+but does not depend upon breeding. The approach used has similarities to, as well as differences from, both recombinational mapping and physical mapping. Radiation hybrid 
+mapping was originally developed for use with the human genome, but with appropriate starting material and a sufficient number of chromosome-specific DNA markers, it can be 
+used in the analysis of any species 
+(<A HREF="../references.shtml#Cox1" TARGET="_top">Cox et al., 1990</A>).
+
+<P>The starting material is a somatic cell hybrid line that contains only the chromosome of interest within a host background derived from another species. As indicated above, 
+a common host species used for mouse chromosomes is the hamster. A well-established, stable hamster cell hybrid line containing a single mouse chromosome can be subjected to 
+irradiation with X-rays that shatter each chromosome into multiple fragments. The irradiated cells are then placed together with pure hamster cells under conditions that promote 
+fusion. Approximately 100 new hybrid clones are recovered that contain fragments of the mouse chromosome present in the original hybrid line. Finally, each of these lines are 
+analyzed for the presence of various DNA markers that had been mapped previously into the chromosomal region of interest.
+
+<P>The order and distance of loci from each other can be determined according to the premise that X-rays will break the chromosome at random locations. Thus, the closer two loci 
+are together, the less likely it is that a break will occur between them. If two loci are side by side, they will either both be present or both be absent from all 100 cells with 
+100% concordance. If two loci are at opposite ends of the chromosome, there will still be cells that have neither or both, but there will also be a large number that have only 
+one or the other. (A cell can carry both loci even if the frequency of breakage between the two is 100% since it is possible for a hybrid cell to pick-up more than one chromosomal 
+fragment.) As the probability of chromosome breakage varies between 0% and 100% for various pairs of loci under analysis, the fraction of hybrid cells that carry both loci will 
+vary from 100% down to a control value obtained for unlinked loci. Thus, by typing each of the &#034;radiation hybrid cells&#034; in the set of 100 for a series of DNA markers, it becomes 
+possible to construct a linkage map that is highly analogous to traditional recombinational maps.
+
+<P>It is possible to obtain linkage maps at different levels of resolution through the use of different intensities of radiation to break chromosomes. For example, with high 
+levels of radiation that break chromosomes once every 100 kb, on average, one could map loci from 10 kb to 500 kb; with lower levels of radiation, mapping could be performed 
+over a window from 500 kb to 5 mb.
+
+<P>The analogy to classical recombination mapping is striking in that a determination of linkage distance in both cases is based on the probability with which chromosomes 
+will break followed either by recombination (in the classical case) or by segregation upon cell fusion (in the radiation hybrid case). In both cases, linkage distances are 
+determined by counting the ratio of offspring (pups or cells) that do or do not carry particular sets of DNA markers (alleles or genes). However, linkage distances obtained 
+through radiation hybrid analysis are much more likely to be indicative of actual physical distances.
+
+<P>Although radiation hybrid analysis has provided a crucial tool for genetic analysis in humans, once again, it has not been as widely used by the mouse community because 
+classical linkage analysis is so much more powerful. Nevertheless, the resolution of this protocol has been validated in a study of the region of mouse chromosome 2 surrounding the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87853" TARGET="_top">agouti</A> locus 
+(<A HREF="../references.shtml#Ollmann1" TARGET="_top">Ollmann et al., 1992</A>). In this study, the radiation hybrid map that was obtained corresponded exactly with that predicted from linkage analysis, 
+with a level of resolution that was approximately 40-fold higher. Thus, radiation hybrid mapping could serve to fill in the gap between linkage maps and physical maps, especially in 
+&#034;cold&#034; regions between hotspots where distantly spaced markers cannot be separated by recombination 
+(<A HREF="7-2.shtml#7.2.3">Section 7.2.3</A>).
+
+<DIV Align="center"><H4> <A HREF="10-1.shtml">Previous</A> <A HREF="10-3.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,142 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 9.5</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<B>Table 9.5</B>&nbsp;Relative 
+intensities of marker alleles expected in pooled samples from a 
+backcross or intercross<SUP>a</SUP>
+
+<CENTER>
+
+<TABLE Border="0" CELLPADDING=5>
+<TR><TD COLSPAN="11"><HR></TD></TR>
+<TR ALIGN="CENTER">
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD COLSPAN="3"><I>m/m</I><BR><HR></TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD COLSPAN="3"><I>+/m</I><BR><HR></TD>
+</TR>
+
+<TR>
+<TD>Concordance</TD>
+<TD>&nbsp;</TD>
+<TD>100%</TD>
+<TD>90%</TD>
+<TD>80%</TD>
+<TD>&nbsp;</TD>
+<TD>None</TD>
+<TD>&nbsp;</TD>
+<TD>80%</TD>
+<TD>90%</TD>
+<TD>100%</TD>
+</TR>
+
+<TR><TD COLSPAN="11"><HR></TD></TR>
+
+<TR><TD COLSPAN="10"><B>Backcross</B><SUP>c</SUP></TD></TR>
+
+<TR>
+
+<TD>&nbsp;&nbsp;Strain A allele<SUP>b</SUP></TD>
+<TD>&nbsp;</TD>
+<TD>0.00</TD>
+<TD>0.05</TD>
+<TD>0.10</TD>
+<TD>&nbsp;</TD>
+<TD>0.25</TD>
+<TD>&nbsp;</TD>
+<TD>0.40</TD>
+<TD>0.45</TD>
+<TD>0.50</TD>
+</TR>
+
+<TR>
+
+<TD>&nbsp;&nbsp;Strain B allele<SUP>b</SUP></TD>
+<TD>&nbsp;</TD>
+<TD>1.00</TD>
+<TD>0.95</TD>
+<TD>0.90</TD>
+<TD>&nbsp;</TD>
+<TD>0.75</TD>
+<TD>&nbsp;</TD>
+<TD>0.60</TD>
+<TD>0.65</TD>
+<TD>0.50</TD>
+</TR>
+
+<TR><TD COLSPAN="10"><B>Intercross</B><SUP>d</SUP></TD></TR>
+
+<TR>
+
+<TD>&nbsp;&nbsp;Strain A allele<SUP>b</SUP></TD>
+<TD>&nbsp;</TD>
+<TD>0.00</TD> 
+<TD>0.10</TD>
+<TD>0.20</TD>
+<TD>&nbsp;</TD>
+<TD>0.50</TD>
+<TD>&nbsp;</TD>
+<TD>0.80</TD>
+<TD>0.90</TD>
+<TD>1.00</TD>
+</TR>
+
+<TR>
+
+<TD>&nbsp;&nbsp;Strain B allele<SUP>b</SUP></TD>
+<TD>&nbsp;</TD>
+<TD>1.00</TD>
+<TD>0.90</TD>
+<TD>0.80</TD>
+<TD>&nbsp;</TD>
+<TD>0.50</TD>
+<TD>&nbsp;</TD>
+<TD>0.20</TD>
+<TD>0.10</TD>
+<TD>0.00</TD>
+</TR>
+
+<TR><TD COLSPAN="11"><HR></TD></TR>
+</TABLE>
+</CENTER>
+<P><SUP>a</SUP>Relative intensities are indicated 
+as fractions of the total signal present in both allelic bands of any 
+one sample.
+For experimental protocols in which phenotype corresponds completely 
+with genotype at the test locus (or loci), the percentage concordance 
+is equivalent to the fraction of non-recombinant samples within the 
+pool.<BR>
+
+<P><SUP>b</SUP>Strains A and B are defined by the crosses illustrated in
+<a href="javascript:windowf911 = window.open('../figures/figure9-11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A> and
+<a href="javascript:windowf912 = window.open('../figures/figure9-12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">Figure 9.12</A>.<BR>
+
+<P><SUP>c</SUP>The ratio of allele expected is a function of the 
+effective recombination fraction (<I>r</I>) that separates a test 
+locus from a marker locus.
+For backcross data of the type illustrated in
+<a href="javascript:windowf911 = window.open('../figures/figure9-11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>, 
+the equation for concordance in the 
+<I>m/m</I> pool is:<BR><BR>
+[<I>strain A/strain B</I> = <I>r</I>/(2 - <I>r</I>)],<BR><BR>
+and in the <I>+/m</I> pool, the equation is:<BR><BR>
+[<I>strain A/strain B</I> = (1 - <I>r</I>)/(1 + <I>r</I>)].<BR>
+
+<P><SUP>d</SUP>For intercross data of the type illustrated in 
+<a href="javascript:windowf912 = window.open('../figures/figure9-12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">Figure 9.12</A>, 
+the equation for concordance in the 
+<I>m/m</I> pool is:<BR><BR>
+[<I>strainA/strain B</I> = <I>r</I>/(1 - <I>r</I>)],<BR><BR>
+and in the <I>+/+</I> pool, the equation is:<BR><BR>
+[<I>strain A/strain B</I> = (1 - <I>r</I>)/<I>r</I>)].
+
+</BODY>
+</HTML>

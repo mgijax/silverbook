@@ -1,0 +1,119 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 9.2</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<B>Table 9.2</B> Probabilities of linkage associated with critical <I>P</I> values and swept radii
+
+<CENTER>
+<TABLE Border="0" CELLPADDING="3" WIDTH="400">
+
+<TR>
+<TD colspan="13"><HR></TD>
+</TR>
+
+<TR><TD>&nbsp;</TD><TD>&nbsp;</TD><TD COLSPAN="11" ALIGN="CENTER">Swept radius<SUP>a</SUP><HR></TD></TR>
+
+<TR>
+<TD><I>P</I> value </TD><TD>&nbsp;</TD>
+<TD>10 cM</TD><TD>&nbsp;</TD>
+<TD>15 cM</TD><TD>&nbsp;</TD>
+<TD>20 cM</TD><TD>&nbsp;</TD>
+<TD>25 cM</TD><TD>&nbsp;</TD>
+<TD>30 cM</TD><TD>&nbsp;</TD>
+<TD>35 cM</TD>
+</TR>
+
+<TR>
+<TD colspan="13"><HR></TD>
+</TR>
+
+<TR>
+<TD>0.0500</TD><TD>&nbsp;</TD>
+<TD>21%</TD><TD>&nbsp;</TD>
+<TD>29%</TD><TD>&nbsp;</TD>
+<TD>35%</TD><TD>&nbsp;</TD>
+<TD>40%</TD><TD>&nbsp;</TD>
+<TD>44%</TD><TD>&nbsp;</TD>
+<TD>48%</TD>
+</TR>
+
+<TR>
+<TD>0.0100</TD><TD>&nbsp;</TD>
+<TD>57%</TD><TD>&nbsp;</TD>
+<TD>67%</TD><TD>&nbsp;</TD>
+<TD>73%</TD><TD>&nbsp;</TD>
+<TD>77%</TD><TD>&nbsp;</TD>
+<TD>80%</TD><TD>&nbsp;</TD>
+<TD>82%</TD>
+</TR>
+
+<TR>
+<TD>0.0050</TD><TD>&nbsp;</TD>
+<TD>73%</TD><TD>&nbsp;</TD>
+<TD>80%</TD><TD>&nbsp;</TD>
+<TD>84%</TD><TD>&nbsp;</TD>
+<TD>87%</TD><TD>&nbsp;</TD>
+<TD>89%</TD><TD>&nbsp;</TD>
+<TD>90%</TD>
+</TR>
+
+<TR>
+<TD>0.0020</TD><TD>&nbsp;</TD>
+<TD>87%</TD><TD>&nbsp;</TD>
+<TD>91%</TD><TD>&nbsp;</TD>
+<TD>93%</TD><TD>&nbsp;</TD>
+<TD>94%</TD><TD>&nbsp;</TD>
+<TD>95%</TD><TD>&nbsp;</TD>
+<TD>96%</TD>
+</TR>
+
+<TR>
+<TD>0.0015</TD><TD>&nbsp;</TD>
+<TD>90%</TD><TD>&nbsp;</TD>
+<TD>93%</TD><TD>&nbsp;</TD>
+<TD>95%</TD><TD>&nbsp;</TD>
+<TD>96%</TD><TD>&nbsp;</TD>
+<TD>96%</TD><TD>&nbsp;</TD>
+<TD>97%</TD>
+</TR>
+
+<TR>
+<TD>0.0010</TD><TD>&nbsp;</TD>
+<TD>93%</TD><TD>&nbsp;</TD>
+<TD>95%</TD><TD>&nbsp;</TD>
+<TD>96%</TD><TD>&nbsp;</TD>
+<TD>97%</TD><TD>&nbsp;</TD>
+<TD>98%</TD><TD>&nbsp;</TD>
+<TD>98%</TD>
+</TR>
+
+<TR>
+<TD>0.0005</TD><TD>&nbsp;</TD>
+<TD>96%</TD><TD>&nbsp;</TD>
+<TD>98%</TD><TD>&nbsp;</TD>
+<TD>98%</TD><TD>&nbsp;</TD>
+<TD>99%</TD><TD>&nbsp;</TD>
+<TD>99%</TD><TD>&nbsp;</TD>
+<TD>99%</TD>
+</TR>
+
+<TR>
+<TD colspan="13"><HR></TD>
+</TR>
+
+</TABLE>
+</CENTER>
+
+
+<SUP>a</SUP>The swept radius is defined as the maximum distance over which linkage can be detected between two loci with a 95% probability based on the power of the genetic approach used. 
+Swept radii associated with data obtained from RI and backcross experiments are shown graphically in 
+<a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A> and 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>, 
+respectively.
+
+</BODY>
+</HTML>

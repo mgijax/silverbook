@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 8.7 PCR-based Detection of Chromosome Rearrangements</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figure8-7.gif" Alt="Figure 8.7" Width="650" Height="354"> </TD></TR>
+
+<TR><TD>
+<B>Figure 8.7</B> 
+PCR-based detection of chromosome rearrangements. 
+Each number represents the position of an oligonucleotide sequence that has been used to generate a PCR primer. 
+In panel A, primers 1 and 2 will amplify a product only from the non-deleted chromosome, and primers 1 and 3 will amplify a product only from the deleted chromosome. 
+The specificity of this last primer pair is based on the empirical observation of a maximum distance of &#126;1 kb beyond which PCR amplification is extremely inefficient under normal reaction conditions. 
+In the three other panels, different combinations of primers can be used similarly to distinguish wild-type and mutant alleles.
+<BR><BR>
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

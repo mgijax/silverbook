@@ -1,0 +1,139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 3.1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+
+<B>Table 3.1</B> Some important inbred strains.<BR><I>See also 
+<A HREF="http://www.informatics.jax.org/external/festing/search_form.cgi" TARGET="_blank">Inbred Strains of Mice and Rats</A> at MGI.</I>
+
+<TABLE CELLPADDING=3>
+
+<TR><TD COLSPAN=11><HR></TD></TR>
+
+<TR>
+<TD VALIGN=BOTTOM>Strain</TD><TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Color</TD><TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Major use</TD><TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Other Charateristics</TD><TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM>Origin</TD><TD>&nbsp;</TD>
+<TD VALIGN=BOTTOM WIDTH=15%>Generation<SUP>a</SUP></TD>
+</TR>
+
+<TR><TD COLSPAN=11><HR></TD></TR>
+
+<TR>
+<TD VALIGN=TOP>129/Sv-<I>Sl/&#043;, c<SUP>&#043;</SUP>p<SUP>&#043;</SUP> 
+(<A HREF="<!--#include file='include/mgi_home.html'-->nomen/strain_129.shtml" TARGET="_blank">129</A>)</I></TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Agouti</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Source of most ES cell lines and genetic material used for homologous recombination. Used of studies of embryology and reproduction.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Relatively high testicular teratoma incidence. Relatively small size. Resistant to radiation.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP> &#126;1930 (Dunn)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F79 (JAX)</TD>
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP>BALB/c</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Albino</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Used in immunological studies and for the production of hybridomas. A new congenic strain 
+<A HREF="http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=001802" TARGET="_blank">BALB/cByJ-Rb(8.12)5Bnr</A> 
+available from JAX is most efficient for hybridoma production.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Docile females. Males of the J substrain only are extremely aggressive. Relatively poor breeders, 
+but variation among sublines. Sensitive to radiation.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>1913 (Bagg)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F105 (CR)<BR>F180 (JAX)<BR>F195 (Taconic)</TD>
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP>C57BL/6 (B6)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Black</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Standard strain for genetic studies; common backcross partner for congenic construction and mapping panels.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Relatively long lived and hearty. Excellent breeders. Resistant to radiation.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>1921 (Little)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F160 (CR)<BR>F187 (JAX)<BR>F155 (Taconic)</TD>
+</TR>
+
+
+<TR>
+<TD VALIGN=TOP>C57BL/10 (B10)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Black</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Commonly used in genetic studies performed outside of the US and for the construction of congenics at the 
+<I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_blank">H2</A></I> complex.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Common ancestry with B6.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>1921 (Little)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F192 (JAX)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>CAST/Ei</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Agouti</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Used in matings with traditional inbred strains to create F<SUB>1</SUB> 
+hybrids with high levels of heterozygosity for linkage studies. Better 
+intercross reproductive performance than <I>M. spretus</I> strains.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Derived from wild animals of the subspecies <I>M. m. castaneus</I>. 
+Male F<SUB>1</SUB> hybrids formed with lab strains are fertile.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>1971 (Marshall to Eicher)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F53 (JAX)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>C3H</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Agouti</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Used commonly in genetic studies.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>High mammary tumor incidence. Large adults.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>1920 (Strong)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F167 (CR)<BR>F139 (JAX)<BR>F160 (Taconic)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>DBA/2</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Dilute brown</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Used in crosses with B6 to produce the best-characterized set of RI strains, and for the production of 
+standard F<SUB>1</SUB> hybrid animals.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>&nbsp;</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>1909 (Little)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F164 (CR)<BR>F183 (JAX)<BR>F165 (Taconic)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>FVB/N</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Albino</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Recently derived strain with special characteristics that are ideal for the production of transgenic mice. 
+An agouti congenic is currently under construction.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Very large litters, easy to handle, large and prominent pronuclei in zygotes.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>1975 (NIH)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F30 (CR)<BR>F57 (JAX)<BR>F40 (Taconic)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>MOLF/Ei</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Agouti</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Used in matings with traditional inbred strains to create F<SUB>1</SUB> hybrids with high levels of heterozygosity for linkage studies. 
+Better intercross reproductive performance than <I>M. spretus</I> strains.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Derived from wild animals of the <I>faux</I> subspecies <I>M. m. molossinus</I> 
+(<a href="../frames/frame2-3.shtml" TARGET="_blank">Section 2.3</a>).</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>&#126;1975 (Potter to Eicher)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F50 (JAX)</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>SPRET/Ei</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Agouti</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Used in matings with traditional inbred strains to create highly heterozygous backcross panels for linkage analysis.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Derived from the species <I>M. spretus</I>. Small animals. Difficult to handle.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>1988 (Eicher)</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>F37 (JAX)</TD>
+</TR>
+
+<TR><TD colspan=11><HR></TD></TR>
+</table>
+
+<SUP>a</SUP>As of 1993.
+
+
+</BODY>
+</HTML>

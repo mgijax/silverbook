@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 9.4</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+
+<B>Table 9.4</B>&nbsp;&nbsp;Classification of mouse chromosomes based on length and number of markers required for coverage in a backcross
+
+
+<CENTER>
+<TABLE Border="0" CELLPADDING=2>
+
+<TR><TD COLSPAN=6><HR></TD></TR>
+<TR>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+<TD colspan="4" ALIGN=CENTER>Markers required per chromosome for complete coverage at 95% confidence<HR></TD>
+</TR>
+
+<TR>
+<TD>Chromosomes</TD>
+<TD ALIGN=CENTER>Range of<BR>chromosome<BR>lengths (cM)<SUP>a</SUP></TD>
+<TD ALIGN=CENTER><I>N</I> &#061; 40<SUP>b</SUP><BR>(s.r. &#061; 10 cM)</TD>
+<TD ALIGN=CENTER><I>N</I> &#061; 52<BR>(s.r. &#061; 15 cM)</TD>
+<TD ALIGN=CENTER><I>N</I> &#061; 72<BR>(s.r. &#061; 20 cM)</TD>
+<TD ALIGN=CENTER><I>N</I> &#061; 942<BR>(s.r. &#061; 24 cM)</TD></TR>
+
+<TR>
+<TD colspan="6"><HR width="100%"></TD>
+</TR>
+
+<TR>
+<TD>1, 2, 5</TD>
+<TD ALIGN=CENTER>103-111</TD>
+<TD ALIGN=CENTER>6</TD>
+<TD ALIGN=CENTER>4</TD>
+<TD ALIGN=CENTER>3</TD>
+<TD ALIGN=CENTER>3</TD>
+</TR>
+
+<TR>
+<TD>3, 4, 8</TD>
+<TD ALIGN=CENTER>82-88</TD>
+<TD ALIGN=CENTER>5</TD>
+<TD ALIGN=CENTER>3</TD>
+<TD ALIGN=CENTER>3</TD>
+<TD ALIGN=CENTER>2</TD>
+</TR>
+
+<TR valign="bottom">
+<TD>6, 7, 9, 10, 11,<BR>13, X</TD>
+<TD ALIGN=CENTER>73-80</TD>
+<TD ALIGN=CENTER>4</TD>
+<TD ALIGN=CENTER>3</TD>
+<TD ALIGN=CENTER>2</TD>
+<TD ALIGN=CENTER>2</TD>
+</TR>
+
+<TR>
+<TD>12, 14, 15, 16</TD>
+<TD ALIGN=CENTER>64-71</TD>
+<TD ALIGN=CENTER>4</TD>
+<TD ALIGN=CENTER>3</TD>
+<TD ALIGN=CENTER>2</TD>
+<TD ALIGN=CENTER>2</TD>
+</TR>
+
+<TR>
+<TD>17, 18, 19</TD>
+<TD ALIGN=CENTER>50-60</TD>
+<TD ALIGN=CENTER>3</TD>
+<TD ALIGN=CENTER>2</TD>
+<TD ALIGN=CENTER>2</TD>
+<TD ALIGN=CENTER>2</TD>
+</TR>
+
+<TR>
+<TD></TD>
+<TD ALIGN=CENTER>Total Markers</TD>
+<TD ALIGN=CENTER>86</TD>
+<TD ALIGN=CENTER>60</TD>
+<TD ALIGN=CENTER>46</TD>
+<TD ALIGN=CENTER>43</TD>
+</TR>
+
+<TR>
+<TD></TD>
+<TD>Markers X samples</TD>
+<TD ALIGN=CENTER>3,440</TD>
+<TD ALIGN=CENTER>3,120</TD>
+<TD ALIGN=CENTER>3,312</TD>
+<TD ALIGN=CENTER>4,042</TD>
+</TR>
+<TR><TD COLSPAN=6><HR></TD></TR>
+</TABLE>
+</CENTER>
+
+<SUP>a</SUP>The chromosome lengths indicated in this table are based on consensus linkage maps presented in the individual reports from 
+each mouse chromosome committee published in the 1993 edition of the <I>Encyclopedia of the Mouse Genome</I> 
+(<A HREF="../references.shtml#Silver11" TARGET="_blank">Silver et al., 1993</A>).<BR><BR>
+<SUP>b</SUP><I>N</I> is the number of backcross samples; s.r. is the swept radius derived from 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>. 
+Coverage of each chromosome is based on the placement of markers at distances of no more than 
+two swept radii from each other as illustrated in 
+<a href="javascript:windowf914 = window.open('../figures/figure9-14.shtml', 'windowf914', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf914.focus()">Figure 9.14</A>.
+</BODY>
+</HTML>

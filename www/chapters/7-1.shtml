@@ -1,0 +1,209 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>7.1 GENETIC MAPS COME IN VARIOUS FORMS</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="6-5.shtml">Previous</A> <A HREF="7-2.shtml">Next</A></H4></DIV>
+
+<a name="7.1"></a><H2>7.1 GENETIC MAPS COME IN VARIOUS FORMS</H2>
+
+<P>The remaining chapters in this book will be devoted to the process and practice of genetic mapping in the mouse. Although mapping 
+was once viewed as a sleepy pastime performed simply for the satisfaction of knowing where a gene mapped as an end unto itself, it 
+is now viewed as a critical tool of importance to many different areas of biological and medical research. Mapping can provide a 
+means for moving from important diseases to clones of the causative genes which, in turn, can provide tools for diagnosis, understanding, 
+and treatment. In the opposite direction, mapping can be used to uncover functions for newly-derived DNA clones by demonstrating 
+correlations with previously described variant phenotypes. Mapping can also be used to dissect out the heritable and non-heritable 
+components of complex traits and the mechanisms by which they interact. The purpose of this chapter is to provide a primer on classical 
+genetics and to give an overview of mapping in the mouse, with further details provided in subsequent, more focused chapters.
+
+<a name="7.1.1"></a><H3>7.1.1 Definitions</H3>
+
+<a name="7.1.1.1"></a><H3><I>7.1.1.1 Genes and loci</I></H3>
+
+<P>In the prerecombinant DNA era, all genes were defined by the existence of alternative 
+alleles that produced alternative phenotypes that segregated in genetic crosses. Today, with the use of molecular technologies, the ability to recognize genes has expanded tremendously. 
+Monomorphic genes (those with only a single allele) can now be recognized through their transcriptional activity alone. Recognition of 
+putative genes within larger genomic sequences can also be accomplished through the identification of open reading frames, flanking 
+tissue-specific enhancers and other regulatory elements, internal splicing signals, and sequence conservation across evolutionary lines. 
+Sequence-specific epigenetic phenomena such as imprinting, methylation, and DNase sensitivity can also be used to elucidate the existence 
+of functional genomic elements.
+
+<P>Mouse geneticists use the term <i>locus</i> to describe any DNA segment that is distinguishable in some way by some form of genetic 
+analysis. In the prerecombinant DNA era, only genes distinguished by phenotype could be recognized as loci. But today, with the use of 
+molecular tools, it is possible to distinguish &#034;loci&#034; in the genome that have no discernible function at all. In fact, any change in the 
+DNA sequence, no matter how small or large, whether in a gene or elsewhere, can be followed potentially as an alternative allele in genetic 
+crosses. When alternative alleles exist in a genomic sequence that has no <i>known</i> function, the polymorphic site is called an 
+<i><A HREF="../glossary.shtml#Anonymous_locus" TARGET="_top">anonymous locus</A></i>.
+<SUP><A HREF="notes.shtml#42" TARGET="_top">42</A></SUP> 
+With an average rate of polymorphism of one base difference in a 
+thousand between individual chromosome homologs within a species, the pool of potential anonymous loci is enormous. Classes of anonymous 
+loci and the methods by which they are detected and used as genetic markers will be the subject of 
+<A HREF="8-1.shtml#8.1">Chapter 8</A>.
+
+<a name="7.1.1.2"></a><H3><I>7.1.1.2 Maps</I></H3>
+
+<P>A <i>genetic map</i> is simply a representation of the distribution of a set of <i>loci</i> within the genome. The loci included by an 
+investigator in any one mapping project may bear no relation to each other at all, or they may be related according to any of a number of 
+parameters including functional or structural homologies or a pre-determined chromosomal assignment. Mapping of these loci can be accomplished 
+at many different levels of resolution. At the lowest level, a locus is simply <i>assigned</i> to a particular chromosome without any further 
+localization. At a step above, an assignment may be made to a particular subchromosomal region. At a still higher level of resolution, the 
+relative order and approximate distances that separate individual loci within a linked set can be determined. With ever-increasing levels 
+of resolution, the order and interlocus distances can be determined with greater and greater precision. Finally, the ultimate resolution 
+is attained when loci are mapped onto the DNA sequence itself.
+
+<P>The simplest genetic maps can contain information on as few as two linked loci. At the opposite extreme will be complete physical maps 
+that depict the precise physical location of all of the thousands of genes that exist along an entire chromosome. The first step toward the 
+generation of these complete physical maps has recently been achieved with the establishment of single contigs of overlapping clones across 
+the length of two complete human chromosome arms 
+(<A HREF="../references.shtml#Chumakov1" TARGET="_top">Chumakov et al., 1992</A>; 
+<A HREF="../references.shtml#Foote1" TARGET="_top">Foote et al., 1992</A>). By the time this book is actually read, it is likely that complete contigs across 
+other human &#151; as well as mouse &#151; chromosomes will also be attained. However, it is still a long journey from simply having a set of clones 
+to deciphering the genetic information within them.
+
+<P>There is actually not one, but three distinct types of genetic maps that can be derived for each chromosome in the genome (other than the Y). 
+The three types of maps &#151; <i>linkage</i>, <i>chromosomal</i>, and <i>physical</i> &#151; are illustrated in 
+<a href="javascript:windowf71 = window.open('../figures/figure7-1.shtml', 'windowf71', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf71.focus()">Figure 7.1</A> 
+and are distinguished both by the methods used for their derivation and the metric used for measuring 
+distances within them.
+
+<a name="7.1.2"></a><H3>7.1.2 Linkage maps</H3>
+
+<P>The <i>linkage map</i>, also referred to as a <i>recombination map</i>, was the first to be developed soon after the re-discovery of Mendel's 
+work at the beginning of the 20th century. Linkage maps can only be constructed for loci that occur in two or more heritable forms, or 
+<i>alleles</i>. Thus, monomorphic loci &#151; those with only a single allele &#151; cannot be mapped in this fashion. Linkage maps are generated by 
+counting the number of offspring that receive either parental or <i>recombinant</i> allele combinations from a parent that carries two different 
+alleles at two or more loci. Analyses of this type of data allow one to determine whether loci are &#034;linked&#034; to each other and, if they are, their 
+relative order and the relative distances that separate them (see <A HREF="7-2.shtml">Section 7.2</A>).
+
+<P>A <i>chromosomal assignment</i> is accomplished whenever a new locus is found to be in linkage with a previously assigned locus. Distances are 
+measured in centimorgans, with one centimorgan equivalent to a crossover rate of 1%. The linkage map is the only type based on classical breeding 
+analysis. The term &#034;genetic map&#034; is sometimes used as a false synonym for &#034;linkage map&#034;; a genetic map is actually more broadly defined to include 
+both chromosomal and physical maps as well.
+
+<a name="7.1.3"></a><H3>7.1.3 Chromosome maps</H3>
+
+<P>The <i>chromosome map</i> (or <i>cytogenetic</i> map) is based on the karyotype of the mouse genome. All mouse chromosomes are <i>defined</i> 
+at the cytogenetic level according to their size and banding pattern (see 
+<a href="javascript:windowf51 = window.open('../figures/figure5-1.shtml', 'windowf51', 'width=450,height=500,resizable=yes,scrollbars=yes'); windowf51.focus()">Figure 5.1</A>), 
+and ultimately, all chromosomal assignments are made by direct cytogenetic analysis or by linkage to a locus that has previously been mapped in this way. 
+Chromosomal map positions are indicated with the use of band names (Figures 
+<a href="javascript:windowf52 = window.open('../figures/figure5-2.shtml', 'windowf52', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowf52.focus()">5.2</A> and 
+<a href="javascript:windowf71 = window.open('../figures/figure7-1.shtml', 'windowf71', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf71.focus()">7.1</A>). 
+Inherent in this naming scheme is a means for ordering loci along the chromosome (see 
+<A HREF="5-2.shtml">Section 5.2</A>).
+
+<P>Today, several different approaches, with different levels of resolution, can be used to generate chromosome maps. First, in some cases, indirect 
+mapping can be accomplished with the use of one or more <i>somatic cell hybrid lines</i> that contain only portions of the mouse karyotype within the 
+milieu of another species' genome. By correlating the presence or expression of a particular mouse gene with the presence of a mouse chromosome or 
+subchromosomal region in these cells, one can obtain a chromosomal, or subchromosomal, assignment (see 
+<A HREF="10-2.shtml#10.2.3">Section 10.2.3</A>).
+
+<P>The second approach can be used in those special cases where karyotypic abnormalities appear in conjunction with particular mutant phenotypes. 
+When the chromosomal lesion and the phenotype assort together, from one generation to the next, it is likely that the former causes the latter. When 
+the lesion is a deletion, translocation, inversion, or duplication, one can assign the mutant locus to the chromosomal band that has been disrupted.
+
+<P>Finally, with the availability of a locus-specific DNA probe, it becomes possible to use the method of <i>in situ hybridization</i> to directly 
+visualize the location of the corresponding sequence within a particular chromosomal band. This approach is not dependent on correlations or assumptions 
+of any kind and, as such, it is the most direct mapping approach that exists. However, it is technically demanding and its resolution is not nearly as 
+high as that obtained with linkage or physical approaches (see 
+<A HREF="10-2.shtml#10.2.2">Section 10.2.2</A>).
+
+<a name="7.1.4"></a><H3>7.1.4 Physical maps</H3>
+
+<P>The third type of map is a <i>physical map</i>. All physical maps are based on the direct analysis of DNA. Physical distances between and within 
+loci are measured in basepairs (bp), kilobasepairs (kb) or megabasepairs (mb). Physical maps are arbitrarily divided into short range and long range. 
+Short range mapping is commonly pursued over distances ranging up to 30 kb. In very approximate terms, this is the average size of a gene and it is 
+also the average size of cloned inserts obtained from cosmid-based genomic libraries. Cloned regions of this size can be easily mapped to high 
+resolution with restriction enzymes and, with advances in sequencing technology, it is becoming more common to sequence interesting regions of this 
+length in their entirety.
+
+<P>Direct long-range physical mapping can be accomplished over megabase-sized regions with the use of rare-cutting restriction enzymes together with 
+various methods of gel electrophoresis referred to generically as <i>pulsed field gel electrophoresis</i> or PFGE, which allow the separation and 
+sizing of DNA fragments of 6 mb or more in length 
+(<A HREF="../references.shtml#Schwartz1" TARGET="_top">Schwartz and Cantor, 1984</A>; 
+<A HREF="../references.shtml#den_Dunnen1" TARGET="_top">den Dunnen and van Ommen, 1991</A>). PFGE mapping studies can be performed directly on genomic DNA followed by 
+Southern blot analysis with probes for particular loci (see 
+<A HREF="10-3.shtml#10.3.2">Section 10.3.2</A>). It becomes possible to demonstrate physical 
+linkage whenever probes for two loci detect the same set of large restriction fragments upon sequential hybridizations to the same blot.
+
+<P>Long-range mapping can also be performed with clones obtained from large insert genomic libraries such as those based on the yeast artificial 
+chromosome (YAC) cloning vectors, since regions within these clones can be readily isolated for further analysis (see 
+<A HREF="10-3.shtml#10.3.3">Section 10.3.3</A>). In the future, long-range physical maps consisting of overlapping clones will cover each chromosome 
+in the mouse genome. Short-range restriction maps of high resolution will be merged together along each chromosomal length, and ultimately, perhaps, 
+the highest level of mapping resolution will be achieved with whole chromosome DNA sequences.
+
+<a name="7.1.5"></a><H3>7.1.5 Connections between maps</H3>
+
+<P>In theory, linkage, chromosomal, and physical maps should all provide the same information on chromosomal assignment and the order of loci. However, 
+the relative <i>distances</i> that are measured within each map can be quite different. Only the physical map can provide an accurate description of the 
+actual length of DNA that separates loci from each other. This is not to say that the other two types of maps are inaccurate. Rather, each represents a 
+version of the physical map that has been modulated according to a different parameter. Cytogenetic distances are modulated by the relative packing of 
+the DNA molecule into different chromosomal regions. Linkage distances are modulated by the variable propensity of different DNA regions to take part 
+in recombination events (see 
+<A HREF="7-2.shtml#7.2.3">Section 7.2.3</A>).
+
+<P>In practice, genetic maps of the mouse are often an amalgamation of chromosomal, linkage, and physical maps, but at the time of this writing, it is 
+still the case that classical recombination studies provide the great bulk of data incorporated into such integrated maps. Thus, the primary metric used 
+to chart interlocus distances has been the 
+<A HREF="../glossary.shtml#centimorgan" TARGET="_top">centimorgan</A>. However, it seems reasonable to predict that, within the next five years, the megabase will 
+overtake the centimorgan as the unit for measurement along the chromosome.
+
+<DIV Align="center"><H4> <A HREF="6-5.shtml">Previous</A> <A HREF="7-2.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

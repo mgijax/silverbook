@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 5.6 - The globin gene superfamily</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figure5-6.gif" Alt="Figure 5.6" Width="650" Height="278"> </TD></TR>
+
+<TR><TD>
+<B>Figure 5.6</B> 
+The globin gene superfamily. 
+Illustration of the evolution and genomic organization of all mouse 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96021,MGI:96022,MGI:96023,MGI:96024,MGI:96025,MGI:96026,MGI:96027,MGI:96015,MGI:96016,MGI:96019,MGI:96017,MGI:96018,MGI:96922" TARGET="_blank">globin-like genes</A>. 
+The members of each of the two individual clusters are more closely related to each other than any are to other members of the superfamily. 
+This suggests that each cluster was seeded by a single transposed gene that duplicated later by unequal crossing over into all other members of the local family. 
+Dark boxes represent functional genes and open boxes represent pseudogenes.
+
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,742 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>9.1 DEMONSTRATION OF LINKAGE AND STATISTICAL ANALYSIS</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="8-4.shtml">Previous</A> <A HREF="9-2.shtml">Next</A></H4></DIV>
+
+<a name="9.1"></a><H2>9.1 DEMONSTRATION OF LINKAGE AND STATISTICAL ANALYSIS</H2>
+
+<a name="9.1.1"></a><H3>9.1.1 Mapping new DNA loci with established mapping panels</H3>
+
+<P>When a new mouse locus has been defined at the DNA level, it can be mapped 
+by three different approaches: somatic cell hybrid analysis, <i>in situ</I> hybridization, or 
+formal linkage analysis. The first of these approaches is not applicable generally to 
+the mouse because single chromosome hybrids have not been gathered together in a 
+systematic way for the whole mouse genome. However, even in those cases where 
+such hybrids exist, this type of analysis provides only a chromosomal assignment. 
+The second approach &#151; <I>in situ</I> hybridization &#151; is more highly resolving than 
+somatic cell hybrid analysis, but this protocol requires special expertise and the 
+resolution is still less than that obtained routinely with linkage analysis. Both of 
+these non-sexual mapping protocols have two advantages over all forms of linkage 
+analysis. First, they do not require any prior knowledge of map positions for other 
+loci. Second, they allow the mapping of non-polymorphic loci. Thus, in the early 
+days of mouse molecular genetics, before many DNA markers had been placed onto 
+the map, and before new methods for uncovering polymorphisms had been 
+developed, both of these protocols served useful functions in the arsenal of general 
+mapping tools.
+
+<P>Today, the method of choice for mapping a new locus defined at the DNA level 
+will always be formal linkage analysis. There are two interrelated reasons for this. 
+First, a whole genome mouse linkage map of very high density has been developed 
+with thousands of polymorphic DNA markers already in place and new ones being 
+added each month 
+(<a href="../references.shtml#Copeland2" TARGET="_top">Copeland et al., 1993</a>). The second reason lies within the 
+existence of various mouse &#034;mapping panels&#034; that have been established by a 
+number of investigators at different institutions around the world. 
+
+<P>A mapping panel is a set of DNA samples obtained from animals that carry 
+random recombinant chromosomes produced within the context of a specific 
+breeding scheme. The most widely used mouse mapping panels are of two specific 
+types. One consists of representative DNA samples derived from each strain of a 
+recombinant inbred (RI) set or group of RI sets. The approach to mapping with RI 
+strains will be detailed in 
+<a href="9-2.shtml">Section 9.2.</a> The second type of widely used mapping panel 
+contains samples derived from the offspring of an interspecific backcross between 
+the two species, <I>M. musculus</I> and <I>M. spretus</I>. This approach will be discussed in 
+<a href="9-3.shtml">Section 9.3.</a> It is also possible to design mapping panels that are based on an 
+intercross between two F<SUB>1</SUB> hybrid parents obtained in an interspecific or 
+intersubspecific outcross between two different inbred strains 
+(<a href="../references.shtml#Dietrich1" TARGET="_top">Dietrich et al., 1992</a>). 
+
+<P>The power of mapping panels lies within the database of information that is 
+already available for a large number of previously typed loci in members of the 
+same defined cohort of animals. The most useful panels have been typed for at least 
+200 independent DNA markers and, in fact, the most well-established 
+panels have been typed for many more. In classical genetic terminology, this can be 
+viewed as a multihundred point cross that provides linkage maps across the 
+complete spans of all chromosomes in the genome. 
+
+<P>Thus, the mapping of a new locus can be accomplished simply by genotyping 
+each of the samples in the same cohort (or a subset thereof) for <I>just</I> the new locus of 
+interest. It is never necessary to type more than one hundred animals in the initial 
+analysis and, as discussed in 
+Sections 
+<A HREF="9-2.shtml">9.2</A> and 
+<A HREF="9-4.shtml">9.4</A>, with a well-characterized panel, one 
+can usually obtain a map position with the typing of 50 or fewer animals. A single 
+investigator can easily carry out such an analysis in less than a week's time with the 
+use of either a PCR analysis or Southern blotting. The results obtained are entered 
+into the database containing all prior mapping information on the panel and a 
+computational algorithm is used to determine the location of the new locus within 
+the already-established linkage map. Essentially, this is accomplished by searching 
+for concordant segregation between alleles at the new locus and those at one or 
+more loci that have been previously typed on the same panel. With a well-established 
+mapping panel, a first-order map position will always be obtained. 
+A discussion of the two most important classes of mapping panels &#151; recombinant 
+inbred strains and the interspecific backcross &#151; will be presented in Sections 
+<a href="9-2.shtml">9.2</a> and 
+<a href="9-3.shtml">9.3</a> of this Chapter. 
+
+<a name="9.1.2"></a><H3>9.1.2 Anchoring centromeres and telomeres onto the map</H3>
+
+<P>As discussed in 
+<a href="5-2.shtml">Section 5.2</a>, all 21 chromosomes in the standard mouse 
+karyotype (19 autosomes and the X and Y) are extremely acrocentric. Even with very 
+high resolution light microscopy of extended prophase chromosomes, the 
+centromere appears to lie at one end of each chromosome. Although there must be 
+a segment of DNA containing at least a telomeric sequence that precedes the 
+centromere, no unique sequence loci have ever been localized to this hypothetical 
+segment. Thus, for all intends and purposes, one can view the genetic map of each 
+chromosome as beginning with a centromere and ending with a telomere. 
+
+<P>In the absence of centromere and telomere mapping information, a linkage map 
+will be unanchored. As a result, the length of genetic material that lies beyond the 
+furthermost marker at each end of the map will not be known. However, since both 
+centromeres and telomeres are composed of repeated simple sequences that are 
+shared among all chromosomes, their direct mapping requires special approaches.
+
+<a name="9.1.2.1"></a><H3><I>9.1.2.1 Telomere mapping</I></H3>
+
+<P>All mammalian telomeres are composed of thousands of tandem copies of the 
+same basic repeat unit TTAGGG 
+(<A HREF="../references.shtml#Moyzis1" TARGET="_top">Moyzis et al., 1988</A>; 
+<A HREF="../references.shtml#Elliott2" TARGET="_top">Elliott and Yen, 1991</A>). Early 
+sequence comparisons indicated that while the basic repeat unit was highly 
+conserved, occassional nucleotide changes could arise anywhere within the large 
+telomeric sequence present at the end of any chromosome. 
+<A HREF="../references.shtml#Elliott2" TARGET="_top">Elliott and Yen (1991)</A> 
+realized that one particular nucleotide change, from a G to a C in the sixth position 
+of this repeat unit, would create a <I>Dde</I>I restriction site (CTNAG) that overlapped two 
+adjacent repeats &#151; 
+[TTAGG<U>C][TTAG</U>GG]. In the absence of such a change, the 
+enzyme <I>Dde</I>I would not cut anywhere inside a particular telomeric region which 
+would remain intact within a restriction fragment of 20 kb or more in size. In 
+contrast, one or more substitutions of the type described would allow <I>Dde</I>I to reduce 
+a telomeric region into smaller restriction fragments that could be detected by 
+probing a Southern blot with a labeled oligonucleotide (called TELO) consisting of 
+five tandem copies of the consensus telomere hexamer 
+(<A HREF="../references.shtml#Elliott2" TARGET="_top">Elliott and Yen, 1991</a>). To 
+date, strain-specific telomeric <I>Dde</I>I RFLPs have allowed the inclusion of telomeres 
+from six mouse chromosomes as segregating markers in linkage studies 
+(<A HREF="../references.shtml#Eicher3" TARGET="_top">Eicher and Shown, 1993</A>; 
+<A HREF="../references.shtml#Ceci1" TARGET="_top">Ceci et al., 1994</A>). More recently, another repeat sequence has been 
+identified with a subtelomeric position in all mouse chromosomes 
+(<A HREF="../references.shtml#Broccoli1" TARGET="_top">Broccoli et al., 1992</A>). In the future, it may be possible to develop 
+analogous strategies for mapping telomeres with this subtelomeric repeat as well.
+
+<a name="9.1.2.2"></a><H3><I>9.1.2.2 Centromere mapping with Robertsonian chromosomes</I></H3>
+
+<P>Unfortunately, the satellite sequences present within all mouse centromeres are 
+not amenable to the same type of mapping strategy just described. The problem is 
+that each centromere contains about eight megabases of satellite sequences 
+(<A HREF="5-3.shtml#5.3.4">Section 5.3.4</A>), which is about 400 times larger than a telomere.
+
+<P>Consequently, base substitutions away from the consensus satellite sequence will be much more 
+numerous; this will lead to whole genome Southern blot patterns, with any 
+restriction enzyme, that are unresolvable smears.
+
+<P>So, how does one go about placing centromeres onto a linkage map? One 
+approach is to mark the centromeres of individual homologs with a Robertsonian 
+fusion (see 
+<a href="5-2.shtml">Section 5.2</a>). If a test animal is heterozygous for a particular 
+Robertsonian chromosome, the segregation of the fused centromere can be followed 
+in each offspring through karyotypic analysis. If the Robertsonian chromosome 
+carries distinguishable alleles at linked loci, the recombination distance between the 
+centromere and these linked loci can be determined by DNA marker typing. 
+
+<P>Unfortunately, this approach is complicated by the finding that local recombination 
+is suppressed in animals heterozygous for many Robertsonian chromosomes due to 
+minor structural differences that interfere with meiotic pairing 
+(<a href="../references.shtml#Davisson4" TARGET="_top">Davisson and Akeson, 1993</a>). Thus, the distance between 
+the centromere and the nearest genetic locus is likely to be underestimated by this method.
+
+<a name="9.1.2.3"></a><H3><I>9.1.2.3 Centromere mapping through secondary oocytes</I></H3>
+
+<P>A second approach to determining distances between centromeres and linked 
+markers is based on the genetic analysis of large numbers of individual &#034;secondary 
+oocytes,&#034; which are the products of the first meiotic division. As shown in 
+<a href="javascript:windowf91 = window.open('../figures/figure9-1.shtml', 'windowf91', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf91.focus()">Figure 9.1</A>, 
+sister chromatids remain together in the same nucleus after the first meiotic 
+division. Thus, in the absence of crossing over, the secondary oocyte will receive 
+one complete parental homolog or the other, and would appear 034;homozygous&#034; for 
+all markers upon genetic analysis. However, if crossing over does occur, the oocyte 
+will receive both parental alleles at all loci on the telomeric side of the crossover 
+event. Thus, all telomeric-side loci that were heterozygous in the parent will also 
+appear heterozygous in the oocyte, but all centromeric-side loci will remain 
+homozygous. The fraction of individual oocytes that are heterozygous for a 
+particular genetic marker will be twice the linkage distance that separates that 
+marker from the centromere since only half of the haploid gametes generated from 
+a double allele oocyte will actually carry the recombinant chromatid.
+
+<P>How does one go about determining the individual genotypes of large numbers 
+of secondary oocytes? There are two basic protocols. The first to be developed was 
+based on the clonal amplification of secondary oocytes within the form of ovarian 
+teratomas 
+(<a href="../references.shtml#Eicher2" TARGET="_top">Eicher, 1978</a>). Ovarian teratomas result from the parthenogenetic 
+development of secondary oocytes into disorganized tumors that contain many 
+different cell types. The inbred LT/Sv strain of mice undergoes spontaneous 
+ovarian teratoma formation at a very high rate. This inbred strain in and of itself is 
+not useful for oocyte-based linkage analysis since it is homozygous at all loci, but it is 
+possible to construct congenic animals that are heterozygous for particular marker 
+loci within an overall LT/Sv genetic background. In the cases reported, these 
+congenic animals retain the high rate of teratoma formation associated with the 
+parental LT/Sv strain 
+(<A HREF="../references.shtml#Eppig1" TARGET="_top">Eppig and Eicher, 1983</A>; 
+<A HREF="../references.shtml#Artzt1" TARGET="_top">Artzt et al., 1987</A>; 
+<A HREF="../references.shtml#Eppig2" TARGET="_top">Eppig and Eicher, 1988</A>). 
+This approach is tedious in that a different congenic line has to be developed 
+to map centromeres on each chromosome, but there is every reason to believe that 
+the results obtained are an accurate measure of centromere-marker linkage distances 
+in female mice.
+
+<P>An alternative protocol for genotyping oocytes is based on DNA amplification 
+(by PCR) rather than cellular amplification. The main advantage to this approach is 
+that genotyping can be performed on oocytes derived from any heterozygous female 
+(<A HREF="../references.shtml#Cui1" TARGET="_top">Cui et al., 1992</a>). Thus, in theory, this approach could be used to position the 
+centromere relative to any marker on any chromosome. However, in practice, PCR 
+amplification from single cells is difficult, and there is a high potential for artifactual 
+results &#151; such as amplification from one DNA molecule but not its homolog.
+
+<a name="9.1.2.4"></a><H3><I>9.1.2.4 Centromere mapping by </I>in situ<I> hybridization or Southern blots</I></H3>
+
+<P>A third approach to positioning centromeres on linkage maps is based on direct 
+cytological analysis. This approach is possible because of the divergence in 
+centromeric satellite DNA sequences that has occurred since the separation of 
+<I>M. musculus</I> and <I>M. spretus</I> from a common ancestor &#126;3 million years ago 
+(see <a href="5-3.shtml">Section 5.3</a> and 
+<a href="javascript:windowf22 = window.open('../figures/figure2-2.shtml', 'windowf22', 'width=720,height=580,resizable=yes,scrollbars=yes'); windowf22.focus()">Figure 2.2</a>). 
+In particular, the major satellite sequence in M. musculus 
+is composed of a 234 bp repeat unit that is present in 700,000 copies distributed 
+among all the centromeres. This same 234 bp repeat unit is only present in 25,000 
+copies spread among the centromeres in <I>M. spretus</I> 
+(<a href="../references.shtml#Matsuda1" TARGET="_top">Matsuda and Chapman, 1991</a>). 
+The 28-fold differential in copy number can be exploited with the technique of <I>in 
+situ</I> hybridization to readily distinguish the segregation of <I>M. musculus</I> 
+centromeres from <I>M. spretus</I> centromeres in the offspring of an interspecific 
+backcross. This approach has now been used to anchor all of the mouse 
+chromosomes at their centromeric ends 
+(<a href="../references.shtml#Ceci1" TARGET="_top">Ceci et al., 1994</a>). The only caveat to 
+mention is the possibility that interspecific hybrids have a distorted recombination 
+frequency in the vicinity of their centromeres. 
+
+<P>A final possibility, that has yet to be validated, is the mapping of centromeres as 
+RFLPs observed on Southern blots in the same manner as described for telomeres in 
+<a href="9-1.shtml#9.1.2.1">Section 9.1.2.1</a>. This approach may be possible with the use of a newly described 
+repeat sequence that appears to be present in reasonable copy numbers adjacent to 
+the centromeres of nearly every mouse chromosome 
+(<a href="../references.shtml#Broccoli1" TARGET="_top">Broccoli et al., 1992</a>).
+
+<a name="9.1.3"></a><H3>9.1.3 Statistical treatment of linkage data</H3>
+
+<a name="9.1.3.1"></a><H3><I>9.1.3.1 Testing the null hypothesis</I></H3>
+
+<P>Let us assume that two inbred strains of mice (B6 and C3H for example) carry 
+distinguishable alleles (symbolized by <I>b</I> and <I>c</I> respectively) at each of two fictitious 
+loci <I>Xy1</I> and <I>Gh3</I> as shown in 
+<a href="javascript:windowf92 = window.open('../figures/figure9-2.shtml', 'windowf22', 'width=720,height=450,resizable=yes,scrollbars=yes'); windowf92.focus()">Figure 9.2</A>. 
+An F<SUB>1</SUB> hybrid between B6 and C3H will be 
+heterozygous at each locus with a genotype of:<BR><BR>
+
+<I>Xy1<SUP>c</SUP></I>/<I>Xy1<SUP>b</SUP></I>, 
+<I>Gh3<SUP>c</SUP></I>/<I>Gh3<SUP>b</SUP></I><BR><BR>
+
+If these two 
+loci are linked on a single chromosome, the F<SUB>1</SUB> hybrid will have one homolog with the 
+<I>Xy1<SUP>c</SUP></I> and 
+<I>Gh3<SUP>c</SUP></I> alleles, and the other homolog with the 
+<I>Xy1<SUP>b</SUP></I> and 
+<I>Gh3<SUP>b</SUP></I> alleles. By 
+definition, linkage means that the F<SUB>1</SUB> hybrid will produce a greater number of 
+gametes carrying a parental set of alleles, either:<BR><BR>
+ 
+<I>Xy1<SUP>b</SUP> Gh3<SUP>b</SUP></I> or 
+<I>Xy1<SUP>c</SUP> Gh3<SUP>c</SUP></I><BR><BR>
+ 
+than a recombinant set of alleles, either:<BR><BR>
+
+<I>Xy1<SUP>b</SUP> Gh3<SUP>c</SUP></I> or 
+<I>Xy1<SUP>c</SUP> Gh3<SUP>b</SUP></I>.<BR><BR>
+
+As discussed at length in 
+<a href="7-2.shtml">Section 7.2</a>, the actual distance that separates the two loci will determine the strength 
+of their linkage in terms of the fraction of recombinant gametes. 
+
+<P>If one could determine the haploid genotype (or 
+<A HREF="../glossary.shtml#Haplotype" TARGET="_top">haplotype</A>) of each sperm 
+produced by a C3H X B6 hybrid male, one would know for sure whether the two loci 
+in question are linked. But with the typing of a finite number of progeny in an 
+experimental cross, the answer is often not as clear. Let us say that 100 offspring 
+from the F<SUB>1</SUB> hybrid have been typed to test for linkage between <I>Xy1</I> and <I>Gh3</I> with the 
+result that 62 carry parental allele combinations and 38 carry non-parental allele 
+combinations. Do these data provide evidence in favor of the hypothesis: &#034;<I>Xy1</I> and 
+<I>Gh3</I> are linked&#034;?
+
+<P>Unfortunately, there is a problem with a general hypothesis that states &#034;genes A 
+and B are linked&#034; in that there is no precise prediction of what to expect in terms of 
+data from a breeding experiment. This is because linkage can be very tight so that 
+recombination would be expected rarely, or linkage can be rather loose so that 
+recombination would be expected frequently. Of course, the strength of linkage, if 
+indeed the genes under analysis are linked, is unknown at the outset of the 
+experiment. In contrast, there is a precise prediction of what to expect from the so-
+called &#034;null hypothesis&#034; of <I>no</I> linkage between genes <I>A</I> and <I>B</I>. The prediction of 
+this null hypothesis is that alleles at different genes will assort independently 
+leading to a 50:50 ratio of gametes with parental or recombinant combinations of 
+alleles.
+
+<P>Thus, whenever geneticists wish to determine whether their data provide 
+evidence for linkage (of any degree), what they actually do is ask the following 
+question: are these data significantly different from what one would expect if the 
+two loci were <I>not</I> linked? With this well-defined &#034;null hypothesis&#034;, it becomes 
+possible to apply a statistical test to determine whether the data actually observed are 
+significantly different from the expected outcome for no linkage. In the example 
+above, with the analysis of 100 offspring, the null hypothesis would lead to a 
+prediction of 50 animals with a parental allele combination and 50 animals with a 
+recombinant allele combination in comparison with the observed results of 62 and 
+38 respectively. Are these two sets of numbers significantly different from each 
+other? If the answer is yes, this would suggest that the null hypothesis is false and 
+that the two loci are indeed linked. On the other hand, if the observed data are not 
+significantly different from those expected from the null hypothesis, the question of 
+linkage will remain unresolved &#151; the two loci may be unlinked, but it may also be 
+possible that the loci are linked and there are simply not enough data to detect it.
+
+<a name="9.1.3.2"></a><H3><I>9.1.3.2 A comparison of mouse linkage data and human pedigree data</I></H3>
+
+<P>Before launching into a discussion of the statistical treatment of linkage data, it is 
+important to illuminate a critical difference between linkage analysis in the mouse 
+and in humans. In nearly all cases of linkage analysis in the mouse, the parental 
+combinations of alleles &#151; the so-called <I>phase of linkage</I> &#151; will be known with 
+absolute certainty. In the example above, if we assume that the two loci in question 
+are linked, we know that the 
+<I>Xy1<SUP>c</SUP></I> and 
+<I>Gh3<SUP>c</SUP></I> alleles will be present on one homolog and the 
+<I>Xy1<SUP>b</SUP></I> and 
+<I>Gh3<SUP>b</SUP></I> alleles will be present on the other homolog in the F<SUB>1</SUB> hybrid, 
+as illustrated in 
+<a href="javascript:windowf92 = window.open('../figures/figure9-2.shtml', 'windowf22', 'width=720,height=450,resizable=yes,scrollbars=yes'); windowf92.focus()">Figure 9.2</A>. 
+With this information, we can tell immediately upon 
+typing whether an offspring carries a parental or recombinant combination of 
+alleles. 
+
+<P>More often than not, the phase of linkage is not known with certainty in the 
+analysis of human pedigrees. As a consequence, human geneticists are forced to 
+employ more sophisticated statistical tools that evaluate results in light of the 
+probabilities associated with each possible phase relationship for each parent in a 
+pedigree 
+(<a href="../references.shtml#Elston1" TARGET="_top">Elston and Stewart, 1971</a>). 
+These <I>maximum likelihood estimation</I> (MLE) 
+analyses are always performed by computer and they lead to the determination of 
+<I>LOD</I> score graphs which show the likelihood of linkage between two loci over a 
+range of map distances 
+(<A HREF="../references.shtml#Morton1" TARGET="_top">Morton, 1955</a>). With most human pedigrees, it is 
+impossible to count the actual number of recombination events that have occurred 
+between two loci, and, as a consequence, it is impossible to determine even a <I>most 
+likely</I> genetic distance separating two loci without the use of a computer. In 
+contrast, all recombination events can be clearly detected in two of the three most 
+common types of mouse breeding protocols &#151; the backcross and RI strains &#151; and 
+with the intercross, all but a small percentage of recombination events can also be 
+distinguished unambiguously (see 
+<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>). 
+With backcross and RI data in 
+particular, linkage distance estimates can be easily determined by hand or with a 
+simple calculator, and confidence limits around these estimates can be extrapolated 
+from sets of tables (such as those in 
+<A HREF="d.shtml">Appendix D</A>).
+
+<a name="9.1.3.3"></a><H3><I>9.1.3.3 The 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+test for backcross data</I></H3>
+
+<P>The standard method for evaluating whether non-Mendelian recombination 
+results are statistically significant is the &#034;method of 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>.&#034; 
+Upon calculating a value for 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>, 
+one can use a look-up table to determine the likelihood that an observed set of 
+data represents a chance deviation from the values predicted by a particular 
+hypothesis. This determination can lead one to reject or accept the hypothesis that is 
+being tested.
+
+<P>In its most general form, the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+statistic is defined as follows:<BR><BR>
+
+<A NAME="equation9.1"></A>(Equation 9.1)<BR><BR>
+
+<IMG SRC="../images/9-1.jpg" WIDTH="250" HEIGHT="76"><BR><BR>
+
+where there are <I>n</I> potential outcome classes, each of which is associated with an 
+observed number (<I>obs<SUB>i</SUB></I>) that is experimentally determined and an expected number 
+(<I>exp<SUB>i</SUB></I>) that is calculated from the hypothesis being tested. It is obvious from a quick 
+examination of 
+<A HREF="#equation9.1">Equation 9.1</A> that as the differences between observed and expected 
+values become larger, the calculated value of 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+will also become larger. Thus the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+value is inversely related to the <I>goodness of fit</I> between the experimental results 
+and the null hypothesis being tested, with a 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+value of zero indicating a perfect fit. As the value of 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+grows larger and larger, the likelihood that the experimental data 
+can be explained by the null hypothesis becomes smaller and smaller.
+
+<P>Consider the case of a backcross with the (B6 X C3H) F<SUB>1</SUB> hybrid described above to 
+analyze the possibility of linkage between the fictitious loci <I>Xy1</I> and <I>Gh3</I>. In terms of 
+these two loci, the F<SUB>1</SUB> hybrid can produce four types of meiotic products which will 
+engender four experimental outcome classes (
+<a href="javascript:windowf92 = window.open('../figures/figure9-2.shtml', 'windowf22', 'width=720,height=450,resizable=yes,scrollbars=yes'); windowf92.focus()">Figure 9.2</A>). 
+If one makes the a priori 
+assumption that the two parental classes represent different manifestations of the 
+same outcome of no recombination, and the two other classes represent, for all 
+practical purposes, reciprocal products of the same recombination event, then the 
+data can be reduced in complexity to a set of just two outcomes &#151; parental or 
+recombinant.
+<SUP><A HREF="notes.shtml#69" TARGET="_top">69</A></SUP> 
+In this case, the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+statistic becomes:<BR><BR>
+
+<A NAME="equation9.2"></A>(Equation 9.2)<BR><BR>
+
+<IMG SRC="../images/9-2.jpg" WIDTH="406" HEIGHT="76"><BR><BR>
+
+where the <I>r</I> subscript indicates recombinant and the <I>p</I> subscript indicates parental. 
+
+<P>Whenever the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+test is used to analyze data obtained from a backcross and the 
+null hypothesis is one of no linkage, a further simplification of 
+<A HREF="#equation9.2">Equation 9.2</A> can be 
+accomplished. In this case, the <I>expected</I> values for parental and recombinant classes 
+will both be equivalent to half the total number (<I>N</I>) of offspring typed (which is the 
+sum of the two observed values). Furthermore, the two observed values will both 
+differ from the expected value by the same absolute number, and the square of each 
+difference will yield the same positive value. Thus, the two terms in 
+<A HREF="#equation9.2">Equation 9.2</A> 
+can be combined to form: <BR><BR>
+
+<A NAME="equation9.3"></A>(Equation 9.3)<BR><BR>
+
+<IMG SRC="../images/9-3.jpg" WIDTH="236" HEIGHT="77"><BR><BR>
+
+<A HREF="#equation9.3">Equation 9.3</A> can be simplified even further by substituting each appearance of <I>exp<SUB>r</SUB></I> 
+with the equivalent expression (<I>obs<SUB>p</SUB> &#043; obs<SUB>r</SUB></I>)/2. The form of the equation that is so derived 
+contains only the two experimentally obtained values as variables:<BR><BR>
+
+<A NAME="equation9.4"></A>(Equation 9.4)<BR><BR>
+
+<IMG SRC="../images/9-4.jpg" WIDTH="193" HEIGHT="68"><BR><BR>
+
+<P>In plain English, 
+<A HREF="#equation9.4">Equation 9.4</A> can be read as &#034;square the difference, divide by the 
+sum&#034,; and this simple calculation can often be performed through mental 
+calculations alone.
+<SUP><A HREF="notes.shtml#70" TARGET="_top">70</A></SUP>
+
+<P>Now we can return to our example from above with 62 parental and 38 
+recombinant allele combinations and use 
+<A HREF="#equation9.4">Equation 9.4</A> to determine the appropriate 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+value. The difference between the numbers in the two observation 
+classes (62 - 38 &#061; 24) is squared to yield 576, and this value is divided by the total size of the sampled 
+population (100) to yield 5.76.
+
+<P>One more piece of information is required before it is possible to translate a 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+value into a measurement of significance &#151; the number of &#034;degrees of freedom&#034; (<I>df</I>) 
+associated with the particular experimental design. The &#034;degrees of freedom&#034; is 
+always one less than the total number of potential outcome classes (<I>df</I> &#061; <I>n</I> - 1). The 
+rationale for this definition is that it is always possible to determine the number of 
+events that have occurred in the any one class by subtracting the sum of the events 
+in all other classes from the total size of the sample set. In the backcross example 
+under discussion, we have defined two potential outcome classes: recombinant and 
+parental. Knowing the number in either class, along with the total sample size, 
+provides the number in the other class. Thus, the number of degrees of freedom in 
+this case is one. 
+
+<P>With a 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+value and the number of degrees of freedom in hand, one can proceed to a 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+probability look-up table such as the one presented in 
+<a href="javascript:windowt91 = window.open('../tables/table9-1.shtml', 'windowt91', 'width=500,height=600,resizable=yes,scrollbars=yes'); windowt91.focus()">Table 9.1</A>. 
+This table shows the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+values that are associated with different &#034;<I>P</I> values.&#034; A <I>P</I> value is a 
+measure of the probability with which a particular data set, or one even more 
+extreme, would have occured just by chance if the null hypothesis were indeed true. 
+To obtain a <I>P</I> value for the data set in the example under discussion, we would look 
+across the row associated with one degree of freedom to find the largest 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+value that is still less than the one obtained experimentally. In this case, this procedure yields the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+value of 3.8. Looking up the column from this 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+value, we obtain a <I>P</I> value of 0.05.
+<SUP><A HREF="notes.shtml#71" TARGET="_top">71</A></SUP> 
+We have now reached the final goal of our statistical test for significance.
+
+<P>In this hypothetical example, our statistical analysis indicates that the data 
+obtained would be expected to occur with a frequency of less than 5% if the two loci 
+were not linked. However, is this result significant enough to prove linkage? To answer 
+this question, it is very important to understand exactly what it is that the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+test and its associated P value do and what they do not do. The outcome of a 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+test cannot <I>prove</I> linkage or the absence thereof. It just provides one with a quantitative 
+measure of significance. What is a significant result? Traditionally, scientists have 
+chosen a <I>P</I> value of 0.05 as an arbitrary cutoff. But with this choice, one will 
+conclude <I>falsely</I> that linkage exists in one of every twenty experiments conducted on 
+loci that are, in fact, not linked! As discussed below in 
+<a href="9-1.shtml#9.1.3.6">Section 9.1.3.6</a>, the interpretation of a 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+value in modern genetic experiments that look 
+simultaneously for linkage between a test locus and large numbers of genetic 
+markers is subject to further restrictions that result from the application of Bayes' 
+theorem.
+
+<a name="9.1.3.4"></a><H3><I>9.1.3.4 The 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+test for intercross data</I></H3>
+
+<P>It is instructive to consider the application of the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+test to a breeding protocol with more than two potential outcome classes. The most relevant example of this 
+type is the intercross between two F<SUB>1</SUB> hybrid animals that are identically 
+heterozygous at two loci with a genotype of <I>A/a</I>, <I>B/b</I>. 
+<a href="javascript:windowf93 = window.open('../figures/figure9-3.shtml', 'windowf93', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf93.focus()">Figure 9.3</A> 
+illustrates the 
+different types of F<SUB>2</SUB> offspring genotypes that are possible in the form of a Punnett 
+square. In the absence of linkage between <I>A</I> and <I>B</I> one would expect each of the 
+sixteen squares shown to be represented in equal proportions among the F<SUB>2</SUB> progeny. 
+If one compares the actual genotypes present in each square, one finds that there is 
+some redundancy with only nine different genotypes in total. These are as follows 
+(with their relative occurrences in the Punnett Square shown in parenthesis):
+
+<UL> 
+<LI><I>A/A</I>, <I>B/B</I> (1) 
+<LI><I>a/a</I>, <I>b/b</I> (1) 
+<LI><I>A/a</I>, <I>B/b</I> (4) 
+<LI><I>A/A</I>, <I>B/b</I> (2) 
+<LI><I>A/a</I>, <I>B/B</I> (2) 
+<LI><I>A/a</I>, <I>b/b</I> (2) 
+<LI><I>a/a</I>, <I>B/b</I> (2) 
+<LI><I>A/A</I>, <I>b/b</I> (1) 
+<LI><I>a/a</I>, <I>B/B</I> (1) 
+</UL>
+
+However, as in the case of the backcross, these classes are 
+not really independent of each other. In particular, two classes:
+
+<UL>
+<LI><I>A/A</I>, <I>B/B</I>
+<LI><I>a/a</I>, <I>b/b</I>
+</UL>
+
+result from the transmission of parental allele combinations from both F<SUB>1</SUB> 
+parents (zero recombinants in 
+<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>), 
+four classes: 
+
+<UL>
+<LI><I>A/A</I>, <I>B/b</I>
+<LI><I>A/a</I>, <I>b/b</I>
+<LI><I>a/a</I>, <I>B/b</I>
+<LI><I>A/a</I>, <I>B/B</I>
+</UL>
+
+result from a single recombination event in one parent or the other, 
+two classes result from two recombination events:
+
+<UL>
+<LI><I>A/A</I>, <I>b/b</I>
+<LI><I>a/a</I>, <I>B/B</I>
+</UL>
+
+and the final class (<I>A/a</I>, <I>B/b</I>) is ambiguous and could result from either no recombination in 
+either parent or recombination events in both parents. Thus, the the nine genotypic 
+outcomes from the double heterozygous intercross can be combined into four truly 
+independent genotypic classes. By adding up the number of squares included within 
+any one class and dividing by the total (16), one obtains the fraction of offspring 
+expected in each in the case of the null hypothesis:
+
+<UL>
+<LI>zero recombinants &#151; 1/8
+<LI>single recombinants &#151; 1/2
+<LI>double recombinants &#151; 1/8
+<LI>ambiguous (zero or two recombinants) &#151; 1/4
+</UL>
+
+As discussed above, four outcome classes yield three degrees of 
+freedom. 
+
+<P>With this information, it becomes possible to set up a 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+test to evaluate the evidence for linkage between two segregating loci typed among the progeny of an 
+(F<SUB>1</SUB> X F<SUB>1</SUB>) intercross. The special 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+equation for the intercross takes the following 
+form:<BR><BR>
+
+<A NAME="equation9.5"></A>(Equation 9.5)<BR><BR>
+
+<IMG SRC="../images/9-5.jpg" WIDTH="500" HEIGHT="51"><BR><BR>
+
+where the subscript in each observational class indicates the number of 
+recombination events (<I>obs<SUB>a</SUB></I> is the ambiguous class) and <I>N</I> is the total number of F<SUB>2</SUB> 
+progeny typed. An comparison of the experimentally determined 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+value with the critical values shown in the <I>df</I> &#061; 3 row of 
+<a href="javascript:windowt92 = window.open('../tables/table9-2.shtml', 'windowt92', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt92.focus()">Table 9.2</a> 
+will allow a determination of a corresponding <I>P</I> value.
+
+<a name="9.1.3.5"></a><H3><I>9.1.3.5 Limitations and corrections in the use of the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> test</I></H3>
+
+<P>The 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+test does have some limitations in usage. First, it cannot be applied to 
+very small data sets, which are defined as those in which 20% or more of the 
+outcome classes have expected values that are less than five 
+(<a href="../references.shtml#Cochran1" TARGET="_top">Cochran, 1954</a>). With 
+this rule, it is possible to set minimum sample sizes required for the analysis of 
+backcross data at 10, and F<SUB>1</SUB> X F<SUB>1</SUB> intercross data at 40. In actuality, a backcross or RI 
+data set must include at least 13 samples to show significance in the case of no 
+recombinants (based on the Bayesian correction described below). Furthermore, 
+when the sample size is below 40 (in cases of one degree of freedom only), a more 
+accurate <I>P</I> value is obtained if one includes the <I>Yates correction</I> for small numbers. 
+This is accomplished by subtracting 0.5 from the absolute difference between 
+observed and expected values in the numerator of 
+<A HREF="#equation9.3">Equation 9.3</A>.
+
+<P>A final point is that 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+analysis provides a general statistical test for significance 
+that can be used with many different experimental designs and with null 
+hypotheses other than the complete absence of linkage. As long as a null hypothesis 
+can be proposed that leads to a predicted set of values for a defined set of data classes, 
+then one can readily determine the goodness of fit between the null hypothesis and 
+the data that are actually collected.
+
+<a name="9.1.3.6"></a><H3><I>9.1.3.6 A Bayesian correction for whole genome linkage testing</I></H3>
+ 
+<P>If one has reason to believe <I>from other results</I> that two loci are just as likely to 
+be linked as not, then the <I>P</I> value obtained with the 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+test can be used directly as an 
+estimate of the probability with which the null hypothesis is likely to be true, and 
+subtracting the <I>P</I> value from the integer one provides a direct estimate of the 
+probability of linkage. However, when a previously unmapped locus is being tested 
+for linkage to a large number of markers across the genome, there is usually no a 
+priori reason to expect linkage between the new locus and any one particular marker 
+locus. If we assume a particular experimental design such that linkage is detectable 
+out to 25 cM on both sides of an unmapped locus
+<SUP><A HREF="notes.shtml#72" TARGET="_top">72</A></SUP> 
+and a total genome length of 
+1,500 cM, then the fraction of the genome in linkage with the novel locus will be 
+(25 &#043; 25)/1,500 &#126;&#061; 0.033. In other words, out of 100 markers distributed randomly 
+across the genome, one would expect only 3.3 to actually be in linkage with any 
+particular test locus. But, if one accepts a <I>P</I> value of 0.05 as providing evidence for 
+linkage, then 5% of the unlinked 97 loci &#151; or an additional &#126;5 loci &#151; will be falsely 
+considered linked according to this statistical test. As a consequence, the expected 
+number of false positives &#151; five &#151; is larger than the expected number of truly linked 
+loci &#151; 3.3. Thus, of the 8.3 positive markers expected, only 3.3 would be linked, and 
+this means that a <I>P</I> value of 0.05 has only provided a probability of linkage of 40%. 
+This situation is clearly unacceptable.
+
+<P>The logical approach just discussed is referred to as Bayesian analysis after the 
+statistician who first suggested that prior information on the likelihood of outcomes 
+be included in calculations of probabilities. One can generalize from the example 
+given to obtain a Bayesian equation for converting any <I>P</I> value obtained by 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+analysis of recombination data into an actual estimate of the probability of linkage:
+<SUP><A HREF="notes.shtml#73" TARGET="_top">73</A></SUP>
+<BR><BR>
+
+<A NAME="equation9.6"></A>(Equation 9.6)<BR><BR>
+
+<IMG SRC="../images/9-6.jpg" WIDTH="555" HEIGHT="100"><BR><BR>
+
+where <I>P</I> is the <I>P</I> value obtained by 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+analysis and <I>f</I><SUB>swept</SUB> is the fraction of the 
+genome over which linkage can be detected based on the power of the genetic 
+approach used.
+<SUP><A HREF="notes.shtml#74" TARGET="_top">74</A></SUP> 
+Solutions to 
+<A HREF="#equation9.6">Equation 9.6</A> for some critical <I>P</I> values and genomic 
+distances are given in 
+<a href="javascript:windowt92 = window.open('../tables/table9-2.shtml', 'windowt92', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt92.focus()">Table 9.2</A>. 
+Of interest are the <I>P</I> values required to provide 
+evidence for linkage with 95% probability. So long as the experimental design allows 
+detection of linkage out to 15 cM, one can use a cutoff <I>P</I> value of 0.001 as evidence 
+for linkage between any two loci. In accepting linkage at <I>P</I> &#060; 0.001, one is actually 
+setting a limit for accepting less than one false positive result for every 20 true 
+positive results. Later in this chapter, the Bayesian approach is used to calculate 
+cutoff values for the demonstration of linkage with 95% probability in the case of RI 
+strain data 
+(<a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A>) 
+and backcross data 
+(<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>).
+
+<DIV Align="center"><H4> <A HREF="8-4.shtml">Previous</A> <A HREF="9-2.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure D2</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figureD2.gif" Alt="Figure D2" Width="517" Height="289"></TD></TR>
+
+<TR><TD>
+<B>Figure D2</B> 
+One discordance between SDPs for 26 RI strains. 
+The probability density function is shown for interlocus distances associated with the experimental finding of one discordant strain between the 
+SDPs obtained for two loci in the typing of 26 RI strains (for example, the complete BXD set). 
+This function is defined by the equation:<BR><BR> 
+f(<I><a href="javascript:windowm4 = window.open('smalltheta.shtml', 'windowm4', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm4.focus()">small-theta</A></I>) 
+&#061; 
+<I><a href="javascript:windowm4 = window.open('smalltheta.shtml', 'windowm4', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm4.focus()">small-theta</A></I>
+<SUP>1</SUP>(1 - 
+<I><a href="javascript:windowm4 = window.open('smalltheta.shtml', 'windowm4', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm4.focus()">small-theta</A></I>)
+<SUP>26 - 1</SUP><BR><BR>
+in which 
+<I><a href="javascript:windowm4 = window.open('smalltheta.shtml', 'windowm4', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm4.focus()">small-theta</A></I> 
+is the recombination fraction; 
+the curve shown has been normalized arbitrarily to a value of 1.0 at the maximum likelihood recombination fraction 
+<I><a href="javascript:windowm4 = window.open('smalltheta.shtml', 'windowm4', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm4.focus()">small-theta</A></I> 
+&#061; 
+<I><a href="javascript:windowm12 = window.open('thetahat.shtml', 'windowm12', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm12.focus()">Theta-hat</A></I>. 
+Recombination fractions are converted into 
+<A HREF="../glossary.shtml#centimorgan" TARGET="_blank">centimorgan</A> distances (
+<I><a href="javascript:windowm9 = window.open('dhat.shtml', 'windowm9', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm9.focus()">d-hat</A></I>) 
+with the Haldane-Waddington equations 
+(<A HREF="../frames/frame9-2-E9-7.shtml" TARGET="_blank">Equation 9.7</A> and 
+<A HREF="../frames/frame9-2-E9-8.shtml" TARGET="_blank">Equation 9.8</A>) 
+and the assumption of complete interference over the range shownduring each individual meiosis. 
+The median linkage distance estimate 
+<I><a href="javascript:windowm3 = window.open('dbar.shtml', 'windowm3', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm3.focus()">d-bar</A></I> 
+is defined at the midline of the area under the complete density function. 
+Minimum and maximum confidence limits are indicated for the 68% interval and the 95% interval.
+<BR><BR>
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

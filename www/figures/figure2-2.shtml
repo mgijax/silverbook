@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 2.2 - A phylogenetic tree of the Mus species group</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figure2-2.gif" Alt="Figure 2.2" Width="650" Height="481"> </TD></TR>
+
+<TR><TD>
+<B>Figure 2.2</B> 
+A phylogenetic tree of the <I>Mus</I> species group. All of the extant species within the <I>Mus</I> subgenus of the <I>Mus</I> genus are shown. 
+<a href="javascript:windowt21 = window.open('../tables/table2-1.shtml', 'windowt21', 'width=640,height=600,resizable=yes,scrollbars=yes'); windowt21.focus()">Table 2.1</A> 
+lists the other subgenera in the <I>Mus</I> genus. 
+<I>Domesticus</I>, <I>musculus</I>, <I>castaneus</I>, and <I>bactrianus</I> are all subspecies within the <I>M. musculus</I> group. 
+All other lines represent well-defined species. 
+The geographical distributions of <I>M. musculus</I> subspecies are illustrated in 
+<a href="javascript:windowf23 = window.open('figure2-3.shtml', 'windowf23', 'width=670,height=450,resizable=yes,scrollbars=yes'); windowf23.focus()">Figure 2.3</A>.
+The general distributions of all other species are indicated next to their names here. 
+The indicated times of divergence between evolutionary lines in millions of years before present (myr BP) are consensus estimates based on data from various sources 
+(<A HREF="../references.shtml#Ferris2" TARGET="_blank">Ferris et al., 1983b</A>; 
+<A HREF="../references.shtml#Bonhomme1" TARGET="_blank">Bonhomme, 1986</A>; 
+<A HREF="../references.shtml#Berry2" TARGET="_blank">Berry and Corti, 1990</A>; 
+<A HREF="../references.shtml#Boursot1" TARGET="_blank">Boursot et al., 1993</A>; 
+<A HREF="../references.shtml#Hammer3" TARGET="_blank">Hammer and Silver, 1993</A>).
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

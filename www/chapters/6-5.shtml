@@ -1,0 +1,129 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>6.5 FURTHER USES OF TRANSGENIC TECHNOLOGIES</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<TD width="80%" valign="top">
+
+<DIV Align="center"><H4> <A HREF="6-4.shtml">Previous</A> <A HREF="7-1.shtml">Next</A></H4></DIV>
+
+<a name="6.5"></a><H2>6.5 FURTHER USES OF TRANSGENIC TECHNOLOGIES</H2>
+
+<a name="6.5.1"></a><H3>6.5.1 Insertional mutagenesis and gene trapping</H3>
+
+<P>As indicated earlier in this chapter, one side product of many transgenic experiments is the generation of mice in which a transgene 
+insertion has disrupted an endogenous gene with a consequent effect on phenotype. Unlike spontaneous or mutagen-induced mutations, 
+&#034;insertional mutations&#034; of this type are directly amenable to molecular analysis because the disrupted locus is tagged with the transgene 
+construct. Unexpected insertional mutations have provided instant molecular handles not only for interesting new loci but for classical 
+loci, as well, that had not been cloned previously 
+(<A HREF="../references.shtml#Meisler1" TARGET="_top">Meisler, 1992</A>).
+
+<P>When insertional mutagenesis, rather than the analysis of a particular transgene construct, is the goal of an experiment, one can use 
+alternative experimental protocols that are geared directly toward gene disruption. The main strategies currently in use are based on the 
+introduction into ES cells of beta-galactosidase reporter constructs that either lack a promoter 
+(<A HREF="../references.shtml#Gossler1" TARGET="_top">Gossler et al., 1989</A>; 
+<A HREF="../references.shtml#Friedrich1" TARGET="_top">Friedrich and Soriano, 1991</A>) or are disrupted by an intron 
+(<A HREF="../references.shtml#Kramer1" TARGET="_top">Kramer and Erickson, 1981</A>). The constructs can be introduced by DNA transfection or within the context of a retrovirus 
+(<A HREF="../references.shtml#Robertson1" TARGET="_top">Robertson, 1991</A>). It is only when a construct integrates into a gene undergoing transcriptional activity that 
+functional beta-galactosidase is produced, and producing cells can be easily recognized by a color assay. Of course, the production of &#034;beta-gal&#034; 
+will usually mean that the normal product of the disrupted gene can not be made and thus this protocol provides a means for the direct isolation 
+of ES cells with tagged mutations in genes that function in embryonic cells. Mutant cells can be incorporated into chimeric embryos for the 
+ultimate production of homozygous mutant animals that will display the phenotype caused by the absence of the disrupted locus. This entire 
+technology, referred to as &#034;gene trapping&#034; 
+(<A HREF="../references.shtml#Joyner2" TARGET="_top">Joyner et al., 1992</A>), is clearly superior to traditional chemical methods for the production of mutations at novel 
+loci.
+
+<a name="6.5.2"></a><H3>6.5.2 A database and a repository of genetically engineered mice</H3>
+
+<P>A 
+<A HREF="http://tbase.jax.org/" TARGET="_top">computerized database</A> (called 
+<A HREF="http://tbase.jax.org/" TARGET="_top">TBASE</A>) has been developed to help investigators catalog the strains that they produce and find potentially useful 
+strains produced by others 
+(<A HREF="../references.shtml#Woychik1" TARGET="_top">Woychik et al., 1993</A>). The database is available over the Internet through the 
+Johns Hopkins Computational Biology Gopher Server and is linked to the on-line mouse databases maintained by the 
+<A HREF="<!--#include file='include/mgi.html'-->" TARGET="_top">Jackson Laboratory Informatics Group</A> (see 
+<A HREF="b.shtml">Appendix B</A>).
+
+<P>Although the gene replacement technology has been employed with success by increasing numbers of laboratories, it is still the case, and likely to remain so, 
+that an enormous amount of time and effort goes into the production of each newly engineered mouse strain. Clearly, it does not make sense to derive 
+strains with the same gene replacement more than once. However, with the high costs of animal care and maintenance, it is often difficult for researchers 
+to maintain strains that they are no longer actively using. Furthermore, many individual research colonies are contaminated by various viruses, and as 
+such, virus-free facilities are reluctant to import mice from anywhere other than reputable dealers. 
+<A HREF="a.shtml">The Jackson Laboratory</A> has recently come to the 
+rescue by setting up a clearing house to preserve what are likely to be the most useful of these strains for other members of the worldwide research 
+community. For the first time, JAX will be importing mice from large numbers of individual researchers. Each strain will be rederived by Caesarean section 
+into a germ-free barrier facility, and will be made available for a nominal cost, without experimental restriction, to all members of the research community.
+
+<a name="6.5.3"></a><H3>6.5.3 The future</H3>
+
+<P>With the various technologies that have now been developed to manipulate the genomes of embryonic cells combined with ever more sophisticated molecular 
+tools, it can be stated without exaggeration that the sky is the limit for what can be accomplished with the mouse as a model genetic system. It is always 
+impossible to predict what the future holds, but one can imagine the use of both gene addition and gene replacement technologies as routine tools for 
+assessing the functions of sequential segments of DNA obtained by walking along each mouse and human chromosome. With recent reports of success in the 
+insertion of intact yeast artificial chromosome (YAC)-sized DNA molecules of 250 kb or more in length into the germline of transgenic animals, it becomes feasible to analyze even larger 
+chunks of DNA for the presence of interesting genetic elements 
+(<A HREF="../references.shtml#Jakobovits1" TARGET="_top">Jakobovits et al., 1993</A>; 
+<A HREF="../references.shtml#Schedl1" TARGET="_top">Schedl et al., 1993</A>). In fact, it is only with experiments of this type that it will be possible to completely uncover 
+all of the pathways through which a gene is regulated, and all of the pathways through which a gene product may function. Just as the study of neurons in 
+isolation can not possibly provide a clue to human consciousness, the study of individual genes outside of the whole animal can not possibly provide a clue 
+to the network of interactions required for the growth and development of a whole mouse or person.
+
+<DIV Align="center"><H4> <A HREF="6-4.shtml">Previous</A> <A HREF="7-1.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

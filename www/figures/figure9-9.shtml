@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 9.9 - Comparison of Linkage Maps Generated with RI Data and Backcross Data</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figure9-9.gif" Alt="Figure 9.9" Width="277" Height="400"> </TD></TR>
+
+<TR><TD>
+<B>Figure 9.9</B> 
+Comparison of linkage maps generated with RI data and backcross data. 
+Two separately generated linkage maps over the same set of loci in the proximal portion of Chr 17 are shown. 
+The RI map is based on SDP data presented in 
+<a href="javascript:windowf96 = window.open('figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
+The backcross map is based on data obtained by 
+<A HREF="../references.shtml#Himmelbauer1" TARGET="_blank">Himmelbauer and Silver (1993)</A>. 
+The scales on either side of the Figure are in 
+<A HREF="../glossary.shtml#centimorgan" TARGET="_blank">centimorgans</A> with the most centromeric locus &#151; 
+<I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:894608" TARGET="_blank">D17Leh119</A></I> 
+&#151; arbitrarily placed at both zero points.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 8.6 Restriction site polymorphism detection by PCR</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figure8-6.gif" Alt="Figure 8.6" Width="650" Height="219"> </TD></TR>
+
+<TR><TD>
+<B>Figure 8.6</B> 
+Restriction site polymorphism detection by PCR. 
+In this example, primers have been chosen that are 200 bp upstream and 150 bp downstream of a polymorphic <I>Taq</I>I site. 
+The initial PCR product amplified from both restriction site alleles will have the same length of 350 bp. 
+However, the two alleles can be distinguished by subjecting the PCR products to digestion with <I>Taq</I>I and then fractionating the DNA by gel electrophoresis. 
+At the right is an illustration of the ethidium bromide patterns that will be observed with each of the three possible genotypes.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

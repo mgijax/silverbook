@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table D7</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<B>Table D7</B>  Critical values of the <I>t</I> distribution associated with 
+selected <I>P</I> values for 10 - 1,000 degrees of freedom (<I>df</I>)
+
+<CENTER>
+<TABLE Border="0" CELLPADDING="5">
+
+<TR><TD COLSPAN="11"><HR></TD></TR>
+
+<TR><TD>&nbsp;</TD><TD>&nbsp;</TD><TD ALIGN="CENTER" COLSPAN="9"><I>P</I> values</TD></TR>
+
+<TR><TD>&nbsp;</TD><TD>&nbsp;</TD><TD COLSPAN="9"><HR></TD></TR>
+
+<TR>
+<TD ALIGN="RIGHT"><I>df</I></TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.05</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.01</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.005</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.001</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>0.0005</TD>
+</TR>
+
+<TR><TD COLSPAN="11"><HR></TD></TR>
+
+<TR>
+<TD ALIGN="RIGHT">10</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1.81</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.76</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.17</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4.14</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4.59</TD>
+</TR>
+
+<TR>
+<TD ALIGN="RIGHT">15</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1.75</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.60</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.95</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.73</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>4.07</TD>
+</TR>
+
+<TR>
+<TD ALIGN="RIGHT">20</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1.73</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.53</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.85</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.55</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.85</TD>
+</TR>
+
+<TR>
+<TD ALIGN="RIGHT">30</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1.70</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.46</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.75</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.39</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.65</TD>
+</TR>
+
+<TR>
+<TD ALIGN="RIGHT">40</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1.68</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.42</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.70</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.30</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.55</TD>
+</TR>
+
+<TR>
+<TD ALIGN="RIGHT">60</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1.67</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.40</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.66</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.23</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.46</TD>
+</TR>
+
+<TR>
+<TD ALIGN="RIGHT">100</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1.66</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.36</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.63</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.17</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.39</TD>
+</TR>
+
+<TR>
+<TD ALIGN="RIGHT">1,000</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>1.65</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.33</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>2.58</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.10</TD><TD>&nbsp;</TD>
+<TD ALIGN=CENTER>3.30</TD>
+</TR>
+
+<TR><TD COLSPAN="11"><HR></TD></TR>
+
+</TABLE>
+</CENTER>
+
+</BODY>
+</HTML>

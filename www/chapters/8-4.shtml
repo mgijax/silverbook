@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>8.4 REGION-SPECIFIC PANELS OF DNA MARKERS</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="8-3.shtml">Previous</A> <A HREF="9-1.shtml">Next</A></H4></DIV>
+
+<a name="8.4"></a><H2>8.4 REGION-SPECIFIC PANELS OF DNA MARKERS</H2>
+
+<P>A large fraction of the gene mapping studies performed today have as an ultimate goal the cloning of a phenotypically defined locus based on its chromosomal position. This process of 
+<i>positional cloning</i> (discussed in detail in 
+<A HREF="10-3.shtml#10.3">Section 10.3</A>) is still rather tedious, and it is usually dependent on two experimental tools that exist in 
+the form of panels. The first panel consists of DNA samples obtained from the offspring of a cross set up to uncover recombination events between and among the phenotypically defined 
+locus and nearby marker loci. The types of crosses that can be used and the number of offspring to be analyzed are topics of the 
+<A HREF="9-1.shtml">following chapter</A>. In all cases, analysis of a large number 
+of offspring is required to have a reasonable chance at identifying recombination breakpoints that are close to the locus of interest.
+
+<P>Identification of the recombination breakpoints that lie closest to the locus of interest is dependent on the availability of a sufficient number of region-specific polymorphic DNA 
+markers. This is the second panel of tools. Ideally, one would like to have at hand a set of markers, such as microsatellites, distributed at average distances of a few hundred kilobases 
+apart. This would provide sufficient resolution for the mapping of recombination sites 
+(<A HREF="7-2.shtml#7.2.3">Section 7.2.3</A> and 
+<a href="javascript:windowf75 = window.open('../figures/figure7.5.shtml', 'windowf75', 'width=700,height=430,resizable=yes,scrollbars=yes'); windowf75.focus()">Figure 7.5</A>) 
+as well for the recovery of overlapping YAC clones 
+(<A HREF="10-3.shtml#10.3.3">Section 10.3.3</A>).
+
+<P>Before 1994, most regions of the genome were not covered to this degree, and it was nearly always necessary for investigators to pursue special strategies to increase the size of the 
+region-specific marker panel. However, as this section is being written, the average whole genome density of mapped microsatellite markers has reached one per megabase, and within a year's 
+time, it will be one per 500 kb. Furthermore, contigs of overlapping YAC clones have been developed for two complete human chromosome arms &#151; 21q and the Y 
+(<A HREF="../references.shtml#Chumakov1" TARGET="_top">Chumakov et al., 1992</A>; 
+<A HREF="../references.shtml#Foote1" TARGET="_top">Foote et al., 1992</A>), and it is only a matter of time before additional human chromosomes 
+and mouse chromosomes are added to this list. If an ordered, whole chromosome library is available, one can go directly to the clones that span the region of interest to derive polymorphic 
+marker loci. This could be readily accomplished, for example, by screening for microsatellites within these clones.
+
+<P>Thus, what follows will soon be of historical interest only for mouse geneticists: approaches that investigators have used in the past to generate region-specific panels of DNA markers. 
+These approaches have been included here for two reasons. First, to enable all readers to appreciate earlier work in this area of mouse molecular genetics. Second, to describe tools that may 
+still be critical for geneticists working on organisms whose genomes are less well characterized than that of the mouse.
+
+<P>All rational approaches to region-specific cloning are based on fractionating the genome such that only a single chromosome or defined subchromosomal region is accessible 
+<i>prior</i> to the recovery of clones that can be tested for use as DNA markers. Genome fractionation protocols fall into several classes with certain advantages and disadvantages. The 
+major classes of genome fractionation methods are described in the following subsections.
+
+<a name="8.4.1"></a><H3>8.4.1 Chromosome microdissection</H3>
+
+<P>The most direct means for genome fractionation is based on &#034;microscopic dissection&#034; (or <i>microdissection</i> as it is commonly called) of the region of interest from spreads of 
+metaphase chromosomes on glass slides. This technique was first developed for the isolation of polytene chromosome bands from <I>Drosophila</I> salivary gland chromosomes 
+(<A HREF="../references.shtml#Scalenghe1" TARGET="_top">Scalenghe et al., 1981</A>), and was later modified for use with mammalian chromosomes 
+(<A HREF="../references.shtml#Rohme1" TARGET="_top">R&#246;hme et al., 1984</A>). To aid in the identification of the 
+correct chromosome, one can start with cells from mice in which the chromosome is marked karyotypically within the context of a single Robertsonian chromosome 
+(<A HREF="../references.shtml#Rohme1" TARGET="_top">R&#246;hme et al., 1984</A>, see 
+<A HREF="5-2.shtml">Section 5.2</A>). Microdissection is an extremely tedious protocol that is difficult to master, and it is this difficulty that is its main drawback. However, the most 
+skilled practitioners can circumscribe the region of dissection to a few chromosomal bands. This can represent a 100-fold enrichment from the whole genome, with almost no contamination from 
+unlinked chromosomal regions. Although chromosome microdissection was developed prior to PCR, it is when the two techniques are combined that the power of this approach becomes apparent with 
+the potential for generating thousands of markers from a very well-defined subchromosomal interval 
+(<A HREF="../references.shtml#Ludecke1" TARGET="_top">Ludecke et al., 1989</A>; 
+<A HREF="../references.shtml#Bohlander1" TARGET="_top">Bohlander et al., 1992</A>). Detailed protocols for performing chromosome microdissection followed by cloning have been described in a monograph by 
+<A HREF="../references.shtml#Hagag1" TARGET="_top">Hagag and Viola (1993)</A>.
+
+<a name="8.4.2"></a><H3>8.4.2 Chromosome sorting by FACS</H3>
+
+<P>A less tedious protocol for direct genomic fractionation is based on the utilization of a fluorescent-activated cell sorter (FACS) to separate the metaphase chromosome of interest away 
+from all other chromosomes 
+(<A HREF="../references.shtml#Gray1" TARGET="_top">Gray et al., 1987</A>). The starting material for this protocol must come from a cell line in which this chromosome is physically distinguishable from all others. 
+Sources of such chromosomes include cells from animals with an appropriate Robertsonian translocation 
+(<A HREF="../references.shtml#Bahary1" TARGET="_top">Bahary et al., 1992</A>) or interspecific somatic cell hybrid lines that contain only the foreign chromosome or subregion of interest 
+(<A HREF="10-2.shtml#10.2.3">Section 10.2.3</A>). The material obtained from a typical FACS sort is likely to be 50-70% pure, equivalent to an enrichment factor of about ten-fold, with the 
+remaining material due to contaminants from other chromosomes. The resolution of the FACS chromosome fractionation protocol is clearly much less than that possible with microdissection, and 
+this is its main drawback. The main advantage of this protocol is that a greater amount of material can be recovered and used directly to construct chromosome-specific large-insert genomic libraries 
+(<A HREF="../references.shtml#Bahary1" TARGET="_top">Bahary et al., 1992</A>).
+
+<a name="8.4.3"></a><H3>8.4.3 Somatic cell hybrid lines as a source of fractionated material</H3>
+
+<P>A variety of somatic cell hybrid lines have been generated that contain only one or a few mouse chromosomes on the genetic background of a different species as described in 
+<A HREF="10-2.shtml#10.2.2">Section 10.2.2</A>. The host genomes used most often to create somatic cell hybrid lines of use to mouse geneticists are Chinese hamster and human. The main advantage of 
+well-characterized somatic cell hybrid lines is the ease with which they can be used, and the unlimited amount of high quality material that they can provide. The main disadvantage is that mouse 
+genomic material is not alone, but mixed together with the whole genome of another species. Thus, to derive mouse-specific clones for use as markers, one must choose a protocol that allows the 
+discrimination of mouse sequences from these other sequences, be they hamster or human. This can be accomplished by enlisting the highly repetitive element families B1, B2 and L1, that are unique 
+to the mouse genome. The earlier approaches along this line were based on the construction of whole genome libraries from the cell line and then screening for mouse-containing clones with one or 
+more repeat sequences 
+(<A HREF="../references.shtml#Kasahara1" TARGET="_top">Kasahara et al., 1987</A>). Of course, once such repeat element clones were obtained, it was imperative to subclone unique flanking sequences for use as DNA markers. 
+More recently, the IRS-PCR technique described in 
+<A HREF="8-3.shtml#8.3.5">Section 8.3.5</A> has been used with great success in the rapid recovery of mouse-specific sequences from somatic cell hybrid lines 
+(<A HREF="../references.shtml#Simmler1" TARGET="_top">Simmler et al., 1991</A>; 
+<A HREF="../references.shtml#Herman2" TARGET="_top">Herman et al., 1992</A>). With IRS-PCR, there is no need to first prepare a whole genome library.
+
+<P>An obvious limitation to the recovery of region-specific probes with IRS-PCR is that amplification will only occur between repetitive elements that are relatively close to each other and in the 
+correct orientation. With the use of just the B2 primer, Herman and her colleagues 
+(<A HREF="../references.shtml#Herman1" TARGET="_top">1991</A>) were able to amplify approximately one PCR product for each megabase of mouse DNA present in somatic cell lines containing portions of the mouse 
+X chromosome. With the use of other repeat element primers, alone or in combination, additional loci could be amplified 
+(<A HREF="../references.shtml#Simmler1" TARGET="_top">Simmler et al., 1991</A>; 
+<A HREF="../references.shtml#Herman2" TARGET="_top">Herman et al., 1992</A>). PCR fragments can be readily excised from gels for cloning or for direct use as probes for linkage analysis.
+
+<a name="8.4.4"></a><H3>8.4.4 Miscellaneous approaches</H3>
+
+<P>Under special circumstances, other approaches can be considered for obtaining an enrichment of sequences from particular subregions of the genome. For example, if the region is contained within a 
+defined <i>Not</i>I restriction fragment (or one derived from another infrequent cutter) that is sufficiently larger than the one megabase average, it would be possible to excise the portion of a 
+pulsed field gel that contained this fragment followed by amplification (IRS-PCR or random sequence) and cloning. This procedure could provide as much as a 10-fold enrichment for sequences within a 
+multiple-megabase region 
+(<A HREF="../references.shtml#Michiels1" TARGET="_top">Michiels et al., 1987</A>).
+
+<P>In another approach, Hardies and colleagues 
+(<A HREF="../references.shtml#Rikke1" TARGET="_top">Rikke et al., 1991</A>; 
+<A HREF="../references.shtml#Rikke2" TARGET="_top">Rikke and Hardies, 1991</A>; 
+<A HREF="../references.shtml#Herman2" TARGET="_top">Herman et al., 1992</A>) 
+have taken advantage of the concerted evolution of L1 sequences that occurs within a species 
+(see <A HREF="5-3.shtml#5.3.3.3">Section 5.3.3.3</A>) 
+to develop specific oligonucleotides that recognize L1 subfamilies that are relatively unique to the genomes of either <i>M. spretus</i> or <i>M. musculus</i> (see 
+<A HREF="5-4.shtml#5.4.2">Section 5.4.2</A>). 
+These oligonucleotides can be used to probe whole genome libraries made from animals congenic for a chromosomal region of 
+interest from one species within the genetic background of the other species. This protocol has been validated in another laboratory 
+(<A HREF="../references.shtml#Himmelbauer1" TARGET="_top">Himmelbauer and Silver, 1993</A>) and could serve to provide a small number of new 
+markers from those limited cases where the appropriate congenic lines have been 
+constructed. In genetic terms, congenic strains are far superior to somatic cell hybrids because the region of 
+interest can be more greatly circumscribed. As indicated in 
+<a href="javascript:windowf36 = window.open('../figures/figure3.6.shtml', 'windowf36', 'width=580,height=380,resizable=yes,scrollbars=yes'); windowf36.focus()">Figure 3.6</A>, 
+after ten generations of backcrossing, the differential region will have an average length of 20 cM, and after 20 generations of backcrossing, 
+the average differential length will be reduced to 10 cM.
+
+<P>Finally, in theory, one should be able to enrich for a region deleted in one genome, but not another, by subtractive hybridization. This approach has been tried in various formats 
+that are all dependent on the use of a large excess of DNA from the deleted genome to drive hybrid formation with sequences that are also present in the non-deleted or &#034;tester genome&#034; 
+(<A HREF="../references.shtml#Kunkel1" TARGET="_top">Kunkel et al., 1985</A>). If the driver sequences are tagged in some way, they can be removed from the completed reaction mixture along with the 
+tester sequences to which they hybridized. &#034;Target sequences&#034; unique to the tester genome &#151; in other words, those that have been deleted from the driver genome &#151; will all 
+be left behind in the solution ready for analysis or cloning.
+
+<P>In practice, this approach has never worked as well as one would like because the high complexity of the mammalian genome prevents the hybridization reaction from going to completion. 
+Even when subtractive steps are reiterated, the target sequences have only been enriched by a factor of 100-1000 at the very most. Thus, in its original form, this approach has 
+lost favor. More recently, Wigler and his colleagues have built upon the subtractive hybridization approach to a develop a PCR-based technique that is much more sensitive and highly resolving 
+(<A HREF="../references.shtml#Lisitsyn1" TARGET="_top">Lisitsyn et al., 1993</A>). This new technique, called representational difference analysis (RDA), can be used to purify <i>to completion</i> 
+sequences that are deleted from one genome but not another that is otherwise identical. In theory, this same technique could also be used in manner analogous to that described for 
+the L1 sequences above, for the identification and cloning of new RFLPs that are present in the differential DNA segment that distinguishes two members of a congenic pair.
+
+<DIV Align="center"><H4> <A HREF="8-3.shtml">Previous</A> <A HREF="9-1.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

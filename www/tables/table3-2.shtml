@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 3.2 Categories of genetic crosses</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<TABLE Border="0" CELLPADDING=3>
+<B>Table 3.2</B> Categories of genetic crosses
+
+<TR><TD COLSPAN=4><HR></TD></TR>
+<TR><TD>Designation</TD>
+<TD>Types of matings</TD>
+<TD>Offspring genotypes</TD>
+<TD WIDTH=35%>Major uses</TD></TR>
+<TR><TD COLSPAN=4><HR></TD></TR>
+
+<TR><TD VALIGN=TOP><A HREF="../glossary.shtml#Backcross" TARGET="_blank">Backcross</A></TD>
+<TD VALIGN=TOP><TABLE Border="0">
+<TR><TD>(1) <I>A/a</I> X <I>A/A</I></TD></TR>
+<TR><TD>(2) <I>A/a</I> X <I>a/a</I></TD></TR>
+</TABLE></TD>
+<TD VALIGN=TOP><TABLE Border="0">
+<TR><TD>(1) <I>A/a, A/A</I></TD></TR>
+<TR><TD>(2) <I>A/a, a/a</I></TD></TR>
+</TABLE></TD>
+<TD VALIGN=TOP>Linkage analysis; production of congenic strains</TD></TR>
+
+<TR><TD VALIGN=TOP><A HREF="../glossary.shtml#Incross" TARGET="_blank">Incross</A></TD>
+<TD VALIGN=TOP><TABLE Border="0">
+<TR><TD>(1) <I>A/A</I> X <I>A/A</I></TD></TR>
+<TR><TD>(2) <I>a/a</I> X <I>a/a</I></TD></TR>
+</TABLE></TD>
+<TD VALIGN=TOP><TABLE Border="0">
+<TR><TD>(1) <I>A/A</I></TD></TR>
+<TR><TD>(2) <I>a/a</I></TD></TR>
+</TABLE></TD>
+<TD VALIGN=TOP>Maintenance of an inbred strain</TD></TR>
+
+<TR><TD VALIGN=TOP><A HREF="../glossary.shtml#Intercross" TARGET="_blank">Intercross</A></TD>
+<TD VALIGN=TOP><TABLE Border="0">
+<TR><TD><I>A/a</I> X <I>A/a</I></TD></TR>
+</TABLE></TD>
+<TD VALIGN=TOP><TABLE Border="0">
+<TR><TD><I>A/a, A/A, a/a</I></TD></TR>
+</TABLE></TD>
+<TD VALIGN=TOP>Linkage analysis</TD></TR>
+
+<TR><TD VALIGN=TOP><A HREF="../glossary.shtml#Outcross" TARGET="_blank">Outcross</A></TD>
+<TD VALIGN=TOP><TABLE Border="0">
+<TR><TD>(1) <I>A/A</I> X <I>a/a</I></TD></TR>
+<TR><TD>(2) <I>a<SUP>1</SUP>/a<SUP>2</SUP></I> X <I>a<SUP>3</SUP>/a<SUP>4</SUP></I></TD></TR>
+</TABLE></TD>
+<TD VALIGN=TOP><TABLE Border="0">
+<TR><TD>(1) <I>A/a</I></TD></TR>
+<TR><TD>(2) [<I>a<SUP>1</SUP>/a<SUP>3</SUP>, a<SUP>1</SUP>/a<SUP>4</SUP>,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a<SUP>2</SUP>/a<SUP>3</SUP>, a<SUP>2</SUP>/a<SUP>4</SUP></I>]</TD></TR>
+</TABLE></TD>
+<TD VALIGN=TOP>Initial step in strain production and linkage analysis; production of F<SUB>1</SUB> hybrids</TD></TR>
+<TR><TD colspan="4"><HR></TD></TR>
+</TABLE>
+</DIV>
+</BODY>
+</HTML>
+
+

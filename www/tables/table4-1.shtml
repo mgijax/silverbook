@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 4.1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<B>Table 4.1</B> Reproductive characteristics of some important inbred strains
+
+<HR>
+<TABLE Border="0" CELLPADDING=2>
+
+<TR>
+<TD>Strain</TD>
+<TD>&nbsp;</TD>
+<TD>Productive<BR>matings</TD>
+<TD>&nbsp;</TD>
+<TD>Weeks at<BR>first mating</TD>
+<TD>&nbsp;</TD>
+<TD>Litter size</TD>
+<TD>&nbsp;</TD>
+<TD>Number<BR>of litters</TD>
+<TD>&nbsp;</TD>
+<TD>Relative<BR>fecundity</TD>
+<TD>&nbsp;</TD>
+<TD>Response to<BR>superovulation</TD>
+</TR>
+
+<TR>
+<TD>129/SvJ<SUP>a</SUP></TD><TD>&nbsp;</TD>
+<TD>75%</TD><TD>&nbsp;</TD>
+<TD>7.9</TD><TD>&nbsp;</TD>
+<TD>5.9</TD><TD>&nbsp;</TD>
+<TD>4.1</TD><TD>&nbsp;</TD>
+<TD>18.1</TD><TD>&nbsp;</TD>
+<TD>High</TD><TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>A/J</TD><TD>&nbsp;</TD>
+<TD>65%</TD><TD>&nbsp;</TD>
+<TD>7.6</TD><TD>&nbsp;</TD>
+<TD>6.3</TD><TD>&nbsp;</TD>
+<TD>2.9</TD><TD>&nbsp;</TD>
+<TD>11.9</TD><TD>&nbsp;</TD>
+<TD>Low</TD></TR>
+
+<TR>
+<TD>AKR/J</TD><TD>&nbsp;</TD>
+<TD>84%</TD><TD>&nbsp;</TD>
+<TD>6.6</TD><TD>&nbsp;</TD>
+<TD>6.1</TD><TD>&nbsp;</TD>
+<TD>2.2</TD><TD>&nbsp;</TD>
+<TD>11.3</TD><TD>&nbsp;</TD>
+<TD>-</TD></TR>
+
+<TR>
+<TD>BALB/cJ</TD><TD>&nbsp;</TD>
+<TD>47%</TD><TD>&nbsp;</TD>
+<TD>8.0</TD><TD>&nbsp;</TD>
+<TD>5.2</TD><TD>&nbsp;</TD>
+<TD>3.8</TD><TD>&nbsp;</TD>
+<TD>&nbsp;&nbsp;9.3</TD><TD>&nbsp;</TD>
+<TD>Low</TD></TR>
+
+<TR>
+<TD>C3H/HeJ</TD><TD>&nbsp;</TD>
+<TD>86%</TD><TD>&nbsp;</TD>
+<TD>6.7</TD><TD>&nbsp;</TD>
+<TD>5.7</TD><TD>&nbsp;</TD>
+<TD>2.9</TD><TD>&nbsp;</TD>
+<TD>14.2</TD><TD>&nbsp;</TD>
+<TD>Low</TD><TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>C3H/HeOuJ</TD><TD>&nbsp;</TD>
+<TD>99%</TD><TD>&nbsp;</TD>
+<TD>5.9</TD><TD>&nbsp;</TD>
+<TD>6.4</TD><TD>&nbsp;</TD>
+<TD>3.7</TD><TD>&nbsp;</TD>
+<TD>23.4</TD><TD>&nbsp;</TD>
+<TD>-</TD></TR>
+
+<TR>
+<TD>C56BL/6J</TD><TD>&nbsp;</TD>
+<TD>84%</TD><TD>&nbsp;</TD>
+<TD>6.8</TD><TD>&nbsp;</TD>
+<TD>7.0</TD><TD>&nbsp;</TD>
+<TD>4.0</TD><TD>&nbsp;</TD>
+<TD>23.5</TD><TD>&nbsp;</TD>
+<TD>High</TD><TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>C57 BL/10SnJ</TD><TD>&nbsp;</TD>
+<TD>67%</TD><TD>&nbsp;</TD>
+<TD>7.7</TD><TD>&nbsp;</TD>
+<TD>6.3</TD><TD>&nbsp;</TD>
+<TD>2.8</TD><TD>&nbsp;</TD>
+<TD>11.8</TD><TD>&nbsp;</TD>
+<TD>-</TD></TR>
+
+<TR>
+<TD>CBA/CaJ</TD><TD>&nbsp;</TD>
+<TD>96%</TD><TD>&nbsp;</TD>
+<TD>6.4</TD><TD>&nbsp;</TD>
+<TD>6.9</TD><TD>&nbsp;</TD>
+<TD>2.7</TD><TD>&nbsp;</TD>
+<TD>17.9</TD><TD>&nbsp;</TD>
+<TD>High</TD><TD>&nbsp;</TD></TR>
+
+<TR>
+<TD>DBA/2J</TD><TD>&nbsp;</TD>
+<TD>75%</TD><TD>&nbsp;</TD>
+<TD>7.4</TD><TD>&nbsp;</TD>
+<TD>5.4</TD><TD>&nbsp;</TD>
+<TD>3.9</TD><TD>&nbsp;</TD>
+<TD>15.8</TD><TD>&nbsp;</TD>
+<TD>Low</TD></TR>
+
+<TR>
+<TD>FVB/N</TD><TD>&nbsp;</TD>
+<TD>&#062;90%</TD><TD>&nbsp;</TD>
+<TD>-</TD><TD>&nbsp;</TD>
+<TD>9.5</TD><TD>&nbsp;</TD>
+<TD>4.8</TD><TD>&nbsp;</TD>
+<TD>41.0</TD><TD>&nbsp;</TD>
+<TD>Moderate
+</TD><TD>&nbsp;</TD></TR>
+
+<TR>
+<TD>SJL/J</TD><TD>&nbsp;</TD>
+<TD>72%</TD><TD>&nbsp;</TD>
+<TD>7.4</TD><TD>&nbsp;</TD>
+<TD>6.0</TD><TD>&nbsp;</TD>
+<TD>3.1</TD><TD>&nbsp;</TD>
+<TD>13.4</TD><TD>&nbsp;</TD>
+<TD>High</TD></TR></TABLE>
+<HR>
+Matings are considered &#034;productive&#034; if any offspring at all are born. 
+&#034;Weeks at first mating&#034; refers to the age at which the first &#034;productive&#034; mating occurred; it is estimated by subtracting 3 weeks 
+from the age of the parents at the first birth. 
+&#034;Relative fecundity&#034; is obtained as the following product: (productive mating frequency) X (litter size) X (number of litters); 
+the value obtained is a measure of the overall fecundity of the strain. 
+The &#034;response to superovulation&#034; is based on information extracted from <I>Manipulating the Mouse Embryo: A Laboratory Manual</I> 
+(<A HREF="../references.shtml#Hogan1" TARGET="_blank">Hogan et al., 1994</A>); the significance of this parameter is discussed in 
+<A HREF="../frames/frame6-2.shtml" target="_blank">Section 6.2.</a> Data for all strains other than FVB/N are extracted from the <I>Handbook of Genetically Standardized JAX Mice</I> 
+(<A HREF="../references.shtml#Green6" TARGET="_blank">Green and Witham, 1991</A>). 
+Data for the FVB/N strain are extracted from a publication by 
+<A HREF="../references.shtml#Taketo1" TARGET="_blank">Taketo and colleagues (1991)</A>.<BR><BR>
+<SUP>a</SUP><I>Please see 
+<A HREF="<!--#include file='include/mgi_home.html'-->nomen/strain_129.shtml" TARGET="_blank">Revised nomenclature for strain 129 mice</A> 
+at MGI.</I>
+</BODY>
+</HTML>

@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 9.7 - Linkage Distance Estimates from RI Strain Discordance Values</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figure9-7.gif" Alt="Figure 9.7" Width="540" Height="361"> </TD></TR>
+
+<TR><TD>
+<B>Figure 9.7</B> 
+Linkage distance estimates from RI strain discordance values. 
+The experimentally determined number of discordant strains (<I>i</I>) found in a comparison of SDPs for two loci within a total of <I>N</I> RI strains can be used with this graph to obatin a 
+maximum likelihood value for linkage distance as described in the text. 
+Distances are indicated in 
+<A HREF="../glossary.shtml#centimorgan" TARGET="_blank">centimorgans</A>, with the simplifying assumption of complete interference over the interval shown.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 9.18 - Idealized Distributions for the Expression of a Quantitative Trait in Two Inbred Strains and the F1 Hybrid Between Them</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figure9-18.gif" Alt="Figure 9.18" Width="650" Height="577"> </TD></TR>
+
+<TR><TD>
+<B>Figure 9.18</B> 
+Idealized distributions for the expression of a quantitative trait in two inbred strains and the F<SUB>1</SUB> hybrid between them. 
+In this example, the mean levels of expression for two inbred parental populations (<I>m</I><SUB>P1</SUB> and <I>m</I><SUB>P2</SUB>) are separable from each other by 16 standard deviations. 
+Three examples of F<SUB>1</SUB> distributions are shown. 
+The first F<SUB>1</SUB> distribution would be expected with a trait controlled by a series of P1 alleles that all show complete dominance to their corresponding P2 alleles. 
+The third F<SUB>1</SUB> distribution would be expected with a trait controlled P1 and P2 alleles, that all show strict semidominace. 
+The second F<SUB>1</SUB> distribution would be expected with more complex scenarios including incomplete dominance skewed toward one parent or a combination of quantitative trait loci that show different dominance relationships. 
+Since each population is genetically homogeneous, the intra-strain variation in expression must be due to environmental effects or change. 
+In actuality, very large numbers of animals would have to be typed to obtain distributions that so closely resembled the bell curves shown in this figure.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

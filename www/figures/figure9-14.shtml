@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 9.14 - Example of the Coverage of Mouse Chromosome 2 with Marker Loci</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figure9-14.gif" Alt="Figure 9.14" Width="629" Height="524"> </TD></TR>
+
+<TR><TD>
+<B>Figure 9.14</B> 
+Example of the coverage of mouse chromosome 2 with marker loci. 
+The radius of each circle is equivalent to the swept radius around each locus as determined from 
+<a href="javascript:windowf913 = window.open('figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>. 
+With 52 backcross animals, four marker loci would be required to span the chromosome. 
+With 72, a completely different set of three marker loci would be required.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

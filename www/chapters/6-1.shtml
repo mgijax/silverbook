@@ -1,0 +1,251 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>6.1 CLASSICAL MUTAGENESIS</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="5-5.shtml">Previous</A> <A HREF="6-2.shtml">Next</A></H4></DIV>
+
+<a name="6.1"></a><H2>6.1 CLASSICAL MUTAGENESIS</H2>
+
+<a name="6.1.1"></a><H3>6.1.1 The specific locus test</H3>
+
+<P><i>Genetic variation</i> &#151; the existence of at least two forms &#151; is the essential ingredient present in all genetic 
+experiments. Phenotypic variation, in particular, is used as a means for uncovering the normal function of a wild-type 
+allele. As discussed in the first chapter of this book, it was the availability of many variant phenotypes 
+within the fancy mouse trade that made the house mouse such an ideal organism for studies by early geneticists. In a sense 
+though, the house mouse won by default because in the absence of domestication and artificial selection, variation in 
+traits visible to the eye is extremely rare, and thus, other small mammals were genetically intractable. Although the 
+fancy mouse variants provided material for a host of early genetic studies, the number of different variants was still 
+limited, and the rate at which new ones arose spontaneously in experimental colonies was exceedingly low: it is now known 
+that, on average, only one gamete in 100,000 is likely to carry a detectable mutation at a particular locus.
+
+<P>During the 1920s, several investigators began investigating the effects of X-rays on reproduction and development. In two 
+laboratories, at least, new mutant alleles were recovered in the offspring of irradiated parents, but the investigators failed 
+to make any connection between irradiation and the induction of these mutations 
+(<A HREF="../references.shtml#Little1" TARGET="_top">Little and Bagg, 1924</A>;
+<A HREF="../references.shtml#Dobrovolskaia1" TARGET="_top"> Dobrovolskaia-Zavadskaia, 1927</A>). The connection was finally made by 
+Muller who, in 1927, published his classic paper explaining the induction of heritable mutations by X-rays 
+(<A HREF="../references.shtml#Muller2" TARGET="_top">Muller, 1927</A>). Since that time, geneticists who study all of the major 
+experimental organisms &#151; from bacteria to mice &#151; have used both ionizing irradiation and various chemicals as agents of 
+mutagenesis to uncover novel alleles as tools for understanding gene function.
+
+<P>Large-scale mouse mutagenesis experiments were first begun at two government-based &#034;atomic energy&#034; laboratories: the Oak Ridge 
+National Laboratory in Oak Ridge, Tennessee, in the U.S. and the MRC Radiobiological Research Unit first at Edinburgh, Scotland, 
+and then at Harwell, England, in the U.K. Both of these experimental programs were begun initially after World War II as a means 
+for quantifying the effects of various forms of radiation on mice and, by extrapolation, humans, to better understand the consequences 
+of detonating nuclear weapons. The U.S. effort was directed by W. L. Russell and the British effort was directed by T. C. Carter 
+(<A HREF="../references.shtml#Green3" TARGET="_top">Green and Roderick, 1966</A>). Scientists at both laboratories quickly realized the potential of their 
+newly created resource of mutant animals, and both laboratories have since gone on to generate mutations by chemical agents as well. 
+The very large-scale studies conducted at Oak Ridge and Harwell &#151; where 10,000 to 60,000 first generation animals were typically 
+analyzed in an experimental protocol &#151; have provided most of the empirical data currently available on the mechanisms and rates 
+at which mutations are caused by all well-characterized mutagenic agents in the mouse.
+
+<P>The experiments performed by Russell and Carter, and other colleagues who followed in their footsteps, were designed to obtain 
+discrete values for the mutagenic potential of different radiation protocols. Rather than attempt to examine all animals for all 
+effects of a particular irradiation protocol (as was common in earlier experiments), these mouse geneticists chose instead to look 
+only at the small fraction of animals that were mutated at a small set of well-defined &#034;specific&#034; loci. The rationale for the 
+&#034;specific locus test&#034; was that effects on individual loci could be more easily quantitated and that the limited results obtained 
+could still be extrapolated for an estimate of whole genome effects. Russell decided that mutation rates should be followed simultaneously 
+at a sufficient number of loci to distinguish and avoid problems that might be caused by locus-to-locus variations in sensitivity to 
+particular mutagens. He decided further that the same set of loci should be examined in each experiment performed. The seven loci 
+chosen to be followed in the specific locus test were defined by recessive mutations with visible homozygous phenotypes that were 
+easily distinguished in isolation from each other, and had no effect on viability or fertility. The seven loci are 
+agouti 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87853" TARGET="_top">a</A></i> is the recessive 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87853" TARGET="_top">non-agouti</A> allele), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98881" TARGET="_top">brown</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98881" TARGET="_top">b</A></i>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">albino</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">c</A></i>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105976" TARGET="_top">dilute</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105976" TARGET="_top">d</A></i>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88181" TARGET="_top">short-ear</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88181" TARGET="_top">se</A></i>), 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97454" TARGET="_top">pink-eyed dilution</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97454" TARGET="_top">p</A></i>), and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:102720" TARGET="_top">piebald</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:102720" TARGET="_top">s</A></i>). 
+A special &#034;marker strain&#034; was constructed that was homozygous for all seven loci.
+
+<P>In its simplest form, the specific locus test is carried out by mating females from the special marker strain to completely wild-type 
+males that have been previously exposed to a potential mutagen. In the absence of any mutations, offspring from this cross will not express 
+any of the seven phenotypes visible in the marker strain mother. However, if the mutagen has induced a mutation at one of the specific loci, 
+the associated mutant phenotype will be uncovered. This test is very efficient because it only requires a single generation of breeding and 
+visual examination is all that is required to score each animal.
+
+<P>Although recessive mutations at all loci other than the specific seven will go undetected in the first generation offspring from this cross, 
+it is possible to detect a dominant mutation at any locus so long as it is viable and produces a gross alteration in heterozygous phenotype such 
+as a skeletal or coat color change. One should realize that the most common effect of any undirected mutagen will be to &#034;knock-out&#034; a gene and, 
+in the vast majority of cases, the resulting null allele will be recessive to the wild-type. There is, however, a very small class of loci at 
+which null alleles will act in a dominant or semidominant fashion to wild-type. These &#034;haplo-insufficient&#034; phenotypes are presumably caused by 
+a developmental sensitivity to gene product dosage. Among the best characterized of the dominant-null mutations are the numerous ones uncovered at the 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" TARGET="_top">T</A></i> locus &#151; which result in a short tail &#151; and the 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96677" TARGET="_top">W</A></i> locus &#151; which result in white spotting on the coat.
+
+<a name="6.1.2"></a><H3>6.1.2 Mutagenic agents</H3>
+
+<P>Mutations can be induced by both physical and chemical means. The physical means is through the exposure of the whole animal to ionizing 
+radiation of one of three classes &#151; X-rays, gamma rays, or neutrons 
+(<A HREF="../references.shtml#Green3" TARGET="_top">Green and Roderick, 1966</A>). The chemical means is to inject a mutagenic reagent into the animal such that 
+it passes directly into the gonads and into differentiating germ cells. The specific locus test has provided an estimate of the relative 
+efficiency with which each reagent induces mutations. Under different protocols of exposure, X-irradiation was found to induce mutations 
+at a rate of 13 - 50 X 10<SUP>-5</SUP> per locus, which is a 20 to 100 fold increase over the spontaneous frequency, but still not high 
+enough to be used by any but the largest facilities as a routine means for creating mutations 
+(<A HREF="../references.shtml#Rinchik1" TARGET="_top">Rinchik, 1991</A>). The mutations created by irradiation are often large deletions or other gross lesions 
+such as translocations or complex rearrangements.
+
+<P>The class of known chemical agents that can induce mutations (known as mutagens) is very large and expanding all the time. However, two 
+chemicals in particular &#151; ethylnitrosourea (ENU) and chlorambucil (CHL) &#151; have been found to be extremely mutagenic in mouse spermatogenic cells 
+(<A HREF="../references.shtml#Russell8" TARGET="_top">Russell et al., 1979</A>; 
+<A HREF="../references.shtml#Russell4" TARGET="_top">Russell et al., 1989</A>). Both of these chemicals produce much higher yields of mutations than any form of 
+radiation treatment tested to date 
+(<A HREF="../references.shtml#Russell4" TARGET="_top">Russell et al., 1989</A>). Optimal doses of either ENU or CHL can induce 
+mutations at an average per locus frequency which is greater than one in a thousand &#151; 150 X 10<SUP>-5</SUP> with ENU and 127 X 10<SUP>-5</SUP> per 
+locus with CHL 
+(<A HREF="../references.shtml#Russell6" TARGET="_top">Russell et al., 1982</A>; 
+<A HREF="../references.shtml#Russell4" TARGET="_top">Russell et al., 1989</A>). Although the rates at which ENU and CHL induce mutations are very similar, the types 
+of mutations that are induced are quite different. In general, ENU causes discrete lesions which are often point mutations 
+(<A HREF="../references.shtml#Popp1" TARGET="_top">Popp et al., 1983</A>), whereas CHL causes large lesions which are often multi-locus deletions 
+(<A HREF="../references.shtml#Rinchik2" TARGET="_top">Rinchik et al., 1990a</A>). Originally, it was thought that the basis for mutational differences of this type 
+was the chemical nature of the mutagen itself 
+(<A HREF="../references.shtml#Green3" TARGET="_top">Green and Roderick, 1966</A>), but this no longer appears to be 
+the case. Rather, it now appears that the germ-cell stage in which the mutation arises is the major determinant of the lesion type 
+(<A HREF="../references.shtml#Russell3" TARGET="_top">Russell, 1990</A>). The correlation observed between chemical and lesion type is a result of the fact that 
+different mutagens are active at different stages of spermatogenesis. Thus, ENU acts upon premeiotic spermatogonia where mutations are likely 
+to be of the discrete type, and CHL acts upon postmeiotic round spermatids where mutations are likely to be of the large lesion type 
+(<A HREF="../references.shtml#Russell5" TARGET="_top">Russell et al., 1990</A>).
+
+<P>ENU was the first chemical to be identified that was sufficiently mutagenic to be used by smaller laboratories in screens for mutations at 
+particular loci or chromosomal regions of interest 
+(<A HREF="../references.shtml#Bode1" TARGET="_top">Bode, 1984</A>; 
+<A HREF="../references.shtml#Shedlovsky1" TARGET="_top">Shedlovsky et al., 1988</A>). ENU has also been used in screens for non-locus-specific phenotypic variants 
+that could serve as models for various human diseases 
+(<A HREF="../references.shtml#McDonald1" TARGET="_top">McDonald et al., 1990</A>). Several laboratories are 
+beginning to use ENU for saturation mutagenesis of small chromosomal regions defined by deletions, as one tool (among several complementary ones) 
+for obtaining a complete physical and genetic description of such a region 
+(<A HREF="../references.shtml#Shedlovsky1" TARGET="_top">Shedlovsky et al., 1988</A>; 
+<A HREF="../references.shtml#Rinchik3" TARGET="_top">Rinchik et al., 1990b</A>; 
+<A HREF="../references.shtml#Rinchik1" TARGET="_top">Rinchik, 1991</A>). The major limitation to the global 
+use of this approach is the very small number of genomic regions in the mouse at which large deletions have been characterized.
+
+<P>The availability to <i>Drosophila</i> geneticists of deletions (or <i>deficiencies</i> as the fly people call them) that span nearly every 
+segment of the fly genome has played a critical role in the identification and characterization of large numbers of genes and the production 
+of both gross functional maps and fine-structure point mutation maps by the very approach just described above. Clearly, a method to accumulate 
+a similar library of deletions for the mouse would be well-received. The mutations induced by X-rays are often large-scale genomic alterations 
+including translocations, inversions, and deletions. Indeed, most mouse deletion mutations maintained in contemporary stocks were derived in 
+this manner. However, the overall yield of X-ray-induced deletions is quite low, and because of other problems inherent in this approach, it 
+is not ideal for global use.
+
+<P>In 1989, CHL was reported to be an attractive alternative to X-rays as an agent for the high-yield induction of deletion mutations 
+in the mouse 
+(<A HREF="../references.shtml#Russell4" TARGET="_top">Russell et al., 1989</A>). The per locus mutation rate was found to be on the order of one in 
+700 in germ cells of the early spermatid class, and of the eight mutations induced at this stage that were analyzed, all were deleted for DNA 
+sequences around the specific locus marker 
+(<A HREF="../references.shtml#Rinchik2" TARGET="_top">Rinchik et al., 1990a</A>). This study also showed that CHL-induced 
+mutations were often associated with reciprocal translocations. This last finding is unfortunate because translocations can reduce fertility with 
+consequent negative effects on strain propagation.
+
+<P>There is hope that CHL can be used as a means for generating sets of overlapping deletions that span entire chromosomes 
+(<A HREF="../references.shtml#Rinchik4" TARGET="_top">Rinchik and Russell, 1990</A>). Projects of this type will require very large animal facilities and support 
+resources and will consequently be confined to only a handful of labs. However, once mouse strains with deletions have been created and 
+characterized, they can serve as a resource for the entire community.
+
+<a name="6.1.3"></a><H3>6.1.3 Mouse mutant resources</H3>
+
+<P>An advantage to using the mouse as a genetic system is the strong sense of community that envelops most of the workers in the field, and it is 
+in the context of this community that strains carrying many different mutations &#151; both spontaneous and mutagen-induced &#151; have been catalogued 
+and preserved and are made available to all investigators. A catalog containing detailed descriptions of all mouse mutations characterized as of 
+1989 has been compiled by Margaret Green and is included as the centerpiece chapter in the <i>Genetic Variants and Strains of the Laboratory Mouse</i> 
+edited by Mary Lyon and Tony Searle 
+(<A HREF="../references.shtml#Green5" TARGET="_top">Green, 1989</A>). This catalog is now available in an electronic form that is 
+updated regularly (see 
+<A HREF="b.shtml">Appendix B</A>). Of course, many more mutant animals are found and characterized with the passing of each year, and an updated 
+list is published annually in the journal <i>Mouse Genome</i>. This list contains information on the individual investigators that one should 
+contact to actually obtain the mutant mice.
+
+<P>The largest collection of mutant mouse strains is maintained at the 
+<A HREF="a.shtml">Jackson Laboratory</A> under the auspices of the &#034;Mouse Mutant Resource&#034; (MMR) 
+which is currently maintained under the direction of Dr. Muriel Davisson 
+(<A HREF="../references.shtml#Davisson2" TARGET="_top">Davisson, 1990</A>). In 1990, over 250 mutant genes were maintained in this resource, accounting for two-thirds 
+of all known mouse mutants alive at the time 
+(<A HREF="../references.shtml#Davisson2" TARGET="_top">Davisson, 1990</A>). Each year, animal caretakers identify an 
+additional 75 to 80 &#034;deviant&#034; animals among the two million mice that are produced by the Jackson Laboratory's Animal Resources colonies 
+(<A HREF="../references.shtml#Davisson3" TARGET="_top">Davisson, 1993</A>). Approximately 75% of the deviant phenotypes are found to have a genetic basis and breeding 
+studies are conducted on these to determine whether or not they represent mutations at previously characterized loci. If they do, DNA samples are 
+recovered and the lines are discarded or placed into the frozen embryo repository. If a mutation is novel, its mode of transmission 
+(autosomal/X-linked, dominant/recessive) is determined, the phenotypic effect of the mutation is characterized, and it is mapped to a specific 
+chromosomal location with the use of breeding protocols to be described in 
+<A HREF="9-4.shtml">Section 9.4</A> 
+(<A HREF="../references.shtml#Davisson2" TARGET="_top">Davisson, 1990</A>; 
+<A HREF="../references.shtml#Davisson3" TARGET="_top">Davisson, 1993</A>). Descriptions of all newly characterized mutations are publicized, and mutant mouse strains 
+are made available for purchase through the standard 
+<A HREF="a.shtml">Jackson Laboratory catalog</A>. 
+In 1992, over 35,000 mice from the MMR were distributed to 
+investigators throughout the world 
+(<A HREF="../references.shtml#Davisson3" TARGET="_top">Davisson, 1993</A>).
+
+<P>Space limitations make it impossible for the MMR to maintain breeding stocks of mice that contain every known mutant gene, with the total 
+number expanding each year. Fortunately, mutant stocks that are not currently in demand by investigators can be maintained (at minimal cost) 
+in the form of frozen embryos. The importance of embryo freezing as a storage protocol cannot be over-emphasized. Time and time again, 
+modern-day molecular researchers have reached back to use mutations described long-ago as critical tools in the analysis of newly cloned 
+human and mouse loci.
+
+<DIV Align="center"><H4> <A HREF="5-5.shtml">Previous</A> <A HREF="6-2.shtml">Next</A></H4></DIV>
+<PRE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>

@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 8.3 - RFLP Generation by Different Molecular Events</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="../images/figure8-3.gif" Alt="Figure 8.3" Width="650" Height="452"> </TD></TR>
+
+<TR><TD>
+<B>Figure 8.3</B> 
+RFLP generation by different molecular events. 
+Chromosome 1 is the ancestral state, shown with three <I>Taq</I>I restriction sites (TCGA) and a fourth non-restriction site (TAGA). 
+Chromosome 2 has undergone a C to T change (indicated by an asterisk) that destroys one of the restriction sites. 
+Chromosome 3 has undergone an A to C change that creates a <I>Taq</I>I site. 
+Chromosome 4 has had a 0.5 kb insertion. 
+The boxed-in region on each chromosome is the restriction fragment that will be recognized on a Southern blot probed with the fragment indicated in the diagram.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

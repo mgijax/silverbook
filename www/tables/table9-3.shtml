@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 9.3</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+
+<B>Table 9.3</B> Established sets of recombinant inbred strains
+<CENTER>
+<TABLE BORDER="0" WIDTH="100%" CELLPADDING=3>
+<TR><TD COLSPAN="6"><HR width="100%"></TD></TR>
+<TR>
+<TD VALIGN=BOTTOM>Set</TD>
+<TD ALIGN=CENTER>Extant<BR>strains</TD>
+<TD ALIGN=CENTER>Female<BR>progenitor</TD>
+<TD ALIGN=CENTER>Male<BR>progenitor</TD>
+<TD ALIGN=CENTER>Number of<BR>loci typed<SUP>a</SUP></TD>
+<TD VALIGN=BOTTOM ALIGN=CENTER>Availability</TD>
+</TR>
+
+<TR><TD COLSPAN="6"><HR width="100%"></TD></TR>
+
+
+<TR>
+<TD>AKXD</TD>
+<TD ALIGN=CENTER>22</TD>
+<TD ALIGN=CENTER>AKR/J</TD>
+<TD ALIGN=CENTER>DBA/2J</TD>
+<TD ALIGN=CENTER>239</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>AKXL</TD>
+<TD ALIGN=CENTER>16</TD>
+<TD ALIGN=CENTER>AKR/J</TD>
+<TD ALIGN=CENTER>C57L/J</TD>
+<TD ALIGN=CENTER>287</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>AXB/BXA</TD>
+<TD VALIGN=TOP ALIGN=CENTER>30<SUP>b</SUP></TD>
+<TD ALIGN=CENTER>A/J</TD>
+<TD ALIGN=CENTER>C57BL/6J</TD>
+<TD ALIGN=CENTER>209</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>BXD</TD>
+<TD ALIGN=CENTER>26</TD>
+<TD ALIGN=CENTER>C57BL/6J</TD>
+<TD ALIGN=CENTER>DBA/2J</TD>
+<TD ALIGN=CENTER>818</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>BXH</TD>
+<TD ALIGN=CENTER>12</TD>
+<TD ALIGN=CENTER>C57BL/6J</TD>
+<TD ALIGN=CENTER>C3H/HeJ</TD>
+<TD ALIGN=CENTER>329</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>CXB</TD>
+<TD ALIGN=CENTER>13</TD>
+<TD ALIGN=CENTER>BALB/cBy</TD>
+<TD ALIGN=CENTER>C57BL/6By</TD>
+<TD ALIGN=CENTER>281</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>CXJ</TD>
+<TD ALIGN=CENTER>7</TD>
+<TD ALIGN=CENTER>BALB/cBy</TD>
+<TD ALIGN=CENTER>SJL/J</TD>
+<TD ALIGN=CENTER>32</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>CXS</TD>
+<TD ALIGN=CENTER>14</TD>
+<TD ALIGN=CENTER>BALB/cHeA</TD>
+<TD ALIGN=CENTER>STS/A</TD>
+<TD ALIGN=CENTER>104</TD>
+<TD ALIGN=CENTER>J. Hilgers<SUP>b</SUP></TD>
+</TR>
+
+<TR>
+<TD>LXB</TD>
+<TD ALIGN=CENTER>3</TD>
+<TD ALIGN=CENTER>C57L/J</TD>
+<TD ALIGN=CENTER>C57BL/6J</TD>
+<TD ALIGN=CENTER>?</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>LXPL<SUP>c</SUP></TD>
+<TD ALIGN=CENTER>5</TD>
+<TD ALIGN=CENTER>C57L/J</TD>
+<TD ALIGN=CENTER>PL/J</TD>
+<TD ALIGN=CENTER>28</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>NX129<SUP>c</SUP></TD>
+<TD ALIGN=CENTER>5</TD>
+<TD ALIGN=CENTER>NZB/B1NJ</TD>
+<TD ALIGN=CENTER>129/J</TD>
+<TD ALIGN=CENTER>36</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>NX8</TD>
+<TD ALIGN=CENTER>13</TD>
+<TD ALIGN=CENTER>NZB/ICR</TD>
+<TD ALIGN=CENTER>C58/J</TD>
+<TD ALIGN=CENTER>37</TD>
+<TD ALIGN=CENTER>R. Riblet<SUP>d</SUP></TD>
+</TR>
+
+<TR>
+<TD>NXSM</TD>
+<TD ALIGN=CENTER>15</TD>
+<TD ALIGN=CENTER>NZB/B1NJ</TD>
+<TD ALIGN=CENTER>SM/J</TD>
+<TD ALIGN=CENTER>145</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>OXA</TD>
+<TD ALIGN=CENTER>14</TD>
+<TD ALIGN=CENTER>O20/A</TD>
+<TD ALIGN=CENTER>AKR/FuRdA</TD>
+<TD ALIGN=CENTER>71</TD>
+<TD ALIGN=CENTER>J. Hilgers<SUP>e</SUP></TD>
+</TR>
+
+<TR>
+<TD>SWXJ</TD>
+<TD ALIGN=CENTER>14</TD>
+<TD ALIGN=CENTER>SWR/J</TD>
+<TD ALIGN=CENTER>SJL/J</TD>
+<TD ALIGN=CENTER>11</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+<TR>
+<TD>SWXL</TD>
+<TD ALIGN=CENTER>3</TD>
+<TD ALIGN=CENTER>SWR/J</TD>
+<TD ALIGN=CENTER>C57L/J</TD>
+<TD ALIGN=CENTER>111</TD>
+<TD ALIGN=CENTER>JAX</TD>
+</TR>
+
+</TABLE>
+</CENTER>
+<HR>
+<DIV ALIGN="LEFT">
+<SUP>a</SUP>This information was obtained from the Map Manager database 
+(<A HREF="../references.shtml#Manly1" TARGET="_blank">Manly, 1993</A>; 
+<A HREF="../frames/frameb.shtml" TARGET="_blank">Appendix B</A>) and is accurate as of August 1993 (R. W. Elliott, personal communication).<BR>
+<I>See also the 
+<A HREF="<!--#include file='include/mgi.html'-->searches/riset_form.shtml" TARGET="_blank">RI SDP Query Form</A> at MGI for more current information.</I><BR>
+<SUP>b</SUP>
+<A HREF="../references.shtml#Hilgers1" TARGET="_blank">Hilgers and Arends (1985)</A>, 
+<A HREF="../references.shtml#Hilgers2" TARGET="_blank">Hilgers and Poort-Keeson (1986)</A>.<BR>
+<SUP>c</SUP>LXPL is called LXP, and NX129 is called NX9 by 
+<A HREF="../references.shtml#Manly1" TARGET="_blank">Manly (1993)</A>.<BR>
+<SUP>d</SUP>
+<A HREF="../references.shtml#Datta1" TARGET="_blank">Datta et al., (1982)</A>.<BR>
+<SUP>e</SUP>
+<A HREF="../references.shtml#ten Berg1" TARGET="_blank">ten Berg (1989)</A>.<BR>
+</DIV>
+</BODY>
+</HTML>
