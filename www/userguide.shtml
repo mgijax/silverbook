@@ -22,7 +22,7 @@
 <UL>
 <LI>The Table of Contents</LI>
 <LI>The abbreviated Table of Contents in the left column of most pages</LI>
-<LI>The <B>Previous</B> and <B>Next</B> links at the top of most pages</LI>
+<LI>The <B>Previous</B> and <B>Next</B> links at the top and bottom of most pages</LI>
 <LI>Internal links within the body of the text</LI>
 <!-- <LI>The Text Search tool</LI> -->
 </UL>
@@ -55,7 +55,7 @@ the subject of the reference.
 The link may be to a marker detail page, such as that for the gene referred to in the text as the 
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880">albino (c)</A> locus. 
 The link may also be to a summary page that contains links to individual genes, such as that for the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296"><I>H</I></A> genes.
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296"><I>H</I></A> (histocompatibility) genes.
 
 <P><B>Tables:</B> Clicking a reference to a Table within the text will cause that Table to appear in a new browser window (see, for example, 
 <a href="javascript:windowt32 = window.open('table3.2.shtml', 'windowt32', 'width=500,height=250,resizable=yes,scrollbars=yes'); windowt32.focus()">Table 3.2</A>). 
