@@ -75,7 +75,7 @@
 <B><I><A HREF="figures.shtml" TARGET="_top">Figures</A></I></B><BR><BR>
 <B>SUPPLEMENTARY MATERIAL FROM MGI</B><BR>
 <B><A HREF="userguide.shtml" TARGET="_top">User's Guide</A></B><BR>
-<B><A HREF="http://www.informatics.jax.org/userdocs/glossary.shtml" TARGET="_top">MGI Glossary</A></B><BR>
+<B><A HREF="<!--#include file='include/glossary.html'-->" TARGET="_top">MGI Glossary</A></B><BR>
 
 </BODY>
 </HTML>
