@@ -527,7 +527,7 @@ alleles, they have the same &#034;haplotype&#034; on that chromosome. By compari
 different haplotypes that are present.
 
 <P>As illustrated in 
-<a href="javascript:windowf91 = window.open('figure9.1.shtml', 'windowf91', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf91.focus()">Figure 9.15</A>, 
+<a href="javascript:windowf91 = window.open('figure9.15.shtml', 'windowf91', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf91.focus()">Figure 9.15</A>, 
 each distinct haplotype is represented by a column of boxes, with one box for each locus; each box is either 
 filled in to indicate one parental allele or left empty to indicate the other parental allele. Anchor loci are placed according to their order along the chromosome from 
 most centromeric at the top to most telomeric at the bottom. The number of animals that carry each haplotype is indicated at the bottom of each column. Haplotypes are 

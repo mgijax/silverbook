@@ -167,7 +167,7 @@ whether the confidence intervals associated with the map position of each show o
 <a href="javascript:windowf910 = window.open('figure9.10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>. 
 In this hypothetical example, a newly cloned locus has been mapped relative to a common anchor locus with nine recombinants found in 94 
 backcross samples. This provides an estimated linkage distance of 9.6 cM. By consulting 
-<a href="javascript:windowtd5 = window.open('tableD5.shtml', 'windowtd5', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowtd5.focus()">Table D.5</A>, 
+<a href="javascript:windowtd5 = window.open('tableD5.shtml', 'windowtd5', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowtd5.focus()">Table D5</A>, 
 one can estimate lower and upper 95% confidence limits of 5.2 and 17 cM respectively. 
 Next, one evaluates the linkage data associated with three mutant loci that have been identified as having the potential to be equivalent to the cloned gene. Mutation number one 
 (<i>Mut1</i>) has been mapped relative to the same anchor locus in a backcross experiment, with 52 recombinants found among 250 samples for an estimated linkage distance of 21 cM. 

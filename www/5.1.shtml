@@ -248,7 +248,7 @@ the beta-globin polypeptide; the
  gene has a length on the order of 2 kb. The 
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96014" TARGET="_top">alpha globin</A> 
 gene is even smaller with a length of less than 1 kb. At the opposite extreme is the mouse homolog of the 
-<A HREF="<!--#include file='include/gdb_clone.html'-->GDB:119850" TARGET="_top">human Duchene's muscular dystrophy gene</A> 
+<A HREF="http://www.gdb.org/gdb-bin/genera/accno?accessionNum=GDB:119850" TARGET="_top">human Duchene's muscular dystrophy gene</A> 
 (called 
 <i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:94909" TARGET="_top">mdx</A></i> 
 in the mouse); at 2,000 kb, the size of 

@@ -169,7 +169,7 @@ the frequency of recombination provides a relative estimate of genetic distance.
 the distance between two loci that recombine with a frequency of 1%. Thus, as a further example, if two loci recombine with a frequency of 2.5%, this would represent 
 an approximate genetic distance of 2.5 cM. In the mouse, correlations between genetic and physical distances have demonstrated that one centimorgan is, 
 <i>on average</i>, equivalent to 2,000 kilobases. It is important to be aware, however, that the rate of equivalence can vary greatly due to numerous factors discussed in 
-<A HREF="7.2.shtml#7.2.5">Section 7.2.5</A>.
+<A HREF="7.2.shtml#7.2.3">Section 7.2.3</A>.
 
 <P>Although the frequency of recombination between two loci is roughly proportional to the length of DNA that separates them, when this length becomes too large, the 
 frequency will approach 50%, which is indistinguishable from that expected with unlinked loci. The average size of a mouse chromosome is 75 cM. Thus, even when genes 

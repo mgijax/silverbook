@@ -343,7 +343,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A HREF="#Homolog">homolog</A>. In
 <A HREF="#Linkage">linkage</A> studies with
 <A HREF="#Backcross">backcross</A> offspring and
-<A NAME="RI">RI strains</A>, the haplotypes associated with each sample provide a means for determining the order of loci (see
+<A HREF="#RI">RI strains</A>, the haplotypes associated with each sample provide a means for determining the order of loci (see
 <A HREF="frame9.2.1.1.shtml">Chapter 9</A>). 
 <BR><I>See</I>
 <A HREF="<!--#include file='include/glossary.html'-->#haplotype" TARGET="_top">Haplotype</A>
@@ -761,7 +761,7 @@ RFLPs are detected upon Southern blot hybridization. The term RFLP is commonly u
 <A HREF="frame9.2.2.1.shtml">Chapter 9</A>). 
 Used in the context of
 <A HREF="#Backcross">backcross</A> data and data obtained from
-<A NAME="RI">RI strains</A>.
+<A HREF="#RI">RI strains</A>.
 
 <P><DT><A NAME="Sympatric"><B>Sympatric</B></A>
 <DD>Closely related species that have overlapping ranges in nature but do not interbreed. In different parts of its range, M. musculus is sympatric with M. macedonicus, M. spicilegus, and M. spretus (see

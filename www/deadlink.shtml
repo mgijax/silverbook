@@ -12,6 +12,6 @@
 <P>Information changes rapidly on the web. The link that you clicked is no longer active, and there is no further information available.
 
 <P>Please contact MGI 
-<A HREF="<!--#include file='include/mgi_list.html'-->">User Support</A> for further assistance.
+<A HREF="<!--#include file='include/mgi_support.html'-->">User Support</A> for further assistance.
 </BODY>
 </HTML>

@@ -123,8 +123,8 @@ Mouse Locus Catalog (MLC) published in the <i>Genetic Variants and Strains of th
 and available on-line through an Internet Gopher Hole at the 
 <A HREF="<!--#include file='include/mgi_mlc.html'-->" TARGET="_top">Jackson Laboratory</A> 
 (see <A HREF="b.shtml">Appendix B</A>). It is also worthwhile to consult the human equivalent of MLC called 
-<i>Mendelian Inheritance in Man</i> and edited by Victor McKusick 
-(<A HREF="references.shtml#McKusick1" TARGET="_top">1988</A>). 
+<i>Mendelian Inheritance in Man</i> and edited by 
+<A HREF="references.shtml#McKusick1" TARGET="_top">Victor McKusick (1988)</A>. 
 This database is also available on-line (and called 
 <A HREF="http://www3.ncbi.nlm.nih.gov/Omim/" TARGET="_top">OMIM</A>) 
 through the Gopher Hole at the 

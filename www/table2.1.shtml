@@ -175,7 +175,7 @@
 <TD>Spiny mice (India, Southeast Asia)</TD></TR>
 <TR><TD><!-----></TD>
 <TD><I>Mus</I></TD>
-<TD>(see text and <a href="javascript:windowf22 = window.open('figure2.2.shtml', 'windowf22', 'width=720,height=580,resizable=yes,scrollbars=yes'); windowf22.focus()" TARGET="_blank">Figure 2.2</A>)</TD></TR>
+<TD>(see text and <a href="javascript:windowf22 = window.open('figure2.2.shtml', 'windowf22', 'width=720,height=580,resizable=yes,scrollbars=yes'); windowf22.focus()">Figure 2.2</A>)</TD></TR>
 <TR><TD colspan="3"><HR><SUP><I>a</I></SUP>The information in this table is abstracted from
 <A HREF="references.shtml#Corbet1" TARGET="_blank">Corbet and Hill (1991)</A> with revisions suggested by
 <A HREF="references.shtml#Bonhomme1" TARGET="_blank">Bonhomme (1986)</A>.</TR></TD>
