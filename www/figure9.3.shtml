@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 9.3 - Punnett Square for the Two Locus F1 X F1 Intercross</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="images/figure9.3.gif" Alt="Figure 9.3" Width="650" Height="636"> </TD></TR>
+
+<TR><TD>
+<B>Figure 9.3</B> 
+Punnett square for the two locus F<SUB>1</SUB> X F<SUB>1</SUB> intercross. 
+The four possible gametes that can be produced by an F<SUB>1</SUB> hybrid mother or father heterozygous at the <I>A</I> and <I>B</I> loci (<I>A/a, B/b</I>) are shown along the left side and top of the overall square. 
+The F<SUB>2</SUB> genotypes that result from the combination of each pair of gametes are shown within each smaller square. 
+The large numbers represent the number of recombination events represented within each F<SUB>2</SUB> genotype. 
+The four upper left squares have genotypes with no recombination events, the four lower left and upper right squares have genotypes with one recombination event, and the four lower right squares 
+have genotypes with two recombination events. 
+However, the double heterozygous (<I>A/a, B/b</I>) genotype is non-informative, since it appears in both the zero and double recombinant groups.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,425 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>3.3 COISOGENICS, CONGENICS, AND OTHER SPECIALIZED STRAINS</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="3.2.shtml">Previous</A> <A HREF="3.4.shtml">Next</A></H4></DIV>
+
+<a name="3.3"></a><H2>3.3 COISOGENICS, CONGENICS, AND OTHER SPECIALIZED STRAINS</H2>
+
+<a name="3.3.1"></a><H3>3.3.1 The need to control genetic background</H3>
+
+<P>With the many new tools of molecular genetics described throughout this book, 
+it has become easier and easier to clone genes defined by mutant phenotypes. Often, 
+mutant phenotypes involve alterations in the process of development or 
+physiology. In these cases, simply having a cloned copy of a gene is often not enough 
+to critically examine the full range of effects exerted by that gene on the 
+developmental or physiological process. In particular, normal development and 
+physiology can vary significantly from one strain of mice to the next, and in the 
+analysis of mutants, it is often not possible to distinguish subtle effects due to the 
+mutation itself from effects due to other genes within the background of the mutant 
+strain. To make this distinction, it is essential to be able to compare animals in 
+which differences in the genetic background have been eliminated as a variable in 
+the experiment. This is accomplished through the placement of the mutation into a 
+genome derived from one of the standard inbred strains. It is then possible to 
+perform a direct comparison between mutant and wild-type strains that differ only 
+at the mutant locus. Phenotypic differences that persist between these strains must 
+be a consequence of the mutant allele.
+
+<a name="3.3.2"></a><H3>3.3.2 Coisogenic strains</H3>
+
+<P>In the best of all possible worlds, the mutation of interest will have occurred 
+spontaneously within a strain of mice that is already inbred. In this case, one can be 
+reasonably confident that the mutant animal differs at only a single locus from non-mutant 
+animals of the same strain. If the mutation allows homozygous viability 
+and fertility, it can be propagated as a strain unto itself by inbreeding offspring from 
+the original mutant animal.
+<sup><a href="notes.shtml#16" TARGET="_top">16</a></sup> 
+If the mutation cannot be propagated in the 
+homozygous state, it will be maintained by continuous backcrossing of heterozygous 
+animals to the original inbred strain. In both cases, the new mutant strain is considered 
+<i><A HREF="glossary.shtml#Coisogenic" TARGET="_top">coisogenic</A></i> because its genome is identical (isogenic) to that of its sister 
+strain except at the mutant locus. In the past, coisogenic strains could only be 
+obtained by luck &#151; when a spontaneous mutation happened to occur within an 
+inbred strain. Today, one can initiate the production of coisogenic strains at any 
+cloned locus through the use of the gene targeting technology described in 
+<a href="6.4.shtml">Section 6.4.</a>
+ 
+<P>Coisogenic strains are named with a compound symbol consisting of two parts 
+separated by a hyphen: the first part is the full or abbreviated symbol for the original 
+inbred strain; the second part is the symbol for the mutation or variant allele. If the 
+mutation is maintained in a homozygous state within the coisogenic strain, the 
+mutant symbol is used alone; if the mutation is maintained in a heterozygous state, 
+the &#043;/<i>m</i> genotype symbol is used (where <i>m</i> is the mutation). For example: if the 
+mutation 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:102949" TARGET="_top"><I>nude</I></A> 
+(<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:102949" TARGET="_top"><i>nu</i></A>) 
+appeared in the BALB/cJ strain, and the new coisogenic strain 
+was homozygous for this mutation, its complete symbol would be [BALB/cJ-<i>nu</i>]; if 
+the semidominant lethal mutation 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" TARGET="_top">T</A></i> 
+appeared in the C57BL/6J strain, and the new 
+coisogenic strain was maintained by backcrossing to the parental strain, its symbol 
+would be [B6-<i>T</i>/&#043;].
+
+<a name="3.3.3"></a><H3>3.3.3 Congenic and related strains</H3>
+
+<a name="3.3.3.1"></a><H3><I>3.3.3.1 Historical perspective: the major histocompatibility complex</I></H3>
+
+<P>A large number of mouse mutations and variants with interesting phenotypic 
+effects have been identified and characterized over the last 90 years. Most of these 
+mutations were not found within strains that were already inbred and, to date, most 
+of the genes that underlie these mutations remain uncloned. Thus, in all of these 
+cases, coisogenicity is not a possibility. However, even when a gene has been cloned, and 
+the generation of a coisogenic mutant through the gene targeting technology is a 
+possibility, this approach is still extremely tedious and, at the time of this writing, 
+there is no guarantee of a successful outcome. There are other reasons why 
+spontaneous mouse mutations are often important even when the gene underlying 
+the mutation has been cloned. The spontaneous mutation may not be a &#034;knockout&#034; 
+but instead may exert a more subtle effect on gene function which could provide 
+special insight into the action of the wild-type allele. Furthermore, the phenotypic 
+effects of many older mutations have been studied in tedious detail by classical 
+embryologists and other scientists, and it can be advantageous to a contemporary 
+scientist to build upon these classical studies.
+
+<P>The &#034;low-tech&#034; solution to the elimination of genetic background effects in the 
+analysis of an established mutation, or any other genetic variant, is to use breeding 
+protocols, rather than molecular biology, to generate strains of mice that 
+approximate coisogenics to the greatest extent possible. Mice that have been bred to 
+be essentially isogenic with an inbred strain except for a selected <i>differential 
+chromosomal segment</i> are called <i>congenic</i> strains. The conceptual basis for the 
+development of congenic mice was formulated by George Snell at the Jackson 
+Laboratory during the 1940s and it led to the first and only Nobel Prize for work 
+strictly in the field of mouse genetics.
+
+<P>Snell was interested in the problem of tissue transplantation. Long before 1944, it 
+was known that tissues could be readily transplanted between individuals of the 
+same inbred strain without immunological rejection, but that mice of different 
+strains would reject tissue transplants from each other. Although these 
+observations were a clear indication of the fact that genetic differences were 
+responsible for tissue rejection, the number and types of genes involved remained 
+entirely unknown. In absentia, these genes were named 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">histocompatibility</A></i> (or 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i>) 
+loci. The assumption was that the histocompatibility genes were responsible &#151; 
+directly or indirectly &#151; for the production of tissue (or &#034;histological&#034;) markers that 
+could be distinguished as &#034;self&#034; or &#034;non-self&#034; by an animal's immune system. If 
+transplanted tissue and a host recipient carried identical genotypes at <i>all H</i> loci, there 
+would be no immunological response and the transplant would &#034;take.&#034; However, if 
+a single foreign allele at <i>any H</i> locus was present in the tissue, it would be 
+recognized as foreign and attacked.
+
+<P>Although the number of histocompatibility loci was unknown, it was assumed 
+to be large because of the rarity with which unrelated individuals &#151; both mice and 
+humans &#151; accept each other's tissues. The logic behind this assumption was the 
+empirical finding that polymorphic loci are most often di-allelic and not usually 
+associated with more than three common alleles. If 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> loci showed a similar level of 
+polymorphism, a large number would be required to ensure that there would 
+almost always be at least one allelic difference between any two unrelated 
+individuals. The experimental problem was to identify and characterize each of the 
+histocompatibility loci in isolation from all of the others.
+
+<P>Snell's approach to this problem was to use a novel multi-generation breeding 
+protocol based on repeated backcrossing to trap a single 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> locus from one mouse 
+strain (the <i>donor</i>) in the genetic background of another (the <i>inbred partner</i>). The 
+basic approach (developed mathematically in the 
+<A HREF="3.3.shtml#3.3.3.2">following section</A>) caused the 
+newly forming congenic strain to become increasingly similar to the inbred partner 
+at each generation, but only those offspring who remained <i>histo-incompatible</i> with 
+the inbred partner were selected to participate in the next round of backcrossing. It 
+was assumed that a difference at any one 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> locus would be sufficient to allow full 
+histo-incompatibility. Thus, at the end of the process, Snell expected to find that 
+each independently derived congenic line would have trapped the donor strain 
+allele at a single random 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> locus. With random selection, all 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> loci could be 
+isolated in different congenic strains so long as a large enough number were 
+generated.
+
+<P>With this outcome in mind, Snell began the production of histo-incompatible 
+congenic strains (originally called &#034;congenic resistant&#034; strains) with 125 independent 
+lines of matings (<a href="references.shtml#Snell2" TARGET="_top">Snell, 1978</a>). Of these, 27 were carried through to the point at 
+which it was possible to determine which 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> locus had been trapped. Surprisingly, 
+22 of the 27 lines had trapped the same locus, which was given the name 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_top">H-2</A></i> 
+(by chance, it was the second one identified). Contrary to expectations, the 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_top">H-2</A></i> 
+locus (now called the 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_top">H2</A></i> 
+complex since it is known to be a tightly linked complex of 
+genes) acts, for all effective purposes, as the only strong determinant of 
+histocompatibility. Snell and his predecessors were misled by the false assumption 
+that only a limited number of alleles are possible at any one locus. Instead, a subset 
+of genes within the 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_top">H2</A></i> 
+complex &#151; known as the class I genes &#151; are the most 
+polymorphic in the genome with hundreds of alleles at each individual locus. The 
+generic term &#034;major histocompatibility complex&#034; 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_top">MHC</A></i>) is now used to designate 
+this complex locus in mice as well as its homolog in all other mammalian species 
+including humans, where it was historically called <i>HLA</i> (for human leukocyte antigen).<a name="3.3.3.2"></a>
+
+<H3><I>3.3.3.2 Creation of a congenic strain</I></H3>
+
+<P>In the past, there were several different breeding schemes used to produce 
+congenic mice depending on whether animals heterozygous for the donor allele at 
+the differential locus were phenotypically distinguishable &#151; through a dominant 
+form of expression &#151; from those not carrying the donor allele. It was often the case 
+that the heterozygote could not be distinguished and, as a consequence, congenic 
+strains had to be created through complex breeding schemes that allowed the 
+generation of homozygotes for the variant allele in alternating generations. Today, 
+identifying the heterozygote is almost never a problem since one will almost 
+certainly map the locus of interest before undertaking the production of a congenic 
+strain, and with a map position will come closely linked DNA markers. Therefore, 
+the following discussion will be limited to the most direct, simple and efficient 
+method of congenic construction known as the backcross or NX system, which is 
+illustrated in 
+<a href="javascript:windowf34 = window.open('figure3.4.shtml', 'windowf34', 'width=300,height=600,resizable=yes,scrollbars=yes'); windowf34.focus()">Figure 3.4</a> 
+(<a href="references.shtml#Flaherty1" TARGET="_top">Flaherty, 1981</a>).
+<sup><a href="notes.shtml#17" TARGET="_top">17</a></sup> 
+
+<P>The backcross system of congenic strain creation is straightforward in both 
+concept and calculation. The first cross is always an outcross between the <i>recipient 
+inbred partner</i> and an animal that carries the <i>donor allele</i>. The donor animals need 
+not be inbred or homozygous at the locus of interest, but the other partner must be 
+both. The second generation cross and all those that follow to complete the protocol 
+are backcrosses to the recipient inbred strain. At each generation, only those 
+offspring who have received the donor allele at the <i>differential locus</i> are selected for 
+the next round of backcrossing.
+
+<P>The genetic consequences of this breeding protocol are easy to calculate. First, 
+one can start with the conservative assumption that the donor (D) and recipient (R) 
+strains are completely distinct with different alleles at every locus in the genome.
+ 
+<P>Then, all F<sub>1</sub> animals will be 100% heterozygous <i>D/R</i> at every locus. According to 
+Mendel's laws, equal segregation and independent assortment will act to produce 
+gametes from these F<sub>1</sub> animals that carry <i>R</i> alleles at a random 50% of their loci and 
+<i>D</i> alleles at the remaining 50%. When these gametes combine with gametes 
+produced by the recipient inbred partner (which, by definition, will have only <i>R</i> 
+alleles at all loci), they will produce N<sub>2</sub> progeny having genomes in which 
+approximately 50% of all loci will be homozygous <i>R/R</i> and the remaining loci will 
+be heterozygous <i>D/R</i> as illustrated in 
+<a href="javascript:windowf34 = window.open('figure3.4.shtml', 'windowf34', 'width=300,height=600,resizable=yes,scrollbars=yes'); windowf34.focus()">Figure 3.4</a>. 
+Thus, in a single generation, the 
+level of heterozygosity is reduced by about 50%. Furthermore, it is easy to see that at 
+every subsequent generation, random segregation from the remaining heterozygous 
+alleles will cause a further &#126;50% overall reduction in heterozygosity.
+
+<P>In mathematical terms, the fraction of loci that are still heterozygous at the Nth 
+generation can be calculated as [(1/2)<SUP>N-1</SUP>], with the remaining fraction 
+[1 - (1/2)<SUP>N-1</SUP>] 
+homozygous for the inbred strain allele. These functions are represented 
+graphically in 
+<a href="javascript:windowf35 = window.open('figure3.5.shtml', 'windowf35', 'width=580,height=350,resizable=yes,scrollbars=yes'); windowf35.focus()">Figure 3.5</a>. 
+At the fifth generation, after only four backcrosses, the 
+developing congenic line will be identical to the inbred partner across &#126;94% of the 
+genome. By the tenth generation, identity will increase to &#126;99.8%. It is at this stage 
+that the new strain is considered to be a certified congenic. As one can see by 
+comparing Figures 
+<a href="javascript:windowf32 = window.open('figure3.2.shtml', 'windowf32', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf32.focus()">3.2</a> and 
+<a href="javascript:windowf35 = window.open('figure3.5.shtml', 'windowf35', 'width=580,height=350,resizable=yes,scrollbars=yes'); windowf35.focus()">3.5</a>, 
+the development of a congenic line will take 
+approximately half the time that it takes to develop a simple inbred line from 
+scratch. The reason for this more rapid pace is the fact that one of the two mates 
+involved at every generation of congenic development is already inbred. 
+<P>Backcrossing can continue indefinitely after the tenth generation, but if the 
+donor allele does not express a dominant effect that is visible in heterozygous 
+animals, it will be easier to maintain it in a homozygous state. To achieve this state, 
+two tenth generation or higher carriers of the selected donor allele are intercrossed 
+and homozygous donor offspring are selected to continue the line through brother-sister 
+matings in all following generations. The new congenic strain is now 
+effectively inbred, and in conjunction with the original inbred partner, the two 
+strains are considered a &#034;congenic pair&#034;.
+
+<P>In some cases, it will be possible to distinguish animals heterozygous for the 
+donor allele from siblings that do not carry it. In a subset of these cases, as well as 
+others, a donor allele may have recessive deleterious effects on viability or fertility. 
+In all such instances, it is advisable to maintain the congenic strain by a continuous 
+process of backcrossing and selection for the donor allele at every generation. 
+Congenic strains that are maintained in this manner are considered to be in a state 
+of &#034;forced heterozygosity&#034;. There are two major advantages to pursuing this strategy 
+whenever possible. First, the level of background heterozygosity will continue to be 
+reduced by &#126;50% through each round of breeding. Second, the use of littermates 
+with and without the donor allele as representatives of the two parts of the congenic 
+pair will serve to reduce the effects of extraneous variables on the analysis of the 
+specific phenotypic consequences of the donor allele.
+
+<P>The rapid elimination of heterozygosity occurs only in regions of the genome 
+that are <i>not</i> linked to the donor allele which, of course, is maintained by selection in 
+a state of heterozygosity throughout the breeding protocol. Unfortunately, linkage 
+will also cause the retention of a significant length of chromosome flanking the 
+differential locus which is called the <i>differential chromosomal segment</i>. Even for 
+congenic lines at the same backcross generation, the length of this segment can vary 
+greatly because of the inherently random distribution of crossover sites. 
+Nevertheless, the expected average length of the differential chromosomal segment in 
+<A HREF="glossary.shtml#centimorgan" TARGET="_top">centimorgans</A> can also be calculated as [200 (1 - 2<SUP>-N</SUP>)/N] where N is the 
+generation number. For all values of N greater than 5, this equation can be 
+simplified to [200/N]. This function is represented graphically in 
+<a href="javascript:windowf36 = window.open('figure3.6.shtml', 'windowf36', 'width=580,height=380,resizable=yes,scrollbars=yes'); windowf36.focus()">Figure 3.6</a>. As one 
+can see, the average size of the differential segment decreases very slowly. At the 
+tenth generation, there will still be, on average, a 20 cM region of chromosome 
+encompassing the differential locus derived from the donor strain.
+
+<P>It is possible to reduce the length of the differential chromosomal segment more 
+rapidly by screening backcross offspring for the occurrence of crossovers between the 
+differential locus of interest and nearby DNA markers. As an example of this 
+strategy, one could recover fifty congenic offspring from the tenth backcross 
+generation and test each for the presence of donor alleles at DNA markers known to 
+map at distances of one to five centimorgans on both sides of the locus of interest. It 
+is very likely that at least one member of this backcross generation will show 
+recombination between the differential locus and a nearby marker. The animal 
+with the closest recombination event can be backcrossed again to the recipient strain 
+to produce congenic mice of the eleventh backcross generation. By screening a 
+sufficient number of these N<sub>11</sub> animals, it should be possible to identify one or more 
+that show recombination on the opposite side of the differential locus. In this 
+manner, an investigator should be able to obtain a founder for a congenic strain 
+with a defined differential chromosomal segment of five centimorgans or less after 
+just eleven generations of breeding.
+
+<P>As the preceding discussion indicates, congenic strains differ from the previously 
+described coisogenic strains in two important respects which must always be 
+considered in the interpretation of unexpected data. First, congenic strains, 
+especially those that have undergone only a minimum number of backcrosses, will 
+have small random remnants of the donor strain &#151; so-called <i>passenger loci</i> &#151; 
+scattered throughout the genome. In congenic strains maintained by inbreeding, the 
+same passenger genes will be present in all members of the strain. In rare instances, 
+traits attributed to the selected donor allele may actually result from one of these 
+cryptic passenger genes. Such effects can be sorted out by breeding the congenic 
+strain back to its original inbred partner. If a trait is due to a passenger gene, it will 
+assort independently of the donor locus in subsequent backcrosses.
+
+<P>The second difference between a congenic strain and a coisogenic strain is in the 
+chromosomal vicinity of the differential locus. Congenic strains will always differ 
+from their inbred partner along a significant length of chromosome flanking the 
+differential locus; coisogenic strains will only differ at the differential locus itself and 
+nowhere else. Thus, there is always the possibility that phenotypic differences 
+between the two members of a congenic pair are actually caused by a closely linked 
+gene rather than the selected differential locus. This potential problem is much 
+more difficult to resolve by simple breeding protocols.
+
+<a name="3.3.3.3"></a><H3>3.3.3.3 Nomenclature</H3>
+
+<P>The nomenclature used for congenic strains is so similar to that used for 
+coisogenic strains that it is sometimes not possible to distinguish between the two by 
+name alone. In such cases, it is necessary to go back to the original source 
+publication for clarification. There are, however, two nomenclature components 
+which are unique to congenic strains. The first is used in those cases where a 
+mutant or variant allele is transferred from one defined genetic background onto 
+another. For example, one might wish to transfer the albino 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">c</A></i>) mutation from the 
+BALB/<i>c</i> strain onto a B6 background. In cases of this type, the strain which 
+"donates" the variant allele is symbolized after the recipient strain with the two 
+strain symbols separated by a period. This is followed by a hyphen and the symbol 
+for the variant allele. Thus, in the example just described, the congenic strain 
+would be named 
+B6.BALB-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">c</A></i>.
+
+<P>The final nomenclature component is an indication of the number and type of 
+crosses that have occurred subsequent to the original mating between the recipient 
+and donor animals. In the derivation of any new congenic strain, the first cross is 
+always an outcross, and the offspring are considered members of the F<sub>1</sub> generation. 
+The second cross is always a backcross, and the offspring are considered members of 
+the N<sub>2</sub> generation. (Note that there is no such thing as an N<sub>1</sub> generation). The letter 
+"N" is always used, followed by a subscripted number (N<sub><i>i</i></sub>), to describe a series of 
+backcross events leading to a particular generation of animals. However, remember that 
+N<sub>10</sub> generation offspring are the result of one outcross followed by an uninterrupted 
+sequence of nine backcrosses to the same parental strain. Once a congenic strain is 
+established, backcrossing to the parental stain is often stopped, and future 
+generations are propagated by a simple inbreeding protocol. The number of 
+generations of inbreeding is indicated, as always, with the filial generation symbol 
+"F". For example, suppose that the albino mutation has been placed onto the B6 
+background by an outcross followed by 14 generations of backcrosses, after which a 
+brother-sister mating regime is begun and followed for eight more generations. The 
+offspring produced at this stage would be considered to be members of the N<sub>15</sub>F<sub>8</sub> 
+generation. When generational information is incorporated into the name of a 
+congenic strain, the numbers are no longer subscripted. So, in this example, the 
+complete name for the congenic animals at the stage indicated would be 
+B6.BALB-<i>c</i> (N15F8).
+
+<a name="3.3.3.4"></a><H3>3.3.3.4 Consomic strains</H3>
+
+<P>Consomic strains are a variation on congenic strains in which a whole 
+chromosome &#151; rather than one local chromosomal region &#151; is backcrossed from a 
+donor strain onto a recipient background. In almost all cases, the donor 
+chromosome is the Y. Like congenics, consomics are produced after a minimum of 
+10 backcross generations. Backcrossing to obtain consomics for the Y chromosome 
+must be carried out in a single direction &#151; males that contain the donor 
+chromosome are always crossed to inbred females of the recipient strain. For 
+example, to obtain a B6 strain consomic for the <i>M. m. castaneus</i> Y chromosome, one 
+would start with an outcross between a B6 female and a <i>castaneus</i> male. F<sub>1</sub> males, 
+and those from all subsequent generations, would also be mated with B6 females. 
+After ten generations, the genetic background would be essentially B6, but the Y 
+chromosome would be <i>castaneus</i>. This strain could be symbolized as B6-Y<SUP>CAS</SUP>. 
+<a name="3.3.3.5"></a><H3>3.3.3.5 Conplastic strains</H3>
+
+<P>Conplastic strains are another variation on the congenic theme, except that in 
+this case, the donor genetic material is the whole mitochondrial genome which is 
+placed into an alternative host. Since the mitochondrial genomes carried by all of 
+the classical inbred strains are indistinguishable, conplasticity makes sense only in 
+the context of interspecific or inter-subspecies crosses. Conplastic lines are generated 
+by sequential backcrossing of females from the donor strain to recipient males; this 
+protocol is reciprocal to the one used for the generation of Y chromosome-consomics. 
+For example, to obtain a B6 strain conplastic for the <i>M. m. castaneus</i> 
+mitochondrial genome, one would start with an outcross between a B6 male and a 
+<i>castaneus female</i>. F<sub>1</sub> females, and those from all subsequent generations, would 
+also be mated with B6 males. After ten generations, the nuclear genome would be 
+essentially B6 with the same statistics that hold for congenic production 
+(<a href="javascript:windowf35 = window.open('figure3.5.shtml', 'windowf35', 'width=580,height=350,resizable=yes,scrollbars=yes'); windowf35.focus()">Figure 3.5</a>), 
+but all mitochondria would be derived from <I>castaneus</I>. This strain could be 
+symbolized as B6-mt<SUP>CAS</SUP>.
+ 
+<a name="3.3.4"></a><H3>3.3.4 Recombinant inbred and related strains</H3>
+
+<a name="3.3.4.1"></a><H3>3.3.4.1 Recombinant inbred strains</H3>
+
+<P>Recombinant inbred (RI) strains are formed from an initial cross between two 
+different inbred strains followed by an F<sub>1</sub> intercross and 20 generations of strict 
+brother-sister mating. This breeding protocol allows the production of a family of 
+new inbred strains with special properties relative to each other that are discussed fully in 
+<a href="9.2.shtml">Section 9.2.</a> Different RI strains derived from the same pair of original 
+inbred parents are considered members of a set. Each RI set is named by joining an 
+abbreviation of each parental strain together with an &#034;X&#034;. For example, RI strains 
+derived from a C57BL/6J (B6) female and a DBA/2J male are members of the BXD 
+set, and RI strains derived from AKR/J and C57L/J are members of the AKXL set. A 
+complete listing of commonly used RI sets is given in 
+<a href="javascript:windowt93 = window.open('table9.3.shtml', 'windowt93', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A>. 
+Each RI strain in a 
+particular set is distinguished by appending a hyphen to the series name followed by 
+a letter or number. Thus, BXD-15 is a particular RI strain that has been formed from 
+an initial cross between a B6 female and a DBA male. At any point in time, it is 
+always possible to add a new strain to a particular set through an outcross between 
+the same two progenitor strains followed by 20 generations of inbreeding. The RI 
+strains represent an important tool in the arsenal available for linkage studies of 
+newly defined DNA loci.
+<a name="3.3.4.2"></a><H3>3.3.4.2 Recombinant congenic strains</H3>
+<P>Recombinant congenic strains (abbreviated as RC strains) are a variation on the 
+recombinant inbred concept 
+(<a href="references.shtml#Demant1" TARGET="_top">Demant and Hart, 1986</a>). As with RI strains, the 
+initial cross is between two distinct inbred strains. However, the next two 
+generations are generated by backcrossing, without selection, to one of the parental 
+strains. This sequence is followed by brother-sister mating for at least 14 
+generations. Whereas standard RI strains have genomes that are a mosaic of equal 
+parts derived from both parents (as detailed in 
+<a href="9.2.shtml#9.2.2">Section 9.2.2</a>), RC strains will have 
+mosaic genomes that are skewed in the direction of the parent to which the 
+backcrossing occurred such that a random 7/8 fraction of the genome will be derived 
+from this parent, and a random 1/8 fraction will be derived from the other parent. 
+Sets of RC strains have some interesting properties in terms of limiting the amount 
+of the genome that has to be searched for multiple genes involved in quantitative 
+traits. However, with the new PCR-based methods for genotyping highly 
+polymorphic loci discussed in 
+<a href="8.3.shtml#8.3">Section 8.3</a>, the advantages of the RC strains appear to 
+have been superseded and they have not been used widely by the mouse genetics 
+community.
+
+<DIV Align="center"><H4> <A HREF="3.2.shtml">Previous</A> <A HREF="3.4.shtml">Next</A></H4></DIV>
+
+</BODY>
+</HTML>

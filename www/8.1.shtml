@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>8.1 GENOTYPIC AND PHENOTYPIC VARIATION</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="7.4.shtml">Previous</A> <A HREF="8.2.shtml">Next</A></H4></DIV>
+
+<a name="8.1"></a><H2>8.1 GENOTYPIC AND PHENOTYPIC VARIATION</H2>
+
+<P>Linkage analysis can only be performed on loci that are polymorphic
+<SUP><A HREF="notes.shtml#53" TARGET="_top">53</A></SUP> 
+with two or more distinguishable alleles. 
+Naturally occurring polymorphic loci with clear single-gene effects are rarely observed in wild animal populations. 
+In the laboratory, however, it is possible to identify and breed animals with mutations at many different loci (see 
+<A HREF="6.1.shtml#6.1">Chapter 6</A>). Over the last 90 years, thousands of independent mouse mutations have been 
+characterized in various laboratories. In fact, as discussed previously, a primary reason for the initial choice of 
+the mouse as an experimental genetic system was the collection of rare genetic variants present in the hands of the 
+fancy mouse breeders (see 
+<A HREF="1.1.shtml#1.2">Chapter 1</A>). However, even this variation is restricted in its scope and usefulness for geneticists. 
+This is because of the severe limitation in the number of phenotypic markers that can be incorporated into any one cross. 
+Although over 50 independent loci have been characterized with effects on coat color 
+(<A HREF="references.shtml#Silvers1" TARGET="_top">Silvers, 1979</A>), it is impossible to follow more than a handful at any one time since 
+mutant alleles at any one locus will act to obscure the expression of mutant alleles at other loci. With mutant alleles 
+that affect viability in some way, the problem of sorting out overlapping phenotypes becomes even more severe.
+
+<P>Prerecombinant DNA geneticists were able to circumvent these problems by performing large numbers of different crosses, 
+each of which tested overlapping subsets of phenotypic markers. Thus, as illustrated in 
+<a href="javascript:windowf81 = window.open('figure8.1.shtml', 'windowf81', 'width=650,height=300,resizable=yes,scrollbars=yes'); windowf81.focus()">Figure 8.1</A>, 
+the loci <i>A</i>, <i>B</i>, and <i>C</i> were mapped in one cross; 
+<i>C</i>, <i>D</i>, and <i>E</i> were mapped in a second cross, and <i>A</i>, <i>D</i>, and <i>F</i> were mapped in a third cross. 
+If linkage was observed in each of these individual crosses among the three loci mapped therein as shown, it was then 
+possible to develop a linkage map that encompassed all six loci even though, for example, the <i>B</i> locus was never 
+mapped directly relative to <i>D</i>, <i>E</i> or <i>F</i>; and <i>A</i> was never mapped relative to <i>E</i>. By extension, 
+it is possible to combine data obtained in hundreds of crosses to map hundreds of phenotypically defined loci to form linkage 
+maps that extend across all nineteen mouse autosomes and the <I>X</I> chromosome.
+
+<P>Mapping in the prerecombinant DNA era was tedious and was generally performed by investigators dedicated to this task alone. 
+However, with the results of the first generation of cloning and sequencing studies, the scientific community became aware of 
+the existence of a hidden level of enormous genetic variation that occurs naturally in all mammalian populations 
+(<A HREF="references.shtml#Botstein1" TARGET="_top">Botstein et al., 1980</A>). The frequency of DNA variation that exists between chromosome 
+homologs from two unrelated individuals of the same species (including mice and humans) appears to be on the order of one 
+nucleotide substitution or small length change in every 200-500 bp. Since the mammalian genome has a size of 3x10<SUP>9</SUP> bp, 
+this frequency implies a total number of genetic differences between any two unrelated individuals on the order of <i>six million</i> 
+per haploid genome set. In a comparison of individuals from separate species, such as <i>M. musculus</i> and <i>M. spretus</i>, the 
+level of variation will be even higher.
+
+<P>In the prerecombinant DNA era, alleles could only be distinguished in terms of an altered phenotype; thus only genes could have 
+alleles, and the demonstration of a genetic locus was dependent on the expression of alternative phenotypes. Today, every variant 
+nucleotide in the genome is a potential locus. To say that DNA variation provides a larger reservoir for use in genetic studies than 
+phenotypic variation is a vast understatement. Furthermore, and of most importance, there is essentially no limit to the number of 
+these loci that can be mapped simultaneously within a single cross.
+
+<P>All simple forms of DNA variation fall into three classes: (1) base pair substitutions; (2) short regions of deletion or tandem 
+duplication; and (3) insertions or translocations. Examples from each of these classes can be detected as restriction fragment length 
+polymorphisms (RFLPs) and/or by PCR-based protocols. These major tools for DNA allele detection will be discussed separately in the 
+following two sections of this chapter (
+<A HREF="8.2.shtml">Section 8.2</A> and 
+<A HREF="8.3.shtml">Section 8.3</A>).
+
+<DIV Align="center"><H4> <A HREF="7.4.shtml">Previous</A> <A HREF="8.2.shtml">Next</A></H4></DIV>
+
+</BODY>
+</HTML>

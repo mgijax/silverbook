@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 3.1</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<table border="0">
+<B>Table 3.1</B> Some important inbred strains.<BR><I>See also 
+<A HREF="http://www.informatics.jax.org/external/festing/search_form.cgi" TARGET="_blank">Inbred Strains of Mice and Rats</A> at MGI.</I>
+
+<TR><TD><HR>Strain<HR></TD>
+<TD><HR>Color<HR></TD>
+<TD><HR>Major use<HR></TD>
+<TD><HR>Other Charateristics<HR></TD>
+<TD><HR>Origin<HR></TD>
+<TD><HR>Generation<SUP>a</SUP><HR></TD></TR>
+
+<TR><TD>129/Sv-<I>Sl/&#043;, c<SUP>&#043;</SUP>p<SUP>&#043;</SUP> 
+(<A HREF="<!--#include file='include/mgi_home.html'-->nomen/strain_129.shtml" TARGET="_blank">129</A>)</I></TD>
+<TD>Agouti</TD>
+<TD>Source of most ES cell lines and genetic material used for homologous recombination. Used of studies of embryology and reproduction.</TD>
+<TD>Relatively high testicular teratoma incidence. Relatively small size. Resistant to radiation.</TD><TD> &#126;1930 (Dunn)</TD>
+<TD>F79 (JAX)</TD></TR>
+
+<!----->
+<TR><TD>BALB/c</TD>
+<TD>Albino</TD>
+<TD>Used in immunological studies and for the production of hybridomas. A new congenic strain 
+<A HREF="http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=001802" TARGET="_blank">BALB/cByJ-Rb(8.12)5Bnr</A> available from JAX is most efficient for hybridoma production.</TD>
+<TD>Docile females. Males of the J substrain only are extremely aggressive. Relatively poor breeders, but variation among sublines. Sensitive to radiation.</TD>
+<TD>1913 (Bagg)</TD>
+<TD><table border="0">
+<TR><TD>F105 (CR)</TD></TR>
+<TR><TD>F180 (JAX)</TD></TR>
+<TR><TD>F195 (Taconic)</TD></TR>
+</table></TD></TR>
+<!----->
+<TR><TD>C57BL/6 (B6)</TD>
+<TD>Black</TD>
+<TD>Standard strain for genetic studies; common backcross partner for congenic construction and mapping panels.</TD>
+<TD>Relatively long lived and hearty. Excellent breeders. Resistant to radiation.</TD>
+<TD>1921 (Little)</TD>
+<TD><table border="0">
+<TR><TD>F160 (CR)</TD></TR>
+<TR><TD>F187 (JAX)</TD></TR>
+<TR><TD>F155 (Taconic)</TD></TR>
+</table></TD></TR>
+<!----->
+<TR><TD>C57BL/10 (B10)</TD>
+<TD>Black</TD>
+<TD>Commonly used in genetic studies performed outside of the US and for the construction of congenics at the 
+<I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_blank">H2</A></I> complex.</TD>
+<TD>Common ancestry with B6.</TD>
+<TD>1921 (Little)</TD>
+<TD>F192 (JAX)</TD></TR>
+<!----->
+<TR><TD>CAST/Ei</TD>
+<TD>Agouti</TD>
+<TD>Used in matings with traditional inbred strains to create F<SUB>1</SUB> hybrids with high levels of heterozygosity for linkage studies. Better intercross reproductive performance than <I>M. spretus</I> strains.</TD>
+<TD>Derived from wild animals of the subspecies <I>M. m. castaneus</I>. Male F<SUB>1</SUB> hybrids formed with lab strains are fertile.</TD>
+<TD>1971 (Marshall to Eicher)</TD>
+<TD>F53 (JAX)</TD></TR>
+<!----->
+<TR><TD>C3H</TD>
+<TD>Agouti</TD>
+<TD>Used commonly in genetic studies.</TD>
+<TD>High mammary tumor incidence. Large adults.</TD>
+<TD>1920 (Strong)</TD>
+<TD><table border="0">
+<TR><TD>F167 (CR)</TD></TR>
+<TR><TD>F139 (JAX)</TD></TR>
+<TR><TD>F160 (Taconic)</TD></TR>
+</table></TD></TR>
+<!----->
+<TR><TD>DBA/2
+<TD>Dilute brown</TD>
+<TD>Used in crosses with B6 to produce the best-characterized set of RI strains, and for the production of standard F<SUB>1</SUB> hybrid animals.</TD>
+<TD></TD>
+<TD>1909 (Little)</TD>
+<TD><table border="0">
+<TR><TD>F164 (CR)</TD></TR>
+<TR><TD>F183 (JAX)</TD></TR>
+<TR><TD>F165 (Taconic)</TD></TR>
+</table></TD></TR>
+<!----->
+<TR><TD>FVB/N</TD>
+<TD>Albino</TD>
+<TD>Recently derived strain with special characteristics that are ideal for the production of transgenic mice. An agouti congenic is currently under construction.</TD>
+<TD>Very large litters, easy to handle, large and prominent pronuclei in zygotes.</TD>
+<TD>1975 (NIH)</TD>
+<TD><table border="0">
+<TR><TD>F30 (CR)</TD></TR>
+<TR><TD>F57 (JAX)</TD></TR>
+<TR><TD>F40 (Taconic)</TD></TR>
+</table></TD></TR>
+<!----->
+<TR><TD>MOLF/Ei</TD>
+<TD>Agouti</TD>
+<TD>Used in matings with traditional inbred strains to create F<SUB>1</SUB> hybrids with high levels of heterozygosity for linkage studies. 
+Better intercross reproductive performance than <I>M. spretus</I> strains.</TD>
+<TD>Derived from wild animals of the <I>faux</I> subspecies <I>M. m. molossinus</I> 
+(<a href="2.3.shtml" TARGET="_blank">Section 2.3</a>).</TD>
+<TD>&#126;1975 (Potter to Eicher)</TD>
+<TD>F50 (JAX)</TD></TR>
+<!----->
+<TR><TD>SPRET/Ei</TD>
+<TD>Agouti</TD>
+<TD>Used in matings with traditional inbred strains to create highly heterozygous backcross panels for linkage analysis.</TD>
+<TD>Derived from the species <I>M. spretus</I>. Small animals. Difficult to handle.</TD>
+<TD>1988 (Eicher)</TD>
+<TD>F37 (JAX)</TD></TR>
+<TR><TD colspan="6">
+<HR>
+<SUP>a</SUP>As of 1993.
+</TD></TR>
+</table></div>
+
+</BODY>
+</HTML>

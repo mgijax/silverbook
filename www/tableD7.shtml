@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table D7</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+<TABLE Border="0" CELLPADDING="3">
+<TR><B>Table D7</B>  Critical values of the <I>t</I> distribution associated with selected <I>P</I> values for 10 - 1,000 degrees of freedom (<I>df</I>)</TR>
+<TR><TD COLSPAN="6"><HR></TD></TR>
+<TR><TD></TD><TD ALIGN="CENTER" COLSPAN="5"><I>P</I> values</TD></TR>
+<TR><TD></TD><TD COLSPAN="5"><HR></TD></TR>
+<TR><TD ALIGN="RIGHT"><I>df</I></TD>
+<TD>0.05</TD>
+<TD>0.01</TD>
+<TD>0.005</TD>
+<TD>0.001</TD>
+<TD>0.0005</TD></TR>
+<TR><TD COLSPAN="6"><HR></TD></TR>
+<TR>
+<TD ALIGN="RIGHT">10</TD>
+<TD>1.81</TD>
+<TD>2.76</TD>
+<TD>3.17</TD>
+<TD>4.14</TD>
+<TD>4.59</TD>
+</TR><TR>
+<TD ALIGN="RIGHT">15</TD>
+<TD>1.75</TD>
+<TD>2.60</TD>
+<TD>2.95</TD>
+<TD>3.73</TD>
+<TD>4.07</TD>
+</TR><TR>
+<TD ALIGN="RIGHT">20</TD>
+<TD>1.73</TD>
+<TD>2.53</TD>
+<TD>2.85</TD>
+<TD>3.55</TD>
+<TD>3.85</TD>
+</TR><TR>
+<TD ALIGN="RIGHT">30</TD>
+<TD>1.70</TD>
+<TD>2.46</TD>
+<TD>2.75</TD>
+<TD>3.39</TD>
+<TD>3.65</TD>
+</TR><TR>
+<TD ALIGN="RIGHT">40</TD>
+<TD>1.68</TD>
+<TD>2.42</TD>
+<TD>2.70</TD>
+<TD>3.30</TD>
+<TD>3.55</TD>
+</TR><TR>
+<TD ALIGN="RIGHT">60</TD>
+<TD>1.67</TD>
+<TD>2.40</TD>
+<TD>2.66</TD>
+<TD>3.23</TD>
+<TD>3.46</TD>
+</TR><TR>
+<TD ALIGN="RIGHT">100</TD>
+<TD>1.66</TD>
+<TD>2.36</TD>
+<TD>2.63</TD>
+<TD>3.17</TD>
+<TD>3.39</TD>
+</TR><TR>
+<TD ALIGN="RIGHT">1,000</TD>
+<TD>1.65</TD>
+<TD>2.33</TD>
+<TD>2.58</TD>
+<TD>3.10</TD>
+<TD>3.30</TD>
+</TR><TR>
+</TABLE>
+</BODY>
+</HTML>

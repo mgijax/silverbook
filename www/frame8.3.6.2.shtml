@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>MGI - Lee Silver's Mouse Genetics</TITLE>
+</HEAD>
+<FRAMESET COLS="20%,80%">
+   <FRAME SRC="navigation.shtml" NAME=navigation>
+   <FRAME SRC="8.3.shtml#8.3.6.2" NAME=documents>
+</FRAMESET>
+</HTML>

@@ -1,0 +1,200 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>9.3 INTERSPECIFIC MAPPING PANELS</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="9.2.shtml">Previous</A> <A HREF="9.4.shtml">Next</A></H4></DIV>
+
+<a name="9.3"></a><H2>9.3 INTERSPECIFIC MAPPING PANELS</H2>
+
+<a name="9.3.1"></a><H3>9.3.1 Overview</H3>
+
+<P>The &#034;interspecific mapping&#034; approach was conceived of by 
+<A HREF="references.shtml#Bonhomme2" TARGET="_top">Fran&#231;ois Bonhomme (1979)</A> working in Montpellier, France. Bonhomme had discovered that two clearly distinct mouse species &#151; 
+<i>M. musculus</i> and <i>M. spretus</i> &#151; could be bred together in the laboratory to form fertile F<SUB>1</SUB> female hybrids 
+(<A HREF="references.shtml#Bonhomme3" TARGET="_top">Bonhomme et al., 1978</A>). The two parents involved in the generation of these F<SUB>1</SUB> animals are so evolutionarily divergent 
+(<a href="javascript:windowf22 = window.open('figure2.2.shtml', 'windowf22', 'width=720,height=580,resizable=yes,scrollbars=yes'); windowf22.focus()">Figure 2.2</a>) 
+that polymorphisms in the form of RFLPs can be readily identified between them with the great majority of mouse DNA probes. 
+Thus, by backcrossing these F<SUB>1</SUB> females to one parental strain, it becomes possible to follow the segregation and linkage of almost any group of cloned loci 
+(<A HREF="references.shtml#Avner2" TARGET="_top">Avner et al., 1988</A>; 
+<A HREF="references.shtml#Copeland1" TARGET="_top">Copeland and Jenkins, 1991</A>).
+
+<P>For historical reasons, the <i>M. musculus</i> representative chosen for use in most interspecific crosses has been B6 
+(<A HREF="references.shtml#Bonhomme2" TARGET="_top">Bonhomme et al., 1979</A>; 
+<A HREF="references.shtml#Copeland1" TARGET="_top">Copeland and Jenkins, 1991</A>; 
+<A HREF="references.shtml#Nadeau3" TARGET="_top">Nadeau et al., 1991</A>), although there is no reason why other traditional inbred strains cannot be used instead 
+(<A HREF="references.shtml#Hammer2" TARGET="_top">Hammer et al., 1989</A>; 
+<A HREF="references.shtml#Moseley1" TARGET="_top">Moseley and Seldin, 1989</A>). The initial outcross is always set up between a B6 (or other traditional inbred strain) female 
+and an inbred <i>M. spretus</i> male [written as (B6 X SPRET)]; the outcross is carried out in this direction because of the greater fecundity associated 
+with the traditional <i>M. musculus</i> inbred females relative to <i>M. spretus</i> females. In the subsequent generation, a backcross is performed between an 
+F<SUB>1</SUB> female (since F<SUB>1</SUB> males are sterile) and either an <i>M. spretus</i> or B6 male; the standard written descriptions of these entire two generation protocols 
+are: [(B6 X SPRET) X SPRET] and [(B6 X SPRET) X B6], respectively.
+
+<P>An &#034;interspecific mapping panel&#034; is typically composed of DNA samples obtained from 100-1,000 N<SUB>2</SUB> offspring from this backcross. 
+Aliquots of each sample are digested typically with one restriction enzyme at a time, electrophoresed on gels, and transferred to Southern blots which can be 
+sequentially probed with radioactively labeled DNA clones. As more and more loci are typed, and as segregation patterns are compared, linkage groups will begin to 
+emerge. As the number of typed markers approaches several hundred, all will begin to coalesce into a series of only 20 linkage groups that each correspond to a 
+single mouse chromosome. (A more detailed discussion of the actual numbers of loci and animals required for linkage determination will be presented in 
+<A HREF="9.4.shtml">Section 9.4</A>.) Obviously, the correct assignment of linkage groups with their associated chromosomes depends upon the incorporation into 
+the mapping panel analysis of previously assigned 
+<A HREF="glossary.shtml#Anchor_locus" TARGET="_top">anchor loci</A>.
+
+<P>It should be emphasized that each member of an interspecific mapping panel typically survives only in the form of DNA. Thus, the power of these panels is 
+limited to the analysis of cloned loci. To map loci defined solely by a variant phenotype, one would have to choose an alternative approach. In most cases, 
+it will be necessary to set up a new cross <i>from scratch</i> as described in 
+<A HREF="9.4.shtml">Section 9.4</A>.
+
+<P>By the end of 1990, over 600 cloned loci had been typed on the single interspecific mapping panel maintained by Jenkins and Copeland at the Frederick Cancer Research Center 
+(<A HREF="references.shtml#Copeland1" TARGET="_top">Copeland and Jenkins, 1991</A>). By the end of 1993, the interspecific mapping panels maintained by Jenkins and Copeland 
+(<A HREF="references.shtml#Copeland2" TARGET="_top">Copeland et al., 1993</A>), as well as those maintained by several other investigators, had all been typed for at least 1,000 loci. 
+With 1,000 or more loci in a database, one can be virtually assured of finding a correct linkage relationship for any new test locus that is put through an analysis of the same mapping panel.
+
+<a name="9.3.2"></a><H3>9.3.2 A comparison: RI strains versus the interspecific cross</H3>
+
+<P>Many investigators will want to obtain a high-resolution map position for their newly characterized DNA clone without having to set up their own cross, and without 
+having to invest a substantial amount of time, energy, and money. For all such investigators, typing an established mapping panel will be the method of choice. But, 
+which mapping panel should be used? One possibility is to type one or more sets of RI strains, as discussed in the 
+<A HREF="9.2.shtml">previous section</A>. The second possibility is to type 
+one of the well-established interspecific backcross mapping panels. Each approach has its advantages and disadvantages.
+
+<a name="9.3.2.1"></a><H3><I>9.3.2.1 Genetic considerations</I></H3>
+
+<P>In terms of ease of polymorphism discovery, the interspecific approach provides a clear advantage over the RI approach. As discussed previously, it is often difficult 
+to uncover RFLPs between the progenitors of RI strains. Furthermore, the identification of a RFLP between one set of RI progenitors is often not useful for the analysis 
+of other RI sets. Thus, even when RFLPs have been uncovered, the total number of RI strains that can be analyzed is often quite limited; it can be as few as 26 and it 
+is rarely more than 80. In contrast, the ease of RFLP identification between the progenitors of the interspecific cross was the main impetus to the initial use of this 
+mapping approach. Furthermore, one need only identify a single type of polymorphism to type the entire interspecific panel.
+
+<P>With the newer PCR-based approaches to polymorphism identification discussed in 
+<A HREF="8.3.shtml">Section 8.3</A>, it is now easier to identify differences between RI progenitor strains. 
+Of course, with these same approaches, polymorphism identification between the interspecific progenitors is even easier still.
+
+<P>In terms of the resolution of the genetic map that is obtained, the interspecific approach has a number of advantages over the RI approach. First, the number of samples 
+in several of the well-characterized interspecific panels ranges from over 200 to as high as 1,000; 1,000 samples provides an average map resolution of 
+0.1 cM. In contrast, the total number of well-characterized RI strains is less than 140. Second, interference acts to eliminate nearby double crossover events in the 
+interspecific backcross, and thus gene order can be determined with very high levels of confidence for any linked loci. In contrast, crossing over in multiple generations 
+during the creation of RI strains eliminates the effect of interference and this can sometimes causes ambiguity in the determination of gene order.
+
+<P>There is one potential problem that could act to reduce the resolution of the interspecific cross in certain genetic regions &#151; the existence of small inversion 
+polymorphisms that may have arisen during the divergence of <i>M. spretus</i> and <i>M. musculus</i>. An inversion will preclude the observation of recombination across 
+all the loci that it encompasses and, in turn, this will prevent the mapping of all of these loci relative to each other. Only one such inversion polymorphism has been identified to date 
+(<A HREF="references.shtml#Hammer2" TARGET="_top">Hammer et al., 1989</A>), however, direct tests for the existence of others have not been performed. Inversions could only be demonstrated 
+directly by creating a intraspecific linkage map for <i>M. spretus</i> by itself and comparing the gene order on this map to the gene order on an intraspecific <i>M. musculus</i> map. 
+Although this comparison has not been performed for any chromosome other than 17, indirect evidence for several additional inversions has come from the finding of regions of apparent 
+recombination suppression in an interspecific linkage map in comparison to an intersubspecific (<i>castaneus</i>-B6) linkage map 
+(<A HREF="references.shtml#Copeland2" TARGET="_top">Copeland et al., 1993</A>). Cryptic inversions could have serious consequences for those who would like to use interspecific linkage distances 
+as a gauge for estimating the physical distance between two markers as a precursor to positional cloning as described in 
+<A HREF="10.1.shtml">Chapter 10</A>.
+
+<a name="9.3.2.2"></a><H3><I>9.3.2.2 Practical considerations</I></H3>
+
+<P>A unique advantage held by the established RI mapping panel sets is that individual RI samples are actually represented by strains of mice, and as such, they are immortal; 
+RI samples from a mapping panel will never be &#034;used-up.&#034; In contrast, the amount of DNA in each sample of every interspecific panel is finite. Even under the best conditions, 
+the amount of DNA recovered from a single whole mouse will never be more than 40 mg, and in many cases, mapping panels were previously established with samples containing only 
+1 or 2 mg. In the days when all typing was carried out by Southern blot analysis of genomic DNA, it was typical to use 5-10 microgram aliquots for each 
+analysis. With a total per sample size of 1 mg of DNA, one could produce 200 Southern blots which could each be probed multiple times. Although this may sound like a 
+large capacity, in reality, samples are spilled or transferred inefficiently, and blots become ruined. For panels that are analyzed primarily by the RFLP approach, samples will 
+be &#034;used-up&#034; eventually and, as a consequence, the practical lifetime of such interspecific mapping panels is limited.
+
+<P>Today, of course, it is possible to develop a PCR protocol for typing in many cases and this allows one to use much smaller sample aliquots &#151; on the order of nanograms. Thus, 
+if the typing of a panel is restricted to PCR methods, one could conceivably analyze hundreds of thousands of loci on a single panel before it goes extinct.
+
+<P>For many investigators, a second important advantage to the RI approach is that DNA samples or animals can be purchased, without constraints, from the 
+<A HREF="a.shtml">Jackson Laboratory</A>. 
+The investigator can then perform the experimental analysis in his or her own lab, and, by comparing the new SDP obtained with those present in a public database 
+(provided with the Map Manager program described in 
+<A HREF="b.shtml">Appendix B</A>), a map position 
+for the new locus can be established. This entire analysis can be accomplished independently, without any need to contact, consult, or collaborate with other scientists.
+
+<P>In contrast, each well-characterized interspecific panel is maintained in the context of an ongoing research project by a particular scientist or laboratory. Thus, an investigator 
+with a new clone must interact, at some level, with another scientist, in order to utilize their mapping panel and private database for the purpose of determining a new map position. 
+Some investigators may see this interaction as an advantage. For example, in a number of cases, mapping panel &#034;owners&#034; are willing to carry out the experimental analysis in their own 
+labs, thereby alleviating the workload of the independent investigator; such extensive interactions are normally treated as collaborations. Other investigators will wish to remain 
+independent and will view such an extensive interaction as a disadvantage.
+
+<a name="9.3.3"></a><H3>9.3.3 Access to established interspecific mapping panels</H3>
+
+<P>At the time of writing, the laboratories listed below maintain well-characterized interspecific mapping panels. Different laboratories operate their mapping programs in very 
+different ways &#034; some send out DNA samples or filters from their panel while others perform all typing in-house; the reader should make direct contact with a particular laboratory 
+to determine the specific protocol that is followed there. The reader should be cautioned, of course, that all of these programs are maintained by funding agencies, and a change in 
+funding or personnel may have eliminated a particular program during the period between this writing and your reading.
+
+<P>In the United States, the best characterized interspecific mapping panels are maintained by N. Jenkins and N. Copeland at the Frederick Cancer Research Center in Frederick, Maryland 
+(<A HREF="references.shtml#Copeland1" TARGET="_top">Copeland and Jenkins, 1991</A>; 
+<A HREF="references.shtml#Copeland2" TARGET="_top">Copeland et al., 1993</A>), M. Seldin at Duke University Medical Center in Durham, North Carolina 
+(<A HREF="references.shtml#Moseley1" TARGET="_top">Moseley and Seldin, 1989</A>; 
+<A HREF="references.shtml#Watson2" TARGET="_top">Watson et al., 1992</A>), and E. Birkenmeier at the Jackson Laboratory in Bar Harbor, Maine 
+(<A HREF="references.shtml#Birkenmeier1" TARGET="_top">Birkenmeier et al., 1994</A>). In Europe, a very large interspecific mapping panel with 1,000 samples (the European Collaborative 
+Interspecific Backcross or EUCIB) is maintained by the Human Genome Mapping Project (HGMP) Resource Centre (Watford Rd., Harrow Middx HA1 3UJ, England; FAX: 081-869-3807). 
+EUCIB is under the joint supervision of S. Brown at St. Mary's Hospital in England and Jean-Louis Gu&#225;net at the Pasteur Institute in Paris, France 
+(<A HREF="references.shtml#Brown1" TARGET="_top">Brown, 1993</A>).
+
+<a name="9.3.4"></a><H3>9.3.4 Is the newly mapped gene a candidate for a previously-characterized mutant locus?</H3>
+
+<P>The main reason that many investigators will want to map a newly cloned gene is to determine whether it is equivalent to a locus that has been previously mapped but is characterized 
+only at the level of a mutant phenotype. Cloning the genes associated with interesting phenotypes in this roundabout manner is usually a matter of luck and is referred to as the 
+&#034;candidate gene&#034; approach. How does one begin to rule out or rule in possible identity to a phenotypically defined locus? Unfortunately, the mapping panel used to localize the 
+cloned gene will usually not provide simultaneous map information for any phenotypically defined loci. Thus, one is forced to compare map positions derived from different crosses.
+
+<P>One should begin a search for potentially equivalent mutationally defined loci by scanning database lists of all loci that are thought to lie within 10 cM of the map position 
+obtained for the new clone. The databases to search should include the chromosome map compiled by the appropriate mouse chromosome committee and published annually in a special 
+issue of <i>Mammalian Genome</i> 
+(<A HREF="references.shtml#Chromosome1" TARGET="_top">Chromosome committee chairs, 1993</A>) and 
+the electronic databases maintained at the Jackson Laboratory (see 
+<A HREF="b.shtml">Appendix B</A>). Descriptions of the phenotypes associated with loci picked up in this scan can be obtained from a compendium published in the latest edition of the 
+<i>Genetic Variants and Strains of the Laboratory Mouse</i> 
+(<A HREF="references.shtml#Green5" TARGET="_top">Green, 1989</A>) or electronically from the continuously updated on-line Mouse Locus Catalog in the Jackson Laboratory databases (see 
+<A HREF="b.shtml">Appendix B</A>). The expression pattern of the newly cloned gene and information concerning its protein product can often provide a means for evaluating the likelihood of 
+an association with any particular mutant phenotype.
+
+<P>Once a particular locus has been identified for further consideration, one should begin a statistical evaluation of the likelihood of an equivalent map position with the newly 
+cloned gene. To carry out this evaluation, it is important to look at the raw data that were used to place the locus on the map. Much of this information is compiled in the Jackson Laboratory databases. 
+However, at times, it may be necessary to go back to the original reports that are cited. In this way, it will be possible to determine the actual marker locus, or loci, that were 
+shown to be linked to the mutation, the nature of the cross that was used for analysis, and the number of recombinants observed. In many cases, mutant loci will have been mapped 
+relative to &#034;
+<A HREF="glossary.shtml#Anchor_locus" TARGET="_top">anchor loci</A>&#034; 
+with well-established positions on contemporary chromosome consensus maps. If this is not the case, it may be necessary to backtrack through citations to 
+uncover a multiple-step linkage relationship that does exist between the mutation and a well-established anchor.
+
+<P>Once a particular anchor locus has been identified with a direct linkage association to both the cloned gene and the mutant locus under consideration, the next task is to determine 
+whether the confidence intervals associated with the map position of each show overlap. This can be accomplished with the use of the confidence limit tables presented in 
+<A HREF="d.shtml">Appendix D</A>.
+
+<P>An illustration of such an analysis is presented in 
+<a href="javascript:windowf910 = window.open('figure9.10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>. 
+In this hypothetical example, a newly cloned locus has been mapped relative to a common anchor locus with nine recombinants found in 94 
+backcross samples. This provides an estimated linkage distance of 9.6 cM. By consulting 
+<a href="javascript:windowtd5 = window.open('tableD5.shtml', 'windowtd5', 'width=650,height=600,resizable=yes,scrollbars=yes'); windowtd5.focus()">Table D.5</A>, 
+one can estimate lower and upper 95% confidence limits of 5.2 and 17 cM respectively. 
+Next, one evaluates the linkage data associated with three mutant loci that have been identified as having the potential to be equivalent to the cloned gene. Mutation number one 
+(<i>Mut1</i>) has been mapped relative to the same anchor locus in a backcross experiment, with 52 recombinants found among 250 samples for an estimated linkage distance of 21 cM. 
+Extrapolation from the values given in 
+<a href="javascript:windowtd6 = window.open('tableD6.shtml', 'windowtd6', 'width=500,height=600,resizable=yes,scrollbars=yes'); windowtd6.focus()">Table D6</A> 
+provides lower and upper 95% confidence limits of 16 and 26 cM, respectively. Mutation number two (<i>Mut2</i>) has also been mapped relative to 
+the same anchor locus in a backcross, with 88 recombinants in 400 samples giving a linkage distance of 22 cM with lower and upper confidence limits of 18.2 and 26.3 cM (also from 
+<a href="javascript:windowtd6 = window.open('tableD6.shtml', 'windowtd6', 'width=500,height=600,resizable=yes,scrollbars=yes'); windowtd6.focus()">Table D6</A>). 
+Finally, mutation number 3 (<i>Mut3</i>) has been mapped with a group of RI strains with one discordance observed in 40 strains giving an estimated 
+linkage distance of 0.6 cM (from 
+<a href="javascript:windowf97 = window.open('figure9.7.shtml', 'windowf97', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf97.focus()">Figure 9.7</A>) 
+and lower and upper confidence limits of 0.2 and 4.0 cM (from 
+<a href="javascript:windowtd2 = window.open('tableD2.shtml', 'windowtd2', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">Table D2</A>).
+
+<P>The results of all four crosses are represented graphically in 
+<a href="javascript:windowf910 = window.open('figure9.10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>. 
+The data make it very unlikely that the newly cloned gene is equivalent to loci defined by either mutation 2 or mutation 3 since none of these 
+confidence intervals overlap. However, the 95% confidence intervals of the cloned gene and mutation 1 do overlap (even though absolute estimates of their map positions place them over 
+10 cM apart). If mutant-bearing animals are available, the potential equivalence between these two loci can be followed up with further experiments of several types. First, 
+expression of the cloned gene can be examined in animals that carry the mutation. Second, the cloned locus itself can be examined within the mutant genome for the possible detection of 
+easily visible alterations such as a deletion or gene-inactivating insertion. Finally, segregation of the mutant allele and the cloned gene can be followed directly in a breeding 
+experiment (as described in the 
+<A HREF="9.4.shtml">next section</A>). It only takes one validated recombination event
+<SUP><A HREF="notes.shtml#90" TARGET="_top">90</A></SUP> 
+to rule out an equivalence between the two loci.
+
+<DIV Align="center"><H4> <A HREF="9.2.shtml">Previous</A> <A HREF="9.4.shtml">Next</A></H4></DIV>
+
+</BODY>
+</HTML>

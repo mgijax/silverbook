@@ -1,0 +1,51 @@
+<HTML>
+<BODY>
+here are some examples for the include files...<P>
+<DL>
+<DT> <a href='<!--#include file="include/mgi.html"-->'>MGI WI</a>
+<DD> <!--#include file="include/mgi.html"-->
+<DD> &lt;!--#include file="include/mgi.html"--&gt;
+
+<DT> <a href='<!--#include file="include/mgi_mlc.html"-->'>MGI MLC OMIM page</a>
+<DD> <!--#include file="include/mgi_mlc.html"-->
+<DD> &lt;!--#include file="include/mgi_mlc.html"--&gt;
+
+<DT> <a href='<!--#include file="include/mgi_mlc.html"-->?diabetes'>MGI MLC OMIM page, with search for "diabetes"</a>
+<DD> <!--#include file="include/mgi_mlc.html"-->?diabetes
+<DD> &lt;!--#include file="include/mgi_mlc.html"--&gt;?diabetes
+
+<DT> <a href='<!--#include file="include/mgi_acc.html"-->MGI:12345'>MGI Accession Report, searching for MGI:12345</a>
+<DD> <!--#include file="include/mgi_acc.html"-->MGI:12345
+<DD> &lt;!--#include file="include/mgi_acc.html"--&gt;MGI:12345
+
+<DT> <a href='<!--#include file="include/mgi_home.html"-->'>MGI Home</a>
+<DD> <!--#include file="include/mgi_home.html"-->
+<DD> &lt;!--#include file="include/mgi_home.html"--&gt;
+
+<DT> <a href='<!--#include file="include/mgi_list.html"-->'>mgi-list</a>
+<DD> <!--#include file="include/mgi_list.html"-->
+<DD> &lt;!--#include file="include/mgi_list.html"--&gt;
+
+<DT> <a href='<!--#include file="include/mgi_support.html"-->'>MGI User Support</a>
+<DD> <!--#include file="include/mgi_support.html"-->
+<DD> &lt;!--#include file="include/mgi_support.html"--&gt;
+
+<DT> <a href='<!--#include file="include/mtb.html"-->'>MTB</a>
+<DD> <!--#include file="include/mtb.html"-->
+<DD> &lt;!--#include file="include/mtb.html"--&gt;
+
+<DT> <a href='<!--#include file="include/gdb_clone.html"-->GDB:170033'>GDB Clone GDB:170033</a>
+<DD> <!--#include file="include/gdb_clone.html"-->GDB:170033
+<DD> &lt;!--#include file="include/gdb_clone.html"--&gt;GDB:170033
+
+<DT> <a href='<!--#include file="include/omim.html"-->103280'>OMIM, linking to 103280</a>
+<DD> <!--#include file="include/omim.html"-->103280
+<DD> &lt;!--#include file="include/omim.html"--&gt;103280
+
+<DT> <a href='<!--#include file="include/pubmed.html"-->1880396'>PubMed, linking to 1880396</a>
+<DD> <!--#include file="include/pubmed.html"-->1880396
+<DD> &lt;!--#include file="include/pubmed.html"--&gt;1880396
+
+</DL>
+</BODY>
+</HTML>

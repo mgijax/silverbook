@@ -1,0 +1,54 @@
+###--- non-URL config options ---###
+
+# location of Python interpreter
+PYTHON		/usr/local/bin/python
+
+# Unix group to which to chmod the files, must be web-accessible
+GROUP		www
+
+# octal permissions for all *.shtml files (640 is rw-r----)
+SHTML_PERMS	0640
+
+# colon-delimited list of Python library directories
+LIBDIRS		/usr/local/mgi/lib/python
+
+# directory in which to create temporary files (do not end with '/')
+TMPDIR		/tmp
+
+###--- URLs for generating include files ---###
+
+# which MGI WI installation to use
+MGI		http://www.informatics.jax.org/
+
+# link to the WI's MLC OMIM search form
+MGI_MLC_OMIM	${MGI}searches/noforms_mlc_omim.cgi
+
+# link to the WI's accession report - just append accIDs
+MGI_ACCESSION	${MGI}searches/accession_report.cgi?id=
+
+# link to MGI Home
+MGI_HOME	${MGI}mgihome/
+
+# link to MGI Glossary
+MGI_GLOSSARY	${MGI_HOME}glossary.shtml
+
+# link to MGI user support page
+MGI_SUPPORT	${MGI}mgihome/support/tjl_inbox.shtml
+
+# link to the Lyris view of mgi-list
+MGI_LIST	http://lists.informatics.jax.org/lyris-cgi/lyris.pl?enter=mgi-list&text_mode=0
+
+# link to MTB
+MTB		http://tumor.informatics.jax.org/FMPro?-db=TumorInstance&-format=mtdp.html&-view
+
+# link to PubMed abstracts at NCBI - just append the ID
+NCBI_PUBMED	http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=
+
+# link to OMIM records at NCBI - just append the ID
+NCBI_OMIM	http://www3.ncbi.nlm.nih.gov/htbin-post/Omim/dispmim?
+
+# link to clones at GDB - just append the ID
+GDB_CLONE	http://www.gdb.org/gdb-bin/genera/genera/hgd/Clone?!sub=0&!key=
+
+# link to detail pages at JaxMice - just append the stock number
+JAXMICE		http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=

@@ -1,0 +1,33 @@
+#!./python
+
+import sys
+if '.' not in sys.path:
+	sys.path.insert (0, '.')
+
+import Configuration
+config = Configuration.get_Configuration ('Configuration', 1)
+
+filename = {
+	'MGI'		: 'mgi.html',
+	'MGI_MLC_OMIM'	: 'mgi_mlc.html',
+	'MGI_ACCESSION'	: 'mgi_acc.html',
+	'MGI_GLOSSARY'	: 'glossary.html',
+	'MGI_HOME'	: 'mgi_home.html',
+	'MGI_SUPPORT'	: 'mgi_support.html',
+	'MGI_LIST'	: 'mgi_list.html',
+	'MTB'		: 'mtb.html',
+	'NCBI_PUBMED'	: 'pubmed.html',
+	'NCBI_OMIM'	: 'omim.html',
+	'GDB_CLONE'	: 'gdb_clone.html',
+	'JAXMICE'	: 'jaxmice.html',
+	}
+
+print 'Writing include files...'
+
+for option in filename.keys():
+	print '...writing %s' % filename[option]
+
+	fp = open ('../www/include/%s' % filename[option], 'w')
+	fp.write (config[option])
+	fp.close()
+

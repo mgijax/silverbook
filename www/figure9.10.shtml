@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 9.10 - Determining the Likelihood of Equivalence for Independently Mapped Loci</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="images/figure9.10.gif" Alt="Figure 9.10" Width="650" Height="255"> </TD></TR>
+
+<TR><TD>
+<B>Figure 9.10</B> 
+Determining the likelihood of equivalence for independently mapped loci. 
+In this illustration, four different loci &#151; including a clone and three mutations &#151; have been mapped relative to the same 
+<A HREF="glossary.shtml#Anchor_locus" TARGET="_blank">anchor locus</A> in independent experiments. 
+The type of cross used for mapping and the number of recombinants observed among the total number typed is indicated at the left of each two locus map. 
+These numbers have been used to determine distance estimates, which are indicated by dark lines emanating from each locus symbol. 
+The linkage data have also been used &#151; in conjunction with Tables 
+<a href="javascript:windowtd2 = window.open('tableD2.shtml', 'windowtd2', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">D2</A> and 
+<a href="javascript:windowtd6 = window.open('tableD6.shtml', 'windowtd6', 'width=500,height=600,resizable=yes,scrollbars=yes'); windowtd6.focus()">D6</A> 
+&#151;to extrapolate minimum and maximum limits on the 95% confidence intervals associated with each map position. 
+The confidence interval associated with the clone overlaps the interval associated with <I>Mut1</I>. 
+This result suggests the possibility that the two loci may be equivalent although the minimal overlap observed would still make this a long shot. 
+However, the data provide strong evidence against the possibility that the clone is equivalent to either <I>Mut2</I> or <I>Mut3</I>, which appear to map farther or closer from the anchor, respectively.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

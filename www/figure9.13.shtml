@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 9.13 - The Swept Radius for Experimental and Framework Linkage Maps</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="images/figure9.13.gif" Alt="Figure 9.13" Width="514" Height="356"> </TD></TR>
+
+<TR><TD>
+<B>Figure 9.13</B> 
+The swept radius for experimental and framework linkage maps. 
+The solid line indicates the <I>experimental swept radius</I> for sets of backcross animals that number between 20 and 100. 
+The experimental swept radius should be used to evaluate the significance of experimentally derived recombination or concordance values. 
+All experimentally determined recombination fractions or concordance values that lie below this line can be considered significant at a level of 95%. 
+The broken line indicates the <I>framework swept radius</I>. 
+This is a measure of the <I>actual</I> distance that a marker locus will sweep on each side with a probability of 95%. 
+The framework swept radius should be used as a basis for choosing markers for setting up a framework map in a new linkage study. 
+Recombination fractions (<I>rf</I>) that are less than 0.25 can be converted directly into 
+<A HREF="glossary.shtml#centimorgan" target="_blank">centimorgan</A> distances through multiplication by 100 as discussed in 
+<A HREF="7.2.shtml#7.2.2.3" TARGET="_blank">Section 7.2.2.3</A>. 
+For larger recombination fractions, the Carter-Falconer mapping function should be used to obtain centimorgan distances 
+(<A HREF="7.2.shtml#equation7.3" TARGET="_blank">Equation 7.3</A>). 
+The experimental swept radius was derived through a reiterative Bayesian approach based on the use of 
+<A HREF="9.1.shtml#equation9.6" TARGET="_blank">Equation 9.6</A>. 
+The framework swept radius was derived by determining the recombination fraction having a 95% confidence interval with an upper limit equivalent to the experimental swept radius.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

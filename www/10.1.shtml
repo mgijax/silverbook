@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>10.1 LINKAGE MAPS WITHOUT BREEDING</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="9.5.shtml">Previous</A> <A HREF="10.2.shtml">Next</A></H4></DIV>
+
+<a name="10.1"></a><H2>10.1 LINKAGE MAPS WITHOUT BREEDING</H2>
+
+<a name="10.1.1"></a><H3>10.1.1 Single sperm cell typing</H3>
+
+<P>In 1988, Arnheim and his colleagues 
+(<A HREF="references.shtml#Li1" TARGET="_top">Li et al., 1988</A>) reported the extraordinary finding that unique DNA 
+sequences could be amplified from isolated sperm cells. Amplification from the single DNA target locus that is present in haploid sperm cells 
+represents the theoretical limit in sensitivity that is possible with PCR. The implications of this experimental breakthrough were enormous, 
+especially in the field of human genetics. For the first time, it became possible to consider the analysis of unlimited numbers of individual 
+meiotic events derived from a single individual.
+
+<P>Linkage information could be derived by first identifying a male volunteer who was heterozygous at all loci of interest in a manner that 
+could be distinguished with the use of PCR. The DNA within individual sperm cells donated by the volunteer would be subjected to 
+co-amplification with primer pairs that define each of the loci. Allele determination at each locus in each cell could, in theory, be 
+accomplished by any of the various PCR techniques described in 
+<A HREF="8.3.shtml">Section 8.3</A>, including hybridization to allele specific oligonucleotides, 
+restriction enzyme digestion, or SSCP. In contrast to typical genetic studies in humans, the typing of large numbers of single sperm cells 
+from a single volunteer provides genetic information which is simple to interpret. Linkage distances and gene order can be derived directly 
+by counting the number of cells with each allelic combination 
+(<A HREF="references.shtml#Goradia1" TARGET="_top">Goradia et al., 1991</A>), in a manner 
+equivalent to that described in 
+(<A HREF="9.4.shtml">Section 9.4</A>) for the analysis of backcross data in 
+the form of 
+<A HREF="glossary.shtml#Haplotype" TARGET="_top">haplotypes</A>. Since the number of sperm cells is essentially unlimited, the resolution of the map obtained is a function simply of 
+the time and effort that the investigator wishes to expend in the typing of additional cells. Furthermore, with the use of a protocol for 
+universal PCR amplification, Arnheim and his colleagues have been able to co-amplify the majority of sequences present in each sperm genome 
+(<A HREF="references.shtml#Zhang1" TARGET="_top">Zhang et al., 1992</A>). Thus, in theory, it should be possible to co-type many different loci within a single panel of sperm samples.
+
+<P>Although single sperm typing provides a significant new tool for mapping in humans and other large animals that also do not provide a sufficient 
+number of offspring for typing, its importance to mouse genetics would appear to be more limited since numerous, well defined backcross mapping 
+panels are available for analysis. Furthermore, at the time of this writing, the typing of single cells is still so technically-demanding that 
+it has not been used in a general way even by the broader community of human geneticists.
+
+<a name="10.1.2"></a><H3>10.1.2 Mitotic linkage maps</H3>
+
+<P>Classical linkage analysis is based on meiotic recombination events that occur in sperm and egg precursor cells. The products of these events 
+are observed and counted in the offspring of heterozygous animals (or in sperm cells as described in the 
+<A HREF="10.1.shtml#10.1.1">previous section</A>). Meiotic recombination 
+is a very frequent event &#151; it occurs 30 times, on average, in each individual germ cell line &#151; and it appears to have been selected by 
+evolution to play two very different roles in the biology of higher eukaryotes. First, the physical event itself appears to be required to 
+tether the homologs of each chromosome to each other so that they line up and segregate into opposite daughter cells during the first meiotic 
+division. Second, the production of offspring with non-parental combinations of alleles provides a non-mutational means for the generation of 
+diversity at the genotypic level, and this generation of diversity appears to be generally beneficial to the population as a whole.
+
+<P>Recombination has also been observed at the mitotic level in somatic cells 
+(<A HREF="references.shtml#Rajan1" TARGET="_top">Rajan et al., 1983</A>; 
+<A HREF="references.shtml#Henson1" TARGET="_top">Henson et al., 1991</A>). In comparison to meiotic recombination, mitotic events are exceedingly rare, and 
+they do not appear to have any biological function. It seems most likely that mitotic recombination events are simply accidents that happen 
+in response to spontaneous nicks in the DNA molecule that allow migrating single strands to invade opposite homologs. Usually, 
+mitotically recombined cells will go entirely unnoticed among the millions of nearby cells having <i>germ line</i> haplotypes. However, in 
+individuals that are born heterozygous for null alleles at &#034;tumor suppresser genes&#034; such as retinoblastoma (RB), mitotic recombination can 
+lead to the production of rare homozygous mutant cells that are released from growth control in the absence of the wild-type allele; uncontrolled 
+division of these cells leads to tumor formation. It now appears that a large class of human tumors are caused by this <i>homozygosing</i> 
+at a variety of tumor suppresser genes 
+(<A HREF="references.shtml#Marshall1" TARGET="_top">Marshall, 1991</A>; 
+<A HREF="references.shtml#Weinberg1" TARGET="_top">Weinberg, 1991</A>).
+
+<P>If rare cells that undergo mitotic recombination could be identified and recovered in clonal form from a tissue culture line, a means for 
+generating a linkage map that was not dependent on the breeding of animals would be possible. Such a &#034;mitotic linkage map&#034; has been 
+obtained for the proximal half of chromosome 17 
+(<A HREF="references.shtml#Henson1" TARGET="_top">Henson et al., 1991</A>). The generation of this particular map was dependent upon the ability to 
+immuno select cells that had undergone allele loss at an 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_top">H-2</A></i> complex gene. Selected cells were isolated and expanded into 
+cultures that could be analyzed for various DNA markers that were heterozygous in the parent. All loci that map proximal to the 
+clone-specific breakpoint will remain heterozygous; all that map distal will have become homozygous. Through the analysis of a 
+large number of individual clonal lines, it becomes possible to construct a linkage map with gene order and an estimate of 
+<i>relative</i> distances between loci. The mitotic linkage map constructed for the proximal half of chromosome 17 corresponds well with the meiotic linkage map 
+(<A HREF="references.shtml#Henson1" TARGET="_top">Henson et al., 1991</A>). As expected, the gene order is identical, and there is some minor variation in the relative intergenic distances.
+
+<P>The construction of a mitotic linkage map in one chromosomal region was important for providing biological information concerning the 
+relationship between the distribution of mitotic and meiotic crossover sites, and future experiments of this type may also provide clues to the 
+mechanisms responsible for homologous recombination in somatic cells. However, the mitotic map did not provide any new information specific to 
+chromosome 17, and this approach is not likely to play an important role in future gene mapping experiments for two reasons. First, with current 
+technology, mitotic maps can only be constructed along chromosomal regions that are marked with genes encoding polymorphic cell surface antigens 
+that are expressed codominantly in cultured cells, and are readily distinguishable from each other with specific monoclonal antibodies.
+<SUP><A HREF="notes.shtml#103" TARGET="_top">103</A></SUP> 
+The second reason is that the construction of traditional meiotic linkage maps at the same resolution is likely to be much faster and easier.
+
+<DIV Align="center"><H4> <A HREF="9.5.shtml">Previous</A> <A HREF="10.2.shtml">Next</A></H4></DIV>
+
+</BODY>
+</HTML>

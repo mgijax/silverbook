@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 9.19 - Idealized Distributions for the Expression of a Quantitative Trait in N2 Backcross Populations</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="images/figure9.19.gif" Alt="Figure 9.19" Width="650" Height="903"> </TD></TR>
+
+<TR><TD>
+<B>Figure 9.19</B> 
+Idealized distributions for the expression of a quantitative trait in N<SUB>2</SUB> backcross populations. 
+Each pair of panels presents an example of a quantitative trait distribution that might be expected in a backcross population formed by a mating between the F<SUB>1</SUB> and P2 parents illustrated in 
+<a href="javascript:windowf918 = window.open('figure9.18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>. 
+Component distributions are shown on the left, and composite distributions are shown on the right for quantitative traits controlled by one, two or three segregating loci with strictly semidominant alleles and strictly additive effects. 
+In the case of one locus, there are only two component distributions contributed by animals heterozygous or homozygous for alleles at this locus. 
+In the case of two loci, there are three component distributions; 
+one contains animals heterozygous at both loci like the F<SUB>1</SUB> parent, 
+a second contains animals homozygous at both loci like the P2 parent, 
+and a third contains animals heterozygous at one locus and homozygous at the other. 
+Each complete parental-like component contributes 25% to the total distribution. 
+In the case of three loci, there are four components. 
+One is identical to the F<SUB>1</SUB> parent and a second is identical to the P2 parent at all three loci; each of these parental components will represent 12.5% of the total distribution. 
+The two other components of the three locus distribution contain animals heterozygous at one locus and homozygous at two, or heterozygous at two loci and homozygous at one. 
+The bracketed portions of each distribution represent the subsets of animals that are most likely to carry the same parental genotype at each segregating locus.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

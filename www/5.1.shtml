@@ -1,0 +1,399 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>5.1 QUANTIFYING THE GENOME</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="4.5.shtml">Previous</A> <A HREF="5.2.shtml">Next</A></H4></DIV>
+
+<a name="5.1"></a><H2>5.1 QUANTIFYING THE GENOME</H2>
+
+<P>Even before the discovery of the structure of DNA, it was clear that the fertilized 
+mammalian egg could contain only a finite amount of genetic information, and that 
+this information was all that was needed to define something as complicated as a 
+whole mouse or human being. However, with the demonstration of the double 
+helix and the unraveling of the relationships that exist between basepairs, codons, 
+genes, and polypeptides, it became possible to determine just how finite the total 
+sum of genetic information actually is. But the problem that still looms large is an 
+understanding of the <i>essential</i> genetic information needed to make a mammal. Is it 
+the total amount of DNA in a haploid set of chromosomes, just that portion of 
+DNA that does not include repeated sequence copies, transcription units, coding and 
+regulatory regions, or only those genes required for viability? In some cases, it 
+seems possible to distinguish among what is essential, what is nice to have but not 
+essential, and that which serves no useful function at all. However, in many cases, 
+the distinctions are still not yet clear. This section addresses the quantitation of the 
+genome at various levels of analysis.
+
+<a name="5.1.1"></a><H3>5.1.1 How large is the genome?</H3>
+
+<P>Quantitative DNA-specific staining can be achieved with the use of the Feulgen 
+reagent. Through microphotometric measurements of the staining intensity in 
+individual sperm nuclei, it is possible to determine the total amount of DNA 
+present in the haploid mouse genome 
+(<a href="references.shtml#Laird1" TARGET="_top">Laird, 1971</a>).
+These measurements indicated a total haploid genome content of 3 pg, which translates into a 
+molecular weight of 1.8 x 10<SUP>12</SUP> daltons (Da).
+
+<P>The smallest unit of genetic information is the basepair (bp) which has a 
+molecular weight of &#126;600 Da. By dividing this number into the total haploid 
+DNA mass, one arrives at an approximate value for the total information content in 
+the haploid genome: three billion bp, which can also be written as three million 
+kilobasepairs (kb) or 3,000 megabasepairs (mb). All eutherian mammals have 
+genomes of essentially the same size. 
+
+<P>It is instructive to consider the size of the mammalian genome in terms of the 
+amount of computer-based memory that it would occupy. Each basepair can have 
+one of only four values (G, C, A, or T) and is thus equivalent to two bits of binary 
+code information (with potential values of 00, 01, 10, 11). Computer information is 
+usually measured in terms of bytes that typically contain 8 bits. Thus, each byte can 
+record the information present in 4 bp. A simple calculation indicates that a 
+complete haploid genome could be encoded within 750 megabytes of computer 
+storage space. Incredibly, small lightweight storage devices with such a capacity are 
+now available for desktop computers. Of course, the computer capacity required to 
+actually interpret this information will be many orders of magnitude larger.
+
+<a name="5.1.2"></a><H3>5.1.2 How complex is the genome?</H3>
+
+<P>Another method for determining genome size relies upon the kinetics of DNA 
+renaturation as an indication of the total content of different DNA sequences in a 
+sample. When a solution of double stranded DNA is denatured into single strands 
+which are then allowed to renature, the time required for renaturation is directly 
+proportional to the <i>complexity</i> of the DNA in the solution, if all other parameters 
+are held constant. Single-stranded and double-stranded molecules are easily 
+distinguished by various physical, chemical, and enzymatic procedures.
+
+<P>Complexity is a measure of the information contained within the DNA. The 
+maximal information possible in a solution of genomic DNA purified from one 
+animal or tissue culture line is equivalent to the total number of basepairs present 
+in the haploid genome.
+<sup><a href="notes.shtml#24" TARGET="_top">24</a></sup> 
+The information content of a DNA solution is 
+independent of the actual amount or concentration of DNA present. DNA obtained 
+from one million cells of a single animal or cell line contains no more information 
+than the DNA present in one cell. Furthermore, if sequences within the haploid 
+genome are duplicates of one another &#151; repeated sequences &#151; the complexity will 
+drop accordingly.
+
+<P>The effect of complexity on the kinetics of renaturation can be understood by 
+viewing the system through the eyes of a single strand of DNA, randomly diffusing 
+through a solution, looking for its complementary partner. For example, imagine 
+two DNA solutions, both 2 micrograms/ml in concentration, but one from a genome having 
+a complexity of 3x10<SUP>9</SUP> bp, and the second from a genome having a complexity of only 
+3x10<SUP>8</SUP> bp. In the second solution, with the same quantity of DNA but ten-fold less 
+complexity, each segment of DNA sequence will be represented ten times as often as 
+any particular segment of DNA sequence in the first solution. Thus, a single strand 
+will be able to find its partner ten times more quickly in the second solution as 
+compared to the first solution. The speed with which a DNA sample renatures can 
+be expressed in the form of a <i>Cot curve</i>, which is a graphic representation of the 
+fraction of a sample that has renatured (along the <i>Y</i> axis) as a function of the single 
+stranded DNA concentration at time zero 
+(<i>C</i><sub>0</sub>) multiplied by the time allowed for 
+renaturation (<i>t</i>) shown on the <i>X</i> axis. The 
+<i>C</i><sub>0</sub><i>t</i> value attained at the midpoint of 
+renaturation &#151; when half of the molecules have become double-stranded &#151; is called 
+<i>C</i><sub>0</sub><i>t</i><sub>1/2</sub> 
+and is used as a indicator of the complexity of the sample being measured. Different 
+<i>C</i><sub>0</sub><i>t</i><sub>1/2</sub> 
+values can be compared directly to allow a determination of 
+complexity in a new sample relative to a calibrated control.
+
+<P>Renaturation analysis of mouse DNA reveals an overall complexity of 
+approximately 1.3-1.8 x 10<SUP>9</SUP> bp. This value is only 40-60% of the size of the complete 
+haploid genome and it implies the existence of a large fraction of repeated 
+sequences. In fact, a careful analysis of the renaturation curve indicates that 5% of 
+the genome renatures almost one million times faster than the bulk of the DNA. 
+This &#034;low complexity class&#034; of sequences represents the satellite DNA which is 
+discussed in detail in 
+<a href="5.3.shtml#5.3.3">Section 5.3.3.</a> After renaturation of the satellite DNA class 
+comes a very broad class of repeated sequences (whose copy number varies from 
+several hundred thousand to less than ten) which merges into the final bulk class of 
+&#034;unique&#034; sequences. With the advent of DNA cloning and sequencing, the 
+&#034;repeated sequence&#034; class of mouse DNA has been divided into a number of 
+functionally and structurally distinct subclasses which are also discussed more fully in Sections 
+<a href="5.3.shtml">5.3</a> and 
+<a href="5.4.shtml">5.4</a>. It was originally assumed that nearly all of the 
+protein-coding genes would be present in the final renaturation class of unique copy 
+sequences. However, we now know that the situation is not that simple and that 
+many genes are members of gene families that can have anywhere from two to 50 
+similar, but non-identical, cross-hybridizing members.
+
+<a name="5.1.3"></a><H3>5.1.3 What is the size of the mouse linkage map?</H3>
+
+<P>The genome size of any sexually reproducing diploid organism can actually be 
+measured according to two semi-independent parameters. There is the physical size 
+measured in numbers of basepairs, as just discussed, and there is recombinational 
+size measured in terms of the cumulative linkage distances that span each 
+chromosome (discussed fully in 
+<a href="7.1.shtml">Section 7.1</a>). The size of the whole mouse linkage 
+map can be arrived at by a number of different approaches. First, one can perform a 
+statistical test on the frequency with which new loci are found to be linked to 
+previously identified loci In 1954, Carter used this test on then-available data for 43 
+loci to estimate the size of the complete mouse linkage map at 1620 &#043;/- 352 cM
+<sup><a href="notes.shtml#25" TARGET="_top">25</a></sup> 
+(<a href="references.shtml#Carter2" TARGET="_top">Carter, 1954</a>).
+
+<P>A second estimate is based on counting the number of chiasmata that appear in 
+spreads of chromosomes prepared from germ cells undergoing meiosis and viewed 
+under the microscope. A chiasma (the singular of chiasmata) represents the 
+cytological manifestation of crossing over; it is seen as a visible connection between 
+non-sister chromatids at each site where a crossover event has occurred between the 
+maternally and paternally derived chromosomes of the animal that provided the 
+sample.
+<sup><a href="notes.shtml#26" TARGET="_top">26</a></sup> 
+Chiasma formation occurs after the final round of DNA replication when 
+each of the two homologs contains two identical sister chromatids &#151; the genomic 
+content of cells at this stage is represented by the notation &#034;4N.&#034; Each crossover 
+event involves only two of the four chromatids present. Thus, there is only a 50% 
+chance that any one crossover event will be segregated to any one haploid (1N) 
+gamete and so the total number of crossovers segregated into any one gamete 
+genome will be approximately half the number of chiasmata present within 4N 
+meiotic cells. Thus, one can derive an estimate of total linkage distance by 
+multiplying the average number of chiasmata observed per meiotic cell by the 
+expected interchiasmatic distance (100 cM) and dividing by two. This analysis 
+provided the basis for a whole mouse genome linkage size of 1,954 cM 
+(<a href="references.shtml#Slizynski1" TARGET="_top">Slizynski, 1954</a>).
+
+<P>With the generation of high-density whole genome linkage maps based on the 
+segregation of hundreds of loci, it is now possible to determine map size directly 
+from the distance spanned by the set of mapped loci. In two cases, this calculation 
+was performed for data generated within the context of single crosses: the resulting 
+map sizes were 1,424 cM for a B6 X <i>M. spretus</i> intercross-backcross 
+(<a href="references.shtml#Copeland1" TARGET="_top">Copeland and 
+Jenkins, 1991</a>) and 1,447 cM for an F<sub>2</sub> intercross between B6 and <i>M. m. castaneus</i> 
+(<a href="references.shtml#Dietrich1" TARGET="_top">Dietrich et al., 1992</a>). Two other direct estimates of 1,468 cM and 1,476 cM are based 
+on whole genome consensus maps formed by the incorporation of data from large 
+numbers of different crosses that used overlapping sets of markers for mapping 
+(<a href="references.shtml#Hillyard1" TARGET="_top">Hillyard et al., 1992</a>; 
+<a href="references.shtml#Lyon1" TARGET="_top">Lyon and Kirby, 1992</a>).
+
+<P>All of these estimates are remarkably consistent with each other and yield a 
+simple average value of 1,453 cM.
+<sup><a href="notes.shtml#27" TARGET="_top">27</a></sup> 
+This consistency is remarkable because, in 
+isolated regions of the genome, linkage distances are highly strain-dependent with 
+differences that vary by as much as a factor of two (see 
+<a href="7.2.shtml#7.2.3">Section 7.2.3</a>). Nevertheless, 
+the accumulated data suggest that the <i>overall</i> level of recombination is pre-determined 
+in the <i>Mus</i> genus and maintained from one cross to another through 
+compensatory changes so that suppression of recombination in one region will be 
+offset by an increase in recombination in another region of the genome.
+
+<P>One can derive an average equivalence value between the two metrics of 
+genome measurement described in this section &#151; kilobases and 
+<A HREF="glossary.shtml#centimorgan">centimorgans</A> &#151; of 
+approximately 2,000 kb per centimorgan. As mentioned above and discussed in 
+<a href="7.2.shtml#7.2.3.3">Section 7.2.3.3</a>, 
+the actual relationship between linkage distance and physical distance can vary 
+greatly in different parts of the genome as well as in crosses between different strains 
+of mice. 
+
+<a name="5.1.4"></a><H3>5.1.4 What proportion of the genome is functional?</H3>
+<P>Bacterial species are remarkably efficient at packing the most genetic information 
+into the smallest possible space. In one analysis of a completely sequenced 100 kb 
+region of the <i>E. coli</i> chromosome, it was found that 84% of the total DNA content 
+was actually used to encode polypeptides 
+(<a href="references.shtml#Daniels1" TARGET="_top">Daniels et al., 1992</a>). Most of the 
+remaining DNA is used for regulatory purposes, and only 2% was found to have no 
+recognizable function. 
+
+<P>In higher eukaryotes of all types, the situation has long been known to be quite 
+different. The early finding that some primitive organisms had haploid genome 
+sizes which were many-fold larger than that of mammals
+<sup><a href="notes.shtml#28" TARGET="_top">28</a></sup> 
+led to the realization 
+that large portions of higher eukaryotic genomes might be &#034;non-functional&#034;. 
+However, to answer the question posed in the title to this section, one must first 
+define what is meant by functional. Are entire transcription units considered 
+functional even though, in most cases, 80% or more of the transcript will be spliced 
+away before translation begins? Are both copies of a perfectly duplicated gene 
+considered functional even though the organism could function just as well 
+without one. What about the twilight class of pseudogenes which, in some cases, 
+may be functional in some individuals but not others, and may serve as a reservoir 
+for the emergence of new genetic elements in a future generation? Finally, 
+comparative sequence analysis over long regions of the mouse and human 
+genomes shows evolutionary conservation over stretches of sequence that do not 
+have coding potential or any <i>obvious</i> function 
+(<a href="references.shtml#Hood1" TARGET="_top">Hood, 1992</a>). 
+However, sequences can only be conserved when selective forces act to maintain their integrity for the 
+benefit of the organism. Thus, conservation implies functionality, even though we 
+may be too ignorant at the present time to understand exactly what that 
+functionality might be in this case.
+
+<P>Taking all of these caveats into consideration, and defining functional sequences 
+as those with coding potential or with potential roles in gene regulation or 
+chromatin structure, one can come up with a broad answer to the question posed in 
+this section based on a synthesis of the data described in the 
+<A HREF="5.1.shtml#5.1.5">next section</A>. The 
+fraction of the mouse genome that is functional is likely to lie somewhere between 
+5% and 10% of the total DNA present.<a name="5.1.5"></a>
+
+<H3>5.1.5 How many genes are there?</H3>
+
+<a name="5.1.5.1"></a><H3>5.1.5.1 Gene density estimates</H3>
+<P>How many genes are in the genome? A truly accurate answer to this question 
+will be a long time in coming. The complete sequence of the genome will almost 
+certainly provide a means for uncovering most genes, however, an unknown 
+percentage will probably still remain hidden from view. But, in the absence of a 
+complete sequence, one is forced to make multiple assumptions in order to come up 
+with just a broad estimate of the final number.
+
+<P>One approach to estimating gene number is to derive an average gene size and 
+then determine how many average genes can fit into a 3,000 megabase pair space. 
+Unfortunately, the sizes of the genes characterized to date do not form a nice discrete 
+bell curve around some mean value. The first mammalian gene to be characterized &#151; <i>Hbb</i> &#151; encodes 
+the beta-globin polypeptide; the 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" TARGET="_top">Hbb</A></i>
+ gene has a length on the order of 2 kb. The 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96014" TARGET="_top">alpha globin</A> 
+gene is even smaller with a length of less than 1 kb. At the opposite extreme is the mouse homolog of the 
+<A HREF="<!--#include file='include/gdb_clone.html'-->GDB:119850" TARGET="_top">human Duchene's muscular dystrophy gene</A> 
+(called 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:94909" TARGET="_top">mdx</A></i> 
+in the mouse); at 2,000 kb, the size of 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:94909" TARGET="_top">mdx</A></i> 
+is three orders of magnitude larger than 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" TARGET="_top">Hbb</A></i>. 
+Nevertheless, a survey 
+spanning all of the hundreds of mammalian genes characterized to date would seem to suggest that 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:94909" TARGET="_top">mdx</A></i> 
+is an extreme example, with most genes falling into the 
+range of 10-80 kb, with an median size in the range of 20 kb. This estimate must 
+be considered highly qualified, since size could play a role in determining which 
+genes have been cloned and characterized.
+
+<P>Interestingly, a similar estimate of median gene size is obtained by viewing 
+complete cellular polypeptide patterns on two-dimensional gels where the highest 
+density of proteins appears in the 50-70,000 <i>M</i><sub>r</sub> window for all cell types. A &#034;typical&#034; 
+polypeptide in this range will have an amino acid length of &#126;600, encoded within 
+1,800 nucleotides, that will &#034;typically&#034; be flanked by another 200 nucleotides of 
+untranslated regions on the 3' and 5' ends of a 2 kb mRNA that has been 
+&#034;typically&#034; spliced down from an original 20 kilobase transcript that included 18 kb 
+of intronic sequences.
+<SUP><A HREF="notes.shtml#29" TARGET="_top">29</A></SUP> 
+If one assumes an average inter-gene distance of 10 kb &#151; including gene regulatory 
+regions and various non-essential repetitive elements to 
+be discussed later &#151; one obtains an average density of one gene per 30 kb. When this 
+number is divided into the whole 3,000 mb genome, one derives a total gene 
+number of 100,000.
+
+<P>Actual validation of a gene density in the range just estimated has been obtained 
+for the major histocompatibility (MHC) region of the human and mouse genomes. 
+With intensive searches for all transcribed sequences present within portions of the 
+4 mb MHC region, a gene density of one per 20 kb has been found 
+(<a href="references.shtml#Milner1" TARGET="_top">Milner and Campbell, 1992</a>). 
+Direct extrapolation of this gene density to the whole genome 
+would yield a total of 130,000 genes. However, such an extrapolation is probably not 
+valid since the average gene size in the MHC appears to be significantly smaller than 
+the average overall. Another problem is that a significant proportion of the &#034;genes&#034; 
+in the MHC (and elsewhere as well) are non-functioning pseudogenes. If one 
+assumes a pseudogene rate of 20%, the value of 130,000 is reduced down to near 
+100,000.
+
+<P>A serious problem with all estimates made from the extrapolation of &#034;average&#034; 
+genes is that genomic regions containing smaller, more densely packed genes will 
+contribute disproportionately to the total number. As an example only, if 1% of the 
+genome was occupied by (mostly uncharacterized) short genes that were only 500 bp 
+in length and were packed at a density of one per kilobase, this class alone would 
+account for 30,000 genes to be added onto the previous 100,000 estimate.
+
+<a name="5.1.5.2"></a><H3>5.1.5.2 Number of transcript estimates</H3>
+
+<P>A very different approach to placing boundaries on the total gene number is to 
+estimate the number of different transcripts produced in various cell types. 
+Estimates of this type can be made, in a manner similar to that described for Cot 
+studies, by analyzing the kinetics of mRNA-cDNA renaturation for a determination 
+of the &#034;complexity&#034; of transcript populations in single cell types or tissues. This 
+approach allowed 
+<a href="references.shtml#Hasties2" TARGET="_top">Hasties and Bishop (1976)</a> 
+to estimate the presence of 12,000 
+different transcripts (representing the products of 12,000 different genes) in each of 
+the three tissues analyzed &#151; liver, kidney, and brain. However, as these 
+investigators indicate, the brain in particular is a very complex tissue with millions 
+of cells that are likely to have different patterns of gene expression. Genes expressed 
+at low levels in a small percentage of cells will go undetected in a broad-tissue 
+analysis of the type described. Thus, the actual level of gene expression in the brain, 
+and other complex &#034;tissues&#034; like the developing embryo, could be much greater 
+than the number derived experimentally. A revised complexity estimate of 
+20-30,000 has been suggested for the brain.
+
+<P>The only way in which estimates of transcript number could provide an estimate 
+of total gene number is if every tissue in the body was analyzed at every 
+developmental stage, and the number of cell- or stage-specific transcripts was 
+determined apart from the number that were expressed elsewhere. A 
+comprehensive analysis of this type is impossible even today, but some simple 
+estimates can be made. For example, by analysis of cross-hybridization between 
+sequences from different tissues, an overlap in expression of 75-85% has been 
+estimated 
+(<a href="references.shtml#Hasties2" TARGET="_top">Hasties and Bishop, 1976</a>). 
+This would suggest that perhaps 3,000 genes 
+may be uniquely expressed in any one tissue relative to any other. However, when 
+the data from many tissues are brought together, the actual number of tissue-specific 
+transcripts is likely to be further reduced. On the other hand, it is also the case that 
+some genes are likely to function in some tissue types only during brief periods of 
+development.
+
+<P>Interpretation of the accumulated data provides a means only for estimating the 
+minimum number of transcribed genes that could be present in the genome. By 
+adding the brain estimate of &#126;25,000 to &#126;1,000 unique genes for each of 25 different 
+tissue types, one arrives at a minimum estimate of 50,000.
+
+<a name="5.1.5.3"></a><H3>5.1.5.3 Vital function estimates</H3>
+
+<P>Another independent, and very old, method for estimating gene number is to 
+first saturate a region of known length with mutations that cause homozygous 
+lethality, then count the number of lethal complementation groups and extrapolate 
+from this number to the whole genome. The assumption one makes with an 
+approach of this type is that the vast majority of genes in the genome will be 
+essential to the viability of the organism. If one eliminates the expression of a 
+&#034;vital&#034; gene through mutagenesis, the outcome will be a clear homozygous 
+phenotype of prenatal or postnatal lethality.
+
+<P>It has long been clear that the early assumption of vitality associated with most 
+genes is incorrect. Even genes thought to play critical roles in cell cycling and 
+growth, such as 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98834" TARGET="_top">p53</A>, 
+can be &#034;knocked-out&#034; and still allow the birth of normal-looking viable animals 
+(<a href="references.shtml#Donehower1" TARGET="_top">Donehower et al., 1992</a>). Whole genomic regions of 550 kb 
+in length can be eliminated with a resulting phenotype not more severe than short 
+ears and subtle changes in skeletal structures 
+(<a href="references.shtml#Kingsley1" TARGET="_top">Kingsley et al., 1992</a>). Observations of 
+this type can be interpreted in two ways. First, there is likely to be redundancy in 
+various genetic pathways so that if the absence of one gene prevents one pathway 
+from being followed, another series of unrelated genes may provide compensation (sufficient for viability) 
+through the use of an alternative pathway. Second, genes need not be vital to be 
+maintained in the genome. If a gene provides even the slightest selective advantage 
+to an animal, it will be maintained throughout evolution.
+
+<P>Although vital genes will represent only a subset of the total in the genome, it is 
+still of interest to determine the size of this particular subset. In two saturation 
+mutagenesis experiments in regions from different chromosomes, estimates of 
+5,000-10,000 vital genes were derived 
+(<a href="references.shtml#Shedlovsky1" TARGET="_top">Shedlovsky et al., 1988</a>; 
+<a href="references.shtml#Rinchik3" TARGET="_top">Rinchik et al., 1990b</a>). 
+This range of values is likely to represent only 5-10% of the total functional units in 
+the mouse genome. However, it is interesting that the number of vital genes in 
+mice is not very different from the number of vital genes in <i>Drosophila 
+melanogaster</i>, where the genome size is an order of magnitude smaller. This 
+suggests that genes added on to the genome later in evolutionary time are less likely 
+to be vital to the organism and more likely to help the organism in more subtle 
+ways.
+
+<a name="5.1.5.4"></a><H3>5.1.5.4 Overview</H3>
+
+<P>From the discussion presented in this section, it seems fair to say, with a high 
+level of confidence, that the actual number of genes in the mammalian genome will 
+be somewhere between 50,000 and 150,000. As of 1993, fewer than 10% of these genes 
+have been characterized at any level from DNA to phenotype, and many fewer still 
+are fully understood in terms of their effect on the organism and their interaction 
+with other genes. Although the efforts to clone and sequence the entire human 
+and mouse genomes will provide an entry point into many more genes, an 
+understanding of the relationship between genotype and phenotype, in nearly every 
+case, will still require much more work with the organism itself. Thus, the need to 
+breed mice is likely to remain strong for many years to come.
+
+<DIV Align="center"><H4> <A HREF="4.5.shtml">Previous</A> <A HREF="5.2.shtml">Next</A></H4></DIV>
+
+</BODY>
+</HTML>

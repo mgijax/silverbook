@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>4.5 ASSISTED REPRODUCTION FOR THE INFERTILE CROSS</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="4.4.shtml">Previous</A> <A HREF="5.1.shtml">Next</A></H4></DIV>
+
+<a name="4.5"></a><H2>4.5 ASSISTED REPRODUCTION FOR THE INFERTILE CROSS</H2>
+
+<a name="4.5.1"></a><H3>4.5.1 Artificial insemination</H3>
+
+<P>Although artificial insemination is a critical tool for reproductive biologists 
+working with other species (including humans), it is not often used by mouse 
+geneticists. Its major use in other species is to initiate a successful pregnancy when, 
+for any of a number of reasons, the male cannot or should not, be directly involved 
+in the process of mating. Artificial insemination has been a boon to the cattle 
+industry because the semen from one good bull can be shipped around the world to 
+impregnate unlimited numbers of females. Male mice are somewhat smaller than 
+bulls and, as a consequence, the whole animal can be shipped for a cost that is likely 
+to be the same (or less) than one would pay for frozen semen alone. Furthermore, 
+obtaining semen from a mouse is a &#034;one-shot&#034; deal. Since assisted masturbation of 
+the male mouse is not practical, sperm must be recovered from the epididymis after 
+the animal has been sacrificed.
+
+<P>There are some special cases where artificial insemination can be used as an 
+experimental tool for the study of the mouse. One example is in those cases where, 
+for behavioral reasons, males of a particular strain refuse to mate with selected 
+females of another strain. This scenario is most likely to occur when the males and 
+females are members of different <i>Mus</i> species. 
+<a href="references.shtml#West1" TARGET="_top">West and colleagues (1977</a>) used 
+artificial insemination to overcome this problem in order to determine the viability 
+of various hybrid embryos formed between distantly related members of the <i>Mus</i> 
+genus.
+
+<P>Another use of artificial insemination is in those cases where one wants to alter 
+the composition of the sperm pool. For example, 
+<a href="references.shtml#Olds1" TARGET="_top">Olds-Clarke and Peitz (1985</a>) 
+were able to analyze the relative fertilizing potentials associated with sperm 
+obtained from two different males by mixing equal numbers together before 
+insemination. Finally, there will always be the case where a one-of-a-kind male &#151; such 
+as a first generation transgenic or another new mutant &#151; refuses to participate 
+in the mating process. As a last resort, one can recover epididymal sperm from such 
+an animal for a single chance at achieving a pregnancy. Detailed protocols for sperm 
+recovery and artificial insemination have been described elsewhere 
+(<a href="references.shtml#Rugh1" TARGET="_top">Rugh, 1968</a>; 
+<a href="references.shtml#West1" TARGET="_top">West et al., 1977</a>; 
+<a href="references.shtml#Olds1" TARGET="_top">Olds-Clarke and Peitz, 1985</a>).
+
+<P>When a choice is possible, females to be inseminated should not be inbred; F<sub>1</sub> 
+hybrids and random-bred animals will always have higher levels of fertility. A 
+successful fertilization can only occur when the inseminated female is in the late 
+proestrus/early estrus stage of the estrus cycle. Appropriately staged females can be 
+obtained either by visual inspection of naturally cycling animals (as described 
+<A HREF="4.3.shtml#4.3.2">earlier in this chapter</A>) 
+or through superovulation (see 
+<a href="6.2.shtml">Section 6.2</a>). The implantation of 
+fertilized embryos will occur only in females that have been stimulated into a state 
+of pseudopregnancy 
+(<a href="6.2.shtml#6.2.3">Section 6.2.3</a>). If the investigator intends to use a sterile stud 
+male for this purpose, the mating should be performed after the insemination 
+(within 0.5-2 hours) so that the vaginal plug does not interfere with the protocol 
+(<a href="references.shtml#Olds1" TARGET="_top">Olds-Clarke and Peitz, 1985</a>). 
+If pseudopregnancy is to be induced manually, it 
+should be accomplished in the fully alert female prior to the insemination protocol (see 
+<a href="6.2.shtml#6.2.3">Section 6.2.3</a> for details).
+
+<a name="4.5.2"></a><H3>4.5.2 Transplantation of ovaries</H3>
+
+<P>In a small number of instances, females that express certain mutations may be 
+fertile in the sense that they are able to produce functional oocytes but infertile in 
+the sense that they are physically unable to bring offspring to term. Such females 
+may not be able to mate, they may not be fit enough to allow gestation to proceed 
+properly or they may be unable to birth live offspring. 
+
+<P>In such cases, it is possible to 
+transplant the ovaries from these incapacitated females into healthy females of 
+another strain as means for obtaining germ line transmission 
+(<a href="references.shtml#Russell7" TARGET="_top">Russell and Hurst, 1945</a>; 
+<a href="references.shtml#Stevens1" TARGET="_top">Stevens, 1957</a>). This protocol is commonly used at the 
+<A HREF="a.shtml">Jackson Laboratory</A> to 
+maintain several mutant strains of mice, including those that carry the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:104663" TARGET="_top">obese</A> 
+mutation, the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97588" TARGET="_top">dwarf</A> mutation, or the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:99912" TARGET="_top">dystrophia muscularis</A> 
+(muscular dystrophy) mutation. 
+(<a href="references.shtml#Green6" TARGET="_top">Green and Witham, 1991</a>).
+
+<a name="4.5.3"></a><H3>4.5.3 In vitro fertilization</H3>
+
+A third method of assisted reproduction entails fertilization outside the female 
+reproductive tract. There are two general types of circumstances when in vitro 
+fertilization becomes useful: when the <i>female</i> partner of a cross is unable to carry 
+litters to term for one reason or another; and when an investigator wants to 
+establish the timing of fertilization to a more precise degree and/or wants to 
+synchronize the development of a batch of embryos for later recovery and analysis. 
+A detailed discussion of this procedure and all other aspects of embryo 
+manipulation are provided in the manual by 
+<a href="references.shtml#Hogan1" TARGET="_top">Hogan and her colleagues (1994</a>).
+
+<DIV Align="center"><H4> <A HREF="4.4.shtml">Previous</A> <A HREF="5.1.shtml">Next</A></H4></DIV>
+
+</BODY>
+</HTML>

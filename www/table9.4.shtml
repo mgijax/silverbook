@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 9.4</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+
+<B>Table 9.4</B> Classification of mouse chromosomes based on length and number of markers required for coverage in a backcross
+
+<HR>
+<TABLE Border="0">
+<TR>
+<TD></TD>
+<TD></TD>
+<TD colspan="4">Markers required per chromosome for complete coverage at 95% confidence<HR></TD>
+</TR>
+
+<TR>
+<TD>Chromosomes</TD>
+<TD>Range of chromosome lengths (cM)<SUP>a</SUP></TD>
+<TD><I>N</I> &#061; 40<SUP>b</SUP></TD>
+<TD><I>N</I> &#061; 52</TD>
+<TD><I>N</I> &#061; 72</TD>
+<TD><I>N</I> &#061; 942</TD></TR>
+
+<TR><TD> </TD>
+<TD> </TD>
+<TD>(s.r. &#061; 10 cM)</TD>
+<TD>(s.r. &#061; 15 cM)</TD>
+<TD>(s.r. &#061; 20 cM)</TD>
+<TD>(s.r. &#061; 24 cM)</TD>
+</TR>
+
+<TR>
+<TD colspan="6"><HR width="100%"></TD>
+</TR>
+
+<TR>
+<TD>1, 2, 5</TD>
+<TD>103-111</TD>
+<TD>6</TD>
+<TD>4</TD>
+<TD>3</TD>
+<TD>3</TD>
+</TR>
+
+<TR>
+<TD>3, 4, 8</TD>
+<TD>82-88</TD>
+<TD>5</TD>
+<TD>3</TD>
+<TD>3</TD>
+<TD>2</TD>
+</TR>
+
+<TR valign="bottom">
+<TD>6, 7, 9, 10, 11,<BR> 13, X</TD>
+<TD>73-80</TD>
+<TD>4</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>2</TD>
+</TR>
+
+<TR>
+<TD>12, 14, 15, 16</TD>
+<TD>64-71</TD>
+<TD>4</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>2</TD>
+</TR>
+
+<TR>
+<TD>17, 18, 19</TD>
+<TD>50-60</TD>
+<TD>3</TD>
+<TD>2</TD>
+<TD>2</TD>
+<TD>2</TD>
+</TR>
+
+<TR>
+<TD></TD>
+<TD>Total Markers</TD>
+<TD>86</TD>
+<TD>60</TD>
+<TD>46</TD>
+<TD>43</TD>
+</TR>
+
+<TR>
+<TD></TD>
+<TD>Markers X samples</TD>
+<TD>3,440</TD>
+<TD>3,120</TD>
+<TD>3,312</TD>
+<TD>4,042</TD>
+</TR>
+
+</TABLE>
+<HR>
+<SUP>a</SUP>The chromosome lengths indicated in this table are based on consensus linkage maps presented in the individual reports from 
+each mouse chromosome committee published in the 1993 edition of the <I>Encyclopedia of the Mouse Genome</I> 
+(<A HREF="references.shtml#Silver11" TARGET="_blank">Silver et al., 1993</A>).<BR><BR>
+<SUP>b</SUP><I>N</I> is the number of backcross samples; s.r. is the swept radius derived from 
+<a href="javascript:windowf913 = window.open('figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>. 
+Coverage of each chromosome is based on the placement of markers at distances of no more than 
+two swept radii from each other as illustrated in 
+<a href="javascript:windowf914 = window.open('figure9.14.shtml', 'windowf914', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf914.focus()">Figure 9.14</A>.
+</BODY>
+</HTML>

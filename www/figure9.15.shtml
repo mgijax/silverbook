@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 9.15 - Haplotype Analysis of Backcross Data</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="images/figure9.15.gif" Alt="Figure 9.15" Width="625" Height="776"> </TD></TR>
+
+<TR><TD>
+<B>Figure 9.15</B> 
+Haplotype analysis of backcross data. 
+Illustration of the approach used to map a new locus relative to marker loci typed in a backcross. 
+At the top, 
+<A HREF="glossary.shtml#Haplotype" TARGET="_blank">haplotypes</A> are shown for the marker loci on one chromosome, which is determined to show evidence of linkage to the new locus under analysis. 
+These haplotypes allow the generation of the framework map shown in the middle of the Figure. 
+Recombination fractions derived directly from the haplotype data are indicated under the framework map. 
+These fractions have been converted into 
+<A HREF="glossary.shtml#centimorgan" TARGET="_blank">centimorgan</A> distances with the Carter-Falconer mapping function 
+(<A HREF="7.2.shtml#equation7.3" TARGET="_blank">Equation 7.3</A>). 
+At the bottom, recombinant haplotypes are shown only for mice with crossover events between the new locus and the linked <I>D51</I> locus.
+
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>

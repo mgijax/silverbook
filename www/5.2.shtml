@@ -1,0 +1,362 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>5.2 KARYOTYPES, CHROMOSOMES, AND TRANSLOCATIONS</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="5.1.shtml">Previous</A> <A HREF="5.3.shtml">Next</A></H4></DIV>
+
+<a name="5.2"></a><H2>5.2 KARYOTYPES, CHROMOSOMES, AND TRANSLOCATIONS</H2>
+
+<a name="5.2.1"></a><H3>5.2.1 The standard karyotype</H3>
+
+<a name="5.2.1.1"></a><H3>5.2.1.1 Chromosome number and banding patterns</H3>
+
+<P>All of the <i>Mus musculus</i> subspecies (<i>domesticus</i>, <i>musculus</i>, <i>castaneus</i>, and 
+<i>bactrianus</i>) as well as the closely related species <i>M. spretus</i>, <i>M. spicilegus</i> and 
+<i>M. macedonicus</i> have the same &#034;standard karyotype&#034; with 20 pairs of chromosomes, 
+including 19 autosomal pairs and the X and Y sex chromosomes as shown in 
+<a href="javascript:windowf51 = window.open('figure5.1.shtml', 'windowf51', 'width=450,height=500,resizable=yes,scrollbars=yes'); windowf51.focus()">Figure 5.1</A>. 
+The correct chromosome number was first established by Painter in 1928 
+(<a href="references.shtml#Painter1" TARGET="_top">Painter, 1928</a>). 
+Surprisingly, all of the 19 autosomes as well as the X chromosome appear to be 
+telocentric, with a centromere at one end and a telomere at the other.
+<sup><a href="notes.shtml#30" TARGET="_top">30</a></sup> 
+The biological explanation for this uniformity in chromosome morphology is entirely 
+unknown; however, it makes the task of individual chromosome identification 
+much more difficult than it is with human karyotypes. Nevertheless, trained 
+individuals can distinguish chromosomes on the basis of reproducible banding 
+patterns that are accentuated with the use of various staining protocols. 
+The most common of these includes a mild trypsin treatment followed by staining 
+with the dye Giemsa to produce dark Giemsa-stained bands &#151; called G bands &#151; that 
+alternate with Giemsa-negative bands &#151; called R bands for <i>reverse</i> G-bands. A variety 
+of other staining protocols have been developed &#151; called R, Q, and T banding &#151; that 
+are all based on the same principal of chromatin denaturation and/or mild enzymatic 
+digestion followed by staining with a DNA-binding dye 
+(<a href="references.shtml#Craig1" TARGET="_top">Craig and Bickmore, 1993</a>). 
+In general, all of these different protocols produce the same pattern of bands and 
+interbands observed with Giemsa staining, although in some cases, the dark and light 
+regions are reversed.
+
+<P>The reproducibility of the alternative pattern of G and R bands 
+observed with many different staining protocols implies an underlying difference in the 
+structure of chromatin which, in turn, suggests an underlying heterogeneity in the long-range 
+structure of the genome. In fact, numerous differences have been found in the DNA 
+associated with the two types of bands. G band DNA condenses early, replicates late 
+and is relatively A:T rich; in contrast, R band DNA condenses late, replicates early 
+and is relatively G:C rich 
+(<a href="references.shtml#Bickmore1" TARGET="_top">Bickmore and Sumner, 1989</a>).
+All housekeeping genes are located in R bands, while tissue-specific genes can be located 
+in both G and R bands. Each band type is also associated with a different class of 
+dispersed repetitive DNA elements: G bands contain LINE-1 elements whereas 
+R-bands contain SINE elements (see 
+<a href="5.4.shtml#5.4">Section 5.4</a> for a detailed discussion of these 
+elements).
+
+<P>With all of these contrasting properties, it becomes an interesting problem to 
+distinguish between cause and effect in the generation of the two major types of 
+chromosomal domains. In other words, is there a particular DNA element that 
+defines the G or R bands and somehow contributes to the preferential association, 
+or disassociation, of all other DNA elements that contribute to the characteristics of 
+the band type? Further research will be necessary to unravel this problem.
+
+<a name="5.2.1.2"></a><H3>5.2.1.2 Idiograms and band names</H3>
+
+<P>As a mechanism for facilitating data presentation and for comparing results 
+obtained by different investigators, the light and dark bands observed in a raw 
+karyotype are usually converted into idiograms, which are black and white drawings 
+of idealized chromosomes as shown in 
+<a href="javascript:windowf52 = window.open('figure5.2.shtml', 'windowf52', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowf52.focus()">Figure 5.2</A>. 
+Autosomes are numbered from 1 
+to 19, in descending order of length. Major bands (alternating dark and light 
+regions) within each autosome are designated with a capital letter starting from A at 
+the centromere, and ascending in alphabetical order. With an increase in 
+resolution, most major bands can be resolved into a series of smaller bands, which 
+are numbered sequentially from 1 starting at the <i>proximal</i> &#151; or centromeric &#151; side of 
+the major band and ending at the <i>distal</i> &#151; or telomeric &#151; side. Finally, when 
+increased resolution allows the visualization of multiple minor bands within a 
+single previously defined sub-band, these are designated with a number (in 
+sequence from 1) demarcated with a decimal point. As an example of the use of this 
+nomenclature, the designation 17E1.3 represents (in reverse order), the third minor 
+band within the first sub-band within the fifth major band (all in order from the 
+centromere) on the mouse chromosome ranked seventeenth in size (illustrated in 
+<a href="javascript:windowf71 = window.open('figure7.1.shtml', 'windowf71', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf71.focus()">Figure 7.1</A>).
+
+<a name="5.2.1.3"></a><H3>5.2.1.3 Chromosome length and DNA content</H3>
+
+<P>The amount of DNA present in each chromosome can be estimated by 
+measuring its length &#151; cytologically &#151; relative to the sum of the lengths 
+of all 20 chromosomes and multiplying this fraction by the total genome 
+length of 3,000 mb 
+(<a href="references.shtml#Evans1" TARGET="_top">Evans, 1989</a>). 
+From these measurements, one finds that the largest chromosome (1) has 
+a DNA length of approximately 216 mb and the smallest chromosome (19) 
+has a DNA length of 81 mb, with all others following in a near-continuum 
+between these two values (see 
+<a href="javascript:windowt94 = window.open('table9.4.shtml', 'windowt94', 'width=750,height=350,resizable=yes,scrollbars=yes'); windowt94.focus()">Table 9.4</A> 
+for estimates of the centimorgan lengths of individual chromosomes).
+
+<a name="5.2.2"></a><H3>5.2.2 Robertsonian translocations</H3>
+
+<a name="5.2.2.1"></a><H3>5.2.2.1 Presence in natural populations</H3>
+<P>Since 1967, there have been numerous reports of wild-caught house mice with 
+karyotypes containing fewer than 20 sets of chromosomes. The first report described 
+a karyotype with 13 sets of chromosomes (seven metacentrics and 6 telocentrics) in 
+mice captured from the &#034;Valle di Poschiavo&#034; in southeastern Switzerland 
+(<a href="references.shtml#Gropp1" TARGET="_top">Gropp et al., 1972</a>). 
+The assumption was made that animals with such a grossly different 
+karyotype could not possibly be members of the <i>M. musculus</i> species, and as a 
+consequence, these Swiss mice were classified as belonging to a separate species 
+named <i>Mus poschiavinus</i> and informally referred to as the &#034;tobacco mouse.&#034; In 
+subsequent years, additional populations of animals from the alpine regions of both 
+Switzerland and Italy were found with a variety of non-standard karyotypes having 
+anywhere from one to nine metacentrics. Further studies of wild house mice by 
+other investigators have led to the discovery of additional non-standard karyotypes 
+in house mice from other regions of Europe as well as South America and Northern 
+Africa 
+(<a href="references.shtml#Adolph1" TARGET="_top">Adolph and Klein, 1981</a>; 
+<a href="references.shtml#Wallace1" TARGET="_top">Wallace, 1981</a>; 
+<a href="references.shtml#Searle1" TARGET="_top">Searle, 1982</a>).
+
+<P>When the &#034;<i>M. poschiavinus</i>&#034; animals and others with non-standard karyotypes 
+were subjected to a variety of tests &#151; both morphological and genetic &#151; to determine 
+their relatedness to <i>M. m. domesticus</i>, investigators were surprised to find that no 
+characteristics, other than karyotype, distinguished these populations from each 
+other. In particular, phylogenetic studies place the &#034;<i>M. poschiavinus</i>&#034; animals 
+securely within the <i>M. m. domesticus</i> fold; thus the <i>M. poschiavinus</i> species name 
+is inappropriate and should not be used.
+
+<P>How can animals within the same species (and even sub-species) have 
+karyotypes that have diverged apart so radically in what has to be a very short period 
+of evolutionary time? The first point to consider is that the karyotypes are actually 
+not as different from each other as they might appear to be at first glance. When 
+subjected to staining and banding analysis, each arm of every metacentric 
+chromosome uncovered to date has been found to be identical to one of the 
+chromosomes present in the standard <i>M. musculus</i> karyotype. Thus, it would 
+appear that all of the non-standard karyotypes have arisen by simple fusion events, 
+each of which resulted in the attachment of two standard mouse chromosomes at 
+their centromeres. These centromeric fusions, also referred to as whole arm 
+translocations, have been given the formal name of Robertsonian translocations, 
+because W. R. B. Robertson was the first to identify such chromosomes in the 
+grasshopper.
+
+<P>A three part nomenclature is used to describe each individually isolated 
+Robertsonian chromosome. First, the &#034;Rb&#034; symbol indicates a Robertsonian; 
+second, the two chromosomes that have fused together are separated by a dot and 
+listed within parenthesis (with the lower numbered chromosome first); and third, 
+the laboratory number and symbol are indicated. Thus, the twenty-third 
+Robertsonian uncovered at the Institute for Pathology in Lubeck, Germany, that 
+resulted from a fusion between chromosomes 10 and 15, would be designated 
+Rb(10.15)23Lub.
+
+<P>Why does the standard mouse karyotype contain no metacentric chromosomes, 
+and at the same time, why do multiple metacentric chromosomes become fixed so 
+rapidly in unrelated populations from isolated geographical regions? In the latter 
+case, genetic drift alone does not appear to provide a satisfactory answer since 
+metacentric fixation requires an intermediate stage during which animals must be 
+karyotypically heterozygous; heterozygosity for one or more metacentric 
+chromosomes will usually result in decreased fertility as a consequence of 
+non-disjunction.
+<sup><a href="notes.shtml#31" TARGET="_top">31</a></sup> 
+Thus, spontaneously arising Robertsonians cannot be expected to 
+survive in a population (let alone reach fixation) unless they engender a selective 
+advantage to the animal within which they reside. Based on the limited, but 
+scattered, occurrence of populations that contain Robertsonians, it would appear 
+that they can only provide a selective advantage under certain environmental 
+conditions, whereas under other conditions, mice are better served with only 
+telocentric chromosomes. The mechanisms by which such selective pressures 
+would operate on chromosome structure remain totally obscure at the present time.
+
+<a name="5.2.2.2"></a><H3>5.2.2.2 Experimental applications</H3>
+
+<P>Robertsonian translocations are useful as genetic tools in two types of 
+experimental applications. Like other translocations, they can catalyze 
+nondisjunction events in heterozygous meiotic cells which &#151; in this case &#151; can lead 
+to the genetic transmission of both homologs of the affected chromosome through 
+individual gametes. This phenomenon will be discussed in the 
+<A HREF="5.2.shtml#5.2.3.1">following section</A>. 
+In addition, Robertsonians are especially valuable as visible genetic markers in 
+somatic cells. This usefulness is peculiar to the mouse where all chromosomes 
+other than the Robertsonians will be telocentric. Under microscopic examination, 
+Robertsonians can be easily distinguished as the only chromosomes with two arms.
+
+<P>The advantages of using Robertsonians as genetic markers can be best exploited 
+within animals that contain a single pair of such homologs on a standard karyotypic 
+background. Numerous strains carrying single Robertsonian pairs have been 
+generated through selective breeding between wild and laboratory animals. Each of 
+the standard mouse autosomes is available within the context of a Robertsonian in 
+one or more strains of this type, which can be purchased from the 
+<A HREF="a.shtml">Jackson Laboratory</A>.
+
+<P>The most useful Robertsonians are those with two chromosome arms that differ 
+significantly in length. For example, if one is interested in the analysis of 
+chromosome 2, it would make sense to work with a strain that carries the 
+Rb(2.18)6Rma fusion in which the longer arm of the metacentric (Chr 2) will be 
+easily distinguished under the microscope from the shorter arm (Chr 18).
+
+<P>Robertsonians can be used as somatic markers for both analytical and preparative 
+purposes. Analysis of a particular chromosome by <i>in situ</i> hybridization or other 
+staining protocols is greatly aided by the ability to easily identify the relevant 
+chromosome in all metaphase plates. Preparative microdissection for the purpose 
+of generating subchromosome-specific DNA libraries 
+(<a href="8.4.shtml#8.4">Section 8.4</a>) is less tedious and 
+more rapidly accomplished by this easy identification 
+(<a href="references.shtml#Rohme1" TARGET="_top">R&#246;hme et al., 1984</a>). Finally, 
+Robertsonians can be more easily distinguished from all other mouse chromosomes 
+by fluorescence-activated flow sorting (FACS) methods for chromosome 
+identification and purification 
+(<a href="references.shtml#Bahary1" TARGET="_top">Bahary et al., 1992</a>).
+
+<a name="5.2.3"></a><H3>5.2.3 Reciprocal translocations</H3>
+
+<a name="5.2.3.1"></a><H3>5.2.3.1 Derivation and genetics</H3>
+<P>Although crossovers normally occur between homologous sequences present on 
+sister chromatids, in rare instances, aberrant crossovers will occur between 
+sequences that are non-allelic. When the two non-allelic sequences that partake in a 
+crossover event of this type come from different chromatids in the same pair of 
+homologs (as illustrated in 
+<a href="javascript:windowf55 = window.open('figure5.5.shtml', 'windowf55', 'width=700,height=430,resizable=yes,scrollbars=yes'); windowf55.focus()">Figure 5.5</A>), 
+the result is a pair of reciprocal recombinant 
+products that are &#034;unequal&#034; with one having a duplication and the other having a 
+deletion of the material located between the two breakpoints. Intra-chromosomal 
+unequal crossover events are discussed at length in 
+<a href="5.3.shtml#5.3.2">Section 5.3.2.</a>
+
+<P>When crossing over occurs between sequences located on entirely different 
+chromosomes, the result is even more dramatic. As shown in 
+<a href="javascript:windowf53 = window.open('figure5.3.shtml', 'windowf53', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowf53.focus()">Figure 5.3</A>, 
+inter-chromosomal crossing over results in the production of two reciprocal 
+translocation chromosomes. Although inter-chromosomal crossover events occur 
+even less often than intrachromosomal events, the former are more much readily 
+detected (in most cases) for two reasons. First, reciprocal translocations cause the 
+swapping of entire distal portions of two different chromosomes. Since the portions 
+being swapped are usually not equal in size and are always associated with different 
+banding patterns, each resultant translocation chromosome will usually look quite 
+different from any normal chromosome. So long as the breakpoints are not 
+exceedingly close to the centromeres or telomeres, these aberrant chromosomes will 
+be easily recognized through karyotypic analysis. Second, reciprocal translocations 
+usually cause a significant reduction in fertility as a consequence of the unusual 
+pairing that must occur during synapsis and the production of a high frequency of 
+unbalanced gametes through adjacent-1 segregation discussed in more detail below 
+and illustrated in 
+<a href="javascript:windowf53 = window.open('figure5.3.shtml', 'windowf53', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowf53.focus()">Figure 5.3</A>. 
+Unbalanced gametes derived from reciprocal 
+translocation heterozygotes give rise to embryos that are partially trisomic or 
+monosomic, and in some cases, these do not survive to birth.
+<P>Unlike Robertsonian fusions, reciprocal translocations are not found in wild 
+populations of mice. They can arise spontaneously in laboratory animals and they 
+are recovered at a higher frequency in offspring of males that have been subjected to 
+chemical mutagenesis or irradiation treatment (discussed in 
+<a href="6.1.shtml#6.1.2">Section 6.1</a>). A large 
+number of translocations have been recovered to date 
+(<a href="references.shtml#Searle2" TARGET="_top">Searle, 1989</a>) and strains 
+homozygous for many can be purchased from the 
+<A HREF="a.shtml">Jackson Laboratory</A>.
+
+<P>As shown in 
+<a href="javascript:windowf53 = window.open('figure5.3.shtml', 'windowf53', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowf53.focus()">Figure 5.3</A>, 
+translocations will cause genetic linkage between 
+chromosomal regions that assort independently in animals with normal karyotypes. 
+<a href="references.shtml#Eicher1" TARGET="_top">Eva Eicher (1971)</a> 
+was the first to use this correlation between genetic linkage and 
+karyotypic linkage to make a specific chromosomal assignment for a particular 
+linkage group and by the end of the 1970s, all nineteen autosomal linkage groups 
+and chromosomes had been paired together 
+(<a href="references.shtml#Miller1" TARGET="_top">Miller and Miller, 1975</a>). Higher 
+resolution studies that compared genetic and cytological breakpoint positions 
+provided a means for further mapping of genes to particular chromosome bands; 
+these data also provided a means for determining the centromeric and telomeric 
+ends of each linkage map 
+(<a href="references.shtml#Searle2" TARGET="_top">Searle, 1989</a>).
+
+<a name="5.2.3.2"></a><H3>5.2.3.2 Chromosome segregation</H3>
+
+<P>The main contemporary use of reciprocal translocations is as a tool to generate 
+animals that receive both homologs of a chromosomal region from a single parent. 
+To understand the genetic basis for this outcome, you can follow the process of 
+chromosome segregation during meiosis for the fictitious reciprocal translocation 
+heterozygote shown in 
+<a href="javascript:windowf53 = window.open('figure5.3.shtml', 'windowf53', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowf53.focus()">Figure 5.3</a>. 
+In this example, mouse chromosomes 2 and 8 have exchanged material.
+
+<P>During the anaphase I stage of the first meiotic division, 
+the two homologs of every chromosome &#034;disjoin&#034; from each other and are pulled 
+to opposite poles by spindles that attach to the centromeric regions. This <i>disjunction</i> 
+of chromosomes is the physical basis for the genetically observed segregation of 
+alleles according to Mendel's first law. In mice with a normal karyotype, the 
+segregation of any one pair of homologs will not affect the segregation of any other 
+pair of homologs. Thus, individual homologs of different chromosomes that came 
+into the animal together from one parent will go out into the offspring in an 
+independent manner. This is the physical basis for Mendel's second law of 
+independent assortment.
+
+<P>In animals with a normal karyotype, chromosome disjunction will always lead 
+to the production of gametes that are &#034;balanced&#034; with a complete haploid genome &#151; no more, no less. 
+However, the same is not true with animals heterozygous for a 
+reciprocal translocation. As shown in 
+<a href="javascript:windowf53 = window.open('figure5.3.shtml', 'windowf53', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowf53.focus()">Figure 5.3</A>, 
+there are two equally-likely 
+outcomes called &#034;alternate segregation&#034; and &#034;adjacent-1 segregation.&#034; With the 
+alternate segregation pathway, one gamete class will receive one chromosome (Chr 2) homolog and 
+one Chr 8 homolog {2,8}, just like all gametes produced by mice with a normal 
+karyotype. The other gamete class will receive both translocated chromosomes 
+called 2' and 8' in this example {2',8'}; although the genetic material is rearranged, 
+one complete haploid genome is present, and thus these gametes are considered to 
+be "balanced". If a balanced {2', 8'} gamete joins together with a normal gamete during 
+fertilization, the resulting animal will be a balanced, reciprocal translocation 
+heterozygote just like the original parent.
+
+<P>With the adjacent-1 segregation pathway, the two gamete classes are unbalanced 
+in a reciprocal fashion. One will have a normal Chr 2 and a translocated Chr 8' 
+{2, 8'}; this gamete is deleted for sequences at the distal end of the normal Chr 8 (8d) 
+and duplicated with both homolog copies of sequences from the distal end of Chr 2 
+(2d). The other {2',8} will be deleted for distal Chr 2 sequences (2d) and duplicated for 
+distal Chr 8 sequences (8d).
+
+<a name="5.2.3.3"></a><H3>5.2.3.3 Partial trisomies and uniparental disomies</H3>
+
+<P>The special consequences of chromosome segregation from reciprocal 
+translocation heterozygotes have been exploited with two types of breeding 
+protocols. In the first, translocation heterozygotes are bred to animals with a normal 
+karyotype. Adjacent-1 segregation will give rise to animals that are partially trisomic 
+(for the distal end of one translocated chromosome) and partially monosomic (for 
+the distal end of the other). Thus, by choosing appropriate translocations, it becomes 
+possible to construct animals that are deleted or duplicated for particular genes of 
+interest. By breeding in mutations at these loci, it becomes possible to construct 
+genotypes of the {&#043;/&#043;/<i>m</i>} and {&#043;/<i>m</i>/<i>m</i>} variety 
+(where &#043; and <i>m</i> are wild-type and 
+mutant alleles respectively) as a means toward a better understanding of gene 
+dosage effects and dominance and recessive relationships 
+(<a href="references.shtml#Agulnik1" TARGET="_top">Agulnik et al., 1991</a>; 
+<a href="references.shtml#Ruvinsky1" TARGET="_top">Ruvinsky et al., 1991</a>).
+
+<P>In the second type of breeding protocol, animals heterozygous for the same pair 
+of reciprocal translocations are mated to each other. The most interesting offspring 
+to emerge from such unions are those formed through the fusion of 
+complementary unbalanced gametes that represent the two different products of 
+adjacent-1 segregation 
+(<a href="javascript:windowf53 = window.open('figure5.3.shtml', 'windowf53', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowf53.focus()">Figure 5.3</a>). 
+Although the resulting zygotes have fully 
+balanced genomes &#151; they are not deleted nor duplicated for any sequences &#151; they 
+carry two subchromosomal regions in which both homologs came from only one or 
+the other parent respectively. In other words, for one chromosomal region, these 
+animals are maternally disomic and paternally nullisomic; for the other 
+chromosomal region, the opposite holds true.
+
+<P>Uniparental disomy can also be obtained, albeit with lower frequency, in the 
+offspring of matings between animals heterozygous for the same Robertsonian 
+translocation. Pairing between the Robertsonian and the homologous acrocentric 
+chromosomes can lead to <i>non-disjunction</i> with gametes that contain either two 
+copies or no copies of one homolog represented within the Robertsonian. Once 
+again, the fusion of two complementary nondisjunction gametes will lead to zygotes 
+with fully balanced genomes but with whole chromosome uniparental disomy. 
+Both whole and partial chromosome disomy provide powerful genetic tools for the 
+analysis of genomic imprinting which is discussed later in this chapter 
+(<a href="references.shtml#Cattanach1" TARGET="_top">Cattanach and Kirk, 1985</a>).
+
+<DIV Align="center"><H4> <A HREF="5.1.shtml">Previous</A> <A HREF="5.3.shtml">Next</A></H4></DIV>
+
+</BODY>
+</HTML>

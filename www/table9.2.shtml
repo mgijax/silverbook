@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 9.2</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+<B>Table 9.2</B> Probabilities of linkage associated with critical <I>P</I> values and swept radii
+
+
+<TABLE Border="0" CELLPADDING="10" WIDTH="100%">
+<TR><TD></TD><TD COLSPAN="6" ALIGN="CENTER">Swept radius<SUP>a</SUP><HR></TD></TR>
+
+<TR>
+<TD><I> P</I> value </TD>
+<TD>10 cM</TD>
+<TD>15 cM</TD>
+<TD>20 cM</TD>
+<TD>25 cM</TD>
+<TD>30 cM</TD>
+<TD>35 cM</TD>
+</TR>
+
+<TR>
+<TD colspan="7"><HR width="100%"></TD>
+</TR>
+
+<TR>
+<TD>0.0500</TD>
+<TD>21%</TD>
+<TD>29%</TD>
+<TD>35%</TD>
+<TD>40%</TD>
+<TD>44%</TD>
+<TD>48%</TD>
+</TR>
+
+<TR>
+<TD>0.0100</TD>
+<TD>57%</TD>
+<TD>67%</TD>
+<TD>73%</TD>
+<TD>77%</TD>
+<TD>80%</TD>
+<TD>82%</TD>
+</TR>
+
+<TR>
+<TD>0.0050</TD>
+<TD>73%</TD>
+<TD>80%</TD>
+<TD>84%</TD>
+<TD>87%</TD>
+<TD>89%</TD>
+<TD>90%</TD>
+</TR>
+
+<TR>
+<TD>0.0020</TD>
+<TD>87%</TD>
+<TD>91%</TD>
+<TD>93%</TD>
+<TD>94%</TD>
+<TD>95%</TD>
+<TD>96%</TD>
+</TR>
+
+<TR>
+<TD>0.0015</TD>
+<TD>90%</TD>
+<TD>93%</TD>
+<TD>95%</TD>
+<TD>96%</TD>
+<TD>96%</TD>
+<TD>97%</TD>
+</TR>
+
+<TR>
+<TD>0.0010</TD>
+<TD>93%</TD>
+<TD>95%</TD>
+<TD>96%</TD>
+<TD>97%</TD>
+<TD>98%</TD>
+<TD>98%</TD>
+</TR>
+
+<TR>
+<TD>0.0005</TD>
+<TD>96%</TD>
+<TD>98%</TD>
+<TD>98%</TD>
+<TD>99%</TD>
+<TD>99%</TD>
+<TD>99%</TD>
+</TR>
+
+</TABLE>
+
+<HR>
+
+<SUP>a</SUP>The swept radius is defined as the maximum distance over which linkage can be detected between two loci with a 95% probability based on the power of the genetic approach used. 
+Swept radii associated with data obtained from RI and backcross experiments are shown graphically in 
+<a href="javascript:windowf95 = window.open('figure9.5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A> and 
+<a href="javascript:windowf913 = window.open('figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>, 
+respectively.
+
+</BODY>
+</HTML>

@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>1.3 THE NEW BIOLOGY AND THE MOUSE MODEL</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 6.0.1">
+</HEAD>
+<body bgcolor="#FFFFFF">
+
+<DIV Align="center"><H4> <A HREF="1.2.shtml">Previous</A> <A HREF="2.1.shtml">Next</A></H4></DIV>
+
+<a name="1.3"></a><H2>1.3 THE NEW BIOLOGY AND THE MOUSE MODEL</H2>
+
+<a name="1.3.1"></a><H3>1.3.1 All mammals have closely related genomes</H3>
+
+<P>The movement of mouse genetics from a backwater field of study to the 
+forefront of modern biomedical research was catalyzed by the recombinant DNA 
+revolution, which began 20 years ago and has been accelerating in pace ever since. 
+With the ability to isolate cloned copies of genes and to compare DNA sequences 
+from different organisms came the realization that mice and humans (as well as all 
+other placental mammals) are even more similar genetically than they were 
+thought to be previously. An astounding finding has been that all human genes 
+have counterparts in the mouse genome which can almost always be recognized by 
+cross-species hybridization. Thus, the cloning of a human gene leads directly to the 
+cloning of a mouse homolog which can be used for genetic, molecular, and 
+biochemical studies that can then be extrapolated back to an understanding of the 
+function of the human gene. In only a subset of cases are mammalian genes 
+conserved within the genomes of <i>Drosophila</i> or <i>C. elegans</i>. 
+
+<P>This result should not be surprising in light of current estimates for the time of 
+divergence of mice, flies and nematodes from the evolutionary line leading to 
+humans. In general, three types of information have been used to build 
+phylogenetic trees for distantly related members of the animal kingdom &#151; 
+paleontological data based on radiodated fossil remains, sequence comparisons of 
+highly conserved proteins, and direct comparisons of the most highly conserved 
+genomic sequences, namely the ribosomal genes. Unfortunately, flies (<i>Drosophila</i>) 
+and nematodes (<i>C. elegans</i>) diverged apart from the line leading to mammals just prior 
+to the time of the earliest fossil records in the Cambrian period which occurred 570 
+million years ago. The divergence of 
+mice and people occurred relatively recently at 60 million years before present (see 
+<a href="2.2.shtml#2.2.1">Section 2.2.1</a>). These numbers are presented graphically in 
+<a href="javascript:windowf13 = window.open('figure1.3.shtml', 'windowf13', 'width=680,height=400,resizable=yes,scrollbars=yes'); windowf13.focus()">Figure 1.3</a>, 
+where a quick glance serves to drive home the fact that humans and mice are ten times more 
+closely related to each other than either is to flies or nematodes.
+
+<P>Although the haploid chromosome number associated with different 
+mammalian species varies tremendously, the haploid content of mammalian DNA 
+remains constant at approximately three billion basepairs. It is not only the size of 
+the genome that has remained constant among mammals; the underlying genomic 
+organization (discussed in 
+<a href="5.1.shtml">Chapter 5</a>) has also remained the same as well. Large 
+genomic segments &#151; on average, 10-20 million basepairs &#151; have been 
+conserved virtually intact between mice, humans, and other mammals as well. In fact, the 
+available data suggest that a rough replica of the human genome could be built by 
+simply breaking the mouse genome into 130-170 pieces and pasting them back 
+together again in a new order 
+(<a href="references.shtml#Nadeau1" TARGET="_top">Nadeau, 1984</a>; 
+<a href="references.shtml#Copeland2" TARGET="_top">Copeland et al., 1993</a>). Although all 
+mammals are remarkably similar in their overall body plan, there are some 
+differences in the details of both development and metabolism, and occasionally 
+these differences can prevent the extrapolation of mouse data to humans and vice 
+versa 
+(<a href="references.shtml#Erickson1" TARGET="_top">Erickson, 1989</a>). Nevertheless, the mouse has proven itself over and over 
+again as being the model experimental animal <i>par excellence</i> for studies of nearly all 
+aspects of human genetics.
+
+<a name="1.3.2"></a><H3>1.3.2 The mouse is an ideal model organism</H3>
+
+<P>Among mammals, the mouse is ideally suited for genetic analysis. First, it is 
+among the smallest mammals known with adult weights in the range of 25-40 
+g, 2,000-3,000-fold lighter than the average human adult. Second, it has a short 
+generation time &#151; on the order of 10 weeks from being born to giving birth. Third, 
+females breed prolifically in the lab with an average of 5-10 pups per litter and an 
+immediate postpartum estrus. Fourth, an often forgotten advantage is the fact that 
+fathers do not harm their young, and thus breeding pairs can be maintained 
+together after litters are born. Fifth, for developmental studies, the deposition of a 
+vaginal plug allows an investigator to time all pregnancies without actually 
+witnessing the act of copulation and, once again, without removing males from the 
+breeding cage. Finally, most laboratory-bred strains are relatively docile and easy to 
+handle. 
+
+<P>The high resolution genetic studies to be discussed later in this book require the 
+analysis of large numbers of offspring from each of the crosses under analysis. Thus, 
+a critical quotient in choosing an organism can be expressed as the number of 
+animals bred per square meter of animal facility space per year. For mice, this 
+number can be as high as 3,000 pups/m<sup>2</sup> including the actual space for racks (five 
+shelves high) as well as the inter-rack space as well. All of the reasons listed here 
+make the mouse an excellent species for genetic analysis and have helped to make it 
+the major model for the study of human disease and normative biology.
+
+<a name="1.3.3"></a><H3>1.3.3 Manipulation of the mouse genome and micro-analysis</H3>
+
+<P>The close correspondence discovered between the genomes of mice and humans 
+would not, in and of itself, have been sufficient to drive workers into mouse 
+genetics without the simultaneous development, during the last decade, of 
+increasingly more sophisticated tools to study and manipulate the embryonic 
+genome. Today, genetic material from any source (natural, synthetic or a 
+combination of the two) can be injected directly into the nuclei of fertilized eggs; two 
+or more cleavage-stage embryos can be teased apart into component cells and put 
+back together again in new &#034;chimeric&#034; combinations; nuclei can be switched back 
+and forth among different embryonic cytoplasma; embryonic cells can be placed into 
+tissue culture, where targeted manipulation of individual genes can be 
+accomplished before these cells are returned to the embryo proper. Genetically 
+altered live animals can be obtained subsequent to all of these procedures, and these 
+animals can transmit their altered genetic material to their offspring. The protocols 
+involved in all of these manipulations of embryos and genomes have become well-established and <i>cookbook</i> manuals 
+(<a href="references.shtml#Joyner1" TARGET="_top">Joyner, 1993</a>; 
+<a href="references.shtml#Wassarman3" TARGET="_top">Wassarman and DePamphilis, 1993</a>; 
+<a href="references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</a>) as well as a video guide to the protocols involved 
+(<a href="references.shtml#Pedersen1" TARGET="_top">Pedersen et al., 1993</a>) have been published.
+
+<P>While it is likely that none of these manipulations has yet been applied to 
+human embryos and genomes, it is ethical, rather than technical, roadblocks that 
+impede progress in this direction. The mental image invoked is of a far more 
+sophisticated technology than the so-called futuristic scenario of embryo farms 
+described in Huxley's <i>Brave New World</i>  
+(<a href="references.shtml#Huxley1" TARGET="_top">1932</a>).
+
+<P>Progress has also been made at the level of molecular analysis within the 
+developing embryo. With the polymerase chain reaction (PCR) protocol, DNA and 
+RNA sequences from single cells can be characterized, and enhanced versions of the 
+somewhat older techniques of <i>in situ</i> hybridization and immuno-staining allow 
+investigators to follow the patterns of individual gene expression through the four 
+dimensions of space and time 
+(<a href="references.shtml#Wassarman3" TARGET="_top">Wassarman and DePamphilis, 1993</a>; 
+<a href="references.shtml#Hogan1" TARGET="_top">Hogan et al., 
+1994</a>). In addition, with the omnipresent micro-techniques developed across the 
+field of biochemistry, the traditional requirement for large research animals like the 
+rat, rabbit, or guinea pig has all but evaporated.
+
+<a name="1.3.4"></a><H3>1.3.4 High resolution genetics</H3>
+
+<P>Finally, with the automation and simplification of molecular assays that has 
+occurred over the last several years, it has become possible to determine 
+chromosomal map positions to a very high degree of resolution. Genetic studies of 
+this type are relying increasingly on extremely polymorphic microsatellite loci 
+(<a href="8.3.shtml">Section 8.3</a>) to produce anchored linkage maps 
+(<a href="9.1.shtml">Chapter 9</a>), and large insert cloning 
+vectors &#151; such as yeast artificial chromosomes (YACs) &#151; to move from the 
+observation of a phenotype, to a map of the loci that cause the phenotype, to clones of the loci themselves 
+(<a href="10.3.shtml">Section 10.3</a>). 
+Thus, many of the advantages that were once uniquely available to investigators 
+studying lower organisms, such as flies and worms, can now be applied to the 
+mouse through the three-way marriage of genetics, molecular biology, and 
+embryology represented in 
+<a href="javascript:windowf14 = window.open('figure1.4.shtml', 'windowf14', 'width=680,height=350,resizable=yes,scrollbars=yes'); windowf14.focus()">Figure 1.4</a> . 
+It is the intention of this book to provide the 
+conceptual framework and practical basis for the new mouse genetics.
+
+<DIV Align="center"><H4> <A HREF="1.2.shtml">Previous</A> <A HREF="2.1.shtml">Next</A></H4></DIV>
+
+</BODY>
+</HTML>

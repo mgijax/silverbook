@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Table 9.1 Chi-squared values associated with selected P values for one to eight degrees of freedom (df)</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="FFFFFF">
+
+
+<TABLE Border="0" width="300">
+<B>Table 9.1</B> 
+<I><a href="javascript:windowm6 = window.open('chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+values associated with selected <I>P</I> values for one to eight degrees of freedom (<I>df</I>)<HR>
+<DIV align="center">
+<TR><TD colspan="5" align="center"><I>P</I> values<SUP>a</SUP><HR></TD></TR>
+<TR align="right"><TD align="center"><I>df</I></TD><TD>0.05</TD><TD>0.01</TD><TD>0.001</TD><TD>0.0001</TD></TR>
+<TR><TD colspan="5"><HR></TD></TR>
+<TR align="right"><TD align="center">1</TD>
+<TD>3.8</TD>
+<TD>6.6</TD>
+<TD>10.8</TD>
+<TD>15.0</TD></TR>
+<!----->
+<TR align="right"><TD align="center">2</TD>
+<TD>6.0</TD>
+<TD>9.2</TD>
+<TD>13.8</TD>
+<TD>18.5</TD></TR>
+<!----->
+<TR align="right"><TD align="center">3</TD>
+<TD>7.8</TD>
+<TD>11.4</TD>
+<TD>16.3</TD>
+<TD>21.0</TD></TR>
+<!----->
+<TR align="right"><TD align="center">4</TD>
+<TD>9.5</TD>
+<TD>13.3</TD>
+<TD>18.5</TD>
+<TD>23.4</TD></TR>
+<!----->
+<TR align="right"><TD align="center">5</TD>
+<TD>11.1</TD>
+<TD>15.1</TD>
+<TD>20.5</TD>
+<TD>26.1</TD></TR>
+<!----->
+<TR align="right"><TD align="center">6</TD>
+<TD>12.6</TD>
+<TD>16.8</TD>
+<TD>22.5</TD>
+<TD>28.0</TD></TR>
+<!----->
+<TR align="right"><TD align="center">7</TD>
+<TD>14.1</TD>
+<TD>18.5</TD>
+<TD>24.3</TD>
+<TD>30.0</TD></TR>
+<!----->
+<TR align="right"><TD align="center">8</TD>
+<TD>15.5</TD>
+<TD>20.1</TD>
+<TD>26.1</TD>
+<TD>32.0</TD></TR>
+<!----->
+</TABLE>
+
+<TABLE Border="0" width="450">
+<TR><TD><HR>
+<SUP>a</SUP>&nbsp;<I>P</I> values are determined as follows. First, the number of degrees of freedom associated with the experimental
+design is determined. For backcross and RI strain data, 
+<I>df</I> &#061; 1, and for intercross data, <I>df</I> &#061; 3, as discussed in 
+the text. For the evaluation of data from any one experiment, it is only necessary to look across the row of the table 
+associated with the appropriate <I>df</I> value. Next, the experimentally obtained value of 
+<a href="javascript:windowm6 = window.open('chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()"><I>Chi-squared</I></A> 
+should be compared to 
+the values shown along this row in the table. The table values that flank the experimental 
+<a href="javascript:windowm6 = window.open('chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()"><I>Chi-squared</I></A> 
+value provide the limits 
+of the interval within which the <I>P</I> value lies. For example, if a 
+<a href="javascript:windowm6 = window.open('chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()"><I>Chi-squared</I></A> 
+value of 5.7 is obtained from an analysis of 
+backcross data, the <I>P</I> value will be less than 0.05 (but greater than 0.01). More accurate <I>P</I> values can be obtained 
+from graphical representations of 
+<a href="javascript:windowm6 = window.open('chisquared.shtml', 'windowm6', 'width=500,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()"><I>Chi-squared</I></A> 
+provided in most statistics books. 
+
+</TABLE>
+
+</DIV>
+
+</BODY>
+</HTML>

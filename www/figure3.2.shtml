@@ -1,0 +1,23 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+	<TITLE>Figure 3.2 - Consequences of inbreeding up to 20 generations</TITLE>
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+<BODY BGCOLOR="#FFFFFF">
+<TABLE Border="0">
+<TR><TD><IMG SRC="images/figure3.2.gif" Alt="Figure 3.2" Width="498" Height="291"> </TD></TR>
+
+<TR><TD>
+<B>Figure 3.2</B> 
+Consequences of inbreeding up to 20 generations. 
+This illustration of inbreeding is based on the same simplifying assumptions described in the legend to 
+<a href="javascript:windowf31 = window.open('figure3.1.shtml', 'windowf31', 'width=400,height=600,resizable=yes,scrollbars=yes'); windowf31.focus()">Figure 3.1</A>. 
+Points on the solid line indicate the portion of the genome that will be homozygous in any 
+individual animal at each generation. 
+Points on the dashed line indicate the portion of the genome that will be fixed 
+identically in the two animals chosen to generate the following generation of animals.
+</TD></TR>
+</TABLE>
+</BODY>
+</HTML>
