@@ -14,589 +14,589 @@
 
 <a name="9.2.1.1"></a><H3><I>9.2.1.1 Conceptualization and history of RI strains</I></H3>
 
-<P>Although a handful of isolated recombinant inbred (RI) mouse strains were 
-developed during the 1940s and 1950s, the importance of these genetic constructs 
-was not appreciated by any scientist prior to Dr. Donald Bailey who first 
-conceptualized their potential utility for linkage analysis while working at the 
-National Institutes of Health in 1959 
-(<A HREF="../references.shtml#Bailey3" TARGET="_top">Bailey, 1981</A>). Bailey realized that 
-established sets of RI strains could provide an efficient alternative to the lengthy 
-process of classical breeding analysis that was required at that time to map any newly 
-uncovered locus. Bailey moved with his first set of eight RI strains &#151; the original 
-CXB set &#151; to the Jackson Laboratory in 1967. In 1969, Dr. Benjamin Taylor, also at the 
-Jackson Laboratory, took up the cause of the RI approach and set about developing, 
-from several different pairs of progenitor parents, large sets of RI strains that are 
-now standards for the mouse genetics community including BXD, BXH, AKXL and 
-AKXD 
-(<A HREF="../references.shtml#Taylor1" TARGET="_top">Taylor, 1978</A>; 
-<a href="javascript:windowt93 = window.open('../tables/table9-3.shtml', 'windowt93', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A>). 
-These standard RI sets, and others listed in 
-<a href="javascript:windowt93 = window.open('../tables/table9-3.shtml', 'windowt93', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A> 
-under JAX availability, can be purchased directly &#151; in the form of either 
-animals or DNA &#151; from the 
-<A HREF="a.shtml">Jackson Laboratory</A>. Today, recombinant inbred strains 
-represent a critical tool in the arsenal used to map mouse genes and the RI approach 
-has made its way into the study of other experimental organisms as well such as the 
-plant <I>Arabidopsis</I> 
+<P>Although a handful of isolated recombinant inbred (RI) mouse strains were
+developed during the 1940s and 1950s, the importance of these genetic constructs
+was not appreciated by any scientist prior to Dr. Donald Bailey who first
+conceptualized their potential utility for linkage analysis while working at the
+National Institutes of Health in 1959
+(<A HREF="../references.shtml#Bailey3" TARGET="_top">Bailey, 1981</A>). Bailey realized that
+established sets of RI strains could provide an efficient alternative to the lengthy
+process of classical breeding analysis that was required at that time to map any newly
+uncovered locus. Bailey moved with his first set of eight RI strains &#151; the original
+CXB set &#151; to the Jackson Laboratory in 1967. In 1969, Dr. Benjamin Taylor, also at the
+Jackson Laboratory, took up the cause of the RI approach and set about developing,
+from several different pairs of progenitor parents, large sets of RI strains that are
+now standards for the mouse genetics community including BXD, BXH, AKXL and
+AKXD
+(<A HREF="../references.shtml#Taylor1" TARGET="_top">Taylor, 1978</A>;
+<a href="javascript:windowt93 = window.open('../tables/table9-3.shtml', 'windowt93', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A>).
+These standard RI sets, and others listed in
+<a href="javascript:windowt93 = window.open('../tables/table9-3.shtml', 'windowt93', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A>
+under JAX availability, can be purchased directly &#151; in the form of either
+animals or DNA &#151; from the
+<A HREF="a.shtml">Jackson Laboratory</A>. Today, recombinant inbred strains
+represent a critical tool in the arsenal used to map mouse genes and the RI approach
+has made its way into the study of other experimental organisms as well such as the
+plant <I>Arabidopsis</I>
 (<a href="../references.shtml#Lister1" TARGET="_top">Lister and Dean, 1993</a>).
 
 <a name="9.2.1.2"></a><H3><I>9.2.1.2 Construction and naming of RI strains</I></H3>
 
-<P>The construction of a set of RI strains is quite simple in theory and is illustrated in 
-<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>. 
-One begins with an outcross between two well-established highly 
-inbred strains of mice, such as B6 and DBA in the example shown. These are 
-considered the progenitor strains. The F<SUB>1</SUB> progeny from this cross are all identical, 
-and thus in genetic terms, they are all interchangeable. F<SUB>1</SUB> hybrid animals are bred to 
-each other to produce a large set of F<SUB>2</SUB> animals. At this generation, siblings and 
-cousins are no longer identical because of the segregation of B6 and DBA alleles 
-from the heterozygous F<SUB>1</SUB> parents. As illustrated in 
-<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A> 
-for a single pair of 
-homologs, each of the F<SUB>2</SUB> animals will have a unique genotype with some loci 
-homozygous for the B6 allele, some homozygous for the DBA allele, and some 
-heterozygous with both alleles. At this stage, pairs of F<SUB>2</SUB> animals are chosen at 
-random to serve as the founders for new inbred strains of mice. The offspring from 
-each F<SUB>2</SUB> founder pair are maintained separately from all other offspring, and just two 
-are chosen randomly for brother-sister mating to produce the next generation. The 
-same process is repeated at each subsequent generation until at least 20 sequential 
-rounds of strict brother-sister matings have been completed and a new inbred strain 
+<P>The construction of a set of RI strains is quite simple in theory and is illustrated in
+<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>.
+One begins with an outcross between two well-established highly
+inbred strains of mice, such as B6 and DBA in the example shown. These are
+considered the progenitor strains. The F<SUB>1</SUB> progeny from this cross are all identical,
+and thus in genetic terms, they are all interchangeable. F<SUB>1</SUB> hybrid animals are bred to
+each other to produce a large set of F<SUB>2</SUB> animals. At this generation, siblings and
+cousins are no longer identical because of the segregation of B6 and DBA alleles
+from the heterozygous F<SUB>1</SUB> parents. As illustrated in
+<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>
+for a single pair of
+homologs, each of the F<SUB>2</SUB> animals will have a unique genotype with some loci
+homozygous for the B6 allele, some homozygous for the DBA allele, and some
+heterozygous with both alleles. At this stage, pairs of F<SUB>2</SUB> animals are chosen at
+random to serve as the founders for new inbred strains of mice. The offspring from
+each F<SUB>2</SUB> founder pair are maintained separately from all other offspring, and just two
+are chosen randomly for brother-sister mating to produce the next generation. The
+same process is repeated at each subsequent generation until at least 20 sequential
+rounds of strict brother-sister matings have been completed and a new inbred strain
 with special properties is established.
 <SUP><A HREF="notes.shtml#75" TARGET="_top">75</A></SUP>
 
-<P>Each of the new inbred strains produced according to this breeding scheme is 
-called a &#034;recombinant inbred&#034; or &#034;RI&#034; strain. Different RI strains produced from the 
-same pair of progenitor strains are considered members of the same &#034;RI set.&#034; Each 
-RI strain is named with an uninterrupted string of uppercase letters and numbers 
-that can be broken down into the following components: (1) a shortened version of 
-the maternal progenitor strain name; (2) the uppercase letter &#034;X&#034;; (3) a shortened 
-version of the paternal progenitor strain name; and (4) a hyphen and a number to 
+<P>Each of the new inbred strains produced according to this breeding scheme is
+called a &#034;recombinant inbred&#034; or &#034;RI&#034; strain. Different RI strains produced from the
+same pair of progenitor strains are considered members of the same &#034;RI set.&#034; Each
+RI strain is named with an uninterrupted string of uppercase letters and numbers
+that can be broken down into the following components: (1) a shortened version of
+the maternal progenitor strain name; (2) the uppercase letter &#034;X&#034;; (3) a shortened
+version of the paternal progenitor strain name; and (4) a hyphen and a number to
 distinguish each strain from all other strains in the same RI set.
-<SUP><A HREF="notes.shtml#76" TARGET="_top">76</A></SUP> 
-The first three components of an RI strain name are also used alone as the name for the 
+<SUP><A HREF="notes.shtml#76" TARGET="_top">76</A></SUP>
+The first three components of an RI strain name are also used alone as the name for the
 corresponding RI set.
 
 <P><a href="javascript:windowt93 = window.open('../tables/table9-3.shtml', 'windowt93', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A>
-lists the 17 RI sets that have been used to a significant degree by 
-members of the mouse genetics community (R.W. Elliott, personal 
-communication). The most readily available of these are the ones that can be 
-purchased directly from the 
-<A HREF="a.shtml">Jackson Laboratory</A> (JAX) in the form of live animals or 
+lists the 17 RI sets that have been used to a significant degree by
+members of the mouse genetics community (R.W. Elliott, personal
+communication). The most readily available of these are the ones that can be
+purchased directly from the
+<A HREF="a.shtml">Jackson Laboratory</A> (JAX) in the form of live animals or
 DNA &#151; fourteen RI sets with a total of 187 strains. The best-known and most well-
-characterized RI set is BXD with 26 extant strains formed from an initial cross 
-between B6 females and DBA/2J males. Individual strains within this set are called 
-BXD-1, BXD-2, BXD-5 and so on. (The BXD-3, BXD-4 and other missing strains are 
-now extinct and their numbers have been retired.) By August of 1993, 818 loci had 
-been typed on the BXD set. Unfortunately, as discussed earlier in this book (Sections 
-<a href="2-3.shtml#2.3.4">2.3.4</a> and 
-<a href="3-2.shtml#3.2.2">3.2.2</a>), 
-the two progenitors of the BXD set &#151; B6 and DBA &#151; are related to 
-each other through the common group of founder animals used to develop most of 
-the classical inbred strains at the beginning of the twentieth century. As a 
-consequence, a significant number of loci will show no variation between the two 
-progenitors even with highly sensitive PCR protocols that detect SSCPs and 
-microsatellites (see 
+characterized RI set is BXD with 26 extant strains formed from an initial cross
+between B6 females and DBA/2J males. Individual strains within this set are called
+BXD-1, BXD-2, BXD-5 and so on. (The BXD-3, BXD-4 and other missing strains are
+now extinct and their numbers have been retired.) By August of 1993, 818 loci had
+been typed on the BXD set. Unfortunately, as discussed earlier in this book (Sections
+<a href="2-3.shtml#2.3.4">2.3.4</a> and
+<a href="3-2.shtml#3.2.2">3.2.2</a>),
+the two progenitors of the BXD set &#151; B6 and DBA &#151; are related to
+each other through the common group of founder animals used to develop most of
+the classical inbred strains at the beginning of the twentieth century. As a
+consequence, a significant number of loci will show no variation between the two
+progenitors even with highly sensitive PCR protocols that detect SSCPs and
+microsatellites (see
 <a href="8-3.shtml">Section 8.3</a>).
 
-<P>More recently, two progenitor mouse strains &#151; A/J and C57BL/6J &#151; known to 
-differ in susceptibility to over 30 infectious or chronic diseases were used to establish 
-a new pair of RI sets &#151; AXB and BXA &#151; based on reciprocal crosses 
-(<A HREF="../references.shtml#Marshall2" TARGET="_top">Marshall et al., 1992</A>). 
-Genetic surveys suggest that these progenitors are much less related to each 
+<P>More recently, two progenitor mouse strains &#151; A/J and C57BL/6J &#151; known to
+differ in susceptibility to over 30 infectious or chronic diseases were used to establish
+a new pair of RI sets &#151; AXB and BXA &#151; based on reciprocal crosses
+(<A HREF="../references.shtml#Marshall2" TARGET="_top">Marshall et al., 1992</A>).
+Genetic surveys suggest that these progenitors are much less related to each
 other than B6 is to DBA, and with 31 genetically validated extant strains
-<SUP><A HREF="notes.shtml#77" TARGET="_top">77</A></SUP> 
-available from the 
-<A HREF="a.shtml">Jackson Laboratory</A>, this paired set is the largest, and likely to be the most 
-useful for both linkage analysis and the study of complex traits that differ between 
+<SUP><A HREF="notes.shtml#77" TARGET="_top">77</A></SUP>
+available from the
+<A HREF="a.shtml">Jackson Laboratory</A>, this paired set is the largest, and likely to be the most
+useful for both linkage analysis and the study of complex traits that differ between
 the two progenitors.
 
-<P>At any time, it is possible to add to the numbers of strains in a particular RI set by 
-starting from scratch with a new cross between the original progenitor strains and 
-following it through twenty generations of inbreeding. In this manner, J. Hilgers at 
-the Netherlands Cancer Institute in Amsterdam and L. Mobraaten at the Jackson 
-Laboratory have increased the size of the original CXB RI set with five and six new 
+<P>At any time, it is possible to add to the numbers of strains in a particular RI set by
+starting from scratch with a new cross between the original progenitor strains and
+following it through twenty generations of inbreeding. In this manner, J. Hilgers at
+the Netherlands Cancer Institute in Amsterdam and L. Mobraaten at the Jackson
+Laboratory have increased the size of the original CXB RI set with five and six new
 strains, respectively.
 
 <a name="9.2.1.3"></a><H3><I>9.2.1.3 The special properties of RI strains</I></H3>
 
 <P>Like all inbred strains, RI strains are fixed to homozygosity at essentially all loci.
-<SUP><A HREF="notes.shtml#78" TARGET="_top">78</A></SUP> 
-Thus, the genomic constitution of each strain can be maintained indefinitely by 
-continued brother-sister matings, and the strain can be expanded into as many 
-animals as required at any time. However, unlike the classical inbred strains, the 
-genotype of an RI strain is greatly circumscribed. First, there are only two choices for 
-the allele that can be present at each locus: thus, for every locus in every strain of the 
-BXD RI set, only the B6 or the DBA allele can be present. Second, because there is 
-only a limited number of opportunities for recombination to occur between the two 
-sets of progenitor chromosomes before homozygosity sets it, complete 
-homogenization of the genome can not take place. An illustration of this principle 
-can be seen in 
-<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>. 
-In this hypothetical situation, one can see genomic regions 
-that are already frozen at the outset of the F<SUB>2</SUB> intercross in two of the three incipient 
-RI strains. The two fixed regions are circled and (in this illustrative example) are 
-both homozygous for B6 genomic material in the two F<SUB>2</SUB> parents that will act as 
-founders for the new BXD-102 and BXD-103 strains. At each subsequent generation, 
-additional regions will become frozen in either a B6 or a DBA state. After 20 
-generations of inbreeding, each RI strain will be represented by a group of animals 
-that will all carry the same genomic tapestry with random patches from each of the 
-two progenitors, as illustrated in the final row of 
+<SUP><A HREF="notes.shtml#78" TARGET="_top">78</A></SUP>
+Thus, the genomic constitution of each strain can be maintained indefinitely by
+continued brother-sister matings, and the strain can be expanded into as many
+animals as required at any time. However, unlike the classical inbred strains, the
+genotype of an RI strain is greatly circumscribed. First, there are only two choices for
+the allele that can be present at each locus: thus, for every locus in every strain of the
+BXD RI set, only the B6 or the DBA allele can be present. Second, because there is
+only a limited number of opportunities for recombination to occur between the two
+sets of progenitor chromosomes before homozygosity sets it, complete
+homogenization of the genome can not take place. An illustration of this principle
+can be seen in
+<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>.
+In this hypothetical situation, one can see genomic regions
+that are already frozen at the outset of the F<SUB>2</SUB> intercross in two of the three incipient
+RI strains. The two fixed regions are circled and (in this illustrative example) are
+both homozygous for B6 genomic material in the two F<SUB>2</SUB> parents that will act as
+founders for the new BXD-102 and BXD-103 strains. At each subsequent generation,
+additional regions will become frozen in either a B6 or a DBA state. After 20
+generations of inbreeding, each RI strain will be represented by a group of animals
+that will all carry the same genomic tapestry with random patches from each of the
+two progenitors, as illustrated in the final row of
 <a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>.
 
-<P>It is this homozygous patchwork genomic structure that is the key to the power 
-of the RI strains. This is because the boundaries that separate all of these genomic 
-patches represent individual recombination events that are also permanently 
-frozen. Every RI strain has different recombination sites distributed randomly 
-throughout its genome. Thus, a set of RI strains can be used in essentially the same 
-manner as the offspring from a mapping cross to obtain information on linkage and 
-map distances. Like other mapping panels, it is only necessary to type each RI 
-genotype once for a particular locus, and the information obtained from typing 
-different loci is cumulative. The major difference, of course, is that the particular 
-genotype present within each RI strain can be propagated indefinitely whereas 
-different offspring from a mapping cross will all have unique genotypes and finite 
-life spans. Thus, there is no limit to the number of loci that can be typed within an 
-RI strain. Furthermore, in the case of complex phenotypic variation, one can 
-actually sample the same genotype multiple times to demonstrate instances of 
-incomplete 
-<A HREF="../glossary.shtml#Penetrance" TARGET="_top">penetrance</A> or variable 
-<A HREF="../glossary.shtml#Expressivity" TARGET="_top">expressivity</A> as discussed in 
+<P>It is this homozygous patchwork genomic structure that is the key to the power
+of the RI strains. This is because the boundaries that separate all of these genomic
+patches represent individual recombination events that are also permanently
+frozen. Every RI strain has different recombination sites distributed randomly
+throughout its genome. Thus, a set of RI strains can be used in essentially the same
+manner as the offspring from a mapping cross to obtain information on linkage and
+map distances. Like other mapping panels, it is only necessary to type each RI
+genotype once for a particular locus, and the information obtained from typing
+different loci is cumulative. The major difference, of course, is that the particular
+genotype present within each RI strain can be propagated indefinitely whereas
+different offspring from a mapping cross will all have unique genotypes and finite
+life spans. Thus, there is no limit to the number of loci that can be typed within an
+RI strain. Furthermore, in the case of complex phenotypic variation, one can
+actually sample the same genotype multiple times to demonstrate instances of
+incomplete
+<A HREF="../glossary.shtml#Penetrance" TARGET="_top">penetrance</A> or variable
+<A HREF="../glossary.shtml#Expressivity" TARGET="_top">expressivity</A> as discussed in
 <a href="9-2.shtml#9.2.5">Section 9.2.5.</a>
 
 <a name="9.2.2"></a><H3>9.2.2 Using RI strains to determine linkage</H3>
 
 <a name="9.2.2.1"></a><H3><I>9.2.2.1 Strain distribution patterns</I></H3>
 
-<P>The major use of RI strains by mouse geneticists today is as a tool to determine 
-linkage and map positions for newly derived DNA clones. As the first step in this 
-process, an investigator should survey the progenitor strains for all the most useful 
-RI sets to determine which of these sets can be typed for the presence of alternative 
-alleles. The strains to be surveyed should include AKR/J, DBA/2J, C57L/J, A/J, 
-C57BL/6J, C3H/HeJ, BALB/cJ, NZB/B1NJ, SM/J and SWR/J (see 
-<a href="javascript:windowt93 = window.open('../tables/table9-3.shtml', 'windowt93', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A>). 
-If one is 
-trying to map a newly cloned gene, it is possible to start a polymorphism search 
-based on the detection of RFLPs among DNA samples digested with one of several 
-different enzymes 
-(<a href="8-2.shtml">Section 8.2</a>). However, as discussed at length in 
-<a href="8-3.shtml">Section 8.3</a>, one is 
-much more likely to uncover polymorphisms with a PCR-based protocol like 
+<P>The major use of RI strains by mouse geneticists today is as a tool to determine
+linkage and map positions for newly derived DNA clones. As the first step in this
+process, an investigator should survey the progenitor strains for all the most useful
+RI sets to determine which of these sets can be typed for the presence of alternative
+alleles. The strains to be surveyed should include AKR/J, DBA/2J, C57L/J, A/J,
+C57BL/6J, C3H/HeJ, BALB/cJ, NZB/B1NJ, SM/J and SWR/J (see
+<a href="javascript:windowt93 = window.open('../tables/table9-3.shtml', 'windowt93', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A>).
+If one is
+trying to map a newly cloned gene, it is possible to start a polymorphism search
+based on the detection of RFLPs among DNA samples digested with one of several
+different enzymes
+(<a href="8-2.shtml">Section 8.2</a>). However, as discussed at length in
+<a href="8-3.shtml">Section 8.3</a>, one is
+much more likely to uncover polymorphisms with a PCR-based protocol like
 SSCP.
 <SUP><A HREF="notes.shtml#79" TARGET="_top">79</A></SUP>
 
-<P>Once alternative alleles at a locus have been distinguished for the progenitors of 
-any RI set, one can proceed to type all of the strains in that set. The information 
-obtained from such a single locus analysis will represent the 
-<I>strain distribution pattern</I>, or <I>SDP</I>, 
-for that particular locus. An isolated SDP in and of itself is usually 
-not informative. One would expect approximately half of the strains typed to carry 
+<P>Once alternative alleles at a locus have been distinguished for the progenitors of
+any RI set, one can proceed to type all of the strains in that set. The information
+obtained from such a single locus analysis will represent the
+<I>strain distribution pattern</I>, or <I>SDP</I>,
+for that particular locus. An isolated SDP in and of itself is usually
+not informative. One would expect approximately half of the strains typed to carry
 each of the progenitor alleles at random.
-<A HREF="notes.shtml#80" TARGET="_top"><SUP>80</SUP></A> 
-However, with a new SDP in hand, it becomes 
-possible to search for linkage with each of the other loci previously typed in the 
-same RI set or group of sets. This is most easily accomplished with a computer 
-program such as Map Manager that compares the new SDP to each previously-determined 
-SDP in the database, one-by-one, and applies a statistical test for 
-evidence against or in favor of linkage 
-(<A HREF="../references.shtml#Manly1" TARGET="_top">Manly, 1993</A> and see 
+<A HREF="notes.shtml#80" TARGET="_top"><SUP>80</SUP></A>
+However, with a new SDP in hand, it becomes
+possible to search for linkage with each of the other loci previously typed in the
+same RI set or group of sets. This is most easily accomplished with a computer
+program such as Map Manager that compares the new SDP to each previously-determined
+SDP in the database, one-by-one, and applies a statistical test for
+evidence against or in favor of linkage
+(<A HREF="../references.shtml#Manly1" TARGET="_top">Manly, 1993</A> and see
 <A HREF="b.shtml">Appendix B</A> for further information).
 
 <a name="9.2.2.2"></a><H3><I>9.2.2.2 Concordance and discordance</I></H3>
 
-<P>The result of each pairwise comparison of SDPs is expressed in terms of the 
-degree, or level, of <I>concordance</I> and <I>discordance</I>. When a particular RI strain has 
-alleles from the same progenitor at two defined loci, the loci are considered to be 
-&#034;concordant&#034; within that strain. When the alleles at the two loci come from the 
-two different progenitors, they are considered to be &#034;discordant&#034;. The probability of 
-discordance is a function of the linkage distance that separates the two loci under 
-analysis. This is easy to understand in terms of the likelihood that two loci will be 
-retained, by chance, within the same genomic patch as illustrated in 
-<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>. 
-At one extreme, unlinked loci &#151; which can not possibly lie in the same genomic patch &#151; 
-will be just as likely to have alleles from the same progenitor, by chance, as from the 
-two different progenitors. Thus, one would predict that &#126;50% of the strains within 
-an RI set will show concordance for a pair of unlinked loci. At the other extreme, 
-loci that are very closely linked will always be in the same genomic patch, which is 
-equivalent to saying that 100% of RI strains will show concordance (or 0% will show 
-discordance). Between these two extremes will be loci that are linked, but less 
-closely so. As the distance between two loci increases, the probability of discordance 
+<P>The result of each pairwise comparison of SDPs is expressed in terms of the
+degree, or level, of <I>concordance</I> and <I>discordance</I>. When a particular RI strain has
+alleles from the same progenitor at two defined loci, the loci are considered to be
+&#034;concordant&#034; within that strain. When the alleles at the two loci come from the
+two different progenitors, they are considered to be &#034;discordant&#034;. The probability of
+discordance is a function of the linkage distance that separates the two loci under
+analysis. This is easy to understand in terms of the likelihood that two loci will be
+retained, by chance, within the same genomic patch as illustrated in
+<a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>.
+At one extreme, unlinked loci &#151; which can not possibly lie in the same genomic patch &#151;
+will be just as likely to have alleles from the same progenitor, by chance, as from the
+two different progenitors. Thus, one would predict that &#126;50% of the strains within
+an RI set will show concordance for a pair of unlinked loci. At the other extreme,
+loci that are very closely linked will always be in the same genomic patch, which is
+equivalent to saying that 100% of RI strains will show concordance (or 0% will show
+discordance). Between these two extremes will be loci that are linked, but less
+closely so. As the distance between two loci increases, the probability of discordance
 will increase in a calculable manner from 0% up to 50%.
 
-<P>Whenever one accumulates data on multiple RI strains, it is useful to express 
-this information in terms of concordance and discordance rather than in terms of 
-actual genotypes. The terms <I>N</I> and <I>i</I> are used, respectively, to denote the total 
-number of strains typed and the number of discordant strains observed. The fraction 
-<I><a href="javascript:windowm7 = window.open('../figures/rhat.shtml', 'windowm7', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm7.focus()">R hat</A></I> 
-&#061; <I>i/N</I> is used to denote the observed level of discordance. With the use of these 
-terms, one can combine the data obtained from all sets of RI strains that show 
-variation between progenitors for both loci under analysis. This can be 
-accomplished even if different allele pairs are present in different RI sets. For 
-example, at the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95904" TARGET="_top"><I>H-2K</I></A> 
-locus, B6 has a <I>b</I> allele, DBA has a <I>d</I> allele, and AKR/J and A/J 
-both have a <I>k</I> allele; even so, one can still combine 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95904" TARGET="_top"><I>H-2K</I></A> 
-data obtained from the BXD, AKXD, and AXB/BXA RI sets. If these three RI sets also show progenitor 
-variation at another locus thought to be linked to 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95904" TARGET="_top"><I>H-2K</I></A>, 
-then one can count up the 
-number of strains discordant between these two loci (<I>i</I>) and divide by the total 
-number of strains (<I>N</I> = 82) to obtain the observed discordant fraction 
-<I><a href="javascript:windowm7 = window.open('../figures/rhat.shtml', 'windowm7', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm7.focus()">R hat</A></I>. 
-When strains from multiple RI sets are combined for analysis in this manner, they will be 
-referred to as an &#034;RI group.&#034; Increasing the size of the RI group can have dramatic 
-effects on the sensitivity and resolution with which it is possible to determine 
-linkage and map distances, as described in the following subsections and depicted in 
-<a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A> and Tables 
-<a href="javascript:windowtd1 = window.open('../tableD1.shtml', 'windowtd1', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd1.focus()">D1</A> and 
-<a href="javascript:windowtd2 = window.open('../tableD2.shtml', 'windowtd2', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">D2</A> in 
+<P>Whenever one accumulates data on multiple RI strains, it is useful to express
+this information in terms of concordance and discordance rather than in terms of
+actual genotypes. The terms <I>N</I> and <I>i</I> are used, respectively, to denote the total
+number of strains typed and the number of discordant strains observed. The fraction
+<I><a href="javascript:windowm7 = window.open('../figures/rhat.shtml', 'windowm7', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm7.focus()">R hat</A></I>
+&#061; <I>i/N</I> is used to denote the observed level of discordance. With the use of these
+terms, one can combine the data obtained from all sets of RI strains that show
+variation between progenitors for both loci under analysis. This can be
+accomplished even if different allele pairs are present in different RI sets. For
+example, at the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95904" TARGET="_top"><I>H-2K</I></A>
+locus, B6 has a <I>b</I> allele, DBA has a <I>d</I> allele, and AKR/J and A/J
+both have a <I>k</I> allele; even so, one can still combine
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95904" TARGET="_top"><I>H-2K</I></A>
+data obtained from the BXD, AKXD, and AXB/BXA RI sets. If these three RI sets also show progenitor
+variation at another locus thought to be linked to
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95904" TARGET="_top"><I>H-2K</I></A>,
+then one can count up the
+number of strains discordant between these two loci (<I>i</I>) and divide by the total
+number of strains (<I>N</I> = 82) to obtain the observed discordant fraction
+<I><a href="javascript:windowm7 = window.open('../figures/rhat.shtml', 'windowm7', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm7.focus()">R hat</A></I>.
+When strains from multiple RI sets are combined for analysis in this manner, they will be
+referred to as an &#034;RI group.&#034; Increasing the size of the RI group can have dramatic
+effects on the sensitivity and resolution with which it is possible to determine
+linkage and map distances, as described in the following subsections and depicted in
+<a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A> and Tables
+<a href="javascript:windowtd1 = window.open('../tableD1.shtml', 'windowtd1', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd1.focus()">D1</A> and
+<a href="javascript:windowtd2 = window.open('../tableD2.shtml', 'windowtd2', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">D2</A> in
 <A HREF="d.shtml">Appendix D</A>.
 
 <a name="9.2.2.3"></a><H3><I>9.2.2.3 Demonstrating linkage: statistical approaches</I></H3>
 
-<P>What degree of concordance between two SDPs is required to demonstrate 
-linkage? The problem of distinguishing a chance fluctuation above the 50% 
-concordance expected with unlinked loci from a significant departure indicative of 
-linkage was discussed in more general terms earlier in this chapter. Suffice it to say 
-here that prior to 1986, researchers did not fully appreciate the more stringent 
-requirements imposed by the Bayesian statistical approach and were misled by 
-concordance values that passed traditional 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-tests for significance. Mathematical formulations aimed at rectifying this situation were begun by 
-<A HREF="../references.shtml#Silver2" TARGET="_top">J. Silver (1986)</A> and 
-were supplemented by Neumann 
-(<A HREF="../references.shtml#Neumann1" TARGET="_top">1990</A>; 
-<A HREF="../references.shtml#Neumann2" TARGET="_top">1991</A>). In his 1990 paper, 
-<A HREF="../references.shtml#Neumann1" TARGET="_top">Neumann</A> published tables with a complete set of 
-maximum discordance values (<I>i</I>) that are 
-allowed for a demonstration of linkage at various levels of significance with data 
-obtained from RI groups up to <I>N</I> &#061; 100 in size. Data from these tables have been 
-extracted and shown graphically in 
+<P>What degree of concordance between two SDPs is required to demonstrate
+linkage? The problem of distinguishing a chance fluctuation above the 50%
+concordance expected with unlinked loci from a significant departure indicative of
+linkage was discussed in more general terms earlier in this chapter. Suffice it to say
+here that prior to 1986, researchers did not fully appreciate the more stringent
+requirements imposed by the Bayesian statistical approach and were misled by
+concordance values that passed traditional
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+tests for significance. Mathematical formulations aimed at rectifying this situation were begun by
+<A HREF="../references.shtml#Silver2" TARGET="_top">J. Silver (1986)</A> and
+were supplemented by Neumann
+(<A HREF="../references.shtml#Neumann1" TARGET="_top">1990</A>;
+<A HREF="../references.shtml#Neumann2" TARGET="_top">1991</A>). In his 1990 paper,
+<A HREF="../references.shtml#Neumann1" TARGET="_top">Neumann</A> published tables with a complete set of
+maximum discordance values (<I>i</I>) that are
+allowed for a demonstration of linkage at various levels of significance with data
+obtained from RI groups up to <I>N</I> &#061; 100 in size. Data from these tables have been
+extracted and shown graphically in
 <a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A>.
 
-<P>With the maximum allowable discordant values that have been determined, it is 
-possible to estimate the maximum distance over which linkage between two loci is 
-likely to be demonstrated at a sufficient level of significance with an RI group of a 
-particular size. This is a measure of the &#034;swept radius,&#034; which is a concept first 
-developed by 
-<A HREF="../references.shtml#Carter3" TARGET="_top">Carter and Falconer (1951)</A>. 
-The swept radius has been defined as the 
-length of a chromosome interval on either side of a marker locus within which 
-linkage can be detected with a certain level of significance. Although the swept 
-radius was originally defined in terms of map distance, it can be readily converted 
-into a measure of recombination fraction (with the use of an appropriate mapping 
-function as described in 
-<a href="7-2.shtml#7.2.2.3">Section 7.2.2.3</a>), which is more useful for direct analysis of 
-raw data. In this way, the swept radius can be viewed as a boundary value for the 
-recombination fraction. If the observed rate of recombination between two loci is 
-less than the swept radius, linkage is demonstrated at a level of significance equal to 
-or greater than the cutoff value chosen. If the observed rate of recombination is 
-greater than the swept radius, linkage cannot be demonstrated with the available 
+<P>With the maximum allowable discordant values that have been determined, it is
+possible to estimate the maximum distance over which linkage between two loci is
+likely to be demonstrated at a sufficient level of significance with an RI group of a
+particular size. This is a measure of the &#034;swept radius,&#034; which is a concept first
+developed by
+<A HREF="../references.shtml#Carter3" TARGET="_top">Carter and Falconer (1951)</A>.
+The swept radius has been defined as the
+length of a chromosome interval on either side of a marker locus within which
+linkage can be detected with a certain level of significance. Although the swept
+radius was originally defined in terms of map distance, it can be readily converted
+into a measure of recombination fraction (with the use of an appropriate mapping
+function as described in
+<a href="7-2.shtml#7.2.2.3">Section 7.2.2.3</a>), which is more useful for direct analysis of
+raw data. In this way, the swept radius can be viewed as a boundary value for the
+recombination fraction. If the observed rate of recombination between two loci is
+less than the swept radius, linkage is demonstrated at a level of significance equal to
+or greater than the cutoff value chosen. If the observed rate of recombination is
+greater than the swept radius, linkage cannot be demonstrated with the available
 data.
 <A HREF="notes.shtml#81" TARGET="_top"><SUP>81</SUP></A>
 
-<P>The maximum discordance values allowed for each value of <I>N</I> can be translated 
-into linkage distances (through the use of the Haldane-Waddington equation 
-described in the 
-<A HREF="#9.2.2.4">next section</A>) that describe swept radii at which linkage can be 
-detected with a significance level of 95% or 99%. 
+<P>The maximum discordance values allowed for each value of <I>N</I> can be translated
+into linkage distances (through the use of the Haldane-Waddington equation
+described in the
+<A HREF="#9.2.2.4">next section</A>) that describe swept radii at which linkage can be
+detected with a significance level of 95% or 99%.
 <A HREF="notes.shtml#82" TARGET="_top"><SUP>82</SUP></A>
-With just 20 RI strains, one will 
-only be likely to detect linkage with marker loci that are within 2 cM 
-on either side of the test locus. The swept radius increases steadily as the size of the 
-RI group climbs to 40 strains, where it becomes possible to detect linkage to markers 
-that are within 7-8 cM of the test locus. However, even with 
-an RI group of 100 strains, the swept radius is only 13-15 cM. In general, the distance 
-swept by each marker locus in an RI group is only 40%-45% of the distance swept 
-by each locus in a linkage analysis performed with an equivalent number of 
-backcross offspring (see 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>). 
-This disadvantage is offset by the easy 
-availability of the major RI sets and the ever-accumulating number of marker loci 
+With just 20 RI strains, one will
+only be likely to detect linkage with marker loci that are within 2 cM
+on either side of the test locus. The swept radius increases steadily as the size of the
+RI group climbs to 40 strains, where it becomes possible to detect linkage to markers
+that are within 7-8 cM of the test locus. However, even with
+an RI group of 100 strains, the swept radius is only 13-15 cM. In general, the distance
+swept by each marker locus in an RI group is only 40%-45% of the distance swept
+by each locus in a linkage analysis performed with an equivalent number of
+backcross offspring (see
+<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>).
+This disadvantage is offset by the easy
+availability of the major RI sets and the ever-accumulating number of marker loci
 for which SDPs have been determined as discussed further below.
 
 <a name="9.2.2.4"></a><H3><I>9.2.2.4 Demonstrating linkage: a practical strategy</I></H3>
 
-<P>From the preceding discussion, it should be clear that the chances of success in 
-using RI data to demonstrate linkage for a test locus increase dramatically with both 
-the number of strains analyzed and the number of evenly distributed SDPs that are 
-already present in the database. As of 1993, several RI sets had been typed at over 200 loci 
-(<a href="javascript:windowt93 = window.open('../tables/table9-3.shtml', 'windowt93', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A>), 
-which, if randomly distributed, would fall on the linkage map at 
-average distances of 7 cM or less from each other. The BXD set alone has been typed 
+<P>From the preceding discussion, it should be clear that the chances of success in
+using RI data to demonstrate linkage for a test locus increase dramatically with both
+the number of strains analyzed and the number of evenly distributed SDPs that are
+already present in the database. As of 1993, several RI sets had been typed at over 200 loci
+(<a href="javascript:windowt93 = window.open('../tables/table9-3.shtml', 'windowt93', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowt93.focus()">Table 9.3</A>),
+which, if randomly distributed, would fall on the linkage map at
+average distances of 7 cM or less from each other. The BXD set alone has been typed
 for over 800 loci. Even though these marker loci are not randomly distributed,
-<A HREF="notes.shtml#83" TARGET="_top"><SUP>83</SUP></A> 
-their overlapping &#034;swept diameters&#034; of coverage are sufficient to map most new loci 
-that are typed among all members of this set. Furthermore, RI mapping panels 
-become ever-more efficient at detecting linkage as each new SDP is added to the 
-database. At some point in the near future, it is likely that SDPs will be determined 
-for all 26 BXD strains at marker loci distributed across the genome at a <I>maximum</I> 
-interlocus distance of 5 cM. At this point, every new test locus of 
-interest will have to lie within 2.5 cM of a previously-typed marker locus, and thus, 
-by simply typing the 26 BXD strains, one will be able to determine a map position 
+<A HREF="notes.shtml#83" TARGET="_top"><SUP>83</SUP></A>
+their overlapping &#034;swept diameters&#034; of coverage are sufficient to map most new loci
+that are typed among all members of this set. Furthermore, RI mapping panels
+become ever-more efficient at detecting linkage as each new SDP is added to the
+database. At some point in the near future, it is likely that SDPs will be determined
+for all 26 BXD strains at marker loci distributed across the genome at a <I>maximum</I>
+interlocus distance of 5 cM. At this point, every new test locus of
+interest will have to lie within 2.5 cM of a previously-typed marker locus, and thus,
+by simply typing the 26 BXD strains, one will be able to determine a map position
 with essentially 100% probability.
 
-<P>Until the scenario just described is reached, it is best to maximize one's chances 
-of demonstrating linkage by generating an SDP for the test locus over the maximal 
-number of RI strains possible. Once data have been obtained and entered into a 
-computer database, the first attempt to demonstrate linkage should be pursued at 
-the highest stringency possible [equivalent to a Bayesian probability level of 99% in the 
-<A HREF="../references.shtml#Manly1" TARGET="_top">Manly (1993)</A> Map Manager program]. This will minimize the chance of 
-picking up false linkages; if a positive result is obtained from such an analysis, one 
-can <I>confidently</I> move on to the next task of determining a map position for the 
-locus relative to the linked marker loci, as described in the next subsection. 
-However, if this analysis fails to detect linkage, the stringency can be reduced further 
-by small levels of significance in subsequent runs. A positive result obtained at a 
-lower level of significance should be considered tentative and must be confirmed 
-(or rejected) by incorporating more RI strains into the pairwise comparison between 
-the test locus and the putatively linked marker locus, or through an independent 
-approach such as somatic cell hybrid analysis 
-(<a href="10-2.shtml#10.2.3">Section 10.2.3</a>), <I>in situ</I> hybridization 
-(<A HREF="10-2.shtml#10.2.2">10.2.2</A>), or a backcross or intercross mapping panel (Sections 
-<A HREF="9-3.shtml">9.3</A> and 
-<A HREF="9-4.shtml">9.4</A>). 
-Independent confirmation of just the chromosomal assignment alone, for example, 
-can serve to increase dramatically the significance level for an RI-based 
-determination of linkage to a particular locus on that chromosome 
-(<A HREF="../references.shtml#Neumann1" TARGET="_top">Neumann, 1990</A>). Furthermore, the failure to detect 
-linkage to many markers distributed over 
-large regions of the genome can provide evidence for the exclusion of the test locus 
-from these other regions. This information, in turn, can be used to increase 
-significance levels in cases where the direct evidence in favor of linkage is somewhat weak 
+<P>Until the scenario just described is reached, it is best to maximize one's chances
+of demonstrating linkage by generating an SDP for the test locus over the maximal
+number of RI strains possible. Once data have been obtained and entered into a
+computer database, the first attempt to demonstrate linkage should be pursued at
+the highest stringency possible [equivalent to a Bayesian probability level of 99% in the
+<A HREF="../references.shtml#Manly1" TARGET="_top">Manly (1993)</A> Map Manager program]. This will minimize the chance of
+picking up false linkages; if a positive result is obtained from such an analysis, one
+can <I>confidently</I> move on to the next task of determining a map position for the
+locus relative to the linked marker loci, as described in the next subsection.
+However, if this analysis fails to detect linkage, the stringency can be reduced further
+by small levels of significance in subsequent runs. A positive result obtained at a
+lower level of significance should be considered tentative and must be confirmed
+(or rejected) by incorporating more RI strains into the pairwise comparison between
+the test locus and the putatively linked marker locus, or through an independent
+approach such as somatic cell hybrid analysis
+(<a href="10-2.shtml#10.2.3">Section 10.2.3</a>), <I>in situ</I> hybridization
+(<A HREF="10-2.shtml#10.2.2">10.2.2</A>), or a backcross or intercross mapping panel (Sections
+<A HREF="9-3.shtml">9.3</A> and
+<A HREF="9-4.shtml">9.4</A>).
+Independent confirmation of just the chromosomal assignment alone, for example,
+can serve to increase dramatically the significance level for an RI-based
+determination of linkage to a particular locus on that chromosome
+(<A HREF="../references.shtml#Neumann1" TARGET="_top">Neumann, 1990</A>). Furthermore, the failure to detect
+linkage to many markers distributed over
+large regions of the genome can provide evidence for the exclusion of the test locus
+from these other regions. This information, in turn, can be used to increase
+significance levels in cases where the direct evidence in favor of linkage is somewhat weak
 (<a href="../references.shtml#Neumann1" TARGET="_top">Neumann, 1990</a>).
 
-<P>In some cases, further evidence for, or against, linkage can also be obtained by 
-comparing the SDP of the test locus to the SDPs associated with the two marker loci 
-that putatively flank it on either side 
-(<a href="../references.shtml#Neumann2" TARGET="_top">Neumann, 1991</a>). If the positioning of the 
-test locus between the flanking loci is correct, one would expect to see mostly single 
-recombination events among the three loci within individual RI strains. If the 
-association of the test locus with this genomic region is false, one would expect to 
-see a substantial number of double recombination events that separate the test locus 
-from both markers. This type of analysis is most easily visualized in the form of a 
-data matrix, discussed just below and illustrated in 
-<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
-It is important to 
-point out, however, that interference does not operate in the formation of RI strain 
-genotypes since the crossover events that produced each patchwork genome 
-occurred over multiple generations. Thus, true double recombination events over 
+<P>In some cases, further evidence for, or against, linkage can also be obtained by
+comparing the SDP of the test locus to the SDPs associated with the two marker loci
+that putatively flank it on either side
+(<a href="../references.shtml#Neumann2" TARGET="_top">Neumann, 1991</a>). If the positioning of the
+test locus between the flanking loci is correct, one would expect to see mostly single
+recombination events among the three loci within individual RI strains. If the
+association of the test locus with this genomic region is false, one would expect to
+see a substantial number of double recombination events that separate the test locus
+from both markers. This type of analysis is most easily visualized in the form of a
+data matrix, discussed just below and illustrated in
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>.
+It is important to
+point out, however, that interference does not operate in the formation of RI strain
+genotypes since the crossover events that produced each patchwork genome
+occurred over multiple generations. Thus, true double recombination events over
 short distances are not strictly forbidden; they are just less likely.
 
 <a name="9.2.3"></a><H3>9.2.3 Using RI strains to determine map order</H3>
 
-<P>Once linkage has been demonstrated among three or more loci, one can move 
-on to the next step of determining their order along the chromosome relative to 
-each other. This can be accomplished computationally with a program like Map Manger 
-(<a href="../references.shtml#Manly1" TARGET="_top">Manly, 1993</a>), but it is also possible to carry out this analysis without a 
-dedicated computer program. The first task is to set up an adjustable 2 x 2 data matrix 
-of the kind illustrated in 
-<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
-This sample data matrix contains a subset of the 
-actual data obtained with Chr 17 loci typed on the 26 RI strains present in the BXD 
-set. Each row represents an independently determined SDP for the locus indicated 
-at the left. Each column represents the complete genotype determined for an 
-individual RI strain over the &#126;32 cM region that encompasses the loci shown. It is 
-customary to order loci in the data matrix with the centromeric end of the 
-chromosome at the top and the telomeric end at the bottom, when this information 
+<P>Once linkage has been demonstrated among three or more loci, one can move
+on to the next step of determining their order along the chromosome relative to
+each other. This can be accomplished computationally with a program like Map Manger
+(<a href="../references.shtml#Manly1" TARGET="_top">Manly, 1993</a>), but it is also possible to carry out this analysis without a
+dedicated computer program. The first task is to set up an adjustable 2 x 2 data matrix
+of the kind illustrated in
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>.
+This sample data matrix contains a subset of the
+actual data obtained with Chr 17 loci typed on the 26 RI strains present in the BXD
+set. Each row represents an independently determined SDP for the locus indicated
+at the left. Each column represents the complete genotype determined for an
+individual RI strain over the &#126;32 cM region that encompasses the loci shown. It is
+customary to order loci in the data matrix with the centromeric end of the
+chromosome at the top and the telomeric end at the bottom, when this information
 is known from other results.
 
-<P>A new data matrix can be initiated for any set of SDPs that have been shown to 
-form a linkage group. It is also possible to expand an established data matrix of 
-marker loci with the inclusion of new test locus SDPs. At the outset, SDPs can be 
-placed into the data matrix according to a first best guess of their genetic order 
-relative to each other. If data are entered into a computer spreadsheet, one should 
-manually shift the order of SDP-containing rows until an arrangement is found that 
-minimizes the total number of recombination events within the whole data set. In 
-addition, instances of triple recombination events over short distances in individual 
-strains should be eliminated if possible. In this manner, it is often possible to arrive 
-at an undisputed order for an extended series of loci as is the case, for example, with 
-the eight loci from 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:894608" TARGET="_top"><I>D17Leh119</I></A> to 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90691" TARGET="_top"><I>D17Leh12</I></A> and the eight loci from 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90696" TARGET="_top"><I>D17Leh173</I></A> to 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90699" TARGET="_top"><I>D17Leh23</I></A> shown in 
-<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
-The computer program Map Manager will carry out 
-this process automatically and will also allow manual adjustment of order when 
+<P>A new data matrix can be initiated for any set of SDPs that have been shown to
+form a linkage group. It is also possible to expand an established data matrix of
+marker loci with the inclusion of new test locus SDPs. At the outset, SDPs can be
+placed into the data matrix according to a first best guess of their genetic order
+relative to each other. If data are entered into a computer spreadsheet, one should
+manually shift the order of SDP-containing rows until an arrangement is found that
+minimizes the total number of recombination events within the whole data set. In
+addition, instances of triple recombination events over short distances in individual
+strains should be eliminated if possible. In this manner, it is often possible to arrive
+at an undisputed order for an extended series of loci as is the case, for example, with
+the eight loci from
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:894608" TARGET="_top"><I>D17Leh119</I></A> to
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90691" TARGET="_top"><I>D17Leh12</I></A> and the eight loci from
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90696" TARGET="_top"><I>D17Leh173</I></A> to
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90699" TARGET="_top"><I>D17Leh23</I></A> shown in
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>.
+The computer program Map Manager will carry out
+this process automatically and will also allow manual adjustment of order when
 this is desired.
 
-<P>There will sometimes be cases where two or more different orders appear equally 
-likely. For example, in 
-<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>, 
-one could remove the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95742" TARGET="_top"><I>Glo1</I></A> and 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97584" TARGET="_top"><I>Pim1</I></A> loci from 
-the position shown and place them instead between 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95914" TARGET="_top"><I>H2M2</I></A> and 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90696" TARGET="_top"><I>D17Leh173</I></A>. Both 
-placements require an unsightly triple crossover: in the position shown in the 
-<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure</A>, 
-this occurs in strain BXD-12; in the new genetic position, this would occur in 
-BXD-27. Both placements also require an equal number of recombination events so 
-it is not possible to choose one order over the other based on the BXD data alone. In 
-this case, other mapping data have been used to confirm the map order shown in the 
+<P>There will sometimes be cases where two or more different orders appear equally
+likely. For example, in
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>,
+one could remove the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95742" TARGET="_top"><I>Glo1</I></A> and
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97584" TARGET="_top"><I>Pim1</I></A> loci from
+the position shown and place them instead between
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95914" TARGET="_top"><I>H2M2</I></A> and
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90696" TARGET="_top"><I>D17Leh173</I></A>. Both
+placements require an unsightly triple crossover: in the position shown in the
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure</A>,
+this occurs in strain BXD-12; in the new genetic position, this would occur in
+BXD-27. Both placements also require an equal number of recombination events so
+it is not possible to choose one order over the other based on the BXD data alone. In
+this case, other mapping data have been used to confirm the map order shown in the
 <a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure</A>.
 
-<P>In general, determining map order with accuracy is increasingly more difficult 
-with linked SDPs that are increasingly more discordant relative to each other. 
-Increased discordance is indicative of increased interlocus distances, which make it 
-more likely that multiple recombination events will have occurred along 
-individual chromosomes; these will complicate the analysis. However, as is the case with 
-all aspects of RI analysis, the more strains that are typed, the more accurate order 
-determinations can become. For example, if SDP data obtained from the AKXL RI 
-set had been considered in conjunction with BXD data, they would have provided 
-unambiguous evidence in favor of the correct placement of 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95742" TARGET="_top"><I>Glo1</I></A> and 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97584" TARGET="_top"><I>Pim1</I></A> proximal to 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88515" TARGET="_top"><I>Crya1</I></A>, as shown in 
+<P>In general, determining map order with accuracy is increasingly more difficult
+with linked SDPs that are increasingly more discordant relative to each other.
+Increased discordance is indicative of increased interlocus distances, which make it
+more likely that multiple recombination events will have occurred along
+individual chromosomes; these will complicate the analysis. However, as is the case with
+all aspects of RI analysis, the more strains that are typed, the more accurate order
+determinations can become. For example, if SDP data obtained from the AKXL RI
+set had been considered in conjunction with BXD data, they would have provided
+unambiguous evidence in favor of the correct placement of
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95742" TARGET="_top"><I>Glo1</I></A> and
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97584" TARGET="_top"><I>Pim1</I></A> proximal to
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:88515" TARGET="_top"><I>Crya1</I></A>, as shown in
 <a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>.
 
-<P>With the accumulation of large numbers of RI SDPs and a comprehensive two 
-by two analysis for linkage, it becomes possible to build linkage maps that span 
-many loci distributed over large chromosomal regions as illustrated in 
-<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
-By looking down any column, one can clearly see the genomic patches that derive from 
-each of the two progenitor strains. At one extreme, four strains &#151; BXD-2, BXD-12, 
-BXD-18 and BXD-25 &#151; appear to have fixed three separate crossover sites in their 
-genomes leading to the presence of four alternating B6 and DBA genomic patches. 
-At the other extreme, 12 strains &#151; including BXD-1, BXD-8, and ten others &#151; appear 
-to have inherited this chromosomal region intact, without recombination, from 
+<P>With the accumulation of large numbers of RI SDPs and a comprehensive two
+by two analysis for linkage, it becomes possible to build linkage maps that span
+many loci distributed over large chromosomal regions as illustrated in
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>.
+By looking down any column, one can clearly see the genomic patches that derive from
+each of the two progenitor strains. At one extreme, four strains &#151; BXD-2, BXD-12,
+BXD-18 and BXD-25 &#151; appear to have fixed three separate crossover sites in their
+genomes leading to the presence of four alternating B6 and DBA genomic patches.
+At the other extreme, 12 strains &#151; including BXD-1, BXD-8, and ten others &#151; appear
+to have inherited this chromosomal region intact, without recombination, from
 either the B6 or DBA progenitor.
-<A HREF="notes.shtml#84" TARGET="_top"><SUP>84</SUP></A> 
-The remaining ten strains have fixed either one 
+<A HREF="notes.shtml#84" TARGET="_top"><SUP>84</SUP></A>
+The remaining ten strains have fixed either one
 or two crossover sites leading to two or three genomic patches respectively.
- 
-<P>Through the visualization of RI data in this way, one can pick up suspicious 
-results that may be due to experimental error. For example, the presence of a B6 
-allele at the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98909" TARGET="_top">Upg-1</A> 
-locus in BXD-22 requires a double crossover that encompasses 
-only this locus and no others. One would be advised to go back and retype this 
+
+<P>Through the visualization of RI data in this way, one can pick up suspicious
+results that may be due to experimental error. For example, the presence of a B6
+allele at the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98909" TARGET="_top">Upg-1</A>
+locus in BXD-22 requires a double crossover that encompasses
+only this locus and no others. One would be advised to go back and retype this
 locus on a new sample from this RI strain.
 
-<P>By looking horizontally across the data matrix and comparing pairs of SDPs, one 
-can visualize the degree of concordance that exists between nearby loci. At three 
-separate junctures &#151; 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90691" TARGET="_top"><I>D17Leh12</I></A>/
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95742" TARGET="_top"><I>Glo-1</I></A>, 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98815" TARGET="_top"><I>Tpx-1</I></A>/
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96325" TARGET="_top"><I>Iapls1-3</I></A>, and 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88409" TARGET="_top"><I>Ckb-rs2</I></A>/
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96218" TARGET="_top"><I>Hprt-rs1</I></A>, 
-the BXD RI data alone are not sufficient to demonstrate linkage according to the limits shown in 
-<a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A>; 
-in all these cases, data from other mapping experiments 
-provided evidence of linkage between two or more loci present on opposite sides of 
-these junctures. There are also numerous examples of loci that have the same SDP; 
-as described in the 
-<A HREF="9-2.shtml#9.2.4">next section</A>, loci with shared SDPs across only 26 typed strains 
-can actually be quite distant from each other in terms of map distance (see 
+<P>By looking horizontally across the data matrix and comparing pairs of SDPs, one
+can visualize the degree of concordance that exists between nearby loci. At three
+separate junctures &#151;
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90691" TARGET="_top"><I>D17Leh12</I></A>/
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95742" TARGET="_top"><I>Glo-1</I></A>,
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98815" TARGET="_top"><I>Tpx-1</I></A>/
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96325" TARGET="_top"><I>Iapls1-3</I></A>, and
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:88409" TARGET="_top"><I>Ckb-rs2</I></A>/
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96218" TARGET="_top"><I>Hprt-rs1</I></A>,
+the BXD RI data alone are not sufficient to demonstrate linkage according to the limits shown in
+<a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A>;
+in all these cases, data from other mapping experiments
+provided evidence of linkage between two or more loci present on opposite sides of
+these junctures. There are also numerous examples of loci that have the same SDP;
+as described in the
+<A HREF="9-2.shtml#9.2.4">next section</A>, loci with shared SDPs across only 26 typed strains
+can actually be quite distant from each other in terms of map distance (see
 <a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">Figure 9.8</A>).
 
-<P>The data matrix for this portion of Chr 17 also illustrates how the power of the RI 
-approach to linkage determination increases with the number of loci that are typed. 
-For example, the SDPs for 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:894608" TARGET="_top"><I>D17Leh119</I></A> and 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96018" TARGET="_top"><I>Hba-ps4</I></A> are distinguished by four 
-discordant strains (BXD-2, BXD-18, BXD-21, and BXD-25). Thus, according to 
-<a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A>, 
-these data alone do not provide sufficient evidence for linkage between these 
-two loci at the 95% significance level. However, when the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97620" TARGET="_top"><I>Plg</I></A> 
-SDP was added to the database, it provided the required evidence for linkage of 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:894608" TARGET="_top"><I>D17Leh119</I></A> to 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96018" TARGET="_top"><I>Hba-ps4</I></A> 
+<P>The data matrix for this portion of Chr 17 also illustrates how the power of the RI
+approach to linkage determination increases with the number of loci that are typed.
+For example, the SDPs for
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:894608" TARGET="_top"><I>D17Leh119</I></A> and
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96018" TARGET="_top"><I>Hba-ps4</I></A> are distinguished by four
+discordant strains (BXD-2, BXD-18, BXD-21, and BXD-25). Thus, according to
+<a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A>,
+these data alone do not provide sufficient evidence for linkage between these
+two loci at the 95% significance level. However, when the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97620" TARGET="_top"><I>Plg</I></A>
+SDP was added to the database, it provided the required evidence for linkage of
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:894608" TARGET="_top"><I>D17Leh119</I></A> to
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96018" TARGET="_top"><I>Hba-ps4</I></A>
 through their common linkage &#151; with 99% significance &#151; to the newly typed locus.
 
 <a name="9.2.4"></a><H3>9.2.4 Using RI strains to determine map distances</H3>
 
 <a name="9.2.4.1"></a><H3><I>9.2.4.1 From discordance to linkage distance</I></H3>
 
-<P>As alluded to earlier in this section, when two loci are known to be linked, the 
-level of discordance that is observed between their SDPs can be equated with a mean 
-estimate of the distance that separates them. In fact, this distance estimate can be 
-made even in those cases where the RI data alone are not sufficient to provide 
-evidence for linkage. Thus, RI data are useful for estimating recombination 
-distances between loci that have been linked by non-breeding methods such as 
-physical mapping or cytogenetic analyses. However, it is not sufficient to simply 
-determine the fraction of strains that show discordance and use this directly as an 
-estimate of the recombination fraction. The problem is that during the generation 
-of each RI strain, an average chromosomal region will have multiple opportunities 
-to recombine as it passes through several generations in a heterozygous state (see 
+<P>As alluded to earlier in this section, when two loci are known to be linked, the
+level of discordance that is observed between their SDPs can be equated with a mean
+estimate of the distance that separates them. In fact, this distance estimate can be
+made even in those cases where the RI data alone are not sufficient to provide
+evidence for linkage. Thus, RI data are useful for estimating recombination
+distances between loci that have been linked by non-breeding methods such as
+physical mapping or cytogenetic analyses. However, it is not sufficient to simply
+determine the fraction of strains that show discordance and use this directly as an
+estimate of the recombination fraction. The problem is that during the generation
+of each RI strain, an average chromosomal region will have multiple opportunities
+to recombine as it passes through several generations in a heterozygous state (see
 <a href="javascript:windowf94 = window.open('../figures/figure9-4.shtml', 'windowf94', 'width=720,height=600,resizable=yes,scrollbars=yes'); windowf94.focus()">Figure 9.4</A>).
 
-<P>Interestingly, long before the conceptualization of RI strains, 
-<A HREF="../references.shtml#Haldane4" TARGET="_top">Haldane and Waddington (1931)</A> 
-derived a mathematical solution to this problem in the context 
-of determining the probability with which a recombinant genotype would become 
-fixed after successive generations of inbreeding. This solution was formulated in the 
-following equation where <I>r</I> is the probability of recombination in any one gamete 
+<P>Interestingly, long before the conceptualization of RI strains,
+<A HREF="../references.shtml#Haldane4" TARGET="_top">Haldane and Waddington (1931)</A>
+derived a mathematical solution to this problem in the context
+of determining the probability with which a recombinant genotype would become
+fixed after successive generations of inbreeding. This solution was formulated in the
+following equation where <I>r</I> is the probability of recombination in any one gamete
 and <I>R</I> is the fraction of RI strains that are predicted to be discordant:<BR><BR>
 
 <A NAME="equation9.7"></A>(Equation 9.7)<BR><BR>
 
 <IMG SRC="../images/9-7.jpg" WIDTH="151" HEIGHT="72"><BR><BR>
 
-<P>Equation 9.7 illustrates two points. First, the expected fraction of discordant 
-strains is dependent on only a single variable &#151; the probability of recombination 
-between the two loci under analysis. In turn, since interference in any one 
-generation is nearly 100% over the distances analyzed by RI analysis (see 
-<a href="7-2.shtml">Section 7.2</a>), 
-the probability of recombination can be converted directly into a 
-<A HREF="../glossary.shtml#centimorgan" TARGET="_top">centimorgan</A> 
-linkage distance (<I>d</I>) with an <I>r</I> value of 0.01 defined as equivalent to one 
+<P>Equation 9.7 illustrates two points. First, the expected fraction of discordant
+strains is dependent on only a single variable &#151; the probability of recombination
+between the two loci under analysis. In turn, since interference in any one
+generation is nearly 100% over the distances analyzed by RI analysis (see
+<a href="7-2.shtml">Section 7.2</a>),
+the probability of recombination can be converted directly into a
+<A HREF="../glossary.shtml#centimorgan" TARGET="_top">centimorgan</A>
+linkage distance (<I>d</I>) with an <I>r</I> value of 0.01 defined as equivalent to one
 centimorgan. Thus:<BR><BR>
 
 <A NAME="equation9.8"></A>(Equation 9.8)<BR><BR>
 
 <IMG SRC="../images/9-8.jpg" WIDTH="98" HEIGHT="38"><BR><BR>
 
-Second, for values of <I>r</I> that are smaller than 0.01, 
-<A HREF="#equation9.7">Equation 9.7</A> can be 
-approximated by the simpler <I>R</I> &#126;&#061; 4<I>r</I>. 
-Thus, a 1 cM distance becomes amplified into a predicted discordance frequency of &#062;4%. As 
-<A HREF="../references.shtml#Taylor1" TARGET="_top">Taylor (1978)</A> pointed out, this 
-four-fold amplification can be interpreted to mean that during RI strain 
-development, a locus will be transmitted, on average, through four heterozygous 
-animals (with four chances for a recombination event in its vicinity) before it is 
+Second, for values of <I>r</I> that are smaller than 0.01,
+<A HREF="#equation9.7">Equation 9.7</A> can be
+approximated by the simpler <I>R</I> &#126;&#061; 4<I>r</I>.
+Thus, a 1 cM distance becomes amplified into a predicted discordance frequency of &#062;4%. As
+<A HREF="../references.shtml#Taylor1" TARGET="_top">Taylor (1978)</A> pointed out, this
+four-fold amplification can be interpreted to mean that during RI strain
+development, a locus will be transmitted, on average, through four heterozygous
+animals (with four chances for a recombination event in its vicinity) before it is
 fixed to homozygosity.
 
-<P>The amplification of the linkage map serves to enhance the usefulness of the RI 
-approach in the analysis of closely linked loci. For example, in a group of 100 RI 
-strains, recombination sites will be distributed at average distances of 0.25 cM, which 
-is four times more highly resolving than that possible with an equivalent number 
-of backcross animals. However, this same amplification has the negative 
-consequence of limiting the usefulness of the RI approach in studying loci that are 
-more distantly linked to each other. For example, at a distance of 25 cM (<I>r</I>&#126;&#061; 0.25), the 
-predicted discordance level for RI strains would be 40% (<I>R</I> &#061; 0.4), a value which is 
-perilously close to the 50% expected with unlinked loci. As a consequence, the per 
-locus swept radius obtained with RI strains will be much less than that obtainable 
+<P>The amplification of the linkage map serves to enhance the usefulness of the RI
+approach in the analysis of closely linked loci. For example, in a group of 100 RI
+strains, recombination sites will be distributed at average distances of 0.25 cM, which
+is four times more highly resolving than that possible with an equivalent number
+of backcross animals. However, this same amplification has the negative
+consequence of limiting the usefulness of the RI approach in studying loci that are
+more distantly linked to each other. For example, at a distance of 25 cM (<I>r</I>&#126;&#061; 0.25), the
+predicted discordance level for RI strains would be 40% (<I>R</I> &#061; 0.4), a value which is
+perilously close to the 50% expected with unlinked loci. As a consequence, the per
+locus swept radius obtained with RI strains will be much less than that obtainable
 with an equal number of backcross offspring.
 
-<P>In most cases of RI analysis, an investigator wants to go from a discordance 
-fraction to an estimate of linkage distance. The experimentally determined 
-discordance fraction 
-<I><a href="javascript:windowm7 = window.open('../figures/rhat.shtml', 'windowm7', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm7.focus()">R-hat</A></I> 
-&#061; <I>i/N</I>provides an estimate of the <I>true</I> value 
-<I>R</I>, which is based on the 
-<I>actual</I> probability of recombination <I>r</I>. By substituting 
-<I><a href="javascript:windowm7 = window.open('../figures/rhat.shtml', 'windowm7', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm7.focus()">R-hat</A></I> 
-for <I>R</I> in 
-<A HREF="#equation9.7">Equation 9.7</A>, one can 
-obtain a corresponding recombination fraction estimate 
-<I><a href="javascript:windowm8 = window.open('../figures/smallrhat.shtml', 'windowm8', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm8.focus()">small r-hat</A></I>. 
-This can be accomplished more easily if 
-<A HREF="#equation9.7">Equation 9.7</A> is inverted to yield <I>r</I> as a function of <I>R</I> or, through direct 
-substitution, 
-<I><a href="javascript:windowm8 = window.open('../figures/smallrhat.shtml', 'windowm8', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm8.focus()">small r-hat</A></I> 
-as a function of 
+<P>In most cases of RI analysis, an investigator wants to go from a discordance
+fraction to an estimate of linkage distance. The experimentally determined
+discordance fraction
+<I><a href="javascript:windowm7 = window.open('../figures/rhat.shtml', 'windowm7', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm7.focus()">R-hat</A></I>
+&#061; <I>i/N</I>provides an estimate of the <I>true</I> value
+<I>R</I>, which is based on the
+<I>actual</I> probability of recombination <I>r</I>. By substituting
+<I><a href="javascript:windowm7 = window.open('../figures/rhat.shtml', 'windowm7', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm7.focus()">R-hat</A></I>
+for <I>R</I> in
+<A HREF="#equation9.7">Equation 9.7</A>, one can
+obtain a corresponding recombination fraction estimate
+<I><a href="javascript:windowm8 = window.open('../figures/smallrhat.shtml', 'windowm8', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm8.focus()">small r-hat</A></I>.
+This can be accomplished more easily if
+<A HREF="#equation9.7">Equation 9.7</A> is inverted to yield <I>r</I> as a function of <I>R</I> or, through direct
+substitution,
+<I><a href="javascript:windowm8 = window.open('../figures/smallrhat.shtml', 'windowm8', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm8.focus()">small r-hat</A></I>
+as a function of
 <I><a href="javascript:windowm7 = window.open('../figures/rhat.shtml', 'windowm7', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm7.focus()">R-hat</A></I>:<BR><BR>
 
 <A NAME="equation9.9"></A>(Equation 9.9)<BR><BR>
 
 <IMG SRC="../images/9-9.jpg" WIDTH="154" HEIGHT="81"><BR><BR>
 
-Another useful formulation of this same equation allows one to obtain the 
-estimated recombination fraction as a function of the sample size, <I>N</I>, and the 
+Another useful formulation of this same equation allows one to obtain the
+estimated recombination fraction as a function of the sample size, <I>N</I>, and the
 number of discordant strains, <I>i</I>:<BR><BR>
 
 <A NAME="equation9.10"></A>(Equation 9.10)<BR><BR>
@@ -604,44 +604,44 @@ number of discordant strains, <I>i</I>:<BR><BR>
 <IMG SRC="../images/9-10.jpg" WIDTH="142" HEIGHT="68"><BR><BR>
 
 Finally, a corresponding linkage distance estimate in centimorgans (
-<I><a href="javascript:windowm9 = window.open('../figures/dhat.shtml', 'windowm9', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm9.focus()">d-hat</A></I>) 
-can be derived by multiplying the 
-<I><a href="javascript:windowm8 = window.open('../figures/smallrhat.shtml', 'windowm8', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm8.focus()">small r-hat</A></I> 
-value obtained in 
+<I><a href="javascript:windowm9 = window.open('../figures/dhat.shtml', 'windowm9', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm9.focus()">d-hat</A></I>)
+can be derived by multiplying the
+<I><a href="javascript:windowm8 = window.open('../figures/smallrhat.shtml', 'windowm8', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm8.focus()">small r-hat</A></I>
+value obtained in
 <A HREF="#equation9.10">Equation 9.10</A> by 100.
 
-<P>The graph in 
-<a href="javascript:windowf97 = window.open('../figures/figure9.7.shtml', 'windowf97', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf97.focus()">Figure 9.7</A> 
-provides a rapid means for determining a linkage 
-distance estimate from values for <I>i</I> and <I>N</I> that are commonly obtained in RI 
-analyses. Just place a ruler over the graph so that it crosses the experimental value 
-for <I>N</I> along the top and bottom axes, then observe the point at which the ruler 
-crosses the curve associated with the experimentally-determined value for <I>i</I>. From 
+<P>The graph in
+<a href="javascript:windowf97 = window.open('../figures/figure9.7.shtml', 'windowf97', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf97.focus()">Figure 9.7</A>
+provides a rapid means for determining a linkage
+distance estimate from values for <I>i</I> and <I>N</I> that are commonly obtained in RI
+analyses. Just place a ruler over the graph so that it crosses the experimental value
+for <I>N</I> along the top and bottom axes, then observe the point at which the ruler
+crosses the curve associated with the experimentally-determined value for <I>i</I>. From
 this point, look across to the Y axis to read off the linkage distance in centimorgans.
 
 <a name="9.2.4.2"></a><H3><I>9.2.4.2 How accurate is the linkage distance estimate?</I></H3>
 
-<P>Once a value for linkage distance has been obtained from RI data, the next 
-question an investigator will ask is: how accurate is this value? The answer to this 
-question will be critical to investigators who want to use RI data to evaluate possible 
-relationships between the cloned gene they have just mapped and other previously 
-mapped loci that are defined strictly in terms of a mutant phenotype. (A detailed 
-discussion of the general strategy used to evaluate such relationships has been left to 
-<a href="9-3.shtml#9.3.4">Section 9.3.4</a> and is illustrated in 
+<P>Once a value for linkage distance has been obtained from RI data, the next
+question an investigator will ask is: how accurate is this value? The answer to this
+question will be critical to investigators who want to use RI data to evaluate possible
+relationships between the cloned gene they have just mapped and other previously
+mapped loci that are defined strictly in terms of a mutant phenotype. (A detailed
+discussion of the general strategy used to evaluate such relationships has been left to
+<a href="9-3.shtml#9.3.4">Section 9.3.4</a> and is illustrated in
 <a href="javascript:windowf910 = window.open('../figures/figure9.10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>.)
 
-<P>The accuracy of an experimentally determined value such as linkage distance can 
-be quantitated in terms of a &#034;confidence interval&#034; which is defined by lower and 
-upper boundaries &#151; called confidence limits. To calculate a confidence interval from 
-a body of data, one must first choose the &#034;confidence coefficient&#034;, or level of 
-confidence, that one wishes to attain. The confidence coefficient represents the 
-probability with which the associated interval is likely to contain the value of the 
-true recombination fraction or linkage distance. Each confidence coefficient will 
+<P>The accuracy of an experimentally determined value such as linkage distance can
+be quantitated in terms of a &#034;confidence interval&#034; which is defined by lower and
+upper boundaries &#151; called confidence limits. To calculate a confidence interval from
+a body of data, one must first choose the &#034;confidence coefficient&#034;, or level of
+confidence, that one wishes to attain. The confidence coefficient represents the
+probability with which the associated interval is likely to contain the value of the
+true recombination fraction or linkage distance. Each confidence coefficient will
 produce a different confidence interval.
 
-<P>In general, two particular confidence coefficients are used most often for the 
-evaluation of data obtained from sampling experiments aimed at estimating an 
-absolute <I>real</I> value (like linkage distance). The first is based on the standard error of 
+<P>In general, two particular confidence coefficients are used most often for the
+evaluation of data obtained from sampling experiments aimed at estimating an
+absolute <I>real</I> value (like linkage distance). The first is based on the standard error of
 the mean:<BR><BR>
 
 <IMG SRC="../images/ssubxbar.jpg"><BR><BR>
@@ -658,145 +658,145 @@ and the upper limit is set at:<BR><BR>
 
 <IMG SRC="../images/xbarplus.jpg"><BR><BR>
 
-the corresponding confidence coefficient is always equal to 68%. It is standard practice to display 
+the corresponding confidence coefficient is always equal to 68%. It is standard practice to display
 this confidence interval within a single term:<BR><BR>
 
 <IMG SRC="../images/xbarplusminus.jpg"><BR><BR>
 
-Twice as often as not, the 68% confidence interval will contain the true value being 
-estimated; this interval provides an investigator with an overall sense of the 
+Twice as often as not, the 68% confidence interval will contain the true value being
+estimated; this interval provides an investigator with an overall sense of the
 accuracy of the mean estimate predicted from experimental data.
 
-<P>As discussed at length in 
-<A HREF="d.shtml">Appendix D</A> and by other authors 
-(<a href="../references.shtml#Silver1" TARGET="_top">Silver, 1985</a>), data 
-obtained from linkage studies based on small sample sizes and low levels of 
-discordance are not well approximated by &#034;normal&#034; probability distributions (see Figures 
-<a href="javascript:windowfd1 = window.open('../figures/figureD1.shtml', 'windowfd1', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowfd1.focus()">D1</A> and 
-<a href="javascript:windowfd2 = window.open('../figures/figureD2.shtml', 'windowfd2', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowfd2.focus()">D2</A>). 
-Unfortunately, the standard deviation does not provide an 
-accurate measure of lower and upper confidence limits in the context of non-normal probability distributions 
-(<A HREF="../references.shtml#Moore1" TARGET="_top">Moore and McCabe, 1989</A>, p.41). In its place, I 
-have used more appropriate estimates for lower and upper confidence limits 
+<P>As discussed at length in
+<A HREF="d.shtml">Appendix D</A> and by other authors
+(<a href="../references.shtml#Silver1" TARGET="_top">Silver, 1985</a>), data
+obtained from linkage studies based on small sample sizes and low levels of
+discordance are not well approximated by &#034;normal&#034; probability distributions (see Figures
+<a href="javascript:windowfd1 = window.open('../figures/figureD1.shtml', 'windowfd1', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowfd1.focus()">D1</A> and
+<a href="javascript:windowfd2 = window.open('../figures/figureD2.shtml', 'windowfd2', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowfd2.focus()">D2</A>).
+Unfortunately, the standard deviation does not provide an
+accurate measure of lower and upper confidence limits in the context of non-normal probability distributions
+(<A HREF="../references.shtml#Moore1" TARGET="_top">Moore and McCabe, 1989</A>, p.41). In its place, I
+have used more appropriate estimates for lower and upper confidence limits
 associated with an actual 68% confidence interval.
 
-<P>The second confidence interval of critical importance for interpreting 
-experimental data is one that encompasses the range of values likely to contain the 
-<I>actual</I> recombination fraction with a probability of 95%. The more stringent 95% 
-confidence interval is used often to define the generally accepted limits 
-<I>beyond which</I> the actual value of <I>r</I> is unlikely to lie. A discussion of the statistical approach 
-used to determine confidence limits for both RI strain and backcross data is presented in 
-<A HREF="d.shtml">Appendix D</A> along with tables of minimum and maximum values for 
-68% and 95% intervals. By interpolating between the numbers presented in either 
-<a href="javascript:windowtd1 = window.open('../tables/tableD1.shtml', 'windowtd1', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd1.focus()">Table D1</A> or 
-<a href="javascript:windowtd2 = window.open('../tables/tableD2.shtml', 'windowtd2', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">Table D2</A>, 
-one can derive confidence limits for pairs of <I>i</I> and <I>N</I> values 
+<P>The second confidence interval of critical importance for interpreting
+experimental data is one that encompasses the range of values likely to contain the
+<I>actual</I> recombination fraction with a probability of 95%. The more stringent 95%
+confidence interval is used often to define the generally accepted limits
+<I>beyond which</I> the actual value of <I>r</I> is unlikely to lie. A discussion of the statistical approach
+used to determine confidence limits for both RI strain and backcross data is presented in
+<A HREF="d.shtml">Appendix D</A> along with tables of minimum and maximum values for
+68% and 95% intervals. By interpolating between the numbers presented in either
+<a href="javascript:windowtd1 = window.open('../tables/tableD1.shtml', 'windowtd1', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd1.focus()">Table D1</A> or
+<a href="javascript:windowtd2 = window.open('../tables/tableD2.shtml', 'windowtd2', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">Table D2</A>,
+one can derive confidence limits for pairs of <I>i</I> and <I>N</I> values
 generated in an analysis of 20-100 RI strains.
 
 <a name="9.2.4.3"></a><H3><I>9.2.4.3 What is the meaning of 100% concordance?</I></H3>
 
-<P>One special case of RI strain results deserves particular attention &#151; when 
-complete concordance is observed between the SDP patterns obtained for two 
-different loci. In this special case, the Haldane-Waddington formulation (Equations 
-<A HREF="#equation9.8">9.8</A> and 
-<A HREF="#equation9.9">9.9</A>) leads to a linkage distance estimate of 0 cM. However, if 
-the two loci under analysis were independently-derived and known not to be 
-identical, an estimate of zero distance clearly makes no sense. Based on intuitive 
-grounds alone, one would expect there to be a strong likelihood that the two loci are 
-actually separated from each other by a significant distance, especially when the total 
+<P>One special case of RI strain results deserves particular attention &#151; when
+complete concordance is observed between the SDP patterns obtained for two
+different loci. In this special case, the Haldane-Waddington formulation (Equations
+<A HREF="#equation9.8">9.8</A> and
+<A HREF="#equation9.9">9.9</A>) leads to a linkage distance estimate of 0 cM. However, if
+the two loci under analysis were independently-derived and known not to be
+identical, an estimate of zero distance clearly makes no sense. Based on intuitive
+grounds alone, one would expect there to be a strong likelihood that the two loci are
+actually separated from each other by a significant distance, especially when the total
 number of RI strains typed is small.
 
-<P>An accurate estimate of the median expected recombination fraction 
-<I><a href="javascript:windowm10 = window.open('../figures/rbar.shtml', 'windowm10', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm10.focus()">r-bar</A></I> 
+<P>An accurate estimate of the median expected recombination fraction
+<I><a href="javascript:windowm10 = window.open('../figures/rbar.shtml', 'windowm10', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm10.focus()">r-bar</A></I>
 (leading directly to an estimate of the median expected linkage distance
-<I><a href="javascript:windowm3 = window.open('../figures/dbar.shtml', 'windowm3', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm3.focus()">d-bar</A></I>) 
-that separates two completely concordant loci can be obtained by determining the midline of 
-the area under the associated probability density function as discussed in 
-<A HREF="d.shtml">Appendix D</A> and illustrated in 
-<a href="javascript:windowfd1 = window.open('../figures/figureD1.shtml', 'windowfd1', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowfd1.focus()">Figure D1</A>. 
-The results of this calculation for the range of 15 to 100 RI strains are presented graphically in 
-<a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">Figure 9.8</A> 
-along with upper limits for 68% and 95% confidence intervals. 
+<I><a href="javascript:windowm3 = window.open('../figures/dbar.shtml', 'windowm3', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm3.focus()">d-bar</A></I>)
+that separates two completely concordant loci can be obtained by determining the midline of
+the area under the associated probability density function as discussed in
+<A HREF="d.shtml">Appendix D</A> and illustrated in
+<a href="javascript:windowfd1 = window.open('../figures/figureD1.shtml', 'windowfd1', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowfd1.focus()">Figure D1</A>.
+The results of this calculation for the range of 15 to 100 RI strains are presented graphically in
+<a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">Figure 9.8</A>
+along with upper limits for 68% and 95% confidence intervals.
 
-<P>As an example, consider the implications of these statistical formulations in the 
-case of complete concordance between two SDP patterns for the set of 26 BXD RI 
-strains. The median estimate of linkage distance between two concordant loci is 0.66 
-cM (or 1.3 megabases based on a conversion of 1 cM to 2.0 mb). The 68% 
-confidence interval extends from 0.2 cM to 1.76 cM (or 400 kb to 3.5 megabases), and 
-the 95% confidence interval extends from 0.02 cM to 3.95 cM (or 40 kb to 7.9 
-mb from the computer program presented in 
-<A HREF="d.shtml">Appendix D</A>). These numbers 
-confirm the intuitive suspicion that two concordant loci typed in only a small 
+<P>As an example, consider the implications of these statistical formulations in the
+case of complete concordance between two SDP patterns for the set of 26 BXD RI
+strains. The median estimate of linkage distance between two concordant loci is 0.66
+cM (or 1.3 megabases based on a conversion of 1 cM to 2.0 mb). The 68%
+confidence interval extends from 0.2 cM to 1.76 cM (or 400 kb to 3.5 megabases), and
+the 95% confidence interval extends from 0.02 cM to 3.95 cM (or 40 kb to 7.9
+mb from the computer program presented in
+<A HREF="d.shtml">Appendix D</A>). These numbers
+confirm the intuitive suspicion that two concordant loci typed in only a small
 sample set probably do <I>not</I> map on top of each other.
 
-<P>Although a small group of RI strains is not sufficient to demonstrate close 
-linkage, this conclusion does become more appropriate as the number of concordant 
-RI strains increases. With 100 completely concordant strains, the median estimate 
-of linkage distance is reduced to 0.17 cM or 340 kb, the maximum limit on the 66% 
-interval is reduced to 0.45 cM or 900 kb, and the maximum confidence limit for the 
-95% interval becomes 0.95 cM or 1.9 mb. 
+<P>Although a small group of RI strains is not sufficient to demonstrate close
+linkage, this conclusion does become more appropriate as the number of concordant
+RI strains increases. With 100 completely concordant strains, the median estimate
+of linkage distance is reduced to 0.17 cM or 340 kb, the maximum limit on the 66%
+interval is reduced to 0.45 cM or 900 kb, and the maximum confidence limit for the
+95% interval becomes 0.95 cM or 1.9 mb.
 
 <a name="9.2.4.4"></a><H3><I>9.2.4.4 A comparison of RI and backcross predictions of linkage</I></H3>
 
-<P>One can gain a better perspective on the accuracy of RI-determined linkage 
-distance estimates by comparing a map obtained with the BXD set of 26 strains to a 
-more accurate map obtained with a set of 374 backcross animals for the same eleven 
-loci distributed over a span of 19-31 cM as shown in 
-<a href="javascript:windowf99 = window.open('../figures/figure9.9.shtml', 'windowf99', 'width=320,height=550,resizable=yes,scrollbars=yes'); windowf99.focus()">Figure 9.9</A>. 
-There are five instances here in which a single RI discordance has occurred to yield an interlocus 
+<P>One can gain a better perspective on the accuracy of RI-determined linkage
+distance estimates by comparing a map obtained with the BXD set of 26 strains to a
+more accurate map obtained with a set of 374 backcross animals for the same eleven
+loci distributed over a span of 19-31 cM as shown in
+<a href="javascript:windowf99 = window.open('../figures/figure9.9.shtml', 'windowf99', 'width=320,height=550,resizable=yes,scrollbars=yes'); windowf99.focus()">Figure 9.9</A>.
+There are five instances here in which a single RI discordance has occurred to yield an interlocus
 linkage distance estimate of 1.0 cM:
 <UL>
-<LI><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97620" TARGET="_top">Plg</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90947" TARGET="_top">D17Pri1</A> 
-<LI><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90947" TARGET="_top">D17Pri1</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96018" TARGET="_top">Hba-ps4</A> 
-<LI><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97584" TARGET="_top">Pim1</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88515" TARGET="_top">Crya1</A> 
-<LI><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88515" TARGET="_top">Crya1</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95914" TARGET="_top">H2M2</A> 
-<LI><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98640" TARGET="_top">Tcte1</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90738" TARGET="_top">D17Mit10</A>
+<LI><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97620" TARGET="_top">Plg</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90947" TARGET="_top">D17Pri1</A>
+<LI><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90947" TARGET="_top">D17Pri1</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96018" TARGET="_top">Hba-ps4</A>
+<LI><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97584" TARGET="_top">Pim1</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:88515" TARGET="_top">Crya1</A>
+<LI><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:88515" TARGET="_top">Crya1</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95914" TARGET="_top">H2M2</A>
+<LI><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98640" TARGET="_top">Tcte1</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90738" TARGET="_top">D17Mit10</A>
 </UL>
-with a 68% confidence interval extending from 0.7 to 3.4 cM, and a 95% interval extending from 0.2 to 6.6 cM. In three of these cases, 
-the backcross estimate lies within the 68% confidence interval and in the other two 
-cases, it lies within the 95% interval. There are two instances in which two RI 
-discordances have occurred to yield an inter-locus linkage distance estimate of 2.2 cM: 
+with a 68% confidence interval extending from 0.7 to 3.4 cM, and a 95% interval extending from 0.2 to 6.6 cM. In three of these cases,
+the backcross estimate lies within the 68% confidence interval and in the other two
+cases, it lies within the 95% interval. There are two instances in which two RI
+discordances have occurred to yield an inter-locus linkage distance estimate of 2.2 cM:
 <UL>
-<LI><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:894608" TARGET="_top">D17Leh119</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97620" TARGET="_top">Plg</A> 
-<LI><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95914" TARGET="_top">H2M2</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98815" TARGET="_top">Tpx1</A>
+<LI><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:894608" TARGET="_top">D17Leh119</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97620" TARGET="_top">Plg</A>
+<LI><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95914" TARGET="_top">H2M2</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98815" TARGET="_top">Tpx1</A>
 </UL>
-with a 68% confidence interval extending from 1.4 to 5.3 cM and a 95% interval extending from 0.6 to 9.6 cM. 
-In both cases, the backcross estimate lies within the 68% interval. There are another two instances in 
+with a 68% confidence interval extending from 1.4 to 5.3 cM and a 95% interval extending from 0.6 to 9.6 cM.
+In both cases, the backcross estimate lies within the 68% interval. There are another two instances in
 which four RI discordances yield an interlocus linkage distance of 5.0 cM:
 <UL>
-<LI><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96018" TARGET="_top">Hba-ps4</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97584" TARGET="_top">Pim1</A>
-<LI><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98815" TARGET="_top">Tpx1</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98640" TARGET="_top">Tcte1</A>
+<LI><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96018" TARGET="_top">Hba-ps4</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97584" TARGET="_top">Pim1</A>
+<LI><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98815" TARGET="_top">Tpx1</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98640" TARGET="_top">Tcte1</A>
 </UL>
-with a 68% confidence interval extending from 3.3 to 
-9.7 cM, and a 95% interval extending from 1.7 to 17 cM. In one case, the backcross 
-estimate lies within the 68% interval, and in the other case, it lies within the 95% 
-confidence interval. Finally, there is a single instance of complete RI concordance between 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90738" TARGET="_top">D17Mit10</A> and 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90850" TARGET="_top">D17Mit6</A>. 
-The backcross estimate of linkage distance between these two loci lies outside the 95% confidence interval 
-(but within the 99% confidence interval according to results obtained from the computer program listed in 
+with a 68% confidence interval extending from 3.3 to
+9.7 cM, and a 95% interval extending from 1.7 to 17 cM. In one case, the backcross
+estimate lies within the 68% interval, and in the other case, it lies within the 95%
+confidence interval. Finally, there is a single instance of complete RI concordance between
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90738" TARGET="_top">D17Mit10</A> and
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90850" TARGET="_top">D17Mit6</A>.
+The backcross estimate of linkage distance between these two loci lies outside the 95% confidence interval
+(but within the 99% confidence interval according to results obtained from the computer program listed in
 <A HREF="d.shtml">Appendix D</A>).
 
-<P>In summary, backcross estimates lie within the 68% confidence interval of the 
-RI estimates in six (60%) of the ten pairwise comparisons, and in all but one of the 
-remaining comparisons (90%), the backcross estimates lie within the 95% confidence 
-interval. This level of accuracy is about as close as one can get to that predicted from 
-statistical formulations. Furthermore, in the single case where the two mean 
-estimates of linkage distance are significantly different from each other (0.66 cM versus 5.9 cM for 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90738" TARGET="_top">D17Mit10</A> - 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90850" TARGET="_top">D17Mit6</A>), 
-their associated 95% confidence intervals 
-(0.02-3.95 cM and 3.9-8.8 cM) do overlap (barely), and the data taken together would 
-suggest that the actual recombination frequency is somewhere between the two 
+<P>In summary, backcross estimates lie within the 68% confidence interval of the
+RI estimates in six (60%) of the ten pairwise comparisons, and in all but one of the
+remaining comparisons (90%), the backcross estimates lie within the 95% confidence
+interval. This level of accuracy is about as close as one can get to that predicted from
+statistical formulations. Furthermore, in the single case where the two mean
+estimates of linkage distance are significantly different from each other (0.66 cM versus 5.9 cM for
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90738" TARGET="_top">D17Mit10</A> -
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90850" TARGET="_top">D17Mit6</A>),
+their associated 95% confidence intervals
+(0.02-3.95 cM and 3.9-8.8 cM) do overlap (barely), and the data taken together would
+suggest that the actual recombination frequency is somewhere between the two
 extreme mean values.
 <SUP><A HREF="notes.shtml#85" TARGET="_top">85</A></SUP>
 
@@ -804,147 +804,147 @@ extreme mean values.
 
 <a name="9.2.5.1"></a><H3><I>9.2.5.1 Susceptibility, predisposition, penetrance, and expressivity</I></H3>
 
-<P>When Bailey first conceived of RI strains, it was with the notion that they would 
-be useful for the analysis of the many forms of complex phenotypic variation that 
-distinguish different inbred strains from each other. In the past, the use of RI strains 
-for this purpose had been rather limited because of the absence of an overall 
-framework of genetic markers on which phenotypic differences could be mapped. 
-However, at present, the availability of highly polymorphic, rapidly typed DNA 
-markers is allowing the construction of framework maps of marker loci that span 
-essentially whole genomes in each of the major RI sets. These framework maps will 
+<P>When Bailey first conceived of RI strains, it was with the notion that they would
+be useful for the analysis of the many forms of complex phenotypic variation that
+distinguish different inbred strains from each other. In the past, the use of RI strains
+for this purpose had been rather limited because of the absence of an overall
+framework of genetic markers on which phenotypic differences could be mapped.
+However, at present, the availability of highly polymorphic, rapidly typed DNA
+markers is allowing the construction of framework maps of marker loci that span
+essentially whole genomes in each of the major RI sets. These framework maps will
 finally open up RI strains to the use originally conceived of by Bailey.
 
-<P>There is an enormous reservoir of susceptibility differences to a variety of disease 
-conditions, both chronic and infectious, among the classical inbred strains. For 
-example, the A/J strain is relatively susceptible to various carcinogen-induced 
-cancers (lung adenomas, sarcomas, and colorectal tumors), parasites 
-(<I>Giardia</I>, <I>Trypanosoma</I>, and <I>Plasmodium</I>), bacteria 
-(<I>Listeria</I> and <I>Pseudomonas</I>), viruses (<I>Ectromelia</I> and <I>Herpes</I>), 
-and fungi (<I>Candida albicans</I>), as well as gall stones and 
-teratogen-induced cleft palate; the B6 strain is relatively resistant to all of these conditions 
-(<a href="../references.shtml#Mu1" TARGET="_top">Mu et al., 1993</a>). On the other hand, B6 is relatively susceptible to other 
-parasites, bacteria, viruses, and fungi as well as atherosclerosis, diabetes, and obesity; 
-the A/J strain is relatively resistant to all of these conditions. In all, strain-specific 
-differences in susceptibility to over 30 infectious or chronic diseases have been 
-identified between A/J and B6, and the genetic basis for each can be approached with 
-the use of the combined AXB/BXA set of RI strains. Differences in disease 
-susceptibility exist among all of the traditional inbred strains, and the genes 
-involved in many of these differences can be approached as well with the 
+<P>There is an enormous reservoir of susceptibility differences to a variety of disease
+conditions, both chronic and infectious, among the classical inbred strains. For
+example, the A/J strain is relatively susceptible to various carcinogen-induced
+cancers (lung adenomas, sarcomas, and colorectal tumors), parasites
+(<I>Giardia</I>, <I>Trypanosoma</I>, and <I>Plasmodium</I>), bacteria
+(<I>Listeria</I> and <I>Pseudomonas</I>), viruses (<I>Ectromelia</I> and <I>Herpes</I>),
+and fungi (<I>Candida albicans</I>), as well as gall stones and
+teratogen-induced cleft palate; the B6 strain is relatively resistant to all of these conditions
+(<a href="../references.shtml#Mu1" TARGET="_top">Mu et al., 1993</a>). On the other hand, B6 is relatively susceptible to other
+parasites, bacteria, viruses, and fungi as well as atherosclerosis, diabetes, and obesity;
+the A/J strain is relatively resistant to all of these conditions. In all, strain-specific
+differences in susceptibility to over 30 infectious or chronic diseases have been
+identified between A/J and B6, and the genetic basis for each can be approached with
+the use of the combined AXB/BXA set of RI strains. Differences in disease
+susceptibility exist among all of the traditional inbred strains, and the genes
+involved in many of these differences can be approached as well with the
 appropriate RI sets.
 
-<P>With most of the conditions described above, a particular genetic constitution 
-only <I>predisposes</I> an individual to express a disease. This means that some 
-individuals that carry the predisposing genotype will actually <I>not</I> express the 
-disease. The fraction of genotypically identical individuals that express a particular trait defines the 
-<A HREF="../glossary.shtml#Penetrance" TARGET="_top">penetrance</A> of that trait from that genotype. When a particular 
-genotype guarantees the expression of a phenotype in 100% of the animals that carry 
-it, the phenotype is considered to be <I>completely penetrant</I>. In all other cases, a 
-phenotype is considered to be <I>partially penetrant</I> or <I>incompletely penetrant</I>. For 
-example, a particular substrain of BALB/c mice is predisposed to a particular form of 
-induced cancer known as a plasmacytoma. However, only 60% of these inbred 
+<P>With most of the conditions described above, a particular genetic constitution
+only <I>predisposes</I> an individual to express a disease. This means that some
+individuals that carry the predisposing genotype will actually <I>not</I> express the
+disease. The fraction of genotypically identical individuals that express a particular trait defines the
+<A HREF="../glossary.shtml#Penetrance" TARGET="_top">penetrance</A> of that trait from that genotype. When a particular
+genotype guarantees the expression of a phenotype in 100% of the animals that carry
+it, the phenotype is considered to be <I>completely penetrant</I>. In all other cases, a
+phenotype is considered to be <I>partially penetrant</I> or <I>incompletely penetrant</I>. For
+example, a particular substrain of BALB/c mice is predisposed to a particular form of
+induced cancer known as a plasmacytoma. However, only 60% of these inbred
 animals actually get the cancer upon induction. Thus, the penetrance of induced-
-plasmacytoma in these mice is 60%. 
+plasmacytoma in these mice is 60%.
 
-<P>The cousin of incomplete penetrance is <I>variable 
-<A HREF="../glossary.shtml#Expressivity" TARGET="_top">expressivity</A></I>. Variable 
-expressivity describes the situation in which multiple individuals all express a 
-particular trait, but in a quantitatively distinguishable manner. For example, a 
-tumor may appear at a young age or an old age, a birth defect such as cleft palate may 
-be more or less severe. Variable expressivity can also be measured for traits that do 
-not show an either/or type of wild-type/mutant variation. For example, there are 
-many strain-specific differences in physiological parameters and behavior that are 
-strictly quantitative. Thus, blood cholesterol levels may vary among different 
-strains as will the average number of pups that a female has in a litter (see 
+<P>The cousin of incomplete penetrance is <I>variable
+<A HREF="../glossary.shtml#Expressivity" TARGET="_top">expressivity</A></I>. Variable
+expressivity describes the situation in which multiple individuals all express a
+particular trait, but in a quantitatively distinguishable manner. For example, a
+tumor may appear at a young age or an old age, a birth defect such as cleft palate may
+be more or less severe. Variable expressivity can also be measured for traits that do
+not show an either/or type of wild-type/mutant variation. For example, there are
+many strain-specific differences in physiological parameters and behavior that are
+strictly quantitative. Thus, blood cholesterol levels may vary among different
+strains as will the average number of pups that a female has in a litter (see
 <a href="javascript:windowt41 = window.open('../tables/table4-1.shtml', 'windowt41', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt41.focus()">Table 4.1</a>).
 
-<P>Both incomplete penetrance and variable expressivity can be caused by genetic as 
-well as non-genetic factors. Inbred strains allow one to clearly distinguish genetic 
-factors since measurements can be made of the mean level of expression or 
-penetrance of a trait in one strain relative to another when populations of both are 
+<P>Both incomplete penetrance and variable expressivity can be caused by genetic as
+well as non-genetic factors. Inbred strains allow one to clearly distinguish genetic
+factors since measurements can be made of the mean level of expression or
+penetrance of a trait in one strain relative to another when populations of both are
 maintained under identical environmental conditions.
 
-<P>In cases where two strains differ quantitatively in penetrance levels and/or 
-expressivity for a particular trait, it becomes difficult to design traditional breeding 
-crosses that can uncover the loci involved. For example, if strain A shows 20% 
-penetrance for a trait and strain B shows 80% penetrance for the same trait, then its 
-expression in offspring from a cross between the two strains would not provide 
-straightforward information as to which predisposing allele(s) is present. In 
-contrast, each RI strain provides an unlimited number of animals with the same 
-homozygous genotype. Thus, through the analysis of a sufficient number of 
-animals, it becomes possible to quantitate the levels of penetrance and expressivity 
-and associate distinct measurements of mean and standard deviation with each RI 
-genotype. Furthermore, it is just as easy to map recessive traits as dominant traits 
+<P>In cases where two strains differ quantitatively in penetrance levels and/or
+expressivity for a particular trait, it becomes difficult to design traditional breeding
+crosses that can uncover the loci involved. For example, if strain A shows 20%
+penetrance for a trait and strain B shows 80% penetrance for the same trait, then its
+expression in offspring from a cross between the two strains would not provide
+straightforward information as to which predisposing allele(s) is present. In
+contrast, each RI strain provides an unlimited number of animals with the same
+homozygous genotype. Thus, through the analysis of a sufficient number of
+animals, it becomes possible to quantitate the levels of penetrance and expressivity
+and associate distinct measurements of mean and standard deviation with each RI
+genotype. Furthermore, it is just as easy to map recessive traits as dominant traits
 since RI strains are completely homozygous.
 
-<P>RI strains are also useful in those cases where multiple animals must be 
-sacrificed in order to make a single phenotypic determination. This will be true for 
-certain biochemical assays (although in most cases today, microtechniques allow 
-analysis on tissues obtained from single animals) and for other assays that require a 
-determination of multiple test points in which each point is a single animal. An 
-example of the latter would be an LD<SUB>50</SUB> determination for a particular toxic 
+<P>RI strains are also useful in those cases where multiple animals must be
+sacrificed in order to make a single phenotypic determination. This will be true for
+certain biochemical assays (although in most cases today, microtechniques allow
+analysis on tissues obtained from single animals) and for other assays that require a
+determination of multiple test points in which each point is a single animal. An
+example of the latter would be an LD<SUB>50</SUB> determination for a particular toxic
 chemical.
 <SUP><A HREF="notes.shtml#86" TARGET="_top">86</A></SUP>
 
-<P>If every RI strain in a set expresses a trait with essentially the same penetrance 
-and expressivity as one of the two progenitor strains, and approximately half of the 
-RI strains resemble one progenitor and half resemble the other, determining a map 
-position for the responsible locus is no different than that described earlier in the 
-case of DNA marker loci. Data of this type can be viewed as evidence in favor of a 
-single major locus that is responsible for the difference in susceptibility, penetrance, 
-or expressivity between the two progenitor strains. One can simply write out an SDP 
-for the phenotype and then subject this SDP to concordance analysis with the SDPs 
-obtained for all previously typed markers as described in 
-<a href="9-2.shtml#9.2.2">Section 9.2.2.</a> Once linkage 
-is demonstrated, gene order and map distances can be determined as described in 
-Sections 
-<A HREF="9-2.shtml#9.2.3">9.2.3</A> and 
+<P>If every RI strain in a set expresses a trait with essentially the same penetrance
+and expressivity as one of the two progenitor strains, and approximately half of the
+RI strains resemble one progenitor and half resemble the other, determining a map
+position for the responsible locus is no different than that described earlier in the
+case of DNA marker loci. Data of this type can be viewed as evidence in favor of a
+single major locus that is responsible for the difference in susceptibility, penetrance,
+or expressivity between the two progenitor strains. One can simply write out an SDP
+for the phenotype and then subject this SDP to concordance analysis with the SDPs
+obtained for all previously typed markers as described in
+<a href="9-2.shtml#9.2.2">Section 9.2.2.</a> Once linkage
+is demonstrated, gene order and map distances can be determined as described in
+Sections
+<A HREF="9-2.shtml#9.2.3">9.2.3</A> and
 <A HREF="9-2.shtml#9.2.4">9.2.4</A>.
 
 <a name="9.2.5.2"></a><H3>9.2.5.2 Further genetic complexity: polygenic traits</H3>
 
-<P>There are two forms of RI strain data that are indicative of a more complex basis 
-of inheritance which may be impossible to resolve using only the RI approach. The 
-first occurs when there is a significant departure from a balanced SDP in that the 
-phenotype expressed by one progenitor strain is found in many more RI strains than 
-the alternative phenotype. Data of this type would suggest that the expression of the 
-rarer phenotype requires the simultaneous presence of two or more genes from the 
-appropriate progenitor. One can calculate the probability of occurrence of a 
-phenotype that requires the action of two or more unlinked loci through the law of 
+<P>There are two forms of RI strain data that are indicative of a more complex basis
+of inheritance which may be impossible to resolve using only the RI approach. The
+first occurs when there is a significant departure from a balanced SDP in that the
+phenotype expressed by one progenitor strain is found in many more RI strains than
+the alternative phenotype. Data of this type would suggest that the expression of the
+rarer phenotype requires the simultaneous presence of two or more genes from the
+appropriate progenitor. One can calculate the probability of occurrence of a
+phenotype that requires the action of two or more unlinked loci through the law of
 the product as (0.5)<SUP><I>n</I></SUP>, where <I>n</I> is the number of loci required.
-<SUP><A HREF="notes.shtml#87" TARGET="_top">87</A></SUP> 
-Thus, if two unlinked B6 loci are both required for susceptibility to a particular viral infection 
-(relative to DBA), only (0.5)<SUP>2</SUP> &#061; 25% of the BXD RI strains would be expected to show 
-susceptibility. Unfortunately, for obvious reasons, unbalanced SDPs cannot be 
+<SUP><A HREF="notes.shtml#87" TARGET="_top">87</A></SUP>
+Thus, if two unlinked B6 loci are both required for susceptibility to a particular viral infection
+(relative to DBA), only (0.5)<SUP>2</SUP> &#061; 25% of the BXD RI strains would be expected to show
+susceptibility. Unfortunately, for obvious reasons, unbalanced SDPs cannot be
 compared directly for linkage relationships with normal single-locus marker SDPs.
 <SUP><A HREF="notes.shtml#88" TARGET="_top">88</A></SUP>
 
-<P>The second form of RI data indicative of genetic complexity is the occurrence of 
-strains that show a level of penetrance or expressivity that is significantly different 
-from both of the progenitors. Since every RI strain can be considered homozygous 
-for one progenitor allele or the other at every locus, data of this type will also 
-implicate the action of multiple genes. The simplest explanation for these results is 
-that different combinations of alleles from the two progenitors cause the different 
-levels of phenotypic expression. For example, with the involvement of two loci, X 
-and Y, in the expression of a trait that distinguishes the strains A/J and B6, there 
+<P>The second form of RI data indicative of genetic complexity is the occurrence of
+strains that show a level of penetrance or expressivity that is significantly different
+from both of the progenitors. Since every RI strain can be considered homozygous
+for one progenitor allele or the other at every locus, data of this type will also
+implicate the action of multiple genes. The simplest explanation for these results is
+that different combinations of alleles from the two progenitors cause the different
+levels of phenotypic expression. For example, with the involvement of two loci, X
+and Y, in the expression of a trait that distinguishes the strains A/J and B6, there
 will be four relevant genotypes among the AXB/BXA RI strains:
 
-<UL> 
-<LI><I>X<SUP>A</SUP>Y<SUP>A</SUP></I> 
-<LI><I>X<SUP>A</SUP>Y<SUP>B</SUP></I> 
+<UL>
+<LI><I>X<SUP>A</SUP>Y<SUP>A</SUP></I>
+<LI><I>X<SUP>A</SUP>Y<SUP>B</SUP></I>
 <LI><I>X<SUP>B</SUP>Y<SUP>A</SUP></I>
 <LI><I>X<SUP>B</SUP>Y<SUP>B</SUP></I>
-</UL> 
+</UL>
 
-Two of these genotypic combinations are different than that found 
-in either progenitor and one or both could be responsible for a novel phenotypic 
+Two of these genotypic combinations are different than that found
+in either progenitor and one or both could be responsible for a novel phenotypic
 expression.
 <SUP><A HREF="notes.shtml#89" TARGET="_top">89</A></SUP>
 
-<P>Many variations upon these examples are possible. Thus, every complex trait 
-will have to be approached independently to formulate a reasonable hypothesis for 
-inheritance. In some cases, RI strains may still provide an appropriate tool for 
-genetic analysis, but in most cases, it will be necessary to move to a different form of 
-analysis that may require the establishment of a new breeding cross as described in 
+<P>Many variations upon these examples are possible. Thus, every complex trait
+will have to be approached independently to formulate a reasonable hypothesis for
+inheritance. In some cases, RI strains may still provide an appropriate tool for
+genetic analysis, but in most cases, it will be necessary to move to a different form of
+analysis that may require the establishment of a new breeding cross as described in
 <a href="9-4.shtml">Section 9.4.</a>
 
 <DIV Align="center"><H4> <A HREF="9-1.shtml">Previous</A> <A HREF="9-3.shtml">Next</A></H4></DIV>

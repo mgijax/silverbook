@@ -11,140 +11,140 @@
 <a name="5.5"></a><H2>5.5 GENOMIC IMPRINTING</H2>
 
 <a name="5.5.1"></a><H3>5.5.1 Overview</H3>
-From the birth of the field of genetics until a decade ago, it was generally 
-assumed that the parental origin of a gene could have no effect on its function. In 
-the vast majority of studies carried out during the last 90 years, this paradigm has 
-appeared to hold true. However, with increasingly sophisticated genetic and 
-embryological investigations in the mouse, important exceptions to this rule have 
-been uncovered over the last decade. First, the results of nuclear transplantation 
-experiments carried out with single-cell fertilized embryos have demonstrated an 
-absolute requirement for both a maternally-derived and a paternally-derived 
-pronculeus to allow full-term development 
-(<a href="../references.shtml#McGrath1" TARGET="_top">McGrath and Solter, 1983</a>). Second, in 
-animals that receive both homologs of certain chromosomes or subchromosomal 
-regions from one parent and not the other (through the mating of translocation 
-heterozygotes as described in 
-<a href="5-2.shtml#5.2.3">Section 5.2.3</a>), dramatic effects on development can be 
-observed including enhanced or retarded growth and outright lethality 
-(<a href="../references.shtml#Cattanach1" TARGET="_top">Cattanach and Kirk, 1985</a>). Third, either of 
-two deletions that cover a small region of mouse 
-chromosome 17 can be transmitted normally from a father to his offspring, but these 
-same deletions cause prenatal lethality when they are maternally transmitted 
-(<A HREF="../references.shtml#Johnson1" TARGET="_top">Johnson, 1974</A>; 
-<A HREF="../references.shtml#Winking1" TARGET="_top">Winking and Silver, 1984</A>). 
-Fourth, similar parent-of-origin effects 
-have been observed on the phenotypes expressed by animals that carry a targeted 
-knock-out allele at the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96434" TARGET="_top"><I>Igf2</I></A> locus 
-(<a href="../references.shtml#DeChiara1" TARGET="_top">DeChiara et al., 1991</a>). Finally, molecular 
-techniques have been used to directly demonstrate the expression of transcripts 
-from one parental allele and not the other at the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96435" TARGET="_top"><I>Igf2r</I></A> locus 
-(<a href="../references.shtml#Barlow3" TARGET="_top">Barlow et al., 1991</a>) and the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95891" TARGET="_top"><I>H19</I></A> locus 
+From the birth of the field of genetics until a decade ago, it was generally
+assumed that the parental origin of a gene could have no effect on its function. In
+the vast majority of studies carried out during the last 90 years, this paradigm has
+appeared to hold true. However, with increasingly sophisticated genetic and
+embryological investigations in the mouse, important exceptions to this rule have
+been uncovered over the last decade. First, the results of nuclear transplantation
+experiments carried out with single-cell fertilized embryos have demonstrated an
+absolute requirement for both a maternally-derived and a paternally-derived
+pronculeus to allow full-term development
+(<a href="../references.shtml#McGrath1" TARGET="_top">McGrath and Solter, 1983</a>). Second, in
+animals that receive both homologs of certain chromosomes or subchromosomal
+regions from one parent and not the other (through the mating of translocation
+heterozygotes as described in
+<a href="5-2.shtml#5.2.3">Section 5.2.3</a>), dramatic effects on development can be
+observed including enhanced or retarded growth and outright lethality
+(<a href="../references.shtml#Cattanach1" TARGET="_top">Cattanach and Kirk, 1985</a>). Third, either of
+two deletions that cover a small region of mouse
+chromosome 17 can be transmitted normally from a father to his offspring, but these
+same deletions cause prenatal lethality when they are maternally transmitted
+(<A HREF="../references.shtml#Johnson1" TARGET="_top">Johnson, 1974</A>;
+<A HREF="../references.shtml#Winking1" TARGET="_top">Winking and Silver, 1984</A>).
+Fourth, similar parent-of-origin effects
+have been observed on the phenotypes expressed by animals that carry a targeted
+knock-out allele at the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96434" TARGET="_top"><I>Igf2</I></A> locus
+(<a href="../references.shtml#DeChiara1" TARGET="_top">DeChiara et al., 1991</a>). Finally, molecular
+techniques have been used to directly demonstrate the expression of transcripts
+from one parental allele and not the other at the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96435" TARGET="_top"><I>Igf2r</I></A> locus
+(<a href="../references.shtml#Barlow3" TARGET="_top">Barlow et al., 1991</a>) and the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95891" TARGET="_top"><I>H19</I></A> locus
 (<a href="../references.shtml#Bartolomei1" TARGET="_top">Bartolomei et al., 1991</a>).
 
-<P>The accumulated data indicate that a subset of mouse genes (on the order of 0.2%) will function 
-differently in normal embryos depending on whether they have been inherited 
-through the male or the female gamete, such that one allele will be expressed and 
-the other will be silent. <I>Genomic imprinting</I> is the term that has been coined to 
-describe this situation in which the phenotype expressed by a gene varies depending 
-on its parental origin 
-(<a href="../references.shtml#Sapienza1" TARGET="_top">Sapienza, 1989</a>). 
-Further experiments have demonstrated 
-that, in general, the &#034;imprint&#034; is erased and regenerated during gametogenesis so 
-that the function of an imprintable gene is fully determined by the sex of its 
+<P>The accumulated data indicate that a subset of mouse genes (on the order of 0.2%) will function
+differently in normal embryos depending on whether they have been inherited
+through the male or the female gamete, such that one allele will be expressed and
+the other will be silent. <I>Genomic imprinting</I> is the term that has been coined to
+describe this situation in which the phenotype expressed by a gene varies depending
+on its parental origin
+(<a href="../references.shtml#Sapienza1" TARGET="_top">Sapienza, 1989</a>).
+Further experiments have demonstrated
+that, in general, the &#034;imprint&#034; is erased and regenerated during gametogenesis so
+that the function of an imprintable gene is fully determined by the sex of its
 progenitor alone, and not by earlier ancestors.
 
-<P>With the demonstration of genomic imprinting in the mouse, patterns of 
-disease inheritance in humans have been investigated for the possibility of 
-phenotypes determined by parent of origin in this mammal as well. To date, clear-cut 
-parental effects have been uncovered in the transmission of the juvenile form of 
-Huntington disease 
-(<a href="../references.shtml#Ridley1" TARGET="_top">Ridley et al., 1991</a>), 
-Prader-Willi and Angelman deletion syndromes 
-(<a href="../references.shtml#Nichols1" TARGET="_top">Nicholls et al., 1989</a>) 
-and certain forms of juvenile familial carcinomas 
-such as multifocal retinoblastoma, Wilm's tumor, embryonal rhabdomyosarcoma 
-and Beckwith-Wiedemann syndrome 
-(<A HREF="../references.shtml#Ferguson1" TARGET="_top">Ferguson-Smith et al., 1990</A>; 
-<A HREF="../references.shtml#Henry1" TARGET="_top">Henry et al., 1991</A>; 
+<P>With the demonstration of genomic imprinting in the mouse, patterns of
+disease inheritance in humans have been investigated for the possibility of
+phenotypes determined by parent of origin in this mammal as well. To date, clear-cut
+parental effects have been uncovered in the transmission of the juvenile form of
+Huntington disease
+(<a href="../references.shtml#Ridley1" TARGET="_top">Ridley et al., 1991</a>),
+Prader-Willi and Angelman deletion syndromes
+(<a href="../references.shtml#Nichols1" TARGET="_top">Nicholls et al., 1989</a>)
+and certain forms of juvenile familial carcinomas
+such as multifocal retinoblastoma, Wilm's tumor, embryonal rhabdomyosarcoma
+and Beckwith-Wiedemann syndrome
+(<A HREF="../references.shtml#Ferguson1" TARGET="_top">Ferguson-Smith et al., 1990</A>;
+<A HREF="../references.shtml#Henry1" TARGET="_top">Henry et al., 1991</A>;
 <A HREF="../references.shtml#Sapienza2" TARGET="_top">Sapienza, 1991</A>).
 
 <a name="5.5.2"></a><H3>5.5.2 Why is there imprinting?</H3>
 
-<P>The first explanation for the existence of imprinting was as a mechanism to 
-prevent the full-term development of parthenogenetic embryos. This explanation 
-was never satisfactory because it did not account for the intricate control of 
-imprinting at multiple well-bounded loci. An alternative hypothesis put forward by 
-Haig and his colleagues is based on a tug of war between the sexes 
-(<A HREF="../references.shtml#Haig1" TARGET="_top">Haig and Graham, 1991</A>; 
-<A HREF="../references.shtml#Moore2" TARGET="_top">Moore and Haig, 1991</A>). 
-According to this hypothesis, it is in the 
-interest of a male to attempt to recover more maternal resources for his developing 
-offspring in relation to offspring in the same mother that were sired by other males. 
-This can be accomplished with a paternal imprint that down-regulates the 
-expression of genes that normally act to slow down the growth of embryos. As a 
-consequence, embryos that are sired by these males will grow more rapidly than 
-half-siblings sired by other males. Although overgrowth may be beneficial to these 
-offspring, it extracts a heavy reproductive cost from the mother. Consequently, it is 
-in the interest of the mother to counteract this increased level of growth. She can 
-do this with an imprint that down-regulates the relevant growth factor genes 
-themselves. The evolutionary endpoint of this tug of war is the current day 
-situation where genes that act to increase embryonic growth (such as 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96434" TARGET="_top"><I>Igf2</I></A>) have 
-inactivated maternal alleles, and genes that act to limit growth (such as 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96435" TARGET="_top"><I>Igf2r</I></A>) have 
+<P>The first explanation for the existence of imprinting was as a mechanism to
+prevent the full-term development of parthenogenetic embryos. This explanation
+was never satisfactory because it did not account for the intricate control of
+imprinting at multiple well-bounded loci. An alternative hypothesis put forward by
+Haig and his colleagues is based on a tug of war between the sexes
+(<A HREF="../references.shtml#Haig1" TARGET="_top">Haig and Graham, 1991</A>;
+<A HREF="../references.shtml#Moore2" TARGET="_top">Moore and Haig, 1991</A>).
+According to this hypothesis, it is in the
+interest of a male to attempt to recover more maternal resources for his developing
+offspring in relation to offspring in the same mother that were sired by other males.
+This can be accomplished with a paternal imprint that down-regulates the
+expression of genes that normally act to slow down the growth of embryos. As a
+consequence, embryos that are sired by these males will grow more rapidly than
+half-siblings sired by other males. Although overgrowth may be beneficial to these
+offspring, it extracts a heavy reproductive cost from the mother. Consequently, it is
+in the interest of the mother to counteract this increased level of growth. She can
+do this with an imprint that down-regulates the relevant growth factor genes
+themselves. The evolutionary endpoint of this tug of war is the current day
+situation where genes that act to increase embryonic growth (such as
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96434" TARGET="_top"><I>Igf2</I></A>) have
+inactivated maternal alleles, and genes that act to limit growth (such as
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96435" TARGET="_top"><I>Igf2r</I></A>) have
 inactivated paternal alleles.
 
-<P>The only other currently viable hypothesis to explain imprinting is that it results 
-from the accidental, ectopic use of machinery that has evolved for the really 
-important imprinting associated with X chromosome inactivation. According to 
-this hypothesis, autosomal imprinting is a red herring whose study is unlikely to 
-provide information of significance to an understanding of developmental genetics. 
-The major strike against this hypothesis is dealt by selectionists who would contend 
-that genetic accidents of this magnitude just do not happen and there must be 
-something peculiar about mammals that has promoted the evolution of 
-imprinting. In support of the selectionist view is the recent demonstration of 
-mono-allelic expression of the 
-<A HREF="<!--#include file='include/omim.html'-->103280" TARGET="_top"><I>H19</I></A> gene in humans 
-(<a href="../references.shtml#Zhang2" TARGET="_top">Zhang and Tycko, 1992</a>). 
-Conservation of imprinting during the evolution of both humans and mice from a 
-common ancestor strongly suggests the existence of selective forces. Nevertheless, it 
-is still possible that the Haig hypothesis is not entirely correct and that other reasons 
+<P>The only other currently viable hypothesis to explain imprinting is that it results
+from the accidental, ectopic use of machinery that has evolved for the really
+important imprinting associated with X chromosome inactivation. According to
+this hypothesis, autosomal imprinting is a red herring whose study is unlikely to
+provide information of significance to an understanding of developmental genetics.
+The major strike against this hypothesis is dealt by selectionists who would contend
+that genetic accidents of this magnitude just do not happen and there must be
+something peculiar about mammals that has promoted the evolution of
+imprinting. In support of the selectionist view is the recent demonstration of
+mono-allelic expression of the
+<A HREF="<!--#include file='../include/omim.html'-->103280" TARGET="_top"><I>H19</I></A> gene in humans
+(<a href="../references.shtml#Zhang2" TARGET="_top">Zhang and Tycko, 1992</a>).
+Conservation of imprinting during the evolution of both humans and mice from a
+common ancestor strongly suggests the existence of selective forces. Nevertheless, it
+is still possible that the Haig hypothesis is not entirely correct and that other reasons
 for imprinting lie hidden beneath the surface waiting to be uncovered.
 
 <a name="5.5.3"></a><H3>5.5.3 The molecular basis for imprinting</H3>
 
-<P>The question &#034;how does it happen?&#034; can be easily separated from the question 
-&#034;why does it happen?&#034;. However, here again, our understanding is still quite 
-rudimentary. 
-<a href="javascript:windowf58 = window.open('../figures/figure5.8.shtml', 'windowf58', 'width=400,height=500,resizable=yes,scrollbars=yes'); windowf58.focus()">Figure 5.8</A> 
-illustrates in a very general way the essential requirements 
-of a paternal imprinting system. Both parents have one imprinted allele (derived 
-from their fathers) and one active allele (derived from their mothers). During 
-oogenesis, the imprint must be erased so that all eggs will contain equivalent alleles 
-that can become activated in all offspring. In contrast, at the completion of 
-spermatogenesis in the father, all sperm will contain alleles that are &#034;marked&#034; for 
-imprinting. It is possible that the mark present on one of the father's alleles is 
-erased and both copies are marked <I>de novo</I> in all spermatogenic cells, or the one 
-imprinted copy may retain its mark, with <I>de novo</I> marking applied only at the 
-second copy. In either case, the new embryo will receive one &#034;marked&#034; gene from 
+<P>The question &#034;how does it happen?&#034; can be easily separated from the question
+&#034;why does it happen?&#034;. However, here again, our understanding is still quite
+rudimentary.
+<a href="javascript:windowf58 = window.open('../figures/figure5.8.shtml', 'windowf58', 'width=400,height=500,resizable=yes,scrollbars=yes'); windowf58.focus()">Figure 5.8</A>
+illustrates in a very general way the essential requirements
+of a paternal imprinting system. Both parents have one imprinted allele (derived
+from their fathers) and one active allele (derived from their mothers). During
+oogenesis, the imprint must be erased so that all eggs will contain equivalent alleles
+that can become activated in all offspring. In contrast, at the completion of
+spermatogenesis in the father, all sperm will contain alleles that are &#034;marked&#034; for
+imprinting. It is possible that the mark present on one of the father's alleles is
+erased and both copies are marked <I>de novo</I> in all spermatogenic cells, or the one
+imprinted copy may retain its mark, with <I>de novo</I> marking applied only at the
+second copy. In either case, the new embryo will receive one &#034;marked&#034; gene from
 the father and one non-marked gene from the mother.
 
-<P>The &#034;mark&#034; may itself be replicated faithfully along with its homolog, and the 
-&#034;mark&#034; may itself be responsible for the actual repression of gene activity. On the 
-other hand, the &#034;mark&#034; may simply identify the paternal allele so that a separate 
-imprinting machinery that acts to prevent gene repression can be laid down within 
-the developing embryo. If there is a separate imprinting machinery, either it or the 
-&#034;mark&#034; could be replicated along with the paternal homolog to maintain the 
+<P>The &#034;mark&#034; may itself be replicated faithfully along with its homolog, and the
+&#034;mark&#034; may itself be responsible for the actual repression of gene activity. On the
+other hand, the &#034;mark&#034; may simply identify the paternal allele so that a separate
+imprinting machinery that acts to prevent gene repression can be laid down within
+the developing embryo. If there is a separate imprinting machinery, either it or the
+&#034;mark&#034; could be replicated along with the paternal homolog to maintain the
 imprint through each cell division.
 
-<P>It is still the case in 1993 that the nature of both the mark and the imprinting 
-machinery (if it exists as a separate entity) are entirely unknown. Both could 
-presumably entail direct chemical modifications of DNA and/or specific protein 
-components (that might lead to changes in the local chromatin configuration). In 
-addition, the specific DNA sequences that must be recognized by the gametogenic 
+<P>It is still the case in 1993 that the nature of both the mark and the imprinting
+machinery (if it exists as a separate entity) are entirely unknown. Both could
+presumably entail direct chemical modifications of DNA and/or specific protein
+components (that might lead to changes in the local chromatin configuration). In
+addition, the specific DNA sequences that must be recognized by the gametogenic
 marker are also unknown at this time.
 
 <DIV Align="center"><H4> <A HREF="5-4.shtml">Previous</A> <A HREF="6-1.shtml">Next</A></H4></DIV>

@@ -12,331 +12,331 @@
 
 <a name="3.4.1"></a><H3>3.4.1 Introduction</H3>
 
-<P>Mouse genetics is, by its very nature, a collaborative field of scientific 
-investigation. This is because the interpretation of data collected by any one scientist 
-is highly dependent on data collected by others. High resolution genetic maps are 
-often formed through the integration of results obtained in many individual 
-studies, and as each new result is published, it can be swept up into a system of 
-databases (see 
-<a href="b.shtml">Appendix B</a>). Large-scale integration has been possible only because all mouse 
-geneticists speak the same language. The definition of this language is provided by the 
-International Committee on Standardized Nomenclature for Mice which has 
-been in existence since 1939. This committee is charged with the task of establishing 
-and updating rules and guidelines for genetic nomenclature. The continued 
-functioning of this committee is critical because, as the analysis of the genome 
-becomes ever more sophisticated, new genetic entities become apparent, and these 
+<P>Mouse genetics is, by its very nature, a collaborative field of scientific
+investigation. This is because the interpretation of data collected by any one scientist
+is highly dependent on data collected by others. High resolution genetic maps are
+often formed through the integration of results obtained in many individual
+studies, and as each new result is published, it can be swept up into a system of
+databases (see
+<a href="b.shtml">Appendix B</a>). Large-scale integration has been possible only because all mouse
+geneticists speak the same language. The definition of this language is provided by the
+International Committee on Standardized Nomenclature for Mice which has
+been in existence since 1939. This committee is charged with the task of establishing
+and updating rules and guidelines for genetic nomenclature. The continued
+functioning of this committee is critical because, as the analysis of the genome
+becomes ever more sophisticated, new genetic entities become apparent, and these
 must be named in a standard fashion.
 
-<P>For a complete description of the &#034;Rules and Guidelines for Gene 
-Nomenclature,&#034; one should consult the Lyon and Searle book 
-(<a href="../references.shtml#Committee1" TARGET="_top">Committee on Standardized Genetic Nomenclature for Mice, 1989</a>), 
-and updates published regularly in <i>Mouse Genome</i>. Here, I will briefly review the salient features of this 
-nomenclature system with a focus on the naming of newly defined genes and loci. 
-Once an investigator has chosen a new name and symbol for a locus, the chair of the 
-Committee should be contacted for confirmation that the rules have been followed 
-properly, and the names do not conflict with others already in use. 
+<P>For a complete description of the &#034;Rules and Guidelines for Gene
+Nomenclature,&#034; one should consult the Lyon and Searle book
+(<a href="../references.shtml#Committee1" TARGET="_top">Committee on Standardized Genetic Nomenclature for Mice, 1989</a>),
+and updates published regularly in <i>Mouse Genome</i>. Here, I will briefly review the salient features of this
+nomenclature system with a focus on the naming of newly defined genes and loci.
+Once an investigator has chosen a new name and symbol for a locus, the chair of the
+Committee should be contacted for confirmation that the rules have been followed
+properly, and the names do not conflict with others already in use.
 
 <a name="3.4.2"></a><H3>3.4.2 Strain symbols</H3>
 
-<P>There is no rhyme or reason to the names given to the original inbred strains 
-derived at the beginning of the century. The name of the famous BALB/c line was 
-derived by co-joining the name of the investigator (Bagg) with the color of the mouse 
-(<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">albino</A>). 
- 
+<P>There is no rhyme or reason to the names given to the original inbred strains
+derived at the beginning of the century. The name of the famous BALB/c line was
+derived by co-joining the name of the investigator (Bagg) with the color of the mouse
+(<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98880" TARGET="_top">albino</A>).
 
-<P>Bagg's ALBino became BALB. Other famous strains have names 
-based on animal numbers; for example, female no. 57 (from Abbie Lathrop's farm) 
-gave rise to both the C57BL/6 and C57BL/10 strains which are commonly 
-abbreviated as B6 and B10 respectively. New inbred strains can be named freely by 
-their originators as long as certain rules are followed: the name should be brief, and 
+
+<P>Bagg's ALBino became BALB. Other famous strains have names
+based on animal numbers; for example, female no. 57 (from Abbie Lathrop's farm)
+gave rise to both the C57BL/6 and C57BL/10 strains which are commonly
+abbreviated as B6 and B10 respectively. New inbred strains can be named freely by
+their originators as long as certain rules are followed: the name should be brief, and
 it should begin with a capital letter followed by other capital letters (preferably) or numbers.
 <sup><a href="notes.shtml#18" TARGET="_top">18</a></sup>
 Strains with a common origin that have been separated prior to the F<sub>20</sub> generation must
-be given separate symbols, although these symbols can indicate their relationship to 
-each other. All names should be registered with the appropriate contact person who is 
+be given separate symbols, although these symbols can indicate their relationship to
+each other. All names should be registered with the appropriate contact person who is
 indicated prominently in the current issue of <i>Mouse Genome</i>.
 
-<P>Substrains can arise whenever two or more colonies of an established inbred 
-strain are maintained in isolation from each other for a sufficient period of time to 
-allow detectable genetic differences to become fixed. There are three specific 
-instances where substrain formation can be considered to have occurred: (1) when 
-branches of an inbred strain are separated before the F<SUB>40</SUB> generation when residual 
-heterozygosity is still likely, (2) when a branch has been maintained separately from 
-other branches for 100 or more generations, and (3) when genetic differences from 
-other branches are uncovered. Such differences can be caused by any one or more of 
-three factors: residual heterozygosity at the time of branching, mutation, or 
+<P>Substrains can arise whenever two or more colonies of an established inbred
+strain are maintained in isolation from each other for a sufficient period of time to
+allow detectable genetic differences to become fixed. There are three specific
+instances where substrain formation can be considered to have occurred: (1) when
+branches of an inbred strain are separated before the F<SUB>40</SUB> generation when residual
+heterozygosity is still likely, (2) when a branch has been maintained separately from
+other branches for 100 or more generations, and (3) when genetic differences from
+other branches are uncovered. Such differences can be caused by any one or more of
+three factors: residual heterozygosity at the time of branching, mutation, or
 contamination.
 
-<P>Substrains are indicated by appending a slash (/) to the strain symbol followed by 
-an appropriate substrain symbol, for example, DBA/1 and DBA/2. A laboratory 
-registration code is often included within the substrain designation, for example, 
-C57BL/6J and C57BL/10J are two substrains of C57BL that are both maintained at the 
-Jackson Laboratory (indicated with a J). On the other hand, a different nomenclature 
-has been formulated recently to distinguish the same strain maintained without any 
-apparent genetic differences by two or more laboratories. In this case, the "&#064;" 
-character is appended to the strain symbol followed by the laboratory registration 
-code. For example, the SJL strain maintained by the Jackson Laboratory would be 
+<P>Substrains are indicated by appending a slash (/) to the strain symbol followed by
+an appropriate substrain symbol, for example, DBA/1 and DBA/2. A laboratory
+registration code is often included within the substrain designation, for example,
+C57BL/6J and C57BL/10J are two substrains of C57BL that are both maintained at the
+Jackson Laboratory (indicated with a J). On the other hand, a different nomenclature
+has been formulated recently to distinguish the same strain maintained without any
+apparent genetic differences by two or more laboratories. In this case, the "&#064;"
+character is appended to the strain symbol followed by the laboratory registration
+code. For example, the SJL strain maintained by the Jackson Laboratory would be
 symbolized as SJL&#064;J.
 
 <a name="3.4.3"></a><H3>3.4.3 Locus names and symbols</H3>
 
-<P>In the first set of rules for distinguishing gene symbols laid down by the 
-Committee on Mouse Genetics Nomenclature in 1940, it was stated that &#034;the initial 
-letter of the mutant gene symbol shall be the same as the initial letter of the mutant 
-gene, e.g. <i>d</i> for dilution. Additional letters shall be added to the initial letter if 
-necessary to distinguish it from symbols already in use&#034; 
+<P>In the first set of rules for distinguishing gene symbols laid down by the
+Committee on Mouse Genetics Nomenclature in 1940, it was stated that &#034;the initial
+letter of the mutant gene symbol shall be the same as the initial letter of the mutant
+gene, e.g. <i>d</i> for dilution. Additional letters shall be added to the initial letter if
+necessary to distinguish it from symbols already in use&#034;
 (<a href="../references.shtml#Snell1" TARGET="_top">Snell, 1941</a> p.242).
 <sup><a href="notes.shtml#19" TARGET="_top">19</a></sup>
-With over three thousand independent loci identified as of 1993, the necessity of using 
-symbols that contain more than one letter is now obvious. In fact, the recent 
-explosion in gene and locus identifications in the mouse has brought about a re-evaluation 
-of the entire basis for the naming of chromosomal entities. At the time 
-of this writing, a final consensus has not yet been reached. Thus, investigators are 
-cautioned to contact members of the 
-<A HREF="<!--#include file='include/mgi_home.html'-->nomen/" TARGET="_top">International Committee on Standardized Nomenclature for Mice</A> 
+With over three thousand independent loci identified as of 1993, the necessity of using
+symbols that contain more than one letter is now obvious. In fact, the recent
+explosion in gene and locus identifications in the mouse has brought about a re-evaluation
+of the entire basis for the naming of chromosomal entities. At the time
+of this writing, a final consensus has not yet been reached. Thus, investigators are
+cautioned to contact members of the
+<A HREF="<!--#include file='../include/mgi_home.html'-->nomen/" TARGET="_top">International Committee on Standardized Nomenclature for Mice</A>
 before settling on a name for a new genetic entity.
 
-<P>Each mouse locus is given a unique name and a unique symbol. In devising 
-new names, investigators should consider their suitability for inclusion into 
-databases. Thus, names should be limited in length to fewer than 40 characters 
-(including spaces), and should not include Greek letters or Roman numerals. The 
-symbol is a highly abbreviated version of the name. In published articles, locus 
-symbols (but not names) are always set in <i>italic</i> font. Symbols always begin with a 
-letter followed by any combination of letters or Arabic numbers without internal 
-white space. In the past, symbols were typically three to eight characters in length. 
-Today, database considerations set a preferred maximum number of characters at 10, 
+<P>Each mouse locus is given a unique name and a unique symbol. In devising
+new names, investigators should consider their suitability for inclusion into
+databases. Thus, names should be limited in length to fewer than 40 characters
+(including spaces), and should not include Greek letters or Roman numerals. The
+symbol is a highly abbreviated version of the name. In published articles, locus
+symbols (but not names) are always set in <i>italic</i> font. Symbols always begin with a
+letter followed by any combination of letters or Arabic numbers without internal
+white space. In the past, symbols were typically three to eight characters in length.
+Today, database considerations set a preferred maximum number of characters at 10,
 although this rule is frequently broken.
 
-<P>Loci that are members of a related series of some kind are given the same 
-primary stem and symbol followed by a distinguishing number or letter. Thus, the 
-third esterase gene to be defined is named 
-"<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" TARGET="_top">Esterase 3</A>", with the symbol 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" TARGET="_top">Es3</A></i>, and the 
-second homeo box gene cluster to be identified is named 
-"<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96181" TARGET="_top">homeo box B cluster</A>" 
-with the symbol 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96181" TARGET="_top">Hoxb</A></i>. In the past, a hyphen was often used to separate the numeral 
-designation from the body of the gene symbol, e.g. 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95442" TARGET="_top">Es-3</A></i>. This practice has now been 
-discontinued and hyphens have been deleted from all symbols except in the special 
+<P>Loci that are members of a related series of some kind are given the same
+primary stem and symbol followed by a distinguishing number or letter. Thus, the
+third esterase gene to be defined is named
+"<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95442" TARGET="_top">Esterase 3</A>", with the symbol
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95442" TARGET="_top">Es3</A></i>, and the
+second homeo box gene cluster to be identified is named
+"<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96181" TARGET="_top">homeo box B cluster</A>"
+with the symbol
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96181" TARGET="_top">Hoxb</A></i>. In the past, a hyphen was often used to separate the numeral
+designation from the body of the gene symbol, e.g.
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95442" TARGET="_top">Es-3</A></i>. This practice has now been
+discontinued and hyphens have been deleted from all symbols except in the special
 cases discussed just below.
- 
-<P>When one member of a series has been further duplicated into a closely linked 
-cluster of related genes, a number can be appended to the cluster name; individual 
-genes in the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96181" TARGET="_top">Hoxb cluster</A> will be named 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96182" TARGET="_top">homeo box B1</A>, 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96183" TARGET="_top">homeo box B2</A> etc. with 
-symbols 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96182" TARGET="_top">Hoxb1</A></i>, 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96183" TARGET="_top">Hoxb2</A></i> etc. For clusters that were initially named with an appended 
-number &#151; like 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96743" TARGET="_top">Lamb1</A></i> &#151; 
-the individual symbols can be named by appending the cluster name with a hyphen followed by a number to obtain the symbols 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96743" TARGET="_top">Lamb1-1</A></i>, 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96744" TARGET="_top">Lamb1-2</A></i>, etc.
 
-<P>All loci can be broadly separated into two classes. The first class includes loci 
-known to be functional or homologous to functional loci. With few exceptions, 
-these loci are genes or pseudogenes. The second class includes sequences identified 
-solely on the basis of DNA variation. Members of this latter class are referred to as 
-<A HREF="../glossary.shtml#Anonymous_locus" TARGET="_top">anonymous loci</A> because their function or lack thereof is unknown. The rules for 
+<P>When one member of a series has been further duplicated into a closely linked
+cluster of related genes, a number can be appended to the cluster name; individual
+genes in the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96181" TARGET="_top">Hoxb cluster</A> will be named
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96182" TARGET="_top">homeo box B1</A>,
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96183" TARGET="_top">homeo box B2</A> etc. with
+symbols
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96182" TARGET="_top">Hoxb1</A></i>,
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96183" TARGET="_top">Hoxb2</A></i> etc. For clusters that were initially named with an appended
+number &#151; like
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96743" TARGET="_top">Lamb1</A></i> &#151;
+the individual symbols can be named by appending the cluster name with a hyphen followed by a number to obtain the symbols
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96743" TARGET="_top">Lamb1-1</A></i>,
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96744" TARGET="_top">Lamb1-2</A></i>, etc.
+
+<P>All loci can be broadly separated into two classes. The first class includes loci
+known to be functional or homologous to functional loci. With few exceptions,
+these loci are genes or pseudogenes. The second class includes sequences identified
+solely on the basis of DNA variation. Members of this latter class are referred to as
+<A HREF="../glossary.shtml#Anonymous_locus" TARGET="_top">anonymous loci</A> because their function or lack thereof is unknown. The rules for
 naming each of these classes of loci follow below.
 
-<P><i>Gene names</i> should convey in a concise form, and as accurately as possible, the 
-character by which the gene is recognized. Genes can be named according to an 
-expressed phenotype 
-(<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97525" TARGET="_top">retinal degeneration</A> or 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96925" TARGET="_top">shiverer</A>), 
-an enzyme or protein name or function 
-(<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95742" TARGET="_top">glyoxalase-1</A>, 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96014" TARGET="_top">hemoglobin alpha chain</A>, or 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:101898" TARGET="_top">octamer binding transcription factor 1</A>), 
-a pattern of expression 
-(<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98640" TARGET="_top">t-complex testes-expressed-1</A>), 
-a combination of these 
-(<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97269" TARGET="_top">myosin light chain alkali-fast skeletal muscle</A>), or by homology to genes 
-characterized in other organisms 
-(<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96169" TARGET="_top">homeo box A</A>, 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96181" TARGET="_top">homeo box B</A>, etc.; 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97874" TARGET="_top">retinoblastoma</A>). Except in 
-the case of genes that are first characterized through a recessive mutation, names 
-and symbols should begin with an upper case letter. With all symbols, all letters 
+<P><i>Gene names</i> should convey in a concise form, and as accurately as possible, the
+character by which the gene is recognized. Genes can be named according to an
+expressed phenotype
+(<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97525" TARGET="_top">retinal degeneration</A> or
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96925" TARGET="_top">shiverer</A>),
+an enzyme or protein name or function
+(<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95742" TARGET="_top">glyoxalase-1</A>,
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96014" TARGET="_top">hemoglobin alpha chain</A>, or
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:101898" TARGET="_top">octamer binding transcription factor 1</A>),
+a pattern of expression
+(<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98640" TARGET="_top">t-complex testes-expressed-1</A>),
+a combination of these
+(<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97269" TARGET="_top">myosin light chain alkali-fast skeletal muscle</A>), or by homology to genes
+characterized in other organisms
+(<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96169" TARGET="_top">homeo box A</A>,
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96181" TARGET="_top">homeo box B</A>, etc.;
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97874" TARGET="_top">retinoblastoma</A>). Except in
+the case of genes that are first characterized through a recessive mutation, names
+and symbols should begin with an upper case letter. With all symbols, all letters
 that follow the initial character should be lower case.
 
-<P>Whenever a mouse gene is characterized based on homology to a gene already 
-named in another species, the mouse homolog should be given essentially the same 
-name and symbol. Of course, one should always check the mouse gene databases (see 
-<a href="b.shtml">Appendix B</a>) to be certain that the symbol has not already been assigned. In the 
-translation from human to mouse symbols, characters beyond the first should be 
+<P>Whenever a mouse gene is characterized based on homology to a gene already
+named in another species, the mouse homolog should be given essentially the same
+name and symbol. Of course, one should always check the mouse gene databases (see
+<a href="b.shtml">Appendix B</a>) to be certain that the symbol has not already been assigned. In the
+translation from human to mouse symbols, characters beyond the first should be
 converted from upper to lower case.
 
-<P>All <i>pseudogenes</i> are defined by homology to known genes. Their symbol is a 
-combination of the known gene name (as a stem), and the pseudogene designation 
-(<i>ps</i>) followed by a serial number. Thus, the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96017" TARGET="_top">third alpha globin pseudogene</A> 
-has been given the name 
-"<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96017" TARGET="_top">hemoglobin alpha 3 pseudogene</A>", with the symbol 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96017" TARGET="_top">Hba-ps3</A></i>.
+<P>All <i>pseudogenes</i> are defined by homology to known genes. Their symbol is a
+combination of the known gene name (as a stem), and the pseudogene designation
+(<i>ps</i>) followed by a serial number. Thus, the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96017" TARGET="_top">third alpha globin pseudogene</A>
+has been given the name
+"<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96017" TARGET="_top">hemoglobin alpha 3 pseudogene</A>", with the symbol
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96017" TARGET="_top">Hba-ps3</A></i>.
 
-<P>When new loci are uncovered by hybridization with known genes, the 
-functionality of the new locus is usually unknown. In these cases, where the locus 
-could be either a functional gene or a pseudogene, it should be named with a 
+<P>When new loci are uncovered by hybridization with known genes, the
+functionality of the new locus is usually unknown. In these cases, where the locus
+could be either a functional gene or a pseudogene, it should be named with a
 &#034;related sequence&#034; symbol (<i>rs</i>). Thus, if a new locus is uncovered by cross-
-hybridization with a probe for the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97620" TARGET="_top">Plasminogen</A> gene (symbolized 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97620" TARGET="_top">Plg</A></i>), it would be named 
-&#034;Plasminogen related sequence-1&#034; and would be symbolized as 
-<i>Plg-rs1</i>. If a 
-new locus is uncovered with a probe for one member of a series of loci, the <i>rs</i> 
-symbol is appended without the hyphen. Thus, a locus related to 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95314" TARGET="_top">Ela1</A></i> would be symbolized as 
+hybridization with a probe for the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97620" TARGET="_top">Plasminogen</A> gene (symbolized
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97620" TARGET="_top">Plg</A></i>), it would be named
+&#034;Plasminogen related sequence-1&#034; and would be symbolized as
+<i>Plg-rs1</i>. If a
+new locus is uncovered with a probe for one member of a series of loci, the <i>rs</i>
+symbol is appended without the hyphen. Thus, a locus related to
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95314" TARGET="_top">Ela1</A></i> would be symbolized as
 <i>Ela1rs1</i>.
 
-<P><i>Anonymous DNA loci</i> are named in a straightforward manner. The symbol 
-should begin with the character &#034;<i>D</i>&#034; (for DNA), followed by an integer representing 
-the chromosomal assignment, followed by a two to three letter registration code 
-representing the laboratory or scientist that described the locus, followed by a unique 
-serial number given to the locus to distinguish it from others on the same 
-chromosome described by the same investigator. For example, the twenty-third 
-anonymous locus mapped to chromosome 14 by the Pasteur Institute would be 
-given the symbol 
-<i>D14Pas23</i>. The name for this locus would include all of this 
-information in longhand form &#151; 
-&#034;DNA segment chromosome 14 Pasteur 23&#034;. This 
-DNA locus nomenclature system should be used for all loci defined only as DNA 
-segments including, but limited to, microsatellites, minisatellites and RFLPs (see 
-<a href="8-2.shtml">Chapter 8</a>). To 
-obtain a unique laboratory or investigator registration code, please contact the 
-<A HREF="http://www4.nationalacademies.org/cls/ilarhome.nsf/web/ilar_contact_information?OpenDocument" TARGET="_top">Institute for Laboratory Animal Resources</A>, 
+<P><i>Anonymous DNA loci</i> are named in a straightforward manner. The symbol
+should begin with the character &#034;<i>D</i>&#034; (for DNA), followed by an integer representing
+the chromosomal assignment, followed by a two to three letter registration code
+representing the laboratory or scientist that described the locus, followed by a unique
+serial number given to the locus to distinguish it from others on the same
+chromosome described by the same investigator. For example, the twenty-third
+anonymous locus mapped to chromosome 14 by the Pasteur Institute would be
+given the symbol
+<i>D14Pas23</i>. The name for this locus would include all of this
+information in longhand form &#151;
+&#034;DNA segment chromosome 14 Pasteur 23&#034;. This
+DNA locus nomenclature system should be used for all loci defined only as DNA
+segments including, but limited to, microsatellites, minisatellites and RFLPs (see
+<a href="8-2.shtml">Chapter 8</a>). To
+obtain a unique laboratory or investigator registration code, please contact the
+<A HREF="http://www4.nationalacademies.org/cls/ilarhome.nsf/web/ilar_contact_information?OpenDocument" TARGET="_top">Institute for Laboratory Animal Resources</A>,
 USA National Academy of Sciences, Washington, D.C.
 
-<P><i>Mouse homologs of anonymous DNA loci first mapped in humans</i> are named 
-in a somewhat different format in order to allow the connection between the two 
-species to be perfectly transparent. 
+<P><i>Mouse homologs of anonymous DNA loci first mapped in humans</i> are named
+in a somewhat different format in order to allow the connection between the two
+species to be perfectly transparent.
 
-<P>In these cases, the symbol should still begin with 
-the character &#034;<i>D</i>&#034; and the mouse chromosomal assignment, but this should now be 
-followed by the character &#034;<i>h</i>&#034;, the chromosomal assignment of the human homolog 
-and its identification number. For example, a probe to the human locus 
-<A HREF="<!--#include file='include/gdb_clone.html'-->GDB:170033" TARGET="_top">D17S111</A> &#151; 
-the 111th single copy (S) anonymous locus mapped to human chromosome 17 &#151; is 
-used to identify a mouse homolog on Chr 1. This corresponding mouse homolog 
-will now be named 
+<P>In these cases, the symbol should still begin with
+the character &#034;<i>D</i>&#034; and the mouse chromosomal assignment, but this should now be
+followed by the character &#034;<i>h</i>&#034;, the chromosomal assignment of the human homolog
+and its identification number. For example, a probe to the human locus
+<A HREF="<!--#include file='../include/gdb_clone.html'-->GDB:170033" TARGET="_top">D17S111</A> &#151;
+the 111th single copy (S) anonymous locus mapped to human chromosome 17 &#151; is
+used to identify a mouse homolog on Chr 1. This corresponding mouse homolog
+will now be named
 <i>D1h17S111</i>.
 
 <a name="3.4.4"></a><H3>3.4.4 Alleles</H3>
 
-<P>In the case of a gene defined initially by a mutant phenotype, the symbol for the 
-first defined mutant allele becomes both the gene symbol and the symbol for that 
-allele. The corresponding wild-type allele is indicated by a &#043; sign. For example, an 
-animal heterozygous at the 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" TARGET="_top">tf</A></i> 
-locus with a wild-type and the defining mutant allele would have a genotype symbolized as 
-&#043;/<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" TARGET="_top">tf</A></i>. 
-In this case, the context is sufficient to indicate the association of the &#043; symbol with the 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" TARGET="_top">tf</A></i> 
-locus. When the context is not sufficient to indicate association, the wild-type allele of a specific locus should have 
-the locus symbol appended to it as a superscript. Thus, the wild-type allele at the 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" TARGET="_top">tf</A></i> 
-locus can also be designated as 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98711" TARGET="_top">&#043;<SUP><i>tf</i></SUP></A>.
+<P>In the case of a gene defined initially by a mutant phenotype, the symbol for the
+first defined mutant allele becomes both the gene symbol and the symbol for that
+allele. The corresponding wild-type allele is indicated by a &#043; sign. For example, an
+animal heterozygous at the
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98711" TARGET="_top">tf</A></i>
+locus with a wild-type and the defining mutant allele would have a genotype symbolized as
+&#043;/<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98711" TARGET="_top">tf</A></i>.
+In this case, the context is sufficient to indicate the association of the &#043; symbol with the
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98711" TARGET="_top">tf</A></i>
+locus. When the context is not sufficient to indicate association, the wild-type allele of a specific locus should have
+the locus symbol appended to it as a superscript. Thus, the wild-type allele at the
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98711" TARGET="_top">tf</A></i>
+locus can also be designated as
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98711" TARGET="_top">&#043;<SUP><i>tf</i></SUP></A>.
 
-<P>In all other cases, alleles are designated by the locus symbol followed by an allele-defining symbol 
-that is usually one or a two characters in length and set in 
-superscript, with the entire expression set in italics. This rule also applies to mutant 
-alleles beyond the first one that are uncovered at a phenotypically defined locus. 
-For computer presentation with only ASCII (text format) code, the allele designation 
-can be set off from the locus symbol by prefixing it with a * or with angular brackets; 
-for example, 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" TARGET="_top">Hbb<SUP>d</SUP></A></i> becomes 
-<I>Hbb*d</I> or 
+<P>In all other cases, alleles are designated by the locus symbol followed by an allele-defining symbol
+that is usually one or a two characters in length and set in
+superscript, with the entire expression set in italics. This rule also applies to mutant
+alleles beyond the first one that are uncovered at a phenotypically defined locus.
+For computer presentation with only ASCII (text format) code, the allele designation
+can be set off from the locus symbol by prefixing it with a * or with angular brackets;
+for example,
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96020" TARGET="_top">Hbb<SUP>d</SUP></A></i> becomes
+<I>Hbb*d</I> or
 <I>Hbb&#060;d&#062;</I>.
 
-<P>The simplest means for assigning allele names is through a series of lower case 
-letters, beginning with <i>a</i>. Thus, the 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96018" TARGET="_top">Hba-ps4</A></i> gene has alleles 
-<i>Hba-ps4<SUP>a</SUP></i>, 
-<i>Hba-ps4<SUP>b</SUP></i>, etc. 
-In many cases, it can be useful to provide information within the allele symbol. For 
-example, a <i>M. spretus</i>-specific allele may be given the designation <I>s</I> as in 
+<P>The simplest means for assigning allele names is through a series of lower case
+letters, beginning with <i>a</i>. Thus, the
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96018" TARGET="_top">Hba-ps4</A></i> gene has alleles
+<i>Hba-ps4<SUP>a</SUP></i>,
+<i>Hba-ps4<SUP>b</SUP></i>, etc.
+In many cases, it can be useful to provide information within the allele symbol. For
+example, a <i>M. spretus</i>-specific allele may be given the designation <I>s</I> as in
 <i>DXPas4<SUP>s</SUP></i>.
-<sup><a href="notes.shtml#20" TARGET="_top">20</a></sup> 
-This type of nomenclature can be extended to alleles associated with the common 
-inbred strains such as B6 (signified by the <i>b</i> allele) and DBA (signified by the <i>d</i> allele) 
+<sup><a href="notes.shtml#20" TARGET="_top">20</a></sup>
+This type of nomenclature can be extended to alleles associated with the common
+inbred strains such as B6 (signified by the <i>b</i> allele) and DBA (signified by the <i>d</i> allele)
 as well as the subspecies <i>musculus</i> (<i>m</i>), <i>castaneus</i> (<i>c</i>), and <i>domesticus</i> (<i>d</i>).
 
-<P>New &#034;random&#034; mutations &#151; at previously characterized genes are denoted by a superscript <i>m</i> followed by a serial number and the 
-1-3 letter code representing the laboratory or scientist that described the 
-new allele. When specific mutations are generated by the gene targeting technologies (see 
-<a href="6-4.shtml#6.4">Section 6.4</a>), 
-the same nomenclature applies except that the superscript <i>m</i> is proceeded by a superscript <i>t</i>. 
-Thus, the third knockout allele created at Princeton University by gene 
-targeting at the 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88388" TARGET="_top">Cftr</A></i> locus would be designated as 
-<i>Cftr<SUP>tm3Pri</SUP></i>. To obtain a unique 
-laboratory or investigator registration code, please contact the 
-<A HREF="http://www4.nationalacademies.org/cls/ilarhome.nsf/web/ilar_contact_information?OpenDocument" TARGET="_top">Institute for Laboratory Animal Resources</A>, 
+<P>New &#034;random&#034; mutations &#151; at previously characterized genes are denoted by a superscript <i>m</i> followed by a serial number and the
+1-3 letter code representing the laboratory or scientist that described the
+new allele. When specific mutations are generated by the gene targeting technologies (see
+<a href="6-4.shtml#6.4">Section 6.4</a>),
+the same nomenclature applies except that the superscript <i>m</i> is proceeded by a superscript <i>t</i>.
+Thus, the third knockout allele created at Princeton University by gene
+targeting at the
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:88388" TARGET="_top">Cftr</A></i> locus would be designated as
+<i>Cftr<SUP>tm3Pri</SUP></i>. To obtain a unique
+laboratory or investigator registration code, please contact the
+<A HREF="http://www4.nationalacademies.org/cls/ilarhome.nsf/web/ilar_contact_information?OpenDocument" TARGET="_top">Institute for Laboratory Animal Resources</A>,
 USA National Academy of Sciences, Washington, D.C.
 
 <a name="3.4.5"></a><H3>3.4.5 Transgene loci</H3>
 
-<P>The experimental introduction of foreign DNA into the germ line of a mouse 
-results in the creation of a new <i>transgene</i> locus at the site of integration. The official 
-symbol for a transgene locus has five parts. First is the designation <i>Tg</i> for transgene. 
-Second is a letter indicating the mode by which the transgene was inserted; <i>N</i> is 
-used for nonhomologous insertion, <i>R</i> for insertion with a retroviral vector, and <i>H</i> 
-for homologous recombination. With the standard production of transgenic mice 
-by embryo injection, <i>N</i> would be used; with homologous recombination in 
-embryonal stem cells followed by 
-<A HREF="../glossary.shtml#Chimera" TARGET="_top">chimera</A> formation to rescue the transgene into 
-the germ line, <i>H</i> would be used; for transgenic animals produced by retroviral 
+<P>The experimental introduction of foreign DNA into the germ line of a mouse
+results in the creation of a new <i>transgene</i> locus at the site of integration. The official
+symbol for a transgene locus has five parts. First is the designation <i>Tg</i> for transgene.
+Second is a letter indicating the mode by which the transgene was inserted; <i>N</i> is
+used for nonhomologous insertion, <i>R</i> for insertion with a retroviral vector, and <i>H</i>
+for homologous recombination. With the standard production of transgenic mice
+by embryo injection, <i>N</i> would be used; with homologous recombination in
+embryonal stem cells followed by
+<A HREF="../glossary.shtml#Chimera" TARGET="_top">chimera</A> formation to rescue the transgene into
+the germ line, <i>H</i> would be used; for transgenic animals produced by retroviral
 infection of embryos, <i>R</i> would be used.
 
-<P>The third part of the symbol contains a mnemonic, of six characters or fewer, that 
-describes the salient features of the transgene insert written within parentheses. If 
-the insert includes a defined gene, the gene symbol should be incorporated into the 
-mnemonic without hyphens. Other standard abbreviations for use within the 
-mnemonic include: <i>An</i> for anonymous sequence; <i>Nc</i> for noncoding sequence; <i>Rp</i> 
-for reporter sequence; <i>Et</i> for enhancer trap; <i>Pt</i> for promoter trap; and <i>Sn</i> for synthetic 
-sequence. The fourth part of the symbol is an investigator-assigned 1-5 digit 
-number. The fifth and last part is the laboratory code. An example of this 
-nomenclature is as follows. Castle has injected mouse embryos with a construct 
-containing the 
-<i>Pgk2</i> coding sequence as a reporter. He names the transgene locus 
-present in the fourth line that he recovers 
+<P>The third part of the symbol contains a mnemonic, of six characters or fewer, that
+describes the salient features of the transgene insert written within parentheses. If
+the insert includes a defined gene, the gene symbol should be incorporated into the
+mnemonic without hyphens. Other standard abbreviations for use within the
+mnemonic include: <i>An</i> for anonymous sequence; <i>Nc</i> for noncoding sequence; <i>Rp</i>
+for reporter sequence; <i>Et</i> for enhancer trap; <i>Pt</i> for promoter trap; and <i>Sn</i> for synthetic
+sequence. The fourth part of the symbol is an investigator-assigned 1-5 digit
+number. The fifth and last part is the laboratory code. An example of this
+nomenclature is as follows. Castle has injected mouse embryos with a construct
+containing the
+<i>Pgk2</i> coding sequence as a reporter. He names the transgene locus
+present in the fourth line that he recovers
 <i>TgN(RpPgk2)4Cas</i>.
 
-<P>When the insertion of a transgene at a particular site results in a new mutation 
-through the disruption of a gene present normally in the genome, this mutation 
-should be named independently of the transgene locus itself. The rationale for this 
-rule is that the contents of the transgene are independent of the locus uncovered 
-through insertional mutagenesis. However, the mutant allele associated with the 
-transgene should incorporate the transgene symbol as the superscripted allele 
-designation. For example, if Castle's construct became inserted into the 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" TARGET="_top">Hbb</A></i> locus in 
-the fifth line that he derived, the new 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96020" TARGET="_top">Hbb</A></i> allele that was created would be called 
-<i>Hbb<SUP>TgNrpPgk25Cas</SUP></i>. 
-Notice that the parentheses have been removed from the allele 
-symbol. If a new mutation has been induced at a previously unidentified locus, the 
+<P>When the insertion of a transgene at a particular site results in a new mutation
+through the disruption of a gene present normally in the genome, this mutation
+should be named independently of the transgene locus itself. The rationale for this
+rule is that the contents of the transgene are independent of the locus uncovered
+through insertional mutagenesis. However, the mutant allele associated with the
+transgene should incorporate the transgene symbol as the superscripted allele
+designation. For example, if Castle's construct became inserted into the
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96020" TARGET="_top">Hbb</A></i> locus in
+the fifth line that he derived, the new
+<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96020" TARGET="_top">Hbb</A></i> allele that was created would be called
+<i>Hbb<SUP>TgNrpPgk25Cas</SUP></i>.
+Notice that the parentheses have been removed from the allele
+symbol. If a new mutation has been induced at a previously unidentified locus, the
 mutant phenotype should be used to name the new locus.
 
 <a name="3.4.6"></a><H3>3.4.6 Further details</H3>
 
-<P>In this section, I have only touched upon those issues of nomenclature that will 
-be of most concern to the majority of molecular biologists involved in studies of the 
-mouse genome. In fact, the nomenclature rules developed for the mouse are rather 
-extensive and are discussed in much greater detail in the Lyon and Searle 
-compendium 
-(<a href="../references.shtml#Committee1" TARGET="_top">Committee on Standardized Genetic Nomenclature for Mice, 1989</a>), 
-with additions and changes published regularly in <i>Mouse Genome</i>. As a final note, 
-one must keep in mind that mouse genetic nomenclature will continue to evolve 
-with the field as a whole. As new types of genetic elements and inter-relationships 
-are uncovered, it will be the charge of the Nomenclature Committee to keep the 
+<P>In this section, I have only touched upon those issues of nomenclature that will
+be of most concern to the majority of molecular biologists involved in studies of the
+mouse genome. In fact, the nomenclature rules developed for the mouse are rather
+extensive and are discussed in much greater detail in the Lyon and Searle
+compendium
+(<a href="../references.shtml#Committee1" TARGET="_top">Committee on Standardized Genetic Nomenclature for Mice, 1989</a>),
+with additions and changes published regularly in <i>Mouse Genome</i>. As a final note,
+one must keep in mind that mouse genetic nomenclature will continue to evolve
+with the field as a whole. As new types of genetic elements and inter-relationships
+are uncovered, it will be the charge of the Nomenclature Committee to keep the
 rules internally consistent and up to date.<BR>
-<I>See also the 
-<A HREF="<!--#include file='include/mgi_home.html'-->nomen/table.shtml" TARGET="_top">Nomenclature Rules and Guidelines</A> at MGI</I>.
+<I>See also the
+<A HREF="<!--#include file='../include/mgi_home.html'-->nomen/table.shtml" TARGET="_top">Nomenclature Rules and Guidelines</A> at MGI</I>.
 
 <DIV Align="center"><H4> <A HREF="3-3.shtml">Previous</A> <A HREF="3-5.shtml">Next</A></H4></DIV>
 <PRE>

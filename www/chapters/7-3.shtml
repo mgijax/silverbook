@@ -10,175 +10,175 @@
 
 <a name="7.3"></a><H2>7.3 GENERAL STRATAGIES FOR MAPPING MOUSE LOCI</H2>
 
-<P>How should one go about performing a mapping project? The answer to this question will be determined by the nature of the problem at hand. 
-Is there a particular locus, or loci, of interest that you wish to map? If so, at what level is the locus defined, and at what resolution do 
-you wish to map it? Is the locus associated with a DNA clone, a protein-based polymorphism, or a gross phenotype visible only in the context 
-of the whole animal? Are you interested in mapping a transgene insertion site unique to a single line of animals? Do you have a new mutation 
-found in the offspring from a mutagenesis experiment? Alternatively, are you isolating clones to be used as potential DNA markers for a specific 
-chromosome or subchromosomal region with the need to know simply whether each clone maps to the correct chromosome or not? The answers to 
+<P>How should one go about performing a mapping project? The answer to this question will be determined by the nature of the problem at hand.
+Is there a particular locus, or loci, of interest that you wish to map? If so, at what level is the locus defined, and at what resolution do
+you wish to map it? Is the locus associated with a DNA clone, a protein-based polymorphism, or a gross phenotype visible only in the context
+of the whole animal? Are you interested in mapping a transgene insertion site unique to a single line of animals? Do you have a new mutation
+found in the offspring from a mutagenesis experiment? Alternatively, are you isolating clones to be used as potential DNA markers for a specific
+chromosome or subchromosomal region with the need to know simply whether each clone maps to the correct chromosome or not? The answers to
 these questions will lead to the choice of a general mapping strategy.
 
 <a name="7.3.1"></a><H3>7.3.1 Novel DNA clones</H3>
 
-<P>Gene cloning has become a standard tool for analysis by biologists of all types from those studying protein transport across cell organelles 
-to those interested in the development of the nervous system. Genes are often cloned based on function or pattern of expression. With a cloned 
-gene in hand, how does one determine its location in the genome? Today, the answer to this question is always through the use of an established 
-mapping panel as described at length in 
-<A HREF="9-1.shtml">Chapter 9</A>. Mapping with established panels is 
-relatively painless and very quick. Furthermore, it can provide the investigator with a highly accurate location within a single chromosome 
-of the mouse genome. With these results in hand, it is always worthwhile to determine whether the newly mapped clone could correspond to a 
-locus previously defined by a related trait or disease phenotype. This can be accomplished by consulting the most recent version of the genetic 
-map for the region of interest. Maps and further genetic information for each mouse chromosome are prepared annually in reports by individual 
-mouse chromosome committees. These reports are published together as a compendium in a special issue of <i>Mammalian Genome</i>. This information 
-is also available electronically from the Jackson Laboratory (see 
-<A HREF="b.shtml">Appendix B</A>). If a relationship is suspected between a cloned locus and a 
-phenotypically defined locus, further genetic studies of the type described in 
+<P>Gene cloning has become a standard tool for analysis by biologists of all types from those studying protein transport across cell organelles
+to those interested in the development of the nervous system. Genes are often cloned based on function or pattern of expression. With a cloned
+gene in hand, how does one determine its location in the genome? Today, the answer to this question is always through the use of an established
+mapping panel as described at length in
+<A HREF="9-1.shtml">Chapter 9</A>. Mapping with established panels is
+relatively painless and very quick. Furthermore, it can provide the investigator with a highly accurate location within a single chromosome
+of the mouse genome. With these results in hand, it is always worthwhile to determine whether the newly mapped clone could correspond to a
+locus previously defined by a related trait or disease phenotype. This can be accomplished by consulting the most recent version of the genetic
+map for the region of interest. Maps and further genetic information for each mouse chromosome are prepared annually in reports by individual
+mouse chromosome committees. These reports are published together as a compendium in a special issue of <i>Mammalian Genome</i>. This information
+is also available electronically from the Jackson Laboratory (see
+<A HREF="b.shtml">Appendix B</A>). If a relationship is suspected between a cloned locus and a
+phenotypically defined locus, further genetic studies of the type described in
 <A HREF="9-1.shtml">Chapter 9</A> should be pursued.
 
 <a name="7.3.2"></a><H3>7.3.2 Transgene insertion sites</H3>
 
-<P>Transgene insertion sites are unique in that the inserted foreign sequence is present in its particular genomic location only in the founder 
-of the transgenic line and those descendants to which the transgene has been transmitted. This uniqueness rules out the use of mapping panels 
-for analysis when only the transgene itself is available as a probe. There are several general approaches to the mapping of transgene insertion 
-sites, and each has advantages and disadvantages. The first approach is <i>in situ</i> hybridization 
-(<A HREF="10-2.shtml">Section 10.2</A>). The first advantage here is that the actual DNA used for embryo injection can now be used as a probe 
-for mapping. Thus, one avoids the need to clone endogenous sequences that flank the insertion site in each and every founder line to be analyzed. 
-A second advantage is that the analysis can be performed on a single animal and there is no need to carry out extensive crosses. The main disadvantage 
+<P>Transgene insertion sites are unique in that the inserted foreign sequence is present in its particular genomic location only in the founder
+of the transgenic line and those descendants to which the transgene has been transmitted. This uniqueness rules out the use of mapping panels
+for analysis when only the transgene itself is available as a probe. There are several general approaches to the mapping of transgene insertion
+sites, and each has advantages and disadvantages. The first approach is <i>in situ</i> hybridization
+(<A HREF="10-2.shtml">Section 10.2</A>). The first advantage here is that the actual DNA used for embryo injection can now be used as a probe
+for mapping. Thus, one avoids the need to clone endogenous sequences that flank the insertion site in each and every founder line to be analyzed.
+A second advantage is that the analysis can be performed on a single animal and there is no need to carry out extensive crosses. The main disadvantage
 is the specialized nature of the <i>in situ</i> technique as mentioned previously.
 
-<P>A second approach is to clone genomic sequences that flank the inserted DNA from each founder line of interest. Once a flanking sequence is 
-obtained, it can be analyzed like any other novel DNA sequence with the use of mapping panels as described in 
-<A HREF="9-3.shtml">Section 9.3</A>. The advantage to this 
-approach is that it requires only standard molecular biology protocols. The disadvantage is that an additional cloning step is required for each 
-founder line. Cloning endogenous sequences may be complicated by the chaotic nature of most transgene insertion events, which often have multiple copies 
+<P>A second approach is to clone genomic sequences that flank the inserted DNA from each founder line of interest. Once a flanking sequence is
+obtained, it can be analyzed like any other novel DNA sequence with the use of mapping panels as described in
+<A HREF="9-3.shtml">Section 9.3</A>. The advantage to this
+approach is that it requires only standard molecular biology protocols. The disadvantage is that an additional cloning step is required for each
+founder line. Cloning endogenous sequences may be complicated by the chaotic nature of most transgene insertion events, which often have multiple copies
 of the transgene sequence intermingled with endogenous sequences.
 
-<P>A third approach is to follow the segregation of the transgene in relation to DNA markers that span the mouse genome in a standard backcross 
-or intercross analysis as described in 
-<A HREF="9-4.shtml">Section 9.4</A>. The advantages to this approach are that only standard molecular biology protocols are 
-required and there is no need for any cloning of endogenous sequences. The main disadvantage is the time and expense of generating and typing 
+<P>A third approach is to follow the segregation of the transgene in relation to DNA markers that span the mouse genome in a standard backcross
+or intercross analysis as described in
+<A HREF="9-4.shtml">Section 9.4</A>. The advantages to this approach are that only standard molecular biology protocols are
+required and there is no need for any cloning of endogenous sequences. The main disadvantage is the time and expense of generating and typing
 a novel mouse mapping panel for each transgenic line.
 
-<P>The choice of a mapping approach will be highly dependent on what is viewed as common practice in each investigator's laboratory. If 
-one has access to the <i>in situ</i> hybridization technology, this will be the fastest and least expensive approach. If genomic library production 
-and screening are commonly performed protocols, then the second approach would likely be the best one to follow. Finally, if an investigator has 
+<P>The choice of a mapping approach will be highly dependent on what is viewed as common practice in each investigator's laboratory. If
+one has access to the <i>in situ</i> hybridization technology, this will be the fastest and least expensive approach. If genomic library production
+and screening are commonly performed protocols, then the second approach would likely be the best one to follow. Finally, if an investigator has
 an active breeding program and is facile at producing and analyzing large panels of mice, the third approach might be the easiest to follow.
 
 <a name="7.3.3"></a><H3>7.3.3 Verification of region-specific DNA markers</H3>
 
-<P>When investigators are interested in the genetic analysis of a particular chromosome or subchromosomal region, they often begin by screening a 
-specialized library that is enriched for clones from the region of interest 
-(<A HREF="8-4.shtml">Section 8.4</A>). In such cases, initial genetic mapping is limited to the question of whether a cloned sequence localizes 
-to this region or not. The most efficient way to answer this question for a large number of clones is through the analysis of one or a few somatic 
-cell hybrid lines that contain the chromosome of interest within the genetic background of another <i>host</i> species as described in 
-<A HREF="10-2.shtml">Section 10.2</A>. In the simplest cases, hybridization to a blot that contains gel-separated, restriction enzyme-digested DNA from three samples &#151; 
-mouse, the somatic cell hybrid line, and a cell line from the somatic cell host species &#151; will provide the answer. Clones that are found to map to 
+<P>When investigators are interested in the genetic analysis of a particular chromosome or subchromosomal region, they often begin by screening a
+specialized library that is enriched for clones from the region of interest
+(<A HREF="8-4.shtml">Section 8.4</A>). In such cases, initial genetic mapping is limited to the question of whether a cloned sequence localizes
+to this region or not. The most efficient way to answer this question for a large number of clones is through the analysis of one or a few somatic
+cell hybrid lines that contain the chromosome of interest within the genetic background of another <i>host</i> species as described in
+<A HREF="10-2.shtml">Section 10.2</A>. In the simplest cases, hybridization to a blot that contains gel-separated, restriction enzyme-digested DNA from three samples &#151;
+mouse, the somatic cell hybrid line, and a cell line from the somatic cell host species &#151; will provide the answer. Clones that are found to map to
 the region of interest can then be analyzed in more detail with mapping panels or other genetic tools developed for the particular project.
 
 <a name="7.3.4"></a><H3>7.3.4 Loci defined by polypeptide products</H3>
 
-<P>In some cases, even today, the protein product of a locus may be identified before the locus itself is cloned. If the protein is truly of interest, 
-it is likely that this state will be a temporary one, since numerous protocols have been devised to proceed backwards from a protein product to its 
-coding sequence in the genome. Nevertheless, it is sometimes possible to map the gene which encodes a defined protein before a DNA clone becomes available. 
-If the protein is associated with an enzymatic activity that is expressed constitutively &#151; a so-called housekeeping function &#151; it is often possible to 
-assay for its expression among a panel of somatic cell hybrid lines, each of which contains a defined subset of mouse chromosomes as described in 
-<A HREF="10-2.shtml">Section 10.2</A>. As long as the mouse enzyme is generally expressed in somatic cells and is distinguishable from the homologous protein 
-produced by the host species used to construct the somatic cell hybrid panel, a chromosomal assignment can be attained. Following along this line of analysis, 
-subchromosomal mapping can be performed when somatic cell hybrid lines are available that contain defined segments of the chromosome in question. However, in 
+<P>In some cases, even today, the protein product of a locus may be identified before the locus itself is cloned. If the protein is truly of interest,
+it is likely that this state will be a temporary one, since numerous protocols have been devised to proceed backwards from a protein product to its
+coding sequence in the genome. Nevertheless, it is sometimes possible to map the gene which encodes a defined protein before a DNA clone becomes available.
+If the protein is associated with an enzymatic activity that is expressed constitutively &#151; a so-called housekeeping function &#151; it is often possible to
+assay for its expression among a panel of somatic cell hybrid lines, each of which contains a defined subset of mouse chromosomes as described in
+<A HREF="10-2.shtml">Section 10.2</A>. As long as the mouse enzyme is generally expressed in somatic cells and is distinguishable from the homologous protein
+produced by the host species used to construct the somatic cell hybrid panel, a chromosomal assignment can be attained. Following along this line of analysis,
+subchromosomal mapping can be performed when somatic cell hybrid lines are available that contain defined segments of the chromosome in question. However, in
 most cases, the level of mapping resolution will still be quite low.
 
-<P>Linkage analysis can only be performed in those cases where different strains of mice are found to express distinguishable allelic forms of the protein. 
-Protein polymorphisms are detectable in a number of different ways. In the earliest pre-recombinant DNA studies, assays were developed to detect specific 
-enzymatic activities within mixtures of cellular proteins that had been separated by starch gel electrophoresis. Allelic differences involving charged amino 
-acids caused enzyme molecules to migrate with different mobilities in a starch gel and the <i>in situ</i> detection system allowed the visualization of these 
+<P>Linkage analysis can only be performed in those cases where different strains of mice are found to express distinguishable allelic forms of the protein.
+Protein polymorphisms are detectable in a number of different ways. In the earliest pre-recombinant DNA studies, assays were developed to detect specific
+enzymatic activities within mixtures of cellular proteins that had been separated by starch gel electrophoresis. Allelic differences involving charged amino
+acids caused enzyme molecules to migrate with different mobilities in a starch gel and the <i>in situ</i> detection system allowed the visualization of these
 alternative enzyme forms which are known as &#034;isozymes.&#034;
 
-<P>A more general approach to detecting allelic charge differences in proteins relies on the technique of isoelectric focusing, usually within the context of 
-a two-dimensional polyacrylamide gel where the second dimension involves a molecular weight-based separation with SDS (O'Farrell, 1975). High resolution 
-two-dimensional gel electrophoresis can resolve up to 2,000 polypeptide spots from whole cell extracts 
-(<A HREF="../references.shtml#Garrels1" TARGET="_top">Garrels, 1983</A>). Although this approach to mapping has been used with success in the past 
-(<A HREF="../references.shtml#Elliott1" TARGET="_top">Elliott, 1979</A>; 
-<A HREF="../references.shtml#Silver9" TARGET="_top">Silver et al., 1983</A>), in most cases it is rather tedious since a separate two-stage gel must be run for each animal to be 
-typed. However, when the sample size is small, for example, with two members of a congenic pair, a two-dimensional search for polypeptide polymorphisms becomes 
-much more feasible 
+<P>A more general approach to detecting allelic charge differences in proteins relies on the technique of isoelectric focusing, usually within the context of
+a two-dimensional polyacrylamide gel where the second dimension involves a molecular weight-based separation with SDS (O'Farrell, 1975). High resolution
+two-dimensional gel electrophoresis can resolve up to 2,000 polypeptide spots from whole cell extracts
+(<A HREF="../references.shtml#Garrels1" TARGET="_top">Garrels, 1983</A>). Although this approach to mapping has been used with success in the past
+(<A HREF="../references.shtml#Elliott1" TARGET="_top">Elliott, 1979</A>;
+<A HREF="../references.shtml#Silver9" TARGET="_top">Silver et al., 1983</A>), in most cases it is rather tedious since a separate two-stage gel must be run for each animal to be
+typed. However, when the sample size is small, for example, with two members of a congenic pair, a two-dimensional search for polypeptide polymorphisms becomes
+much more feasible
 (<A HREF="../references.shtml#Silver9" TARGET="_top">Silver et al., 1983</A>).
 
-<P>A special class of polypeptide polymorphisms are those that are detected as antigenic differences through any of a variety of immunological assays. Most 
-immunoassays are quick and easy to perform and this allows the rapid mapping of genes that encode polymorphic antigens. A variety of other biochemical differences 
-can result from alternative alleles at some loci, such as differences in enzyme kinetics. Any easily assayed difference can be exploited to map the underlying gene. 
+<P>A special class of polypeptide polymorphisms are those that are detected as antigenic differences through any of a variety of immunological assays. Most
+immunoassays are quick and easy to perform and this allows the rapid mapping of genes that encode polymorphic antigens. A variety of other biochemical differences
+can result from alternative alleles at some loci, such as differences in enzyme kinetics. Any easily assayed difference can be exploited to map the underlying gene.
 Finally, in those cases where no polymorphism is detected, it makes sense to wait for a clone of the gene that can be used as a direct tool for mapping.
 
 <a name="7.3.5"></a><H3>7.3.5 Mutant phenotypes</H3>
 
-<P>For loci defined by phenotype alone, rapid mapping is usually not possible. Interest in the new phenotype is likely to lie within its novelty and, as such, 
-the parental strains used in all standard mapping panels are almost certain to be wild-type at the guilty locus. Thus, a broad-based recombinational analysis 
-can be accomplished only by starting from scratch with a cross between mutant animals and a standard strain. Before one embarks on such a large-scale effort, 
-it makes sense to consider whether the mutant phenotype, or the manner in which it was derived, can provide any clues to the location of the underlying mutation. 
-Is the mutant phenotype similar to one that has been previously described in the literature? Does the nature of the phenotype provide insight into a possible 
+<P>For loci defined by phenotype alone, rapid mapping is usually not possible. Interest in the new phenotype is likely to lie within its novelty and, as such,
+the parental strains used in all standard mapping panels are almost certain to be wild-type at the guilty locus. Thus, a broad-based recombinational analysis
+can be accomplished only by starting from scratch with a cross between mutant animals and a standard strain. Before one embarks on such a large-scale effort,
+it makes sense to consider whether the mutant phenotype, or the manner in which it was derived, can provide any clues to the location of the underlying mutation.
+Is the mutant phenotype similar to one that has been previously described in the literature? Does the nature of the phenotype provide insight into a possible
 biochemical or molecular lesion?
 
-<P>The most efficient way to begin a search for potentially-related loci is to search through the detailed compilation of mouse loci and their effects in the 
-Mouse Locus Catalog (MLC) published in the <i>Genetic Variants and Strains of the Laboratory Mouse</i> 
-(<A HREF="../references.shtml#Lyon2" TARGET="_top">Lyon and Searle, 1989</A>) 
-and available on-line through an Internet Gopher Hole at the 
-<A HREF="<!--#include file='include/mgi_mlc.html'-->" TARGET="_top">Jackson Laboratory</A> 
-(see <A HREF="b.shtml">Appendix B</A>). It is also worthwhile to consult the human equivalent of MLC called 
-<i>Mendelian Inheritance in Man</i> and edited by 
-<A HREF="../references.shtml#McKusick1" TARGET="_top">Victor McKusick (1988)</A>. 
-This database is also available on-line (and called 
-<A HREF="http://www3.ncbi.nlm.nih.gov/Omim/" TARGET="_top">OMIM</A>) 
-through the Gopher Hole at the 
-<A HREF="http://gdbwww.gdb.org/gdb/" TARGET="_top">Genome Database</A> maintained at Johns Hopkins University (see 
-<A HREF="b.shtml">Appendix B</A>). Phenotypically related loci can be uncovered by searching each of these electronic databases for the appearance of well-chosen 
-keywords. Finally, one can carry out a computerized on-line search through the entire biomedical literature. Once again, this search need not be confined to the 
+<P>The most efficient way to begin a search for potentially-related loci is to search through the detailed compilation of mouse loci and their effects in the
+Mouse Locus Catalog (MLC) published in the <i>Genetic Variants and Strains of the Laboratory Mouse</i>
+(<A HREF="../references.shtml#Lyon2" TARGET="_top">Lyon and Searle, 1989</A>)
+and available on-line through an Internet Gopher Hole at the
+<A HREF="<!--#include file='../include/mgi_mlc.html'-->" TARGET="_top">Jackson Laboratory</A>
+(see <A HREF="b.shtml">Appendix B</A>). It is also worthwhile to consult the human equivalent of MLC called
+<i>Mendelian Inheritance in Man</i> and edited by
+<A HREF="../references.shtml#McKusick1" TARGET="_top">Victor McKusick (1988)</A>.
+This database is also available on-line (and called
+<A HREF="http://www3.ncbi.nlm.nih.gov/Omim/" TARGET="_top">OMIM</A>)
+through the Gopher Hole at the
+<A HREF="http://gdbwww.gdb.org/gdb/" TARGET="_top">Genome Database</A> maintained at Johns Hopkins University (see
+<A HREF="b.shtml">Appendix B</A>). Phenotypically related loci can be uncovered by searching each of these electronic databases for the appearance of well-chosen
+keywords. Finally, one can carry out a computerized on-line search through the entire biomedical literature. Once again, this search need not be confined to the
 mouse since similarity to a human phenotype can be informative as well.
 
-<P>When a possible relationship with a previously characterized locus is uncovered, genetic studies should be directed at proving or disproving identity. This is 
-most readily accomplished when the previously characterized locus &#151; either human or mouse &#151; has already been cloned. A clone can be used to investigate the 
-possibility of aberrant expression from mice that express the new mutation. And with the strategies described in 
-<A HREF="9-4.shtml">Section 9.4</A>, one can follow the segregation of 
-the cloned locus in animals that segregate the new mutation. Absolute linkage would provide evidence in support of an identity between the new mutation and the 
+<P>When a possible relationship with a previously characterized locus is uncovered, genetic studies should be directed at proving or disproving identity. This is
+most readily accomplished when the previously characterized locus &#151; either human or mouse &#151; has already been cloned. A clone can be used to investigate the
+possibility of aberrant expression from mice that express the new mutation. And with the strategies described in
+<A HREF="9-4.shtml">Section 9.4</A>, one can follow the segregation of
+the cloned locus in animals that segregate the new mutation. Absolute linkage would provide evidence in support of an identity between the new mutation and the
 previously characterized locus.
 
-<P>Even if the previously characterized mutant locus has not yet been cloned, it may still be possible to test a relationship between it and the newly defined 
-mutation. If the earlier mutation exists in a mouse strain that is still alive (or frozen), it becomes possible to carry out classical complementation analysis. 
-This analysis is performed by breeding together animals that carry each mutation and examining the phenotype of offspring that receive both. If the two mutations &#151; 
-<i>m1</i> and <i>m2</i>, for example &#151; are at different loci, then the double mutant animals will have a genotype of (&#043;/<i>m1</i>, &#043;/<i>m2</i>). If both 
-mutations express a recessive phenotype, then this double mutant animal, with wild-type alleles at both loci, would appear wild-type; this would be an example 
-of complementation. On the other hand, if the two mutations are at the same locus, then the double mutant animal would have a compound heterozygous genotype of 
-<i>m1</i>/<i>m2</i>. Without any wild-type allele at this single locus, one would expect to see expression of a mutant phenotype; this would be an example of 
+<P>Even if the previously characterized mutant locus has not yet been cloned, it may still be possible to test a relationship between it and the newly defined
+mutation. If the earlier mutation exists in a mouse strain that is still alive (or frozen), it becomes possible to carry out classical complementation analysis.
+This analysis is performed by breeding together animals that carry each mutation and examining the phenotype of offspring that receive both. If the two mutations &#151;
+<i>m1</i> and <i>m2</i>, for example &#151; are at different loci, then the double mutant animals will have a genotype of (&#043;/<i>m1</i>, &#043;/<i>m2</i>). If both
+mutations express a recessive phenotype, then this double mutant animal, with wild-type alleles at both loci, would appear wild-type; this would be an example
+of complementation. On the other hand, if the two mutations are at the same locus, then the double mutant animal would have a compound heterozygous genotype of
+<i>m1</i>/<i>m2</i>. Without any wild-type allele at this single locus, one would expect to see expression of a mutant phenotype; this would be an example of
 non-complementation.
 
-<P>Even if the previously characterized mutation is extinct, it may still be possible to use its previously determined map position as a test for the possibility 
-that it did lie at the same locus as the newly uncovered mutation. This is accomplished by following the transmission to offspring of the newly uncovered mutation 
-along with a polymorphic DNA marker that maps close to the previously determined mutant map position (methods for identifying appropriate DNA markers are discussed in 
-<A HREF="8-1.shtml">Chapter 8</A>). Close linkage between the new mutation and a DNA marker for the old mutation would suggest, although not prove, that the two 
+<P>Even if the previously characterized mutation is extinct, it may still be possible to use its previously determined map position as a test for the possibility
+that it did lie at the same locus as the newly uncovered mutation. This is accomplished by following the transmission to offspring of the newly uncovered mutation
+along with a polymorphic DNA marker that maps close to the previously determined mutant map position (methods for identifying appropriate DNA markers are discussed in
+<A HREF="8-1.shtml">Chapter 8</A>). Close linkage between the new mutation and a DNA marker for the old mutation would suggest, although not prove, that the two
 mutations occurred at the same locus.
 
-<P>Finally, a similar approach can often be followed when the previously characterized mutation is uncloned but mapped in the human genome rather than the mouse. 
-Most regions of the human genome have been associated with homologous regions in the mouse genome 
-(<A HREF="../references.shtml#Copeland2" TARGET="_top">Copeland et al., 1993</A>; 
-<A HREF="../references.shtml#O_Brien1" TARGET="_top">O'Brien et al., 1993</A>). Thus, one can 
-choose DNA markers from the region (or regions) of the mouse genome that is likely to carry the mouse gene showing homology to the mutant human locus. These 
+<P>Finally, a similar approach can often be followed when the previously characterized mutation is uncloned but mapped in the human genome rather than the mouse.
+Most regions of the human genome have been associated with homologous regions in the mouse genome
+(<A HREF="../references.shtml#Copeland2" TARGET="_top">Copeland et al., 1993</A>;
+<A HREF="../references.shtml#O_Brien1" TARGET="_top">O'Brien et al., 1993</A>). Thus, one can
+choose DNA markers from the region (or regions) of the mouse genome that is likely to carry the mouse gene showing homology to the mutant human locus. These
 markers can then be tested for linkage to the new mouse mutation. Again, the data would be only suggestive of an association.
 
-<P>In some cases, new mutations will be found to be associated with gross chromosomal aberrations. This is especially likely to be the case if the new mutation 
-was first observed in the offspring from a specific mutagenesis study. Two mutagenic agents in particular &#151; X-irradiation and the chemical chlorambucil &#151; 
-often cause chromosomal rearrangements 
-(<A HREF="6-1.shtml">Section 6.1</A>). Rearrangements can also occur spontaneously and when the mutant line is difficult 
-to breed, this provides a hint that this might indeed be the case. In any case where the suspicion of a chromosomal abnormality exists, it is worthwhile analyzing 
-the karyotype of the mutant animals. The observation of an aberrant chromosome &#151; with a visible deletion, inversion, or translocation &#151; should be followed up 
-by a small breeding study to determine if the aberration shows complete linkage to the mutant phenotype. If it does, one can be almost certain that the mutation 
-is associated with the aberration in some way. If the chromosomal aberration is a deletion, the mutant gene is likely to lie within the deleted region. With a 
-translocation or inversion, the mutant phenotype is likely to be due to the disruption of a gene at a breakpoint. In all cases, the next step would be to perform 
-linkage analysis with DNA markers that have been mapped close to the sites affected by the chromosomal aberration. The aberration itself may also be useful later 
+<P>In some cases, new mutations will be found to be associated with gross chromosomal aberrations. This is especially likely to be the case if the new mutation
+was first observed in the offspring from a specific mutagenesis study. Two mutagenic agents in particular &#151; X-irradiation and the chemical chlorambucil &#151;
+often cause chromosomal rearrangements
+(<A HREF="6-1.shtml">Section 6.1</A>). Rearrangements can also occur spontaneously and when the mutant line is difficult
+to breed, this provides a hint that this might indeed be the case. In any case where the suspicion of a chromosomal abnormality exists, it is worthwhile analyzing
+the karyotype of the mutant animals. The observation of an aberrant chromosome &#151; with a visible deletion, inversion, or translocation &#151; should be followed up
+by a small breeding study to determine if the aberration shows complete linkage to the mutant phenotype. If it does, one can be almost certain that the mutation
+is associated with the aberration in some way. If the chromosomal aberration is a deletion, the mutant gene is likely to lie within the deleted region. With a
+translocation or inversion, the mutant phenotype is likely to be due to the disruption of a gene at a breakpoint. In all cases, the next step would be to perform
+linkage analysis with DNA markers that have been mapped close to the sites affected by the chromosomal aberration. The aberration itself may also be useful later
 as a tool for cloning the gene. This is especially true for translocations since the breakpoint will provide a distinct physical marker for the locus of interest.
 
-<P>Another possibility to consider is whether the mutation is sex-linked. This is easily demonstrated when the mutation is only transmitted to mice of one sex. 
-Sex linkage almost always means X-chromosome linkage. If the mutation is recessive, a female carrier mated to a wild-type male will produce all normal females 
-and 50% mutant males. If the mutation is dominant, a mutant male mated to a wild-type female will produce all normal males and all mutant females. Finally, if 
-all efforts to map the novel phenotype by association fail, it will be necessary to set up a new mapping cross from scratch in which DNA markers from across the 
-genome can be tested for linkage, as described in 
+<P>Another possibility to consider is whether the mutation is sex-linked. This is easily demonstrated when the mutation is only transmitted to mice of one sex.
+Sex linkage almost always means X-chromosome linkage. If the mutation is recessive, a female carrier mated to a wild-type male will produce all normal females
+and 50% mutant males. If the mutation is dominant, a mutant male mated to a wild-type female will produce all normal males and all mutant females. Finally, if
+all efforts to map the novel phenotype by association fail, it will be necessary to set up a new mapping cross from scratch in which DNA markers from across the
+genome can be tested for linkage, as described in
 <A HREF="9-4.shtml">Section 9.4</A>.
 
 <DIV Align="center"><H4> <A HREF="7-2.shtml">Previous</A> <A HREF="7-4.shtml">Next</A></H4></DIV>

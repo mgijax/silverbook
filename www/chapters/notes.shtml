@@ -11,74 +11,74 @@
 <H2>Notes</H2>
 <P><A NAME="1"></A>1. The domestic rat (<I>Rattus norvegicus</I>) was not far behind in earlier centuries, but its current census and range are much more limited than that of the mouse.
 
-<P><A NAME="2"></A>2. Phenotypes of this kind are called 
+<P><A NAME="2"></A>2. Phenotypes of this kind are called
 <I><A HREF="../glossary.shtml#Quantitative trait" TARGET="_top">Quantitative traits</A></I> and the loci that control these phenotypes are called <I>quantitative trait loci</I> or <I>QTLs</I>.
 
 <P><A NAME="3"></A>3. Several detailed histories of the early years of mouse genetics have been published (
-<A HREF="../references.shtml#Keeler1">Keeler, 1931</A>; 
-<A HREF="../references.shtml#Dunn1">Dunn, 1965</A>; 
-<A HREF="../references.shtml#Morse1">Morse, 1978</A>, 
-<A HREF="../references.shtml#Morse2">1981</A>, 
-<A HREF="../references.shtml#Morse3">1985</A>; 
-<A HREF="../references.shtml#Russell1">Russell, 1978</A>, 
-<A HREF="../references.shtml#Russell2">1985</A>; 
+<A HREF="../references.shtml#Keeler1">Keeler, 1931</A>;
+<A HREF="../references.shtml#Dunn1">Dunn, 1965</A>;
+<A HREF="../references.shtml#Morse1">Morse, 1978</A>,
+<A HREF="../references.shtml#Morse2">1981</A>,
+<A HREF="../references.shtml#Morse3">1985</A>;
+<A HREF="../references.shtml#Russell1">Russell, 1978</A>,
+<A HREF="../references.shtml#Russell2">1985</A>;
 <A HREF="../references.shtml#Klein1">Klein 1986</A>).
 
-<P><A NAME="4"></A>4. A tree showing the scientific descendants of Castle down through several generations is presented by 
+<P><A NAME="4"></A>4. A tree showing the scientific descendants of Castle down through several generations is presented by
 <A HREF="../references.shtml#Morse1">Morse (1978)</A>. The author is pround to trace his own scientific heritage in mouse genetics back through Karen Artzt to Dorothea Bennett to Salome Waelsch to L. C. Dunn to William Castle.
 
-<P><A NAME="5"></A>5. Many common forms of cancer susceptibility and resistance are multifactorial, and until <I>very</I> recently, it was not possible to actually separate out the various loci involved. 
-In the absences of inbred lines, cancer appears sporadically within a population, and there is no basis on which to demonstrate the involvement of genetic factors. 
+<P><A NAME="5"></A>5. Many common forms of cancer susceptibility and resistance are multifactorial, and until <I>very</I> recently, it was not possible to actually separate out the various loci involved.
+In the absences of inbred lines, cancer appears sporadically within a population, and there is no basis on which to demonstrate the involvement of genetic factors.
 However, with inbreeding and selection for resistance or susceptability to a particular form of cancer, the genetic nature of the disease can be proven beyond a doubt.<BR>
-<I>See also the 
-<A HREF="<!--#include file='include/mtb.html'-->" target="_top">Mouse Tumor Biology Database</A> at MGI.</I>
+<I>See also the
+<A HREF="<!--#include file='../include/mtb.html'-->" target="_top">Mouse Tumor Biology Database</A> at MGI.</I>
 
-<P><A NAME="6"></A>6. Francois Bonhomme has pointed out to the author that the lumping together of house mice and other &#034;mouse-like&#034; creatures is a peculiarity of English and other Germanic languages. 
+<P><A NAME="6"></A>6. Francois Bonhomme has pointed out to the author that the lumping together of house mice and other &#034;mouse-like&#034; creatures is a peculiarity of English and other Germanic languages.
 In Latin-derived languages, a clear distinction is made; every French child, for example, knows the difference between a field mouse (<I>mulot</I>) and a house mouse (<I>souris</I>).
 
-<P><A NAME="7"></A>7. The complete definition of a commensal animal is one the &#034;lives and feeds in close association with another species without benefiting it or harming it directly&#034; 
+<P><A NAME="7"></A>7. The complete definition of a commensal animal is one the &#034;lives and feeds in close association with another species without benefiting it or harming it directly&#034;
 (<A HREF="../references.shtml#Bronson1">Bronson, 1984</A>).
 
 <P><A NAME="8"></A>8. Population geneticists use the relative level of heterogeneity within a population as a predictor of the time that has passed since the population was &#034;founded&#034;.
 
-<P><A NAME="9"></A>9. Karyotypic variation does exist within the <I>M. m. domesticus</I> group but it is solely of the Robertsonian type with fusions between acrocentric centromeres to form hybrid metacentric chromosomes. 
-This variation is discussed more fully in 
+<P><A NAME="9"></A>9. Karyotypic variation does exist within the <I>M. m. domesticus</I> group but it is solely of the Robertsonian type with fusions between acrocentric centromeres to form hybrid metacentric chromosomes.
+This variation is discussed more fully in
 <A HREF="5-2.shtml">Chapter 5</A>.
 
-<P><A NAME="10"></A>10. The observation that hybrid sterility is expressed in males but not females is as predicted by Haldane's rule, which states that the heterogametic sex (in this case XY males) 
-will always be the first to become sterile in inter-specific crosses 
+<P><A NAME="10"></A>10. The observation that hybrid sterility is expressed in males but not females is as predicted by Haldane's rule, which states that the heterogametic sex (in this case XY males)
+will always be the first to become sterile in inter-specific crosses
 (<A HREF="../references.shtml#Haldane2">Haldane, 1922</A>). The rationale for this empirical observation remains unknown.
 
 <P><A NAME="11"></A>11. However, there are two as yet unpublished reports of successful laboratory matings (F. Bonhomme, personal communication).
 
 <P><A NAME="12"></A>12. The Jackson Laboratory restricts its sale of mice to investigators who will use them (and their descendants) for scientific research and not commercial purposes.
 
-<P><A NAME="13"></A>13. It is possible to deviate somewhat from a strict brother-sister mating protocol during the production of an inbred strain, so long as the animals derived can still trace their lineage back to a single breeding pair 
-at the beginning of the process. For example, survival of a line might require a mating between an offspring and parent at one or more generations. If this variation in breeding protocol occurs, one must calculate its effect on the 
-theoretical &#034;inbreeding coefficient&#034; 
+<P><A NAME="13"></A>13. It is possible to deviate somewhat from a strict brother-sister mating protocol during the production of an inbred strain, so long as the animals derived can still trace their lineage back to a single breeding pair
+at the beginning of the process. For example, survival of a line might require a mating between an offspring and parent at one or more generations. If this variation in breeding protocol occurs, one must calculate its effect on the
+theoretical &#034;inbreeding coefficient&#034;
 (<A HREF="../references.shtml#Green2">Green, 1981</A>) which will allow a re-determination of the stage at which the <I>equivalent</I> of 20 sequential brother X sister matings will occur. At this stage, the strain would be considered inbred.
 
-<P><A NAME="14"></A>14. The probability calculations for these later generations are somewhat more complicated, and the interested reader should refer to the excellent exposition on the use of probability in animal breeding studies by 
+<P><A NAME="14"></A>14. The probability calculations for these later generations are somewhat more complicated, and the interested reader should refer to the excellent exposition on the use of probability in animal breeding studies by
 <A HREF="../references.shtml#Green2">Green (1981)</A>.
 
-<P><A NAME="15"></A>15. The exception to this general rule can be seen in children born from unions between closely related family members. 
+<P><A NAME="15"></A>15. The exception to this general rule can be seen in children born from unions between closely related family members.
 These children are often sickly, and it is this consequence of consanguinity that is likely to be responsible for the taboos against marriage between siblings and cousins that are enforced by most human cultures.
 
 <P><A NAME="16"></A>16. In this case, one must remember that the genetic background of the mutant strain will begin to diverge slowly from that of the inbred strain that gave rise to it.
 
-<P><A NAME="17"></A>17. The alternative cross-intercross or M system was used in the original work performed by 
+<P><A NAME="17"></A>17. The alternative cross-intercross or M system was used in the original work performed by
 <A HREF="../references.shtml#Snell2">Snell (1978)</A>.
 
 <P><A NAME="18"></A>18. The commonly used 129/SvJ strain obviously does not follow these rules, however, like most other cases of historical naming anomalies, it is accepted for use by the mouse community.<BR>
-<I>See also 
-<A HREF="<!--#include file='include/mgi_home.html'-->nomen/strain_129.shtml">Revised Nomenclature for Strain 129 Mice</A> at MGI.</I>
+<I>See also
+<A HREF="<!--#include file='../include/mgi_home.html'-->nomen/strain_129.shtml">Revised Nomenclature for Strain 129 Mice</A> at MGI.</I>
 
-<P><A NAME="19"></A>19. Italics indicate my emphasis. The symbols used for some of the first mouse genes to be characterized were 
-<I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:87853">A</A></I> for agouti, 
-<I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98881">b</A></I> for brown, 
-<I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880">c</A></I> for albino (absence of color), 
-<I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105976">d</A></I> for dilute, 
-<I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472">T</A></I>for Brachyury (tail), etc. 
+<P><A NAME="19"></A>19. Italics indicate my emphasis. The symbols used for some of the first mouse genes to be characterized were
+<I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:87853">A</A></I> for agouti,
+<I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98881">b</A></I> for brown,
+<I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98880">c</A></I> for albino (absence of color),
+<I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:105976">d</A></I> for dilute,
+<I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98472">T</A></I>for Brachyury (tail), etc.
 As the number of known genes increased, two-letter symbols were used. Nearly all genes chracterized now are given primary symbols of at least three letters in length.
 
 <P><A NAME="20"></A>20. However, one must remember that <I>M. spretus</I> is a species, not a strain, and as such, different <I>M. spretus</I> lines may be polymorphic for the locus in question.
@@ -87,352 +87,352 @@ As the number of known genes increased, two-letter symbols were used. Nearly all
 
 <P><A NAME="22"></A>22. Failure to produce litters could be a consequence either of failure to mate and/or a failure to achieve pregnancy subsequent to mating.
 
-<P><A NAME="23"></A>23. For a much more detailed exposition of this topic, the reader is directed to books by 
-<A HREF="../references.shtml#Hogan1">Hogan and her colleagues (1994)</A> and by 
+<P><A NAME="23"></A>23. For a much more detailed exposition of this topic, the reader is directed to books by
+<A HREF="../references.shtml#Hogan1">Hogan and her colleagues (1994)</A> and by
 <A HREF="../references.shtml#Rugh1">Rugh (1968)</A>.
 
-<P><A NAME="24"></A>24. To be perfectly accurate, the maximal information content possible in a diploid organism is equivalent to the haploid genome size multiplied by (1&#043;<I>x</I>), where <I>x</I> is the fraction of nucleotides in the genome that are heterozygous. 
+<P><A NAME="24"></A>24. To be perfectly accurate, the maximal information content possible in a diploid organism is equivalent to the haploid genome size multiplied by (1&#043;<I>x</I>), where <I>x</I> is the fraction of nucleotides in the genome that are heterozygous.
 For mice and all other mammals, <I>x</I> will always be less than 0.01, and thus, it can be safely ignored in complexity calculations.
 
-<P><A NAME="25"></A>25. One centimorgan (cM) is defined as the distance between two markers that are observed to recombine with a frequency of 1%. A centimorgan is synonymous with a &#034;map unit.&#034; 
-The relationships between map distances and recombination frequencies are discussed more fully in 
+<P><A NAME="25"></A>25. One centimorgan (cM) is defined as the distance between two markers that are observed to recombine with a frequency of 1%. A centimorgan is synonymous with a &#034;map unit.&#034;
+The relationships between map distances and recombination frequencies are discussed more fully in
 <A HREF="7-1.shtml">Chapter 7</A>.<BR>
-<I>See also 
-<A HREF="<!--#include file='include/glossary.html'-->#centimorgan">centimorgan</A> in the MGI Glossary.</I>
+<I>See also
+<A HREF="<!--#include file='../include/glossary.html'-->#centimorgan">centimorgan</A> in the MGI Glossary.</I>
 
 <P><A NAME="26"></A>26. The one-to-one correspondence between chiasmata and crossing over is accepted as fact today, but originally this idea was known as the &#034;chiasmatype theory&#034;.
 
-<P><A NAME="27"></A>27. This value is 10% less than the generally quoted, although unsupported, consensus value of 1,600 cM 
+<P><A NAME="27"></A>27. This value is 10% less than the generally quoted, although unsupported, consensus value of 1,600 cM
 (<a href="../references.shtml#Davisson5">Davisson and Roderick, 1989</a>).<BR>
-<I>See also 
-<A HREF="<!--#include file='include/mgi_home.html'-->other/mouse_facts1.shtml#GenomeLen">Mouse Genome Length Estimates</A> at MGI.</I>
+<I>See also
+<A HREF="<!--#include file='../include/mgi_home.html'-->other/mouse_facts1.shtml#GenomeLen">Mouse Genome Length Estimates</A> at MGI.</I>
 
 <P><A NAME="28"></A>28. The lungfish <I>Lepidosiren</I> has a genome that is more than 20 times larger than the human/mouse genome. The genome of the plant <I>Tradescantia</I> is almost ten times larger.
 
 <P><A NAME="29"></A>29. I am taking broad liberties here with the definition of &#034;typical&#034;. This calculation is just a <I>back of the envelope</I> exercise to obtain a very approximate number.
 
-<P><A NAME="30"></A>30. Although a centromere <I>appears</I> to be at one end of all normal mouse chromosomes, this cannot be the case at the molecular level because all DNA molecules must be capped 
+<P><A NAME="30"></A>30. Although a centromere <I>appears</I> to be at one end of all normal mouse chromosomes, this cannot be the case at the molecular level because all DNA molecules must be capped
 at both ends with telomeres that maintain their integrity. Since there must be at least a short stretch of DNA that extends beyond the centromere, mouse chromosomes are formally acrocentric rather than telocentric.
 
 <P><A NAME="31"></A>31. Of course, once a karyotype has passed through this intermediate stage, and homozygosity for each Robertsonian translocation is attained, normal fertility is completely restored.
 
-<P><A NAME="32"></A>32. There have been numerous modifications of the Holliday model &#151; including those proposed by Meselson and Radding &#151; that allow a better fit to the actual data, and there is still lack of consensus 
+<P><A NAME="32"></A>32. There have been numerous modifications of the Holliday model &#151; including those proposed by Meselson and Radding &#151; that allow a better fit to the actual data, and there is still lack of consensus
 on some of the details involved. However, the central feature of the Holliday model &#151; single-strand invasion, branch migration, and duplex resolution &#151; is still considered to provide the molecular basis for gene conversion.
 
-<P><A NAME="33"></A>33. The equation is 
-<I><a href="javascript:windowm11 = window.open('../figures/rho.shtml', 'windowm11', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm11.focus()">rho</A></I> 
-&#061; 1.660 
-&#061; 0.098(GC), where 
-<I><a href="javascript:windowm11 = window.open('../figures/rho.shtml', 'windowm11', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm11.focus()">rho</A></I>  
+<P><A NAME="33"></A>33. The equation is
+<I><a href="javascript:windowm11 = window.open('../figures/rho.shtml', 'windowm11', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm11.focus()">rho</A></I>
+&#061; 1.660
+&#061; 0.098(GC), where
+<I><a href="javascript:windowm11 = window.open('../figures/rho.shtml', 'windowm11', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm11.focus()">rho</A></I>
 is the buoyant density, and GC is the molar fraction of nucleotides that are G or C.
 
-<P><A NAME="34"></A>34. The 234 bp unit actually evolved through the initial duplication of an even smaller unit (116/118 bp), which in turn was derived from duplications upon duplications and divergence of three 
+<P><A NAME="34"></A>34. The 234 bp unit actually evolved through the initial duplication of an even smaller unit (116/118 bp), which in turn was derived from duplications upon duplications and divergence of three
 ancestral nonanucleotides (9 bp sequences) with a combined consensus of GAAAAA(T/A/C)(C/G)(AT).
 
-<P><A NAME="35"></A>35. The terms LINE and SINE were originally coined by 
+<P><A NAME="35"></A>35. The terms LINE and SINE were originally coined by
 <A HREF="../references.shtml#Singer1">Maxine Singer (1982)</A> as abbreviations for long interspersed elements and short interspersed elements, respectively.
 
-<P><A NAME="36"></A>36. The best age for maximal production of embryos by superovulation is between 3 and 4 weeks before the female has actually reached sexual maturity 
-(<A HREF="../references.shtml#Hogan1">Hogan et al., 1994</A>). Once sexual maturity has been reached naturally, the response to superovulation falls off, although it is not 
-eliminated. Another factor affecting productivity is the general health and nutritional status of the females. If one intends to use females from a litter for superovulation, 
+<P><A NAME="36"></A>36. The best age for maximal production of embryos by superovulation is between 3 and 4 weeks before the female has actually reached sexual maturity
+(<A HREF="../references.shtml#Hogan1">Hogan et al., 1994</A>). Once sexual maturity has been reached naturally, the response to superovulation falls off, although it is not
+eliminated. Another factor affecting productivity is the general health and nutritional status of the females. If one intends to use females from a litter for superovulation,
 the litter should be culled of males early on to increase the milk supply to the female pups that remain.
 
-<P><A NAME="37"></A>37. Out of simple curiosity, it is interesting to consider why human beings have evolved away for an inductive link between the female orgasm and hormonal 
-changes required to initiate a successful pregnancy. It seems likely that this occurred in response to the use of sex by people for purposes other than procreation &#151; such as pair bonding &#151; 
+<P><A NAME="37"></A>37. Out of simple curiosity, it is interesting to consider why human beings have evolved away for an inductive link between the female orgasm and hormonal
+changes required to initiate a successful pregnancy. It seems likely that this occurred in response to the use of sex by people for purposes other than procreation &#151; such as pair bonding &#151;
 which can occur at times outside the estrus period of the female cycle.
 
 <P><A NAME="38"></A>38. In humans, implantation is the signal that alters the course of the estrus cycle. Thus, humans can not become pseudopregnant.
 
 <P><A NAME="39"></A>39. Whenever an interesting phenotype does arise, the transgene provides a tag for the cloning of flanking sequences from the disrupted gene and its wild-type counterpart to allow further characterization of the new mutant.
 
-<P><A NAME="40"></A>40. This calculation was performed by 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-analysis with the Yates correction factor of 0.5. The 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-statistical test is discussed in detail in 
-<A HREF="9-1.shtml#9.1.3">Section 9.1.3</A>. With a null hypothesis of a <I>Tg/&#043;</I> 
-genotype and 13 offspring, one would expect each of the two classes (transgenic and non-transgenic) to be represented at equal levels of 6.5. If all of the observed offspring carry the transgene, the 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-equation is solved as follows: 
-(13 - 6.5 - 0.5)<SUP>2</SUP>/6.5 &#043; (&#124(0 - 6.5)&#124 - 0.5)<SUP>2</SUP>/6.5 &#061; 11.1. With a single degree of freedom, this 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-value leads to a <I>P</I> value of less than 0.001 (from 
+<P><A NAME="40"></A>40. This calculation was performed by
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+analysis with the Yates correction factor of 0.5. The
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+statistical test is discussed in detail in
+<A HREF="9-1.shtml#9.1.3">Section 9.1.3</A>. With a null hypothesis of a <I>Tg/&#043;</I>
+genotype and 13 offspring, one would expect each of the two classes (transgenic and non-transgenic) to be represented at equal levels of 6.5. If all of the observed offspring carry the transgene, the
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+equation is solved as follows:
+(13 - 6.5 - 0.5)<SUP>2</SUP>/6.5 &#043; (&#124(0 - 6.5)&#124 - 0.5)<SUP>2</SUP>/6.5 &#061; 11.1. With a single degree of freedom, this
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+value leads to a <I>P</I> value of less than 0.001 (from
 <a href="javascript:windowt92 = window.open('../tables/table9-2.shtml', 'windowt92', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt92.focus()">Table 9.2</a>).
 
-<P><A NAME="41"></A>41. The original congenic strain carried the <I>Sl</I> allele in an obligatory heterozygous statesince homozygotes are non-viable. The 129 agouti lines maintained by many investigators have since lost the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96974"><I>Sl</I></A> mutation and differ knowingly from the original 129 line only in the 15 cM region on chromosome 7 that encompasses the 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880"><I>c</I></A> and 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97454"><I>p</I></A> loci.
+<P><A NAME="41"></A>41. The original congenic strain carried the <I>Sl</I> allele in an obligatory heterozygous statesince homozygotes are non-viable. The 129 agouti lines maintained by many investigators have since lost the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96974"><I>Sl</I></A> mutation and differ knowingly from the original 129 line only in the 15 cM region on chromosome 7 that encompasses the
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98880"><I>c</I></A> and
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97454"><I>p</I></A> loci.
 
 <P><A NAME="42"></A>42. The designation &#034;
-<A HREF="../glossary.shtml#Anonymous_locus" TARGET="_top">anonymous locus</A>&#034; does not imply a lack of function but rather an ignorance as to whether a function exists. Presumably, most anonymous loci will actually be devoid of function. 
+<A HREF="../glossary.shtml#Anonymous_locus" TARGET="_top">anonymous locus</A>&#034; does not imply a lack of function but rather an ignorance as to whether a function exists. Presumably, most anonymous loci will actually be devoid of function.
 However, in a small number of cases, a function may be determined at a later date, at which time the anonymous locus will no longer be considered anonymous.
 
-<P><A NAME="43"></A>43. A fascinating exception to Mendel's first law is displayed by a variant portion of mouse chromosome 17 that acts as a selfish chromosomal region and is known as a <I>t</I> haplotype 
-(<A HREF="../references.shtml#Silver7">Silver, 1993a</A>). 
-Ten to 20% of the animals in wild populations of <I>M. musculus</I> (of all known subspecies) carry a <I>t</I> haplotype. Heterozygous males, with a genotype of <I>&#043;/t</I>, can transmit their 
-&#034;<I>t</I>-allele&#034; to 99% or more of their offspring. 
+<P><A NAME="43"></A>43. A fascinating exception to Mendel's first law is displayed by a variant portion of mouse chromosome 17 that acts as a selfish chromosomal region and is known as a <I>t</I> haplotype
+(<A HREF="../references.shtml#Silver7">Silver, 1993a</A>).
+Ten to 20% of the animals in wild populations of <I>M. musculus</I> (of all known subspecies) carry a <I>t</I> haplotype. Heterozygous males, with a genotype of <I>&#043;/t</I>, can transmit their
+&#034;<I>t</I>-allele&#034; to 99% or more of their offspring.
 This unusual phenomenon is called segregation distortion or transmission ratio distortion.
 
-<P><A NAME="44"></A>44. A statistical analysis suggests that more than luck is required to explain two aspects of Mendel's data. 
-First, the seven genes that he chose to study each happened to lie on a different one of the seven pea chromosomes. 
-Second, the data that Mendel collected showed an incredible &#034;goodness of fit&#034; with the outcome that he expected 
-(<A HREF="../references.shtml#Fisher1">Fisher, 1936</A>). Suggestions have been made by 
-<A HREF="../references.shtml#Dunn1">Dunn (1965)</A> and 
-<A HREF="../references.shtml#Wright2">Wright (1966)</A> to explain this early example of what today might be grounds for an investigation into experimental fraud. 
-In the case of the ratios that are too good to be true, Mendel may have padded his numbers to fit the theory, not aware that small deviations from the expected <I>were to be expected</I>. 
-Wright believes that Mendel could have made subconscious errors in favor of expectation as he was counting his samples, whereas Fisher suggests that Mendel could have concocted his numbers without actually doing the experiments. 
-An alternative possibility is that one of Mendel's workers, rather than the great man himself, may have actually carried out the subterfuge in a misguided attempt to please his boss. 
-In the case of the seven genes that happen to map to seven different chromosomes, it appears most reasonable to assume that Mendel eliminated all genes that failed to show independent assortment with all other genes in the study. 
+<P><A NAME="44"></A>44. A statistical analysis suggests that more than luck is required to explain two aspects of Mendel's data.
+First, the seven genes that he chose to study each happened to lie on a different one of the seven pea chromosomes.
+Second, the data that Mendel collected showed an incredible &#034;goodness of fit&#034; with the outcome that he expected
+(<A HREF="../references.shtml#Fisher1">Fisher, 1936</A>). Suggestions have been made by
+<A HREF="../references.shtml#Dunn1">Dunn (1965)</A> and
+<A HREF="../references.shtml#Wright2">Wright (1966)</A> to explain this early example of what today might be grounds for an investigation into experimental fraud.
+In the case of the ratios that are too good to be true, Mendel may have padded his numbers to fit the theory, not aware that small deviations from the expected <I>were to be expected</I>.
+Wright believes that Mendel could have made subconscious errors in favor of expectation as he was counting his samples, whereas Fisher suggests that Mendel could have concocted his numbers without actually doing the experiments.
+An alternative possibility is that one of Mendel's workers, rather than the great man himself, may have actually carried out the subterfuge in a misguided attempt to please his boss.
+In the case of the seven genes that happen to map to seven different chromosomes, it appears most reasonable to assume that Mendel eliminated all genes that failed to show independent assortment with all other genes in the study.
 Although this would clearly be considered fraudulent behavior in today's world, Mendel may not have seen it as such in the simpler world of the 19th century.
 
-<P><A NAME="45"></A>45. There are some important classes of DNA markers where this is not the case exemplified by the random amplification of polymorphic DNA (RAPD) loci, which are typed based on the presence or absence of a particular PCR product. 
+<P><A NAME="45"></A>45. There are some important classes of DNA markers where this is not the case exemplified by the random amplification of polymorphic DNA (RAPD) loci, which are typed based on the presence or absence of a particular PCR product.
 In these cases, the allele that can be amplified into a PCR product should be considered as having a dominant relationship to the allele that cannot be amplified.
 
-<P><A NAME="46"></A>46. Alternative homologs are separated by a &#034;/&#034;; coupled alleles are placed adjacent to each other in order of linkage when this is known. 
-If the order of linked loci is known relative to the centromere, then the most centromere-proximal locus is displayed at the left of a grouping. 
-Different linkage groups are separated by commas. 
+<P><A NAME="46"></A>46. Alternative homologs are separated by a &#034;/&#034;; coupled alleles are placed adjacent to each other in order of linkage when this is known.
+If the order of linked loci is known relative to the centromere, then the most centromere-proximal locus is displayed at the left of a grouping.
+Different linkage groups are separated by commas.
 For example, if a third locus, <I>C</I>, <I>not linked</I> to <I>A</I> or <I>B</I> is under observation in the same breeding experiment, the complete genotype would be written as <I>A B/a b</I>, <I>C/c</I>.
 
 <P><A NAME="47"></A>47. The value calculated for quadruple recombination events (0.2)<SUP>4</SUP> &#061; 0.0016 has only a negligible effect on the final percentage and can be safely ignored.
 
 <P><A NAME="48"></A>48. One morgan is equivalent to 100 cM.
 
-<P><A NAME="49"></A>49. Evaluation of interference through analysis of linkage data is confounded by genotyping errors, which will suggest falsely that double crossovers have occurred. 
-This is true for error rates even as low as 1%. It is only when such errors are controlled for that the true extent of interference becomes apparent in mammalian genomes 
+<P><A NAME="49"></A>49. Evaluation of interference through analysis of linkage data is confounded by genotyping errors, which will suggest falsely that double crossovers have occurred.
+This is true for error rates even as low as 1%. It is only when such errors are controlled for that the true extent of interference becomes apparent in mammalian genomes
 (<A HREF="../references.shtml#Weber3">Weber et al., 1993</A>).
 
 <P><A NAME="50"></A>50. If you use a hand-held calculator to find a specific solution to the Carter-Falconer equation, be sure the calculator is in &#034;radians&#034; mode and not in &#034;degrees&#034; mode to obtain a proper solution to the inverse trigonometric function tan<SUP>-1</SUP>.
 
-<P><A NAME="51"></A>51. It is important to remember that interference only operates on genetic events that occur in the same meiotic cell and it is most readily apperent in genetic analyses based on the backcross. 
+<P><A NAME="51"></A>51. It is important to remember that interference only operates on genetic events that occur in the same meiotic cell and it is most readily apperent in genetic analyses based on the backcross.
 It does not apply to the analysis of recombinant inbred lines, where crossover events accumulate over multiple generations, or even to a traditional outcross-intercross analysis where crossover events can occur in both parents.
 
 <P><A NAME="52"></A>52. Since the original publication of the Maniatis manual, a second edition has appeared, other competing manuals have been published, and most suppliers of molecular biology reagents now also provide detailed accounts of molecular techniques.
 
-<P><A NAME="53"></A>53. The term &#034;polymorphic&#034; was originally defined by population geneticists as a locus with at least two alleles that are both present at a frequency of greater than 1% in a particular population. 
+<P><A NAME="53"></A>53. The term &#034;polymorphic&#034; was originally defined by population geneticists as a locus with at least two alleles that are both present at a frequency of greater than 1% in a particular population.
 The term has been co-opted by geneticists who work in the laboratory to refer to any locus with two alleles that can be utilized in an experimental cross. The opposite of polymorphic is monomorphic.
 
-<P><A NAME="54"></A>54. The term RFLP include the word polymorphism, which, as indicated in the previous footnote, is not always accurate for the locus at hand from a strict interpretation according to population geneticists. 
+<P><A NAME="54"></A>54. The term RFLP include the word polymorphism, which, as indicated in the previous footnote, is not always accurate for the locus at hand from a strict interpretation according to population geneticists.
 Purists have substituted &#034;variant&#034; for &#034;polymorphism&#034; to produce the acronym RFLV; however, the term RFLP is still more commonly used.
 
-<P><A NAME="55"></A>55. In the absence of breeding data, alternative interpretations of these results are possible. 
-For example, animals with a single restriction fragment could be heterozygous with a deletion of this locus on one chromosome and animals with two restriction fragments could be homozygous with the presence of a restriction site in the middle of the region that hybridizes to the probe. 
+<P><A NAME="55"></A>55. In the absence of breeding data, alternative interpretations of these results are possible.
+For example, animals with a single restriction fragment could be heterozygous with a deletion of this locus on one chromosome and animals with two restriction fragments could be homozygous with the presence of a restriction site in the middle of the region that hybridizes to the probe.
 Other more complex interpretations are also possible.
 
-<P><A NAME="56"></A>56. This is not true for special hypervariable classes of RFLPs such as minisatellites discussed in 
+<P><A NAME="56"></A>56. This is not true for special hypervariable classes of RFLPs such as minisatellites discussed in
 <A HREF="8-2.shtml#8.2.3">Section 8.2.3</A>.
 
-<P><A NAME="57"></A>57. It is more difficult to obtain &#034;clean&#034; DNA from animal tissue than from cells grown in tissue culture. 
+<P><A NAME="57"></A>57. It is more difficult to obtain &#034;clean&#034; DNA from animal tissue than from cells grown in tissue culture.
 Enzymes that are more sensitive to minor contaminants may work fine on tissue culture samples but not on spleen, liver, or tail DNA.
 
-<P><A NAME="58"></A>58. The percentage of CpGs in the mammalian genome that are methylated has been estimated at &#126;90%. 
-Interestingly, the class of non-methylated CpGs are not randomly distributed, but rather, are clustered into islands that distinguish the 5'-ends of many genes. 
-This fact has been exploited by molecular genetic sleuths searching for cryptic genes within large cloned regions for the purpose of positional cloning as described in 
+<P><A NAME="58"></A>58. The percentage of CpGs in the mammalian genome that are methylated has been estimated at &#126;90%.
+Interestingly, the class of non-methylated CpGs are not randomly distributed, but rather, are clustered into islands that distinguish the 5'-ends of many genes.
+This fact has been exploited by molecular genetic sleuths searching for cryptic genes within large cloned regions for the purpose of positional cloning as described in
 <A HREF="10-3.shtml#10.3.4">Section 10.3.4</A>.
 
-<P><A NAME="59"></A>59. This number is calculated from the known base composition of mammalian DNA. 
-Nucleotides A and T are each present at a frequency of 0.29, and C and G are each present at a frequency of 0.21. 
-The expected frequency of occurence of the tetranucleotide TCGA can be calculated as (0.29)(0.21)(0.21)(0.29) = 1/270 bp. 
+<P><A NAME="59"></A>59. This number is calculated from the known base composition of mammalian DNA.
+Nucleotides A and T are each present at a frequency of 0.29, and C and G are each present at a frequency of 0.21.
+The expected frequency of occurence of the tetranucleotide TCGA can be calculated as (0.29)(0.21)(0.21)(0.29) = 1/270 bp.
 Similarly, the expected frequency of <I>Msp</I>I sites can be calculated as 1/514 bp.
 
-<P><A NAME="60"></A>60. It is also possible, although less likely considering the short length of the genomic fragments that are amplified, that some polymorphisms may arise through insertions or deletions confined to the region between two primer sites. 
-In this case, alternative RAPD alleles might both be recognized as PCR fragments of different sizes. In one large data set from the mouse, polymorphisms of this type were not observed 
+<P><A NAME="60"></A>60. It is also possible, although less likely considering the short length of the genomic fragments that are amplified, that some polymorphisms may arise through insertions or deletions confined to the region between two primer sites.
+In this case, alternative RAPD alleles might both be recognized as PCR fragments of different sizes. In one large data set from the mouse, polymorphisms of this type were not observed
 (<A HREF="../references.shtml#Woodward1">Woodward et al., 1992</A>).
 
-<P><A NAME="61"></A>61. The calculations are greatly simplified by assuming that: (1) the unique copy component of the genome is equivalent to random sequence with no preference for, or avoidance of, any particular nucleotide combinations; and (2) PCR amplification will be limited to regions of 2 kb or less in length. 
-The frequency with which any sequence of <I>N</I> nucleotides will occur is once evey 4<SUP><I>N</I></SUP> bases <I>on each strand</I>. The total number of occurences of any one oligomer in the single copy component of a genome of complexity <I>C</I> will be 2C/4<SUP><I>N</I></SUP>, where the multiplication by two accounts for the two strands of the double helix. 
-The probability that a second oligomer of the same composition will be present on the opposite strand within 2 kb (2 X 10<SUP>3</SUP> bases) in one direction from the first oligomer can be calculated as 2 X 10<SUP>3</SUP>/4<SUP><I>N</I></SUP>. 
+<P><A NAME="61"></A>61. The calculations are greatly simplified by assuming that: (1) the unique copy component of the genome is equivalent to random sequence with no preference for, or avoidance of, any particular nucleotide combinations; and (2) PCR amplification will be limited to regions of 2 kb or less in length.
+The frequency with which any sequence of <I>N</I> nucleotides will occur is once evey 4<SUP><I>N</I></SUP> bases <I>on each strand</I>. The total number of occurences of any one oligomer in the single copy component of a genome of complexity <I>C</I> will be 2C/4<SUP><I>N</I></SUP>, where the multiplication by two accounts for the two strands of the double helix.
+The probability that a second oligomer of the same composition will be present on the opposite strand within 2 kb (2 X 10<SUP>3</SUP> bases) in one direction from the first oligomer can be calculated as 2 X 10<SUP>3</SUP>/4<SUP><I>N</I></SUP>.
 The average total number of PCR amplifiable products canbe calculated as the total number of sites at which the primer will hybridize multiplied by the frequency with which a second site will be present within a short enough distance (here set at 2 kb) to allow amplification to occur: (2<I>C</I>/4<SUP><I>N</I></SUP>)(2 X 10<SUP>3</SUP>/4<SUP>N</SUP>) = 4,000 <I>C</I>/16<SUP><I>N</I></SUP>.
 
-<P><A NAME="62"></A>62. At least 90% of the fragments observed in experiments performed to date are less than 2 kb in length 
-(<A HREF="../references.shtml#Welsh1">Welsh and McClelland, 1990</A>; 
-<A HREF="../references.shtml#Williams1">Williams et al., 1990</A>; 
-<A HREF="../references.shtml#Welsh2">Welsh et al., 1991</A>; 
-<A HREF="../references.shtml#Nadeau2">Nadeau et al., 1992</A>; 
-<A HREF="../references.shtml#Serikawa1">Serikawa et al., 1992</A>; 
+<P><A NAME="62"></A>62. At least 90% of the fragments observed in experiments performed to date are less than 2 kb in length
+(<A HREF="../references.shtml#Welsh1">Welsh and McClelland, 1990</A>;
+<A HREF="../references.shtml#Williams1">Williams et al., 1990</A>;
+<A HREF="../references.shtml#Welsh2">Welsh et al., 1991</A>;
+<A HREF="../references.shtml#Nadeau2">Nadeau et al., 1992</A>;
+<A HREF="../references.shtml#Serikawa1">Serikawa et al., 1992</A>;
 <A HREF="../references.shtml#Woodward1">Woodward et al., 1992</A>).
 
-<P><A NAME="63"></A>63. In actuality, the repeat families B1, B2 and L1 are not distributed in a random manner, but instead, are each located preferentially in different chromosomal domains as discussed in 
+<P><A NAME="63"></A>63. In actuality, the repeat families B1, B2 and L1 are not distributed in a random manner, but instead, are each located preferentially in different chromosomal domains as discussed in
 <A HREF="5-4.shtml#5.4.4">Section 5.4.4.</A> As a consequence, it is not possible to derive a mathematical formula that can be used to predict the numbers of PCR products to be expected with different sets of primers.
 
-<P><A NAME="64"></A>64. The CA-repeat subclass of microsatellites appears to form an altered DNA structure known as Z-DNA 
+<P><A NAME="64"></A>64. The CA-repeat subclass of microsatellites appears to form an altered DNA structure known as Z-DNA
 (<A HREF="../references.shtml#Hamada1">Hamada and Kakunaga, 1982</A>) that was thought to have special properties at one time, but not now.
 
-<P><A NAME="65"></A>65. Microsatellite polymorphisms have also been referred to as simple sequence length polymorphisms or SSLPs. 
+<P><A NAME="65"></A>65. Microsatellite polymorphisms have also been referred to as simple sequence length polymorphisms or SSLPs.
 However, the acronym SSLP is so similar to the unrelated acronym SSCP (for single-strand conformational polymorphism) that I have not used the term here to avoid confusion.
 
 <P><A NAME="66"></A>66. Stable elongation across TATA... stretches would require lower reaction temperatures, which, in turn, would result in higher levels of non-homologous pairing and non-specific PCR products.
 
 <P><A NAME="67"></A>67. Pentamer and hexamer repeat loci are also present in the genome at much lower frequencies.
 
-<P><A NAME="68"></A>68. The stated goal of the Whitehead/Mit Genome Center is to define a total of 6,000 microsatellite loci that can be placed into 1 cM &#034;bins&#034;. 
+<P><A NAME="68"></A>68. The stated goal of the Whitehead/Mit Genome Center is to define a total of 6,000 microsatellite loci that can be placed into 1 cM &#034;bins&#034;.
 When this goal is reached, each 1 cM bin will hold approximately four microsatellites, and the average interlocus distance will be 500 kb.
 
 <P><A NAME="69"></A>69. This simplifying assumption is only valid when there is no distortion of equal segregation of alleles from either of the two loci under analaysis.
 
-<P><A NAME="70"></A>70. The author is indebted to Earl Green for pointing out this simplification of the 
-<I><a href="javascript:windowm6 = window.open('chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-equation in the special case of the backcross as shown in equation 1.40 in his book 
+<P><A NAME="70"></A>70. The author is indebted to Earl Green for pointing out this simplification of the
+<I><a href="javascript:windowm6 = window.open('chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+equation in the special case of the backcross as shown in equation 1.40 in his book
 (<A HREF="../references.shtml#Green2">Green, 1981</A>).
 
-<P><A NAME="71"></A>71. Many statistics textbooks have graphs that allow a more precise determination of the <I>P</I> values associated with a continuum of 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+<P><A NAME="71"></A>71. Many statistics textbooks have graphs that allow a more precise determination of the <I>P</I> values associated with a continuum of
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
 values.
 
-<P><A NAME="72"></A>72. As indicated in 
-<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>, 
+<P><A NAME="72"></A>72. As indicated in
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>,
 this &#034;swept radius&#034; is attained in all backcross experiments with 45 or more samples.
 
-<P><A NAME="73"></A>73. The probability of <I>linkage</I> is equal to one minus the probability of <I>no linkage</I>. 
-In actual usage, this formulation is easier to work with since the probability of <I>no linkage</I> will be a linear function of the <I>P</I> value obtained from 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-analysis in all cases where <I>P</I> is small (< 0.001). 
-According to Bayes' theorem, the probability of <I>no linkage</I> is equal to the &#034;joint probability&#034; of <I>no linkage</I> divided by the sum of the joint probabilities of the two possible outcomes, <I>linkage</I> and <I>no linkage</I>. 
-The joint probability of <I>no linkage</I> is equal to the &#034;prior probability that linkage will not exist&#034; (equivalent to the fraction of the genome outside the swept radius on either side of the marker) multiplied by &#034;the conditional probability that the statistical test will detect <I>linkage</I> when, in fact, <i>linkage</I> does not exist&#034; (equal to the <I>P</I> value derived from the 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-test). Even if the swept radius is as large as 35 cM, the fraction of the genome not covered within this distance on either side of a marker locus is still close to one [(1500-70)/1,500 = 0.95]. 
-Thus, the prior probability of <I>no linkage</I> can be safely estimated as one, and the joint probability can be approximated as the <I>P</I> value. 
-The joint probability of <I>linkage</I> is equal to the &#034;prior probability of <I>linakge</I>&#034; (equivalent to the fraction of the genome swept within two radii of the marker locus) multiplied by the &#034;conditional probability that the statistical test will indicate <I>linkage</I> when, in fact, <I>linkage</I> does exist&#034; (equivalent to the power of the 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-test, 1 - 
-<I><a href="javascript:windowm2 = window.open('../figures/beta.shtml', 'windowm2', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm2.focus()">beta</A></I>, where 
-<I><a href="javascript:windowm2 = window.open('../figures/beta.shtml', 'windowm2', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm2.focus()">beta</A></I> is defined as the probability of type II error). 
-The power of the 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
-test is dependent on the actual data set and is not easily estimated. 
-For the sake of simplicity, this value has been set equal to one. 
+<P><A NAME="73"></A>73. The probability of <I>linkage</I> is equal to one minus the probability of <I>no linkage</I>.
+In actual usage, this formulation is easier to work with since the probability of <I>no linkage</I> will be a linear function of the <I>P</I> value obtained from
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+analysis in all cases where <I>P</I> is small (< 0.001).
+According to Bayes' theorem, the probability of <I>no linkage</I> is equal to the &#034;joint probability&#034; of <I>no linkage</I> divided by the sum of the joint probabilities of the two possible outcomes, <I>linkage</I> and <I>no linkage</I>.
+The joint probability of <I>no linkage</I> is equal to the &#034;prior probability that linkage will not exist&#034; (equivalent to the fraction of the genome outside the swept radius on either side of the marker) multiplied by &#034;the conditional probability that the statistical test will detect <I>linkage</I> when, in fact, <i>linkage</I> does not exist&#034; (equal to the <I>P</I> value derived from the
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+test). Even if the swept radius is as large as 35 cM, the fraction of the genome not covered within this distance on either side of a marker locus is still close to one [(1500-70)/1,500 = 0.95].
+Thus, the prior probability of <I>no linkage</I> can be safely estimated as one, and the joint probability can be approximated as the <I>P</I> value.
+The joint probability of <I>linkage</I> is equal to the &#034;prior probability of <I>linakge</I>&#034; (equivalent to the fraction of the genome swept within two radii of the marker locus) multiplied by the &#034;conditional probability that the statistical test will indicate <I>linkage</I> when, in fact, <I>linkage</I> does exist&#034; (equivalent to the power of the
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+test, 1 -
+<I><a href="javascript:windowm2 = window.open('../figures/beta.shtml', 'windowm2', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm2.focus()">beta</A></I>, where
+<I><a href="javascript:windowm2 = window.open('../figures/beta.shtml', 'windowm2', 'width=400,height=150,resizable=yes,scrollbars=yes'); windowm2.focus()">beta</A></I> is defined as the probability of type II error).
+The power of the
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
+test is dependent on the actual data set and is not easily estimated.
+For the sake of simplicity, this value has been set equal to one.
 For a more detailed account of Bayesian analysis, the reader should consult an advanced statistics text.
 
-<P><A NAME="74"></A>74. The fraction of the genome swept is equal to twice the swept radius in 
-<A HREF="../glossary.shtml#centimorgan">centimorgans</A> (see Figures 
-<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">9.13</A> and 
-<a href="javascript:windowf914 = window.open('../figures/figure9-14.shtml', 'windowf914', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf914.focus()">9.14</A>) 
+<P><A NAME="74"></A>74. The fraction of the genome swept is equal to twice the swept radius in
+<A HREF="../glossary.shtml#centimorgan">centimorgans</A> (see Figures
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">9.13</A> and
+<a href="javascript:windowf914 = window.open('../figures/figure9-14.shtml', 'windowf914', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf914.focus()">9.14</A>)
 divided by the total genome length of &#126;1500 cM.
 
-<P><A NAME="75"></A>75. In actuality, it is prudent to set up at least five cages of brother-sister pairs for mating at each generation in case some are not fertile. 
-However, the offspring from only a single pair should be chosen to continue the construction of the RI strain. 
+<P><A NAME="75"></A>75. In actuality, it is prudent to set up at least five cages of brother-sister pairs for mating at each generation in case some are not fertile.
+However, the offspring from only a single pair should be chosen to continue the construction of the RI strain.
 Each original pair of F<SUB>2</SUB> progenitor animals can only be used to produce a single new RI strain.
 
-<P><A NAME="76"></A>76. In the case of the very first set of RI strains established from a cross between BALB/cAnNBy and C57BL/6JNBy, upper case letters were used to distinguish different members of the set from each other with individual strain names of CXBD, CXBE, CXBG and so on 
-(<A HREF="../references.shtml#Bailey1">Bailey, 1971</A>). 
+<P><A NAME="76"></A>76. In the case of the very first set of RI strains established from a cross between BALB/cAnNBy and C57BL/6JNBy, upper case letters were used to distinguish different members of the set from each other with individual strain names of CXBD, CXBE, CXBG and so on
+(<A HREF="../references.shtml#Bailey1">Bailey, 1971</A>).
 Most other RI sets conform to the use of numbers as distinguishing symbols.
 
-<P><A NAME="77"></A>77. At the time of writing, 31 strains from this double set had been verified genetically, two original strains were still undergoing tests, and eight original strains had become extinct but DNA samples were still available 
+<P><A NAME="77"></A>77. At the time of writing, 31 strains from this double set had been verified genetically, two original strains were still undergoing tests, and eight original strains had become extinct but DNA samples were still available
 (<A HREF="../references.shtml#Marshall2">Marshall et al., 1992</A>).
 
-<P><A NAME="78"></A>78. Of course, like all inbred strains, new mutations can and will arise at a low frequency, especially at hypermutagenic loci like microsatellites (see 
-<A HREF="8-3.shtml#8.3.6.4">Section 8.3.6.4</A>). 
+<P><A NAME="78"></A>78. Of course, like all inbred strains, new mutations can and will arise at a low frequency, especially at hypermutagenic loci like microsatellites (see
+<A HREF="8-3.shtml#8.3.6.4">Section 8.3.6.4</A>).
 However, new mutant alleles are usually distinguishable as such since they are likely to be different from the alleles present in both progenitor strains.
 
-<P><A NAME="79"></A>79. If these direct protocols fail to detect polymorphisms, one could use the probe in hand to recover a cosmid or YAC clone containing the gene of interest, and then search this larger cloned fragment for a nearby microsatellite that can be developed as a linked DNA marker as described in 
-<A HREF="8-3.shtml#8.3.6">Section 8.3.6</A>. 
-On the other hand, it may be more efficient to forget the RI approach at this point, and use a backcross mapping panel instead as described in 
+<P><A NAME="79"></A>79. If these direct protocols fail to detect polymorphisms, one could use the probe in hand to recover a cosmid or YAC clone containing the gene of interest, and then search this larger cloned fragment for a nearby microsatellite that can be developed as a linked DNA marker as described in
+<A HREF="8-3.shtml#8.3.6">Section 8.3.6</A>.
+On the other hand, it may be more efficient to forget the RI approach at this point, and use a backcross mapping panel instead as described in
 <A HREF="9-3.shtml">Section 9.3</A>.
 
-<P><A NAME="80"></A>80. As discussed in 
+<P><A NAME="80"></A>80. As discussed in
 <A HREF="9-2.shtml#9.2.5">Section 9.2.5</A>, this may not be true for SDPs associated with complex phenotypes rather than DNA markers.
 
-<P><A NAME="81"></A>81. This measure of the swept radius is based on the assumption that the RI-determined values for linkage distance are accurate representations of actual linkage distances. 
-A more stringent measure of swept radius is discussed in 
-<A HREF="9-4.shtml#9.4.4">Section 9.4.4</A> for backcross data and presented in 
+<P><A NAME="81"></A>81. This measure of the swept radius is based on the assumption that the RI-determined values for linkage distance are accurate representations of actual linkage distances.
+A more stringent measure of swept radius is discussed in
+<A HREF="9-4.shtml#9.4.4">Section 9.4.4</A> for backcross data and presented in
 <a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>.
 
-<P><A NAME="82"></A>82. The discordant strain number used in these calculations is set at 0.5 units above the maximum allowable strain number shown in 
+<P><A NAME="82"></A>82. The discordant strain number used in these calculations is set at 0.5 units above the maximum allowable strain number shown in
 <a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A> i
 n order to determine the map distance above which <I>actual</I> pairs of loci are more likely than not to produce <I>integer</I> discordance values that exceed the maximum number allowable for linkage determination.
 
-<P><A NAME="83"></A>83. Particular regions of the genome that are of special interest to mouse geneticists are likely to be more densely populated with marker loci than regions that are not under investigation in and of themselves. 
-A good example of this bias in marker distribution is in the 2 cM long 
-<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894"><I>H-2</I></A> region of chromosome 17 with 16 loci that have been typed in the BXD set; all 16 loci have an identical SDP.<BR>
-<I>See the 
-<A HREF="<!--#include file='include/mgi.html'-->searches/riset.cgi?sort=cM&format=html&set=BXD&chromosome=17">BXD data set for Chromosome 17</A> at MGI.</I>
+<P><A NAME="83"></A>83. Particular regions of the genome that are of special interest to mouse geneticists are likely to be more densely populated with marker loci than regions that are not under investigation in and of themselves.
+A good example of this bias in marker distribution is in the 2 cM long
+<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95894"><I>H-2</I></A> region of chromosome 17 with 16 loci that have been typed in the BXD set; all 16 loci have an identical SDP.<BR>
+<I>See the
+<A HREF="<!--#include file='../include/mgi.html'-->searches/riset.cgi?sort=cM&format=html&set=BXD&chromosome=17">BXD data set for Chromosome 17</A> at MGI.</I>
 
-<P><A NAME="84"></A>84. Statements concerning the observed number of genomic patches present along a chromosome must be qualified because of the possibility that additional patches lie hidden in regions between two adjacent typed loci for which SDPs are available. 
+<P><A NAME="84"></A>84. Statements concerning the observed number of genomic patches present along a chromosome must be qualified because of the possibility that additional patches lie hidden in regions between two adjacent typed loci for which SDPs are available.
 As the density of typed loci increases, the probability of hidden patches goes down but never reaches zero.
 
-<P><A NAME="85"></A>85. An alternative interpretation of these data is that both mean estimates of linkage distance are relatively true to the particular pair of parental strains used in each cross. As discussed in 
+<P><A NAME="85"></A>85. An alternative interpretation of these data is that both mean estimates of linkage distance are relatively true to the particular pair of parental strains used in each cross. As discussed in
 <A HREF="7-2.shtml#7.2.3.3">Section 7.2.3.3</A>, different crosses can vary in their propensity to undergo recombination in individual chromosome intervals.
 
 <P><A NAME="86"></A>86. The LD<SUB>50</SUB> point for a chemical is the dosage that is lethal to 50% of the treated animals in a designated period of time.
 
-<P><A NAME="87"></A>87. The law of the product states that the probability of occurrence of <I>n</I> independent events is equal to the product of the probabilities of each individual event. 
-For RI strains, the probability of occurrence of either progenitor allele at any locus is simply 0.5. 
-Thus, the probability of occurence of <I>n</I> loci from the same parent is (0.5)<SUP><I>n</I></SUP>. 
+<P><A NAME="87"></A>87. The law of the product states that the probability of occurrence of <I>n</I> independent events is equal to the product of the probabilities of each individual event.
+For RI strains, the probability of occurrence of either progenitor allele at any locus is simply 0.5.
+Thus, the probability of occurence of <I>n</I> loci from the same parent is (0.5)<SUP><I>n</I></SUP>.
 
-<P><A NAME="88"></A>88. In theory, it is possible to make use of unbalanced SDPs to search for the multiple loci involved in expressing a trait. 
-In the example described in the text, susceptible BXD strains would have to have B6 alleles at both susceptability loci, but resistance would mean only that a DBA allele was present at either or both loci. 
-One could fill in an SDP using only susceptible strains and search for linkage relationships with this subset of data points, but the numbers may be too small to be significant. 
-However, potential intervals of linkage suggested by this first step analysis could be vetted in pairs (since there will be two loci) with the requirement that all nonsusceptable strains must have at least one DBA allele at the two loci. 
+<P><A NAME="88"></A>88. In theory, it is possible to make use of unbalanced SDPs to search for the multiple loci involved in expressing a trait.
+In the example described in the text, susceptible BXD strains would have to have B6 alleles at both susceptability loci, but resistance would mean only that a DBA allele was present at either or both loci.
+One could fill in an SDP using only susceptible strains and search for linkage relationships with this subset of data points, but the numbers may be too small to be significant.
+However, potential intervals of linkage suggested by this first step analysis could be vetted in pairs (since there will be two loci) with the requirement that all nonsusceptable strains must have at least one DBA allele at the two loci.
 The main problem with this type of analysis is that the small numbers of strains present in each characterized RI set will usually preclude one from obtaining statistically significant results.
 
-<P><A NAME="89"></A>89. In theory, it is also possible to use RI data of this type in a search for the responsible loci. 
-Let us assume that only two loci are involved in the phenotypic expression of interest, and further, the two mixed genotypes cause an intermediate phenotype while the two single-progenitor genotypes cause a corresponding progenitor phenotype. 
-Then an SDP can be written with three possible values for each strain: <I>A</I>, <I>B</I> and 0.5<I>A</I>0.5<I>B</I>. 
+<P><A NAME="89"></A>89. In theory, it is also possible to use RI data of this type in a search for the responsible loci.
+Let us assume that only two loci are involved in the phenotypic expression of interest, and further, the two mixed genotypes cause an intermediate phenotype while the two single-progenitor genotypes cause a corresponding progenitor phenotype.
+Then an SDP can be written with three possible values for each strain: <I>A</I>, <I>B</I> and 0.5<I>A</I>0.5<I>B</I>.
 As in the case above, one could fill-in only the <I>A</I> and <I>B</I> values of an SDP (together expected in 50% of the strains) and search for a pair of potential linkage relationships that could be vetted by the requirement for the presence of alternative alleles in the strains that show the intermediate phenotype.
 
 <P><A NAME="90"></A>90. In a real-life study, geneticists usually wait to see at least two recombination events before concluding non-equivalence because of the possibility of isolated aberrant events or experimental errors.
 
-<P><A NAME="91"></A>91. As discussed in 
+<P><A NAME="91"></A>91. As discussed in
 <A HREF="7-2.shtml#7.2.3.3">Section 7.2.3.3</A>, a sample size of &#126;500 per individual cross represents an upper boundary beyond which there are greatly diminishing returns in resolving nearby loci.
 
-<P><A NAME="92"></A>92. There are two other explanations for apparent double crossover events that cover a single locus in a single animal. 
-The first is the trivial possibility of mistyping. 
-The second is the infrequent but real possibility of gene conversion without recombination at an isolated genetic site 
-(<A HREF="../references.shtml#Hammer1">Hammer et al., 1991</A>). 
+<P><A NAME="92"></A>92. There are two other explanations for apparent double crossover events that cover a single locus in a single animal.
+The first is the trivial possibility of mistyping.
+The second is the infrequent but real possibility of gene conversion without recombination at an isolated genetic site
+(<A HREF="../references.shtml#Hammer1">Hammer et al., 1991</A>).
 Neither of these explanations is likely to be valid when the region between the two breakpoints contains more than one typed locus.
 
-<P><A NAME="93"></A>93. Values for recombination fraction and map distance can be readily transformed into each other through the use of a mapping function as described in 
+<P><A NAME="93"></A>93. Values for recombination fraction and map distance can be readily transformed into each other through the use of a mapping function as described in
 <A HREF="7-2.shtml#7.2.2.3">Section 7.2.2.3</A>.
 
-<P><A NAME="94"></A>94. Of course, most previously determined inter-locus map distances are far from accurate. 
+<P><A NAME="94"></A>94. Of course, most previously determined inter-locus map distances are far from accurate.
 If the true map distance between markers was previously underestimated, this would obviously lead to a reduction in the frequency at which linkage could be demonstrated in any future cross that used these two markers.
 
-<P><A NAME="95"></A>95. Direct calculations of swept radii for the intercross are confounded by the greater complexity inherent in the data that can be generated. 
-As described in 
-<A HREF="9-1.shtml#9.1.3.4">Section 9.1.3.4</A>, intercross data show three degrees of freedom in contrast to the one degree of freedom associated with backcross data. 
-The intercross-specific 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+<P><A NAME="95"></A>95. Direct calculations of swept radii for the intercross are confounded by the greater complexity inherent in the data that can be generated.
+As described in
+<A HREF="9-1.shtml#9.1.3.4">Section 9.1.3.4</A>, intercross data show three degrees of freedom in contrast to the one degree of freedom associated with backcross data.
+The intercross-specific
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I>
 test described in this earlier section can be used to evaluate significance in all comparisons of allelic segregation from two potentially linked loci.
 
-<P><A NAME="96"></A>96. The computer program provided in 
+<P><A NAME="96"></A>96. The computer program provided in
 <A HREF="../frames/framed.shtml">Appendix D</A> can be used to derive recombination limits for any level of confidence.
 
-<P><A NAME="97"></A>97. The statistical approach described in 
+<P><A NAME="97"></A>97. The statistical approach described in
 <A HREF="../frames/framed2.shtml">Appendix D2</A> can be used to ascertain whether a significant difference in expression exists between any two sets of animals.
 
-<P><A NAME="98"></A>98. The formula for computing variances is given in 
+<P><A NAME="98"></A>98. The formula for computing variances is given in
 <A HREF="../frames/framed2.shtml">Appendix D2</A>.
 
-<P><A NAME="99"></A>99. To ensure complete genetic homogeneity of the F<SUB>1</SUB> population, it is important that all of the initial matings be conducted in the same gender direction, with one strain fixed as the maternal progenitor and the other strain fixed as the paternal progenitor. 
-The choice of gender can be informed by the reproductive characteristics of strains described in 
-<A HREF="4-1.shtml">Chapter 4</A> and in 
+<P><A NAME="99"></A>99. To ensure complete genetic homogeneity of the F<SUB>1</SUB> population, it is important that all of the initial matings be conducted in the same gender direction, with one strain fixed as the maternal progenitor and the other strain fixed as the paternal progenitor.
+The choice of gender can be informed by the reproductive characteristics of strains described in
+<A HREF="4-1.shtml">Chapter 4</A> and in
 <a href="javascript:windowt41 = window.open('../tables/table4-1.shtml', 'windowt41', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt41.focus()">Table 4.1</A>.
 
-<P><A NAME="100"></A>100. It may also be useful in this case to set up independent crosses with each parental strain. 
+<P><A NAME="100"></A>100. It may also be useful in this case to set up independent crosses with each parental strain.
 It may turn out that the data obtained from one of these backcrosses will be easier to analyze.
 
 <P><A NAME="101"></A>101. Although the idealized distribution for three polygenic loci shows a small dip in the middle (
-<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A> 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>
 bottom right-hand panel), with a typical-sized N<SUB>2</SUB> test population (&#060;&#061;200 animals), there is likely to be a finite standard error on top of the naturla variance that will cause the two peaks to merge into one.
 
 <P><A NAME="102"></A>102. Non-parametric tests of this type are used to determine whether the actual genotype at a particular marker locus shows a significant level of corrleation with the rank order of trait exporession in individual animals.
 
-<P><A NAME="103"></A>103. The vast majority of cells that have failed to undergo a mitotic crossover in the chromosomal region centromeric to the marker gene can be eliminated with alloantigen-specific antibody and complement. 
+<P><A NAME="103"></A>103. The vast majority of cells that have failed to undergo a mitotic crossover in the chromosomal region centromeric to the marker gene can be eliminated with alloantigen-specific antibody and complement.
 Only cells that have lost the alloantigen will survive. Of these, only a subset will have undergone allele loss as a result of a mitotic recombination event.
 
 <P><A NAME="104"></A>104. The X chromosome is essentially conserved in its entirety across all eutherian mammals, and is excluded from estimates of conserved synteny.
 
-<P><A NAME="105"></A>105. To keep this hypothetical problem simple, I have assumed that all of the derived YAC clones are non-chimeric and that end fragments from all of these clones areeasily isolated. 
+<P><A NAME="105"></A>105. To keep this hypothetical problem simple, I have assumed that all of the derived YAC clones are non-chimeric and that end fragments from all of these clones areeasily isolated.
 Unfortunately, the real-life situation is likely to be less straightforward.
 
-<P><A NAME="106"></A>106. The efficacy of this approach and all others dependent on cDNA libraries is greatly increased by using a normalized library in which all transcripts are represented equally irrespective of their different relative abundancies within the tissue itself 
-(<A HREF="../references.shtml#Patanjali1">Patanjali et al., 1991</A>). 
-In theory, the normalization process should even out the representation of all transcribed sequences so that clones of actin mRNA, for example, are no more frequent than clones of rare messengers from the same tissue. 
+<P><A NAME="106"></A>106. The efficacy of this approach and all others dependent on cDNA libraries is greatly increased by using a normalized library in which all transcripts are represented equally irrespective of their different relative abundancies within the tissue itself
+(<A HREF="../references.shtml#Patanjali1">Patanjali et al., 1991</A>).
+In theory, the normalization process should even out the representation of all transcribed sequences so that clones of actin mRNA, for example, are no more frequent than clones of rare messengers from the same tissue.
 In practice, normalization only succeeds part way; very rare messengers will always be under-represented.
 
 <P><A NAME="107"></A>107. Whenever genomic fragments are used to probe for expressed sequences, it is essential to prehybridize the probe or target with unlabeled total mouse DNA in order to block highly repetitive sequences, which are present in the non-coding regions of a subset of mammalian transcripts.
 
-<P><A NAME="108"></A>108. In addition, two classes of artifactual products were also recovered. One class contained genomic fragments with random sequences having coincidental homology to splice sites. 
+<P><A NAME="108"></A>108. In addition, two classes of artifactual products were also recovered. One class contained genomic fragments with random sequences having coincidental homology to splice sites.
 The other class contained true exons but with flanking intronic sequences on one side.
 
 <P><A NAME="109"></A>109. The program works by estimating solutions to different integrals over segments of the appropriate probability density function.
