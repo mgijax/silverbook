@@ -12,13 +12,13 @@
 Glossary of Terms</H2>
 
 <I>Additional terms are defined in the
-<A HREF="<!--#include file='glossary.html'-->" TARGET="_top">MGI Glossary</A>.</I>
+<A HREF="<!--#include file='include/glossary.html'-->" TARGET="_top">MGI Glossary</A>.</I>
 <DL>
 <P><DT><A NAME="Allele"><B>Allele</B></A>
 <DD>An alternate form of a gene or
 <A HREF="#Locus">locus</A>. A locus can have many different alleles which may differ from each other by as little as a single base or by the complete absence of a sequence.<BR>
 <I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#allele" TARGET="_top">Allele</A>
+<A HREF="<!--#include file='include/glossary.html'-->#allele" TARGET="_top">Allele</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Allele-specific_Oligonucleotide"><B>Allele-Specific Oligonucleotide (ASO)</B></A>
@@ -39,7 +39,7 @@ Glossary of Terms</H2>
 <DD>An isolated DNA region with no known function but with at least two
 <A HREF="#Allele">allelic</A> states that can be followed through some form of DNA analysis in mapping studies.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#anonymous_DNA" TARGET="_top">Anonymous DNA Segment</A>
+<A HREF="<!--#include file='include/glossary.html'-->#anonymous_DNA" TARGET="_top">Anonymous DNA Segment</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="ASO"><B>ASO</B></A>
@@ -82,7 +82,7 @@ analysis of recombination data into actual probabilities of
 <A HREF="frame3.2.shtml">Chapter 3</A> and
 <A HREF="frame9.1.shtml">Chapter 9</A>).
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#backcross" TARGET="_top">Backcross</A>
+<A HREF="<!--#include file='include/glossary.html'-->#backcross" TARGET="_top">Backcross</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="CA-repeat"><B>CA-repeat</B></A>
@@ -103,7 +103,7 @@ The most prominent class of microsatellites found in mammalian
 <DD>The metric used to describe
 <A HREF="#Linkage">linkage</A> distances. A centimorgan is the distance between two genes that will recombine with a frequency of exactly one percent. This term is named afer Thomas Hunt Morgan, who first conceptualized linkage while working with Drosophila.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#centimorgan" TARGET="_top">Centimorgan</A>
+<A HREF="<!--#include file='include/glossary.html'-->#centimorgan" TARGET="_top">Centimorgan</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><B>
@@ -117,7 +117,7 @@ The most prominent class of microsatellites found in mammalian
 <DD>An individual mouse, or other mammal, that is derived from the fusion of two or more preimplantation embryos or an embryo and ES cells (see
 <A HREF="frame6.4.shtml">Chapter 6</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#chimera" TARGET="_top">Chimera</A>
+<A HREF="<!--#include file='include/glossary.html'-->#chimera" TARGET="_top">Chimera</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Chromosome_bands"><B>Chromosome bands</B></A>
@@ -136,7 +136,7 @@ The most prominent class of microsatellites found in mammalian
 <A HREF="#Heterozygote">heterozygote</A> (A1/A2) and both homozygotes (A1/A1 and A2/A2) are all distinguishable from each other and A1 and A2 would be considered to be "codominant". This term has also been coopted to describe
 <A HREF="#DNA_marker">DNA markers</A> defined by alternative visible allelic forms such as different sized restriction fragments or PCR products.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#codominant" TARGET="_top">Codominant</A>
+<A HREF="<!--#include file='include/glossary.html'-->#codominant" TARGET="_top">Codominant</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Coisogenic"><B>Coisogenic</B></A>
@@ -171,7 +171,7 @@ The most prominent class of microsatellites found in mammalian
 <A HREF="#Locus">locus</A> (see
 <A HREF="frame3.3.3.shtml">Chapter 3</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#congenic" TARGET="_top">Congenic</A>
+<A HREF="<!--#include file='include/glossary.html'-->#congenic" TARGET="_top">Congenic</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Conplastic"><B>Conplastic</B></A>
@@ -180,7 +180,7 @@ The most prominent class of microsatellites found in mammalian
 <A HREF="#Strain">strain</A> is transferred onto a different genetic background (see
 <A HREF="frame3.3.3.5.shtml">Chapter 3</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#conplastic" TARGET="_top">Conplastic</A>
+<A HREF="<!--#include file='include/glossary.html'-->#conplastic" TARGET="_top">Conplastic</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Consomic"><B>Consomic</B></A>
@@ -188,7 +188,7 @@ The most prominent class of microsatellites found in mammalian
 <A HREF="#Strain">strain</A>, usually the Y, is transferred onto a different genetic background (see
 <A HREF="frame3.3.3.4.shtml">Chapter 3</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#consomic" TARGET="_top">Consomic</A>
+<A HREF="<!--#include file='include/glossary.html'-->#consomic" TARGET="_top">Consomic</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Contig"><B>Contig</B></A>
@@ -197,7 +197,7 @@ The most prominent class of microsatellites found in mammalian
 <A HREF="frame7.1.4.shtml">Chapter 7</A> and 
 <A HREF="frame10.3.3.2.shtml">Chapter 10</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#contig" TARGET="_top">Contig</A>
+<A HREF="<!--#include file='include/glossary.html'-->#contig" TARGET="_top">Contig</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="CpG_island"><B>CpG island</B></A>
@@ -209,7 +209,7 @@ The most prominent class of microsatellites found in mammalian
 <A HREF="#Genotype">genotype</A> chosen to carry out a particular genetic analysis (see
 <A HREF="frame3.2.1.shtml">Chapter 3</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#cross" TARGET="_top">Cross</A>
+<A HREF="<!--#include file='include/glossary.html'-->#cross" TARGET="_top">Cross</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Crossover_product"><B>Crossover product</B></A>
@@ -249,7 +249,7 @@ The most prominent class of microsatellites found in mammalian
 <A HREF="#Locus">locus</A> with allelic variation that can be followed directly by a DNA-based assay such as Southern blotting or PCR (see
 <A HREF="frame8.1.shtml">Chapter 8</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#anonymous_DNA" TARGET="_top">Anonymous DNA Segment</A>
+<A HREF="<!--#include file='include/glossary.html'-->#anonymous_DNA" TARGET="_top">Anonymous DNA Segment</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="domesticus"><B>domesticus</B></A>
@@ -265,14 +265,14 @@ The most prominent class of microsatellites found in mammalian
 <A HREF="#Phenotype">phenotype</A> as an animal homozygous for the first allele. The second allele of the pair is considered
 <A HREF="#Recessive">recessive</A>.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#dominant" TARGET="_top">Dominant</A>
+<A HREF="<!--#include file='include/glossary.html'-->#dominant" TARGET="_top">Dominant</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="ES_cells"><B>ES cells</B></A>
 <DD>Embryonic stem cells. Cultured cells derived from the pluripotent inner cell mass of blastocyst stage embryos. Used for gene targeting by homologous recombination (see
 <A HREF="frame6.4.1.shtml">Chapter 6</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#ES_cells" TARGET="_top">ES Cells</A>
+<A HREF="<!--#include file='include/glossary.html'-->#ES_cells" TARGET="_top">ES Cells</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Expressivity"><B>Expressivity</B></A>
@@ -280,7 +280,7 @@ The most prominent class of microsatellites found in mammalian
 <A HREF="#Phenotype">phenotype</A> among individuals that have the same mutant
 <A HREF="#Genotype">genotype</A>. When quantitative differences are observed, a phenotype is said to show "variable expressivity" which can be caused by environmental factors, modifier genes or chance.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#expressivity" TARGET="_top">Expressivity</A>
+<A HREF="<!--#include file='include/glossary.html'-->#expressivity" TARGET="_top">Expressivity</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="F1"><B>F<SUB>1</SUB></B></A>
@@ -309,7 +309,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A HREF="#In_situ_hybridization"><I>in situ</I> hybridization</A> with high resolution and sensitivity (see
 <A HREF="frame10.2.2.1.shtml">Chapter 10</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#FISH" TARGET="_top">FISH</A>
+<A HREF="<!--#include file='include/glossary.html'-->#FISH" TARGET="_top">FISH</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Genetic drift"><B>Genetic drift</B></A>
@@ -320,7 +320,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <P><DT><A NAME="Genome"><B>Genome</B></A>
 <DD>The total genetic information present within a single cell nucleus of an animal. The haploid genome content of the mouse is 3 x10<SUP>9</SUP> bp.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#genome" TARGET="_top">Genome</A>
+<A HREF="<!--#include file='include/glossary.html'-->#genome" TARGET="_top">Genome</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Genotype"><B>Genotype</B></A>
@@ -328,7 +328,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A HREF="#Allele">alleles</A> present at one or more
 <A HREF="#Locus">loci</A> under investigation. At any one autosomal locus, a genotype will be either homozygous (with two identical alleles) or heterozygous (with two different alleles).
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#genotype" TARGET="_top">Genotype</A>
+<A HREF="<!--#include file='include/glossary.html'-->#genotype" TARGET="_top">Genotype</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Giemsa"><B>Giemsa</B></A>
@@ -346,7 +346,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A NAME="RI">RI strains</A>, the haplotypes associated with each sample provide a means for determining the order of loci (see
 <A HREF="frame9.2.1.1.shtml">Chapter 9</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#haplotype" TARGET="_top">Haplotype</A>
+<A HREF="<!--#include file='include/glossary.html'-->#haplotype" TARGET="_top">Haplotype</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Heterozygote"><B>Heterozygote</B></A>
@@ -354,7 +354,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A HREF="#Allele">alleles</A> at a particular
 <A HREF="#Locus">locus</A> under analysis. In this case, the locus is considered to be heterozygous.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#heterozygote" TARGET="_top">Heterozygote</A>
+<A HREF="<!--#include file='include/glossary.html'-->#heterozygote" TARGET="_top">Heterozygote</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Histocompatible"><B>Histocompatible</B></A>
@@ -364,7 +364,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <P><DT><A NAME="Homolog"><B>Homolog</B></A>
 <DD>This term is used by geneticists in two different senses: (1) One member of a chromosome pair in diploid organisms, and (2) A gene from one species, for example the mouse, that has a common origin and functions the same as a gene from another species, for example humans, Drosophila, or yeast.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#homolog" TARGET="_top">Homolog</A>
+<A HREF="<!--#include file='include/glossary.html'-->#homolog" TARGET="_top">Homolog</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Homozygote"><B>Homozygote</B></A>
@@ -372,7 +372,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A HREF="#Allele">alleles</A> at a particular
 <A HREF="#Locus">locus</A> under analysis. In this case, the locus is considered to be homozygous.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#homozygote" TARGET="_top">Homozygote</A> 
+<A HREF="<!--#include file='include/glossary.html'-->#homozygote" TARGET="_top">Homozygote</A> 
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Hotspot"><B>Hotspot, recombinational</B></A>
@@ -400,21 +400,21 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A HREF="frame5.5.1.shtml">Chapter 5</A>). Only a small subset of genes in the mammalian
 <A HREF="#Genome">genome</A> are imprinted.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#imprinting" TARGET="_top">Imprinting</A>
+<A HREF="<!--#include file='include/glossary.html'-->#imprinting" TARGET="_top">Imprinting</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="In_situ_hybridization"><B><I>In situ</I> hybridization</B></A>
 <DD>A technique for mapping cloned DNA sequences by hybridization directly to metaphase chromosomes and analysis by microscopy (see
 <A HREF="frame10.2.2.1.shtml">Chapter 10</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#in_situ" TARGET="_top"><I>In situ</I> Hybridization</A>
+<A HREF="<!--#include file='include/glossary.html'-->#in_situ" TARGET="_top"><I>In situ</I> Hybridization</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Inbred"><B>Inbred</B></A>
 <DD>Animals that result from the process of at least twenty sequential generations of brother-sister matings. This process is called inbreeding (see
 <A HREF="frame3.2.2.shtml">Chapter 3</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#inbred_strain" TARGET="_top">Inbred Strain</A>
+<A HREF="<!--#include file='include/glossary.html'-->#inbred_strain" TARGET="_top">Inbred Strain</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Incross"><B>Incross</B></A>
@@ -426,7 +426,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A HREF="#Strain">strain</A> (see
 <A HREF="frame3.2.1.shtml">Chapter 3</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#incross" TARGET="_top">Incross</A>
+<A HREF="<!--#include file='include/glossary.html'-->#incross" TARGET="_top">Incross</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Intercross"><B>Intercross</B></A>
@@ -439,7 +439,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A HREF="#Strain">strains</A> (see
 <A HREF="frame3.2.1.shtml">Chapter 3</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#intercross" TARGET="_top">Intercross</A>
+<A HREF="<!--#include file='include/glossary.html'-->#intercross" TARGET="_top">Intercross</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Interference"><B>Interference</B></A>
@@ -476,20 +476,20 @@ In the case of mouse genetics, this refers most often to a cross between a tradi
 <A HREF="frame5.2.1.1.shtml">Chapter 5</A>). 
 A karyotype is defined entirely by microscopic observation.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#karyotype" TARGET="_top">Karyotype</A>
+<A HREF="<!--#include file='include/glossary.html'-->#karyotype" TARGET="_top">Karyotype</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Library"><B>Library, genomic</B></A>
 <DD>A sufficient number of genomic clones such that any sequence of interest is very likely to be present in at least one member of the set. If the library is random, the actual set of original clones must contain a cumulative length of DNA that is equal to multiple "genomic equivalents."
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#library" TARGET="_top">Library</A>
+<A HREF="<!--#include file='include/glossary.html'-->#library" TARGET="_top">Library</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Linkage"><B>Linkage</B></A>
 <DD>Pertaining to the situation where two
 <A HREF="#Locus">loci</A> are close enough to each on the same chromosome such that recombination between them is reduced to a level significantly less than 50%.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#linkage" TARGET="_top">Linkage</A>
+<A HREF="<!--#include file='include/glossary.html'-->#linkage" TARGET="_top">Linkage</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Linkage_group"><B>Linkage group</B></A>
@@ -499,13 +499,13 @@ A karyotype is defined entirely by microscopic observation.
 <P><DT><A NAME="Locus"><B>Locus</B></A>
 <DD>Any genomic site, whether functional or not, that can be mapped through formal genetic analysis.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#locus" TARGET="_top">Locus</A>
+<A HREF="<!--#include file='include/glossary.html'-->#locus" TARGET="_top">Locus</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Meiosis"><B>Meiosis</B></A>
 <DD>The process by which diploid germ cell precursors segregate their chromosomes into haploid nuclei within eggs and sperm.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#meiosis" TARGET="_top">Meiosis</A>
+<A HREF="<!--#include file='include/glossary.html'-->#meiosis" TARGET="_top">Meiosis</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Meiotic_product"><B>Meiotic product</B></A>
@@ -556,7 +556,7 @@ allele that is present at a frequency of less than 1% in a natural population; a
 <A HREF="#Allele">allele</A> present in a progeny that is not present in the
 <A HREF="#Genome">genome</A> of either its parents.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#mutation" TARGET="_top">Mutation</A>
+<A HREF="<!--#include file='include/glossary.html'-->#mutation" TARGET="_top">Mutation</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="N2"><B>N2, N3, N4 etc.</B></A>
@@ -572,7 +572,7 @@ allele that is present at a frequency of less than 1% in a natural population; a
 <DD>A
 <A HREF="#Cross">cross</A> between genetically unrelated animals.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#outcross" TARGET="_top">Outcross</A>
+<A HREF="<!--#include file='include/glossary.html'-->#outcross" TARGET="_top">Outcross</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Parental"><B>Parental</B></A>
@@ -587,7 +587,7 @@ allele that is present at a frequency of less than 1% in a natural population; a
 <A HREF="#Genotype">genotype</A> to express the associated mutant
 <A HREF="#Phenotype">phenotype</A>. In any case where less than 100% of genotypically mutant animals are phenotypically mutant, the phenotype is said to be "incompletely penetrant". Incomplete penetrance is usually a matter of chance or modifiers in the genetic background.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#penetrance" TARGET="_top">Penetrance</A>
+<A HREF="<!--#include file='include/glossary.html'-->#penetrance" TARGET="_top">Penetrance</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="PFGE"><B>PFGE</B></A>
@@ -599,7 +599,7 @@ allele that is present at a frequency of less than 1% in a natural population; a
 <A HREF="#Genotype">genotype</A> within an animal. A mutant phenotype is caused by a mutant genotype and is manifested as an alteration within an animal that distinguishes it from the
 <A HREF="#Wild-type">wild-type</A>.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#phenotype" TARGET="_top">Phenotype</A>
+<A HREF="<!--#include file='include/glossary.html'-->#phenotype" TARGET="_top">Phenotype</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Phylogenetic_tree"><B>Phylogenetic tree</B></A>
@@ -611,7 +611,7 @@ allele that is present at a frequency of less than 1% in a natural population; a
 <A HREF="#Allele">alleles</A> (see
 <A HREF="frame9.2.5.2.shtml">Chapter 9</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#polygenic" TARGET="_top">Polygenic</A>
+<A HREF="<!--#include file='include/glossary.html'-->#polygenic" TARGET="_top">Polygenic</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Polymorphic"><B>Polymorphic</B></A>
@@ -619,7 +619,7 @@ allele that is present at a frequency of less than 1% in a natural population; a
 <A HREF="#Locus">loci</A> at which there are two or more
 <A HREF="#Allele">alleles</A> that are each present at a frequency of at least one percent in a population of animals. The term has been co-opted for use in transmission genetics to describe any locus at which at least two alleles are available for use in breeding studies, irrespective of their actual frequencies in natural populations.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#polymorphism" TARGET="_top">Polymorphism</A>
+<A HREF="<!--#include file='include/glossary.html'-->#polymorphism" TARGET="_top">Polymorphism</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Proximal"><B>Proximal</B></A>
@@ -634,7 +634,7 @@ The variation in expression can be due to combinations of genetic and environmen
 <A HREF="#Allele">alleles</A> at multiple
 <A HREF="#Locus">loci</A>.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#QTL" TARGET="_top">QTL</A>
+<A HREF="<!--#include file='include/glossary.html'-->#QTL" TARGET="_top">QTL</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Recessive"><B>Recessive</B></A>
@@ -644,7 +644,7 @@ The variation in expression can be due to combinations of genetic and environmen
 <A HREF="#Phenotype">phenotype</A> as an animal homozygous for the second allele. The second allele of the pair is considered
 <A HREF="#Dominant">dominant</A>.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#recessive" TARGET="_top">Recessive</A>
+<A HREF="<!--#include file='include/glossary.html'-->#recessive" TARGET="_top">Recessive</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Recombinant"><B>Recombinant</B></A>
@@ -662,7 +662,7 @@ The variation in expression can be due to combinations of genetic and environmen
 <A HREF="#Backcross">backcrossing</A> prior to inbreeding (see
 <A HREF="frame3.3.3.1.shtml">Chapter 3</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#congenic" TARGET="_top">Congenic</A>
+<A HREF="<!--#include file='include/glossary.html'-->#congenic" TARGET="_top">Congenic</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="RI"><B>Recombinant inbred (RI) strain</B></A>
@@ -672,7 +672,7 @@ The variation in expression can be due to combinations of genetic and environmen
 <A HREF="#Outcross">outcross</A> between two well-characterized inbred strains followed by at least twenty generations of inbreeding (see
 <A HREF="frame9.2.1.1.shtml">Chapter 9</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#recombinant_inbred" TARGET="_top">Recombinant Inbred</A>
+<A HREF="<!--#include file='include/glossary.html'-->#recombinant_inbred" TARGET="_top">Recombinant Inbred</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="ResFLP"><B>Restriction Fragment Length Polymorphism (RFLP)</B></A>
@@ -680,7 +680,7 @@ The variation in expression can be due to combinations of genetic and environmen
 <A HREF="frame8.2.1.shtml">Chapter 8</A>). 
 RFLPs are detected upon Southern blot hybridization. The term RFLP is commonly used even in situations where the DNA variation may not represent a true polymorphism in the population-based definition of this term.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#RFLP" TARGET="_top">RFLP</A>
+<A HREF="<!--#include file='include/glossary.html'-->#RFLP" TARGET="_top">RFLP</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="ResFLV"><B>Restriction Fragment Length Variant (RFLV)</B></A>
@@ -692,7 +692,7 @@ RFLPs are detected upon Southern blot hybridization. The term RFLP is commonly u
 <A HREF="#Genome">genome</A> (see
 <A HREF="frame5.4.1.shtml">Chapter 5</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#retrotransposon" TARGET="_top">Retrotransposon</A>
+<A HREF="<!--#include file='include/glossary.html'-->#retrotransposon" TARGET="_top">Retrotransposon</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="RFLP"><B>RFLP</B></A>
@@ -750,7 +750,7 @@ RFLPs are detected upon Southern blot hybridization. The term RFLP is commonly u
 <A HREF="#Inbred">inbred</A> or non-inbred (see
 <A HREF="frame3.2.2.shtml">Chapter 3</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#inbred_strain" TARGET="_top">Inbred Strain</A>
+<A HREF="<!--#include file='include/glossary.html'-->#inbred_strain" TARGET="_top">Inbred Strain</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="StrDP"><B>Strain Distribution Pattern (SDP)</B></A>
@@ -779,7 +779,7 @@ Used in the context of
 <A HREF="#Linkage">linkage</A> group. Conserved synteny refers to the situation where two linked loci in one species (such as the mouse) have
 <A HREF="#Homolog">homologs</A> that are also linked in another species (such as humans).
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#synteny" TARGET="_top">Synteny</A>
+<A HREF="<!--#include file='include/glossary.html'-->#synteny" TARGET="_top">Synteny</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Targeting"><B>Targeting, Gene</B></A>
@@ -790,7 +790,7 @@ Used in the context of
 <A HREF="frame6.4.shtml">Chapter 6</A>). 
 Also called targeted mutagenesis.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#targeted_mutation" TARGET="_top">Targeted Mutation</A>
+<A HREF="<!--#include file='include/glossary.html'-->#targeted_mutation" TARGET="_top">Targeted Mutation</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Transgene"><B>Transgene</B></A>
@@ -798,7 +798,7 @@ Also called targeted mutagenesis.
 <A HREF="#Genome">genome</A> through the manipulation of preimplantation embryos (see
 <A HREF="frame6.3.shtml">Chapter 6</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#transgene" TARGET="_top">Transgene</A>
+<A HREF="<!--#include file='include/glossary.html'-->#transgene" TARGET="_top">Transgene</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Transgenic"><B>Transgenic</B></A>
@@ -812,7 +812,7 @@ Also called targeted mutagenesis.
 <A HREF="#Wild-type">wild-type</A> configuration (see
 <A HREF="frame5.2.1.shtml">Chapter 5</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#translocation" TARGET="_top">Translocation</A>
+<A HREF="<!--#include file='include/glossary.html'-->#translocation" TARGET="_top">Translocation</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Unequal_crossover"><B>Unequal crossover</B></A>
@@ -841,14 +841,14 @@ Also called targeted mutagenesis.
 <DD>Animal or
 <A HREF="#Allele">allele</A> that functions normally and represents a common type found in natural populations at a frequency of at least one percent.
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#wild_type" TARGET="_top">Wild Type</A>
+<A HREF="<!--#include file='include/glossary.html'-->#wild_type" TARGET="_top">Wild Type</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="YAC"><B>YAC</B></A>
 <DD>Yeast Artificial Chromosome. A vector for cloning very large genomic inserts of 300 kb to one megabase in length (see
 <A HREF="frame10.3.3.1.shtml">Chapter 10</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='glossary.html'-->#YAC" TARGET="_top">YAC</A>
+<A HREF="<!--#include file='include/glossary.html'-->#YAC" TARGET="_top">YAC</A>
 <I> in the MGI Glossary.</I>
 </DL>
 
