@@ -20,6 +20,7 @@ filename = {
 	'NCBI_OMIM'	: 'omim.html',
 	'GDB_CLONE'	: 'gdb_clone.html',
 	'JAXMICE'	: 'jaxmice.html',
+	'JAVAWI'	: 'javawi.html',
 	}
 
 print 'Writing include files...'
