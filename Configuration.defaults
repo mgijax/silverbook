@@ -52,3 +52,6 @@ JAXMICE		http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&st
 
 # link to javawi2
 JAVAWI		http://devwww.informatics.jax.org:12311/javawi2/
+
+# URL to the WK Silvers online book
+WKSILVERS	http://www.informatics.jax.org/wksilvers/
