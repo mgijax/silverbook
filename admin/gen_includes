@@ -21,6 +21,7 @@ filename = {
 	'GDB_CLONE'	: 'gdb_clone.html',
 	'JAXMICE'	: 'jaxmice.html',
 	'JAVAWI'	: 'javawi.html',
+	'WKSILVERS'	: 'wksilvers.html',
 	}
 
 print 'Writing include files...'
