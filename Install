@@ -253,6 +253,14 @@ cd admin
 gen_includes || errorExit "Failed in gen_includes"
 cd $TOP
 
+# Create symbolic links to include directory
+
+for dir in ./www/chapters ./www/figures ./www/tables
+do
+	cd $dir
+	reLink $TOP/www/include include
+	cd $TOP
+done
 # Make sure that all files are owned by $GROUP
 
 logHeading "Changing file and directory ownerships..."
