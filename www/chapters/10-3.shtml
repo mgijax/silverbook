@@ -10,397 +10,397 @@
 
 <a name="10.3"></a><H2>10.3 PHYSICAL MAPS AND POSITIONAL CLONING</H2>
 
-<P>There are two stages in the process of positional cloning. The first stage is the focus of a major portion of this book: to use formal linkage
-analysis and other genetic approaches &#151; as tools &#151; to find flanking DNA markers that lie very close to the locus of interest. With these markers
-in hand, one can move to the second stage of this pathway: obtaining clones that cover the critical region, then identifying the gene of interest
+<P>There are two stages in the process of positional cloning. The first stage is the focus of a major portion of this book: to use formal linkage 
+analysis and other genetic approaches &#151; as tools &#151; to find flanking DNA markers that lie very close to the locus of interest. With these markers 
+in hand, one can move to the second stage of this pathway: obtaining clones that cover the critical region, then identifying the gene of interest 
 apart from all other genes and non-genic sequences within this region.
 
-<P>This second stage will be the focus of the remaining portion of this chapter. In what follows, I will move away from the realm of the formal
-geneticist to that of the molecular biologist. However, for several reasons, my intention is only to provide an overview of the conceptual
-framework that underlies the various approaches being used at the current time. First, the topics of physical mapping and positional cloning have
-filled entire books and many excellent review articles. Second, these linked topics are driven by technology, and new improved protocols are
+<P>This second stage will be the focus of the remaining portion of this chapter. In what follows, I will move away from the realm of the formal 
+geneticist to that of the molecular biologist. However, for several reasons, my intention is only to provide an overview of the conceptual 
+framework that underlies the various approaches being used at the current time. First, the topics of physical mapping and positional cloning have 
+filled entire books and many excellent review articles. Second, these linked topics are driven by technology, and new improved protocols are 
 constantly moving old ones onto the shelves. Consequently, any detailed discussion of actual molecular techniques will quickly become outdated.
 
 <a name="10.3.1"></a><H3>10.3.1 Prerequisites to positional cloning</H3>
 
-<P>The absolute first step in the process of positional cloning is the high resolution mapping of the locus of interest relative to closely linked
-DNA markers. This process (described at length in
-<A HREF="9-1.shtml">Chapter 9</A>)
-provides an investigator with two sets of complementary tools that are essential prerequisites to the actual generation of a physical map around
-the locus of interest. The first set of &#034;tools&#034; will be represented by the small number of animal samples with crossover sites in the vicinity of
+<P>The absolute first step in the process of positional cloning is the high resolution mapping of the locus of interest relative to closely linked 
+DNA markers. This process (described at length in 
+<A HREF="9-1.shtml">Chapter 9</A>) 
+provides an investigator with two sets of complementary tools that are essential prerequisites to the actual generation of a physical map around 
+the locus of interest. The first set of &#034;tools&#034; will be represented by the small number of animal samples with crossover sites in the vicinity of 
 the locus. The second set of tools is the small group of closely linked DNA markers.
 
-<P>Once the phenotypically defined gene has been closely linked to one or more DNA markers, it becomes possible to consider the complete cloning
-of the region that must contain the gene. There are no absolute cutoffs for determining what level of linkage is necessary before one can pursue
-this path, but in general, linkage should be tighter than 1 cM. Ideally, it is best to start a cloning project with one, or preferably
-more, DNA markers that show absolute linkage to the gene of interest upon analysis of at least 300 meiotic events or 77 recombinant inbred lines.
-From the equations used to derive Figures
-<a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">9.8</A> and
-<a href="javascript:windowf917 = window.open('../figures/figure9.17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">9.17</A> (from
-<A HREF="d.shtml">Appendix D</A>), one can determine that complete concordance
-in either of these cases provides a mean estimate for linkage distance of 0.23 cM which translates into a mean physical distance of 460 kb between
+<P>Once the phenotypically defined gene has been closely linked to one or more DNA markers, it becomes possible to consider the complete cloning 
+of the region that must contain the gene. There are no absolute cutoffs for determining what level of linkage is necessary before one can pursue 
+this path, but in general, linkage should be tighter than 1 cM. Ideally, it is best to start a cloning project with one, or preferably 
+more, DNA markers that show absolute linkage to the gene of interest upon analysis of at least 300 meiotic events or 77 recombinant inbred lines. 
+From the equations used to derive Figures 
+<a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">9.8</A> and 
+<a href="javascript:windowf917 = window.open('../figures/figure9.17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">9.17</A> (from 
+<A HREF="d.shtml">Appendix D</A>), one can determine that complete concordance 
+in either of these cases provides a mean estimate for linkage distance of 0.23 cM which translates into a mean physical distance of 460 kb between 
 marker and locus. These data also provide a 95% confidence upper limit of one centimorgan which translates into a distance of 2,000 kb.
 
 <a name="10.3.2"></a><H3>10.3.2 PFGE and long range genomic restriction maps</H3>
 
-<P>It is possible to derive long-range restriction maps spanning genomic regions that have yet to be cloned
-(<A HREF="../references.shtml#Barlow2" TARGET="_top">Barlow and Leharch, 1987</A>). The main utility of such restriction maps is to place lower and upper limits on the
-physical distance that separates two or more DNA markers known to be linked from breeding studies or other methods discussed previously. With this
-information in hand, one can make a more informed decision as to whether it is best to proceed directly with cloning and walking between marker
+<P>It is possible to derive long-range restriction maps spanning genomic regions that have yet to be cloned 
+(<A HREF="../references.shtml#Barlow2" TARGET="_top">Barlow and Leharch, 1987</A>). The main utility of such restriction maps is to place lower and upper limits on the 
+physical distance that separates two or more DNA markers known to be linked from breeding studies or other methods discussed previously. With this 
+information in hand, one can make a more informed decision as to whether it is best to proceed directly with cloning and walking between marker 
 loci, or better to derive additional DNA markers that lie between those available.
 
-<P>Long-range restriction mapping requires two tools: the first is a method for separating very large DNA fragments based on size differences, and
-the second is a set of reagents for cutting DNA at relatively rare restriction sites. The required methodology was invented by Schwartz and Cantor
-(<A HREF="../references.shtml#Schwartz1" TARGET="_top">Schwartz and Cantor, 1984</A>) and is known as pulsed field gel electrophoresis (PFGE). This technique permits
-the physical separation of DNA molecules that vary in size up to 9 mb in practice, with no upper limit in theory. The actual &#034;window&#034; of
-separation achieved is determined by the conditions of electrophoresis: at the lower end, one can obtain separation in the range of 20-200 kb,
-just beyond that possible with classical electrophoresis; at the upper end, one can obtain separation in the range of 1.4-9 megabases
+<P>Long-range restriction mapping requires two tools: the first is a method for separating very large DNA fragments based on size differences, and 
+the second is a set of reagents for cutting DNA at relatively rare restriction sites. The required methodology was invented by Schwartz and Cantor 
+(<A HREF="../references.shtml#Schwartz1" TARGET="_top">Schwartz and Cantor, 1984</A>) and is known as pulsed field gel electrophoresis (PFGE). This technique permits 
+the physical separation of DNA molecules that vary in size up to 9 mb in practice, with no upper limit in theory. The actual &#034;window&#034; of 
+separation achieved is determined by the conditions of electrophoresis: at the lower end, one can obtain separation in the range of 20-200 kb, 
+just beyond that possible with classical electrophoresis; at the upper end, one can obtain separation in the range of 1.4-9 megabases 
 (<A HREF="../references.shtml#Barlow2" TARGET="_top">Barlow and Leharch, 1987</A>).
 
-<P>The PFGE protocol would not be very useful for mapping mammalian chromosomes &#151; which typically vary in size from 100 to 250 megabases &#151;
-without a means for cutting these chromosomes at specific sites that are scattered from hundreds of kilobases up to a few megabases apart from each
-other. The means for doing just this appeared with the discovery of a special class of &#034;rare-cutting&#034; restriction enzymes. Restriction enzymes may
-cut rarely within mammalian DNA for two reasons. The first is a recognition site of eight bases rather than the usual four or six. In a genome with
-truly random sequence, an eight-base recognition site would appear only once in every 4<SUP>8</SUP> bp or 64 kilobases. However, mammalian DNA is
-not truly random. In fact, one particular dinucleotide &#151; CpG &#151; is severely under represented by a factor of five (see
-<A HREF="8-2.shtml#8.2.2">Section 8.2.2</A>). This fact provides the second reason why certain enzymes will cut genomic mouse DNA only rarely &#151;
-they contain one or more CpG dinucleotides in their recognition site. One enzyme in particular &#151; <i>Not</i>I &#151; has an eight base recognition
-site as well as two CpG dinucleotides; the average distance between <i>Not</i>I sites is estimated at over 1 mb. Other enzymes have either
-an eight base recognition site (<i>Sfi</i>I) or a six base recognition site with one two CpG dinucleotides (<i>Nru</i>I, <i>Mlu</i>I, <i>Bss</i>HII,
-<i>Eag</i>I, <i>Sac</i>II, etc.), and finally, there are enzymes with a six base recognition site and only one CpG (<i>Sal</i>I, <i>Cla</i>I,
-<i>Nar</i>I, <i>Xho</i>I, etc.) Taken together, experiments with these various enzymes can be used to provide a distribution of restriction fragments
+<P>The PFGE protocol would not be very useful for mapping mammalian chromosomes &#151; which typically vary in size from 100 to 250 megabases &#151; 
+without a means for cutting these chromosomes at specific sites that are scattered from hundreds of kilobases up to a few megabases apart from each 
+other. The means for doing just this appeared with the discovery of a special class of &#034;rare-cutting&#034; restriction enzymes. Restriction enzymes may 
+cut rarely within mammalian DNA for two reasons. The first is a recognition site of eight bases rather than the usual four or six. In a genome with 
+truly random sequence, an eight-base recognition site would appear only once in every 4<SUP>8</SUP> bp or 64 kilobases. However, mammalian DNA is 
+not truly random. In fact, one particular dinucleotide &#151; CpG &#151; is severely under represented by a factor of five (see 
+<A HREF="8-2.shtml#8.2.2">Section 8.2.2</A>). This fact provides the second reason why certain enzymes will cut genomic mouse DNA only rarely &#151; 
+they contain one or more CpG dinucleotides in their recognition site. One enzyme in particular &#151; <i>Not</i>I &#151; has an eight base recognition 
+site as well as two CpG dinucleotides; the average distance between <i>Not</i>I sites is estimated at over 1 mb. Other enzymes have either 
+an eight base recognition site (<i>Sfi</i>I) or a six base recognition site with one two CpG dinucleotides (<i>Nru</i>I, <i>Mlu</i>I, <i>Bss</i>HII, 
+<i>Eag</i>I, <i>Sac</i>II, etc.), and finally, there are enzymes with a six base recognition site and only one CpG (<i>Sal</i>I, <i>Cla</i>I, 
+<i>Nar</i>I, <i>Xho</i>I, etc.) Taken together, experiments with these various enzymes can be used to provide a distribution of restriction fragments 
 that vary from 20 kb to multiple megabases in length.
 
-<P>Long-range restriction maps are best generated by a combination of two approaches
-(<A HREF="../references.shtml#Herrmann1" TARGET="_top">Herrmann et al., 1987</A>;
-<A HREF="../references.shtml#Barlow3" TARGET="_top">Barlow et al., 1991</A>). First, single or double digests can be performed on very high molecular weight genomic
-DNA with a panel of rare cutting enzymes. Second, the same DNA sample can be treated with individual rare cutting enzymes under conditions where
-partial digestion will occur
-(<A HREF="../references.shtml#Barlow1" TARGET="_top">Barlow and Lehrach, 1990</A>). All of these samples are loaded into adjacent lanes on the same gel which is run
-according to the PFGE protocol, blotted, and then probed sequentially with various markers from the region of interest. The basic strategy for
-building up restriction maps is similar to that encountered with isolated small clones like plasmids
-(<A HREF="../references.shtml#Sambrook1" TARGET="_top">Sambrook et al., 1989</A>). The physical distance between two markers can be determined by identifying and sizing
+<P>Long-range restriction maps are best generated by a combination of two approaches 
+(<A HREF="../references.shtml#Herrmann1" TARGET="_top">Herrmann et al., 1987</A>; 
+<A HREF="../references.shtml#Barlow3" TARGET="_top">Barlow et al., 1991</A>). First, single or double digests can be performed on very high molecular weight genomic 
+DNA with a panel of rare cutting enzymes. Second, the same DNA sample can be treated with individual rare cutting enzymes under conditions where 
+partial digestion will occur 
+(<A HREF="../references.shtml#Barlow1" TARGET="_top">Barlow and Lehrach, 1990</A>). All of these samples are loaded into adjacent lanes on the same gel which is run 
+according to the PFGE protocol, blotted, and then probed sequentially with various markers from the region of interest. The basic strategy for 
+building up restriction maps is similar to that encountered with isolated small clones like plasmids 
+(<A HREF="../references.shtml#Sambrook1" TARGET="_top">Sambrook et al., 1989</A>). The physical distance between two markers can be determined by identifying and sizing 
 those restriction fragments, or partially digested fragments, that hybridize to both markers, or only one marker or the other.
 
-<P>Prior to the development, and easy availability, of large insert genomic libraries, the rare cutting enzyme/PFGE approach provided the most
-feasible means for estimating physical distances between linked loci that are separated by hundreds of kilobases or more. However, it is now often
-the case that physical mapping is more readily accomplished in the context of clones. Nevertheless, there are still many situations where a region
-of interest is flanked by two markers that are too distant from each other to allow rapid cloning between them. Genomic restriction mapping can
+<P>Prior to the development, and easy availability, of large insert genomic libraries, the rare cutting enzyme/PFGE approach provided the most 
+feasible means for estimating physical distances between linked loci that are separated by hundreds of kilobases or more. However, it is now often 
+the case that physical mapping is more readily accomplished in the context of clones. Nevertheless, there are still many situations where a region 
+of interest is flanked by two markers that are too distant from each other to allow rapid cloning between them. Genomic restriction mapping can 
 play a unique role in these situations.
 
 <a name="10.3.3"></a><H3>10.3.3 Large insert genomic libraries</H3>
 
 <a name="10.3.3.1"></a><H3><I>10.3.3.1 YACs and other large insert cloning systems</I></H3>
 
-<P>With the availability of one or more closely linked DNA markers from a genomic region of interest, one can begin to develop a contig of
-overlapping clones that spans the region. A cloned contig not only provides information on physical distances but can also be used as the raw
-material from which positional cloning of a phenotypically defined locus can proceed. The generation of a contig is pursued most efficiently by
-screening and walking through a large insert genomic library. Although a number of systems for generating large insert libraries have been described,
+<P>With the availability of one or more closely linked DNA markers from a genomic region of interest, one can begin to develop a contig of 
+overlapping clones that spans the region. A cloned contig not only provides information on physical distances but can also be used as the raw 
+material from which positional cloning of a phenotypically defined locus can proceed. The generation of a contig is pursued most efficiently by 
+screening and walking through a large insert genomic library. Although a number of systems for generating large insert libraries have been described, 
 to date, the yeast artificial chromosome (YAC) cloning system remains the most important for mouse geneticists.
 
-<P>The YAC cloning system was first developed by David Burke and Maynard Olson at Washington University in St. Louis
-(<A HREF="../references.shtml#Burke1" TARGET="_top">Burke et al., 1987</A>). It is based on the formation of &#034;artificial&#034; yeast chromosomes with the ligation of random,
-large fragments of genomic DNA between two arms that contain, in one case, a telomere and a centromere, and in the other case, a telomere alone, with
-selectable drug-resistance markers on both arms. These YAC constructs are transfected back into yeast where they will move alongside host chromosomes
+<P>The YAC cloning system was first developed by David Burke and Maynard Olson at Washington University in St. Louis 
+(<A HREF="../references.shtml#Burke1" TARGET="_top">Burke et al., 1987</A>). It is based on the formation of &#034;artificial&#034; yeast chromosomes with the ligation of random, 
+large fragments of genomic DNA between two arms that contain, in one case, a telomere and a centromere, and in the other case, a telomere alone, with 
+selectable drug-resistance markers on both arms. These YAC constructs are transfected back into yeast where they will move alongside host chromosomes 
 into both daughter cells at each mitotic division.
 
-<P>The construction of a YAC library proceeds in a manner that is very different from that of most other types of genomic libraries. Every clone in
-the library must be picked individually and placed into a separate compartment (of a microtiter dish, for example). This process is extremely
-time consuming and labor intensive, but once a library has been formed with individual clones in individual wells, it is essentially immortal. For
-this reason and others, it makes good sense to screen established libraries for a gene of interest rather than to create a new library. The first
-mouse YAC library to be described had a 2.2-fold genomic coverage and an average insert size of &#126;265 kb and was distributed freely to the entire
-scientific community
-(<A HREF="../references.shtml#Burke2" TARGET="_top">Burke et al., 1991</A>;
-<A HREF="../references.shtml#Rossi1" TARGET="_top">Rossi et al., 1992</A>).
-Several other mouse YAC libraries have since been described with greater insert size and genomic coverage
-(<A HREF="../references.shtml#Larin1" TARGET="_top">Larin et al., 1991</A>;
-<A HREF="../references.shtml#Chartier1" TARGET="_top">Chartier et al., 1992</A>;
-<A HREF="../references.shtml#Kusumi1" TARGET="_top">Kusumi et al., 1993</A>).
-The most comprehensive, well-characterized mouse YAC library described to date contains 19,421 clones with an average insert size of 650 kb for a
-4.3-fold coverage of the genome
-(<A HREF="../references.shtml#Kusumi1" TARGET="_top">Kusumi et al., 1993</A>). This library is available for screening commercially through
-<A HREF="http://www.resgen.com/index.php3" TARGET="_top">Research Genetics Inc.</A> (Huntsville, Alabama USA). Screening of this library, and most others, is based
-on PCR analysis of a hierarchy of clone pools
-(<A HREF="../references.shtml#Green1" TARGET="_top">Green and Olson, 1990</A>).
-Detailed protocols for library preparation, screening, and analysis have been described
-(<A HREF="../references.shtml#Larin2" TARGET="_top">Larin et al., 1993</A>;
+<P>The construction of a YAC library proceeds in a manner that is very different from that of most other types of genomic libraries. Every clone in 
+the library must be picked individually and placed into a separate compartment (of a microtiter dish, for example). This process is extremely 
+time consuming and labor intensive, but once a library has been formed with individual clones in individual wells, it is essentially immortal. For 
+this reason and others, it makes good sense to screen established libraries for a gene of interest rather than to create a new library. The first 
+mouse YAC library to be described had a 2.2-fold genomic coverage and an average insert size of &#126;265 kb and was distributed freely to the entire 
+scientific community 
+(<A HREF="../references.shtml#Burke2" TARGET="_top">Burke et al., 1991</A>; 
+<A HREF="../references.shtml#Rossi1" TARGET="_top">Rossi et al., 1992</A>). 
+Several other mouse YAC libraries have since been described with greater insert size and genomic coverage 
+(<A HREF="../references.shtml#Larin1" TARGET="_top">Larin et al., 1991</A>; 
+<A HREF="../references.shtml#Chartier1" TARGET="_top">Chartier et al., 1992</A>; 
+<A HREF="../references.shtml#Kusumi1" TARGET="_top">Kusumi et al., 1993</A>). 
+The most comprehensive, well-characterized mouse YAC library described to date contains 19,421 clones with an average insert size of 650 kb for a 
+4.3-fold coverage of the genome 
+(<A HREF="../references.shtml#Kusumi1" TARGET="_top">Kusumi et al., 1993</A>). This library is available for screening commercially through 
+<A HREF="http://www.resgen.com/index.php3" TARGET="_top">Research Genetics Inc.</A> (Huntsville, Alabama USA). Screening of this library, and most others, is based 
+on PCR analysis of a hierarchy of clone pools 
+(<A HREF="../references.shtml#Green1" TARGET="_top">Green and Olson, 1990</A>). 
+Detailed protocols for library preparation, screening, and analysis have been described 
+(<A HREF="../references.shtml#Larin2" TARGET="_top">Larin et al., 1993</A>; 
 <A HREF="../references.shtml#Nelson1" TARGET="_top">Nelson and Brownstein, 1994</A>).
 
-<P>It should be mentioned that the YAC cloning system is not perfect. At the time of this writing, it is still the case that a very high percentage of
-clones from all of the largest insert YAC libraries are chimeric; that is, their inserts are composed of two or more unrelated genomic fragments that
+<P>It should be mentioned that the YAC cloning system is not perfect. At the time of this writing, it is still the case that a very high percentage of 
+clones from all of the largest insert YAC libraries are chimeric; that is, their inserts are composed of two or more unrelated genomic fragments that 
 have become co-ligated in an undefined manner. The pre-identification of chimeric clones is essential before one can begin to generate a physical map.
 
-<P>Two other systems for cloning large genomic inserts have been described more recently. One is based on the use of the bacteriophage P1 as a cloning vector
-(<A HREF="../references.shtml#Pierce1" TARGET="_top">Pierce et al., 1992</A>;
-<A HREF="../references.shtml#Pierce2" TARGET="_top">Pierce and Sternberg, 1992</A>).
-This system has been used to obtain a mouse genomic library with average inserts in the range of 75-95 kb with a maximum cloning capacity of 100 kb.
-The P1 cloning system has two advantages over YACs: first, it has much more efficient cloning rates, and second, like other bacterial cloning systems,
-it allows the efficient purification of large amounts of clone DNA away from the rest of the bacterial genome. The utility of this cloning system in the
-analysis of genomic organization within the
-<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95894" TARGET="_top">H2</A></i> region has been demonstrated
+<P>Two other systems for cloning large genomic inserts have been described more recently. One is based on the use of the bacteriophage P1 as a cloning vector 
+(<A HREF="../references.shtml#Pierce1" TARGET="_top">Pierce et al., 1992</A>; 
+<A HREF="../references.shtml#Pierce2" TARGET="_top">Pierce and Sternberg, 1992</A>). 
+This system has been used to obtain a mouse genomic library with average inserts in the range of 75-95 kb with a maximum cloning capacity of 100 kb. 
+The P1 cloning system has two advantages over YACs: first, it has much more efficient cloning rates, and second, like other bacterial cloning systems, 
+it allows the efficient purification of large amounts of clone DNA away from the rest of the bacterial genome. The utility of this cloning system in the 
+analysis of genomic organization within the 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_top">H2</A></i> region has been demonstrated 
 (<A HREF="../references.shtml#Gasser1" TARGET="_top">Gasser et al., 1994</A>).
 
-<P>Another more recent system is derived from the well-studied <i>E. coli</i> F factor which is essentially a naturally occurring single-copy plasmid
-(<A HREF="../references.shtml#Shizuya1" TARGET="_top">Shizuya et al., 1992</A>). This plasmid has been converted into a vector that allows the cloning of inserts with more than
-300 kb of DNA, and with a reported average size range of 200-300 kb. The authors have called this vector/insert system a bacterial artificial chromosome or BAC.
-The BAC system has the same advantages as P1 and the added advantage of a larger potential insert size. The BAC system has not been analyzed extensively enough
+<P>Another more recent system is derived from the well-studied <i>E. coli</i> F factor which is essentially a naturally occurring single-copy plasmid 
+(<A HREF="../references.shtml#Shizuya1" TARGET="_top">Shizuya et al., 1992</A>). This plasmid has been converted into a vector that allows the cloning of inserts with more than 
+300 kb of DNA, and with a reported average size range of 200-300 kb. The authors have called this vector/insert system a bacterial artificial chromosome or BAC. 
+The BAC system has the same advantages as P1 and the added advantage of a larger potential insert size. The BAC system has not been analyzed extensively enough 
 to know whether chimerism will be a problem and whether the whole mouse genome will be fairly represented within this library.
 
 <a name="10.3.3.2"></a><H3><I>10.3.3.2 Walking and building contigs</I></H3>
 
-<P>All positive clones from a YAC, or other large insert, library can be sized by PFGE, and fragments at both ends of each insert can be isolated rapidly by
-several standard protocols
-(<A HREF="../references.shtml#Riley1" TARGET="_top">Riley et al., 1990</A>;
-<A HREF="../references.shtml#Cox3" TARGET="_top">Cox et al., 1993</A>;
-<A HREF="../references.shtml#Zoghbi1" TARGET="_top">Zoghbi and Chinault, 1994</A>). End fragments from each clone should be used as probes to perform an initial test of the
-possibility of chimerism. This can be accomplished by probing appropriate somatic cell hybrid lines to determine whether both ends map to the same chromosome
-as the original DNA marker used to isolate the clone; if appropriate somatic cell hybrid lines are not available, one can also test the segregation of the
-end fragments on a panel of 20 interspecific (or intersubspecific) backcross samples. If the two end fragments show complete concordance in transmission,
-this can be taken as strong evidence for <i>non</i>-chimerism; in contrast, two or more recombination events would be highly suggestive of a chimeric clone.
+<P>All positive clones from a YAC, or other large insert, library can be sized by PFGE, and fragments at both ends of each insert can be isolated rapidly by 
+several standard protocols 
+(<A HREF="../references.shtml#Riley1" TARGET="_top">Riley et al., 1990</A>; 
+<A HREF="../references.shtml#Cox3" TARGET="_top">Cox et al., 1993</A>; 
+<A HREF="../references.shtml#Zoghbi1" TARGET="_top">Zoghbi and Chinault, 1994</A>). End fragments from each clone should be used as probes to perform an initial test of the 
+possibility of chimerism. This can be accomplished by probing appropriate somatic cell hybrid lines to determine whether both ends map to the same chromosome 
+as the original DNA marker used to isolate the clone; if appropriate somatic cell hybrid lines are not available, one can also test the segregation of the 
+end fragments on a panel of 20 interspecific (or intersubspecific) backcross samples. If the two end fragments show complete concordance in transmission, 
+this can be taken as strong evidence for <i>non</i>-chimerism; in contrast, two or more recombination events would be highly suggestive of a chimeric clone. 
 Chimeric clones need not be discarded; it is just necessary to be aware of their nature in any interpretation of the data that they generate.
 
-<P>If multiple clones have been obtained from a screen with a DNA marker, end fragments from each should be used in cross-hybridization experiments to identify
-the particular clones that extend furthest in each direction along the chromosome. Often this approach will reduce the number of clones worth pursuing to just
-two. &#034;Walking&#034; through the library can proceed by using the farthest end fragments for rescreening, and then analyzing the resulting clones in the same manner
-described above. In this manner, a &#034;contig&#034; will be built over the genomic region that contains the locus of interest
+<P>If multiple clones have been obtained from a screen with a DNA marker, end fragments from each should be used in cross-hybridization experiments to identify 
+the particular clones that extend furthest in each direction along the chromosome. Often this approach will reduce the number of clones worth pursuing to just 
+two. &#034;Walking&#034; through the library can proceed by using the farthest end fragments for rescreening, and then analyzing the resulting clones in the same manner 
+described above. In this manner, a &#034;contig&#034; will be built over the genomic region that contains the locus of interest 
 (<A HREF="../references.shtml#Zoghbi1" TARGET="_top">Zoghbi and Chinault, 1994</A>).
 
-<P>The process of deriving YAC clones from a library can be brought to a halt when the clones that have already been obtained <i>must</i> include the locus being
-sought. It is only possible to reach this conclusion when the derived contig extends over markers that map apart from the locus on both of its sides. In other
-words, the contig must extend across the two closest recombination breakpoints that define the outer limits of localization. If cloning is begun with a very
-dense map of markers placed onto a high-resolution cross, this endpoint is likely to be reached more quickly. With real luck, it might even be reached with
+<P>The process of deriving YAC clones from a library can be brought to a halt when the clones that have already been obtained <i>must</i> include the locus being 
+sought. It is only possible to reach this conclusion when the derived contig extends over markers that map apart from the locus on both of its sides. In other 
+words, the contig must extend across the two closest recombination breakpoints that define the outer limits of localization. If cloning is begun with a very 
+dense map of markers placed onto a high-resolution cross, this endpoint is likely to be reached more quickly. With real luck, it might even be reached with 
 the first set of YACs obtained in the initial screening of the library.
 
 <a name="10.3.3.3"></a><H3><I>10.3.3.3 Physical mapping: a comprehensive example</I></H3>
 
-<P>The overall strategy that one follows to move from a phenotype to a cloned contig is best explained within the context of a hypothetical example that is
-illustrated in
-<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>.
-Suppose you are interested in cloning a newly identified locus that has mutated to cause a phenotype of green eyes.
-First you search through the literature and the various genetic databases to see if any similar mutant phenotype has been uncovered previously. When this search
-fails to uncover previous examples of green-eyed mice, you decide to set up an intersubspecific backcross to follow the segregation of the mutant locus relative
-to DNA markers spread throughout the genome as detailed in
-<A HREF="9-4.shtml">Section 9.4</A>. An analysis of 50 backcross offspring with two to three markers taken from each chromosome
-demonstrates linkage to the distal region of Chromosome 3 between 2 markers that are 40 cM apart from each other. With this information in hand, you
-retype the same offspring with ten additional Chromosome 3 markers &#151; spaced at approximately 2 cM intervals over the derived map position &#151; to
-localize the green eyed mutation further. This step yields a map position between two limiting markers that are spaced 4 cM apart. Now you increase the number
-of backcross offspring in your typing set to 400 and you analyze each for the segregation of just these two limiting markers. This analysis identifies just 16 animals with
-recombination breakpoints between the two limiting markers, and each member of this smaller set is analyzed for the segregation of another 30 markers that were previously
-mapped with or between the two limiting markers. This third step yields four markers that are most tightly linked to the green-eyed locus with the hypothetical
-<A HREF="../glossary.shtml#Haplotype" TARGET="_top">haplotype</A> data shown in panel A of
-<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>.
-As illustrated in the
-<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure</A>,
-the data demonstrate: (1) complete concordance between green eyed and the marker
-<i>D3Xy55</i>; (2) one recombinant in 400 with the proximal marker
-<i>D3Ab34</i>, and two recombinants in 400 with two completely concordant distal loci
-<i>D3Xy12</i> and
-<i>D3Ab29</i>. Panel B of
-<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>
+<P>The overall strategy that one follows to move from a phenotype to a cloned contig is best explained within the context of a hypothetical example that is 
+illustrated in 
+<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>. 
+Suppose you are interested in cloning a newly identified locus that has mutated to cause a phenotype of green eyes. 
+First you search through the literature and the various genetic databases to see if any similar mutant phenotype has been uncovered previously. When this search 
+fails to uncover previous examples of green-eyed mice, you decide to set up an intersubspecific backcross to follow the segregation of the mutant locus relative 
+to DNA markers spread throughout the genome as detailed in 
+<A HREF="9-4.shtml">Section 9.4</A>. An analysis of 50 backcross offspring with two to three markers taken from each chromosome 
+demonstrates linkage to the distal region of Chromosome 3 between 2 markers that are 40 cM apart from each other. With this information in hand, you 
+retype the same offspring with ten additional Chromosome 3 markers &#151; spaced at approximately 2 cM intervals over the derived map position &#151; to 
+localize the green eyed mutation further. This step yields a map position between two limiting markers that are spaced 4 cM apart. Now you increase the number 
+of backcross offspring in your typing set to 400 and you analyze each for the segregation of just these two limiting markers. This analysis identifies just 16 animals with 
+recombination breakpoints between the two limiting markers, and each member of this smaller set is analyzed for the segregation of another 30 markers that were previously 
+mapped with or between the two limiting markers. This third step yields four markers that are most tightly linked to the green-eyed locus with the hypothetical 
+<A HREF="../glossary.shtml#Haplotype" TARGET="_top">haplotype</A> data shown in panel A of 
+<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>. 
+As illustrated in the 
+<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure</A>, 
+the data demonstrate: (1) complete concordance between green eyed and the marker 
+<i>D3Xy55</i>; (2) one recombinant in 400 with the proximal marker 
+<i>D3Ab34</i>, and two recombinants in 400 with two completely concordant distal loci 
+<i>D3Xy12</i> and 
+<i>D3Ab29</i>. Panel B of 
+<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A> 
 shows the linkage map that is generated from these data.
 
-<P>With one concordant marker and closely flanking markers on either side of the locus of interest, one can begin to develop a physical map. All four of the nearby
-markers are used to screen a YAC library. As shown in panel C of
-<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>,
-<I>D3Ab34</I> identifies two clones (1 and 5),
-<I>D3Xy55</I> identifies another two clones (2 and 6),
-<I>D3Xy12</I> identifies another two clones (3 and 8), and
+<P>With one concordant marker and closely flanking markers on either side of the locus of interest, one can begin to develop a physical map. All four of the nearby 
+markers are used to screen a YAC library. As shown in panel C of 
+<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>, 
+<I>D3Ab34</I> identifies two clones (1 and 5), 
+<I>D3Xy55</I> identifies another two clones (2 and 6), 
+<I>D3Xy12</I> identifies another two clones (3 and 8), and 
 <I>D3Ab29</I> identifies another two clones (4 and 7).
 <SUP><A HREF="notes.shtml#105" TARGET="_top">105</A></SUP>
-End fragments are derived from all eight clones and are used first to search for overlaps by hybridization to the complete set of YACs. This search demonstrates an overlap
+End fragments are derived from all eight clones and are used first to search for overlaps by hybridization to the complete set of YACs. This search demonstrates an overlap 
 between clone 8 and clones 4 and 7. Thus, in the first round of screening, two independent markers &#151; <i>D3Xy12</i> and <i>D3Ab29</i> &#151; have been physically linked into a single contig.
 
-<P>End fragments from clones 1, 6, 2, and 3 are used to rescreen the YAC library. This screen yields clones 9, 12, 10, and 11. Once again, end fragments are derived
-from these new clones and used first to search for overlaps. This search demonstrates an overlap between clones 9 and 12, which provides a physical linkup between the
-markers <i>D3Ab34</i> and <i>D3Xy55</i>. Thus, after two rounds of screening, two contigs have been formed with each containing two of the four markers. Finally, in an
-attempt to fill in the gap between YACs 10 and 11, a third round of screening is performed with an end fragment from each of these clones. Both end fragments immediately
-identify the same clone (13) and thus, without further analysis, it is immediately possible to state that a single contig has been generated across the entire region of interest.
+<P>End fragments from clones 1, 6, 2, and 3 are used to rescreen the YAC library. This screen yields clones 9, 12, 10, and 11. Once again, end fragments are derived 
+from these new clones and used first to search for overlaps. This search demonstrates an overlap between clones 9 and 12, which provides a physical linkup between the 
+markers <i>D3Ab34</i> and <i>D3Xy55</i>. Thus, after two rounds of screening, two contigs have been formed with each containing two of the four markers. Finally, in an 
+attempt to fill in the gap between YACs 10 and 11, a third round of screening is performed with an end fragment from each of these clones. Both end fragments immediately 
+identify the same clone (13) and thus, without further analysis, it is immediately possible to state that a single contig has been generated across the entire region of interest. 
 Most importantly, the contig crosses recombination breakpoints both proximal and distal to the green-eyed locus. Thus, the green-eyed locus must lie within the contig.
 
-<P>The contig is minimally defined by 10 overlapping clones; from most proximal to most distal, they are 5, 9, 12, 2, 10, 13, 11, 3, 8 and 7. Each of these clones must
-be sized and restriction mapped to construct the complete physical map shown in panel D of
-<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>.
-At this stage of the analysis, one can say only that the green-eyed locus must reside within the 1,360 kb cloned region between <i>D3Ab34</i> and <i>D3Ab29</i>. A region
-of this size is still quite large for undertaking gene identification studies, and thus it makes sense to try to narrow it down further. Toward this goal, one can return
-to the three backcross animals with recombination breakpoints located nearest to the green-eyed gene (156, 078, and 332 from panel A). The three corresponding samples of
-genomic DNA can be typed at the new loci defined by the six end fragments characterized in the YAC walking protocol just completed (1R, 6L, 2R, 10R, 11L, and 3L, where
-R and L signify left and right ends respectively). The results of this last genetic analysis are shown in panel E of
-<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>
-(where
-<A HREF="../glossary.shtml#Haplotype" TARGET="_top">haplotypes</A> are rotated 90&#176; to match them up to the physical map). The data allow
-further localization of the proximal breakpoint between 1R and 6L and further localization of a closest distal breakpoint (in sample no. 332) between markers 2R and 10R.
-These results reduce by two-fold the size of the genomic region that must contain the green-eyed locus down to 560 kb. This region is contained within just four YACs &#151;
+<P>The contig is minimally defined by 10 overlapping clones; from most proximal to most distal, they are 5, 9, 12, 2, 10, 13, 11, 3, 8 and 7. Each of these clones must 
+be sized and restriction mapped to construct the complete physical map shown in panel D of 
+<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A>. 
+At this stage of the analysis, one can say only that the green-eyed locus must reside within the 1,360 kb cloned region between <i>D3Ab34</i> and <i>D3Ab29</i>. A region 
+of this size is still quite large for undertaking gene identification studies, and thus it makes sense to try to narrow it down further. Toward this goal, one can return 
+to the three backcross animals with recombination breakpoints located nearest to the green-eyed gene (156, 078, and 332 from panel A). The three corresponding samples of 
+genomic DNA can be typed at the new loci defined by the six end fragments characterized in the YAC walking protocol just completed (1R, 6L, 2R, 10R, 11L, and 3L, where 
+R and L signify left and right ends respectively). The results of this last genetic analysis are shown in panel E of 
+<a href="javascript:windowf101 = window.open('../figures/figure10-1.shtml', 'windowf101', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf101.focus()">Figure 10.1</A> 
+(where 
+<A HREF="../glossary.shtml#Haplotype" TARGET="_top">haplotypes</A> are rotated 90&#176; to match them up to the physical map). The data allow 
+further localization of the proximal breakpoint between 1R and 6L and further localization of a closest distal breakpoint (in sample no. 332) between markers 2R and 10R. 
+These results reduce by two-fold the size of the genomic region that must contain the green-eyed locus down to 560 kb. This region is contained within just four YACs &#151; 
 9, 12, 2, and 10 &#151; that can now be analyzed for potential gene sequences as described in the <A HREF="#10.3.4">next section</A>.
 
 <a name="10.3.4"></a><H3>10.3.4 Protocols for gene identification</H3>
 
-<P>Even before the entire region that encompasses the locus of interest has been cloned, it is possible to begin the search for candidate genes within the large-insert
-clones that first become available. It is good idea to pursue this search simultaneously with genomic walking for two reasons. First, you could get lucky and find your
-gene in the initial cloned region. Second, the search for candidate genes can be daunting &#151; it took ten years to identify the human Huntington Disease gene
+<P>Even before the entire region that encompasses the locus of interest has been cloned, it is possible to begin the search for candidate genes within the large-insert 
+clones that first become available. It is good idea to pursue this search simultaneously with genomic walking for two reasons. First, you could get lucky and find your 
+gene in the initial cloned region. Second, the search for candidate genes can be daunting &#151; it took ten years to identify the human Huntington Disease gene 
 (Huntington's Disease Collaborative Research Group, 1993) &#151; so it makes good sense to start as soon as possible.
 
-<P>Many different protocols have been devised over the past several years to carry out this task
-(<A HREF="../references.shtml#Parrish1" TARGET="_top">Parrish and Nelson, 1993</A>). Generally-speaking, these protocols can be placed into three groups according to the underlying principle
-that they incorporate. First are protocols that rely upon the identification of transcribed sequences by cross-hybridization. Second are protocols that do not depend on
-gene activity but rather special characteristics in the DNA itself that are unique to mammalian genes. Third are computational protocols that can be used to distinguish
+<P>Many different protocols have been devised over the past several years to carry out this task 
+(<A HREF="../references.shtml#Parrish1" TARGET="_top">Parrish and Nelson, 1993</A>). Generally-speaking, these protocols can be placed into three groups according to the underlying principle 
+that they incorporate. First are protocols that rely upon the identification of transcribed sequences by cross-hybridization. Second are protocols that do not depend on 
+gene activity but rather special characteristics in the DNA itself that are unique to mammalian genes. Third are computational protocols that can be used to distinguish 
 coding regions and regulatory regions from non-functional regions within long stretches of DNA sequence.
 
 <a name="10.3.4.1"></a><H3><I>10.3.4.1 Candidate gene identification based on expression</I></H3>
 
-<P>Traditional approaches to identifying expressed sequences within genomic clones rely on using these clones, or subfragments from them, as hybridization probes to
+<P>Traditional approaches to identifying expressed sequences within genomic clones rely on using these clones, or subfragments from them, as hybridization probes to 
 screen cDNA libraries constructed from a tissue in which the locus of interest is thought to be expressed.
 <SUP><A HREF="notes.shtml#106" TARGET="_top">106</A></SUP>
-In theory, the simplest strategy would be to use YAC clones
-directly as probes
+In theory, the simplest strategy would be to use YAC clones 
+directly as probes 
 (<A HREF="../references.shtml#Marchuk1" TARGET="_top">Marchuk and Collins, 1994</A>).
-<SUP><A HREF="notes.shtml#107" TARGET="_top">107</A></SUP>
-In practice, this simple strategy has shown only limited success for a number of
-reasons including not only the high complexity of the clone &#151; which results in a reduced signal strength for each individual transcript region within it &#151; but also
-the difficulty of purifying high quality YAC DNA in sufficient quantity. These problems are circumvented by subcloning the YAC into cosmids or phage which can each be
+<SUP><A HREF="notes.shtml#107" TARGET="_top">107</A></SUP> 
+In practice, this simple strategy has shown only limited success for a number of 
+reasons including not only the high complexity of the clone &#151; which results in a reduced signal strength for each individual transcript region within it &#151; but also 
+the difficulty of purifying high quality YAC DNA in sufficient quantity. These problems are circumvented by subcloning the YAC into cosmids or phage which can each be 
 used individually to probe the cDNA library. However, this increases the workload by at least an order of magnitude.
 
-<P>Another expression-based strategy that is not dependent on cDNA libraries is to use subclones from YACs as probes of Northern blots containing RNA from tissues
-thought to express the gene along with RNA from tissues that should not express the gene based on the mutant phenotype. Positively hybridizing subclones can be
-further subcloned and individual fragments can be retested to narrow down the location of the transcript-containing sequences. Although this process provides some
-additional expression information that can be useful for sorting out candidates, it is quite tedious, requires large amounts of tissue RNA, and is no longer the
+<P>Another expression-based strategy that is not dependent on cDNA libraries is to use subclones from YACs as probes of Northern blots containing RNA from tissues 
+thought to express the gene along with RNA from tissues that should not express the gene based on the mutant phenotype. Positively hybridizing subclones can be 
+further subcloned and individual fragments can be retested to narrow down the location of the transcript-containing sequences. Although this process provides some 
+additional expression information that can be useful for sorting out candidates, it is quite tedious, requires large amounts of tissue RNA, and is no longer the 
 method of choice.
 
-<P>New approaches to detecting expressed cDNA sequences that circumvent many of the disadvantages of the methods just described are all based on the use of PCR. With
-one such approach, the YAC DNA &#151; rather than the RNA or cDNA &#151; is immobilized on filters. These filters are probed with specially engineered cDNA libraries in which
-all inserts are flanked by unique targets for PCR amplification. After filter hybridization and washing, those cDNAs that remain specifically attached can be eluted,
-amplified, and cloned
-(<A HREF="../references.shtml#Lovett1" TARGET="_top">Lovett et al., 1991</A>;
-<A HREF="../references.shtml#Parimoo1" TARGET="_top">Parimoo et al., 1991</A>).
+<P>New approaches to detecting expressed cDNA sequences that circumvent many of the disadvantages of the methods just described are all based on the use of PCR. With 
+one such approach, the YAC DNA &#151; rather than the RNA or cDNA &#151; is immobilized on filters. These filters are probed with specially engineered cDNA libraries in which 
+all inserts are flanked by unique targets for PCR amplification. After filter hybridization and washing, those cDNAs that remain specifically attached can be eluted, 
+amplified, and cloned 
+(<A HREF="../references.shtml#Lovett1" TARGET="_top">Lovett et al., 1991</A>; 
+<A HREF="../references.shtml#Parimoo1" TARGET="_top">Parimoo et al., 1991</A>). 
 Many variations upon this general theme have been described.
 
 <a name="10.3.4.2"></a><H3><I>10.3.4.2 Expression-independent gene identification</I></H3>
 
-<P>There are two serious problems inherent in all attempts to locate genes based on hybridization to RNA transcripts or amplified products from these transcripts.
-The first problem is that, from the phenotype alone, it may not be possible to determine the tissue specificity of gene expression. The second problem occurs even
-when the specific expressing-tissue can be reasonably well-identified in that the majority of transcript classes will be present at relatively low levels and will
-be difficult to retrieve. As a consequence, whole classes of genes will go undetected including, for example, those that are expressed only during brief periods of
-embryonic development, or only in a small subset of cells from complex tissues like the brain. Even genes expressed more broadly can go undetected if their corresponding
+<P>There are two serious problems inherent in all attempts to locate genes based on hybridization to RNA transcripts or amplified products from these transcripts. 
+The first problem is that, from the phenotype alone, it may not be possible to determine the tissue specificity of gene expression. The second problem occurs even 
+when the specific expressing-tissue can be reasonably well-identified in that the majority of transcript classes will be present at relatively low levels and will 
+be difficult to retrieve. As a consequence, whole classes of genes will go undetected including, for example, those that are expressed only during brief periods of 
+embryonic development, or only in a small subset of cells from complex tissues like the brain. Even genes expressed more broadly can go undetected if their corresponding 
 transcripts are present in one or a few copies per cell.
 
-<P>Three general approaches to gene identification have been developed that are not dependent on gene expression. Broadly speaking, these approaches are based on
-three corresponding characteristics of mammalian genes: (1) the occurrence of introns in nearly all mammalian genes; (2) the presence of &#034;CpG&#034; islands at the 5'-ends of
+<P>Three general approaches to gene identification have been developed that are not dependent on gene expression. Broadly speaking, these approaches are based on 
+three corresponding characteristics of mammalian genes: (1) the occurrence of introns in nearly all mammalian genes; (2) the presence of &#034;CpG&#034; islands at the 5'-ends of 
 most mammalian genes; and (3) the evolutionary conservation of nearly all mammalian genes from mice to humans and sometimes beyond.
 
 <a name="10.3.4.3"></a><H3><I>10.3.4.3 Exon Trapping</I></H3>
 
-<P>The first approach is referred to as exon trapping
-(<A HREF="../references.shtml#Buckler1" TARGET="_top">Buckler et al., 1991</A>). It is based on the empirical finding that the vast
-majority of splice recognition sites are not cell type specific. Instead, a general splicing machinery present in all cells can act with precision upon endogenous as
-well as foreign transcripts. This machinery can be exploited in tissue culture to identify YAC-derived genomic fragments that contain exons. Essentially, one subjects
-the YAC DNA to restriction digestion with a standard six-base recognition site enzyme followed by shotgun cloning into a special eukaryotic expression vector that contains
-flanking splice donor and acceptor sites on either side of the insert. The clones are then transfected into a mammalian cells that allow their high-level expression into
-RNA containing each cloned insert. If an insert does not contain an exon, splicing will proceed directly from the splice donor site on one side of the transcribed insert to the splice acceptor
-site on the other side to produce a final transcript of a predefined size. composed entirely of vector sequences. However, if an entire exon is contained within a particular fragment,
-it will be spliced into the mature transcript. The set of transcripts produced in a particular transient cell culture can be amplified by reverse transcription followed by PCR (RT-PCR)
-and analyzed by gel electrophoresis. All PCR products that are larger than the background splicing product should contain insert-derived exons that can be readily cloned directly from the gel.
-Once exons have been identified and cloned by this protocol, they can be used directly as probes to study tissue and stage specificity of expression, which is a prerequisite to the
+<P>The first approach is referred to as exon trapping 
+(<A HREF="../references.shtml#Buckler1" TARGET="_top">Buckler et al., 1991</A>). It is based on the empirical finding that the vast 
+majority of splice recognition sites are not cell type specific. Instead, a general splicing machinery present in all cells can act with precision upon endogenous as 
+well as foreign transcripts. This machinery can be exploited in tissue culture to identify YAC-derived genomic fragments that contain exons. Essentially, one subjects 
+the YAC DNA to restriction digestion with a standard six-base recognition site enzyme followed by shotgun cloning into a special eukaryotic expression vector that contains 
+flanking splice donor and acceptor sites on either side of the insert. The clones are then transfected into a mammalian cells that allow their high-level expression into 
+RNA containing each cloned insert. If an insert does not contain an exon, splicing will proceed directly from the splice donor site on one side of the transcribed insert to the splice acceptor 
+site on the other side to produce a final transcript of a predefined size. composed entirely of vector sequences. However, if an entire exon is contained within a particular fragment, 
+it will be spliced into the mature transcript. The set of transcripts produced in a particular transient cell culture can be amplified by reverse transcription followed by PCR (RT-PCR) 
+and analyzed by gel electrophoresis. All PCR products that are larger than the background splicing product should contain insert-derived exons that can be readily cloned directly from the gel. 
+Once exons have been identified and cloned by this protocol, they can be used directly as probes to study tissue and stage specificity of expression, which is a prerequisite to the 
 recovery of full-length cDNA clones.
 
-<P>In theory, a protocol of this type should allow the isolation of all of the exons present in a particular YAC clone. This collection of exons would be representative
-of all of the gene present on the YAC. However, in practice, sophisticated protocols of this type often fail to live up to expectations. To test the validity of exon trapping
-as a generalized approach to gene identification, Lehrach and his colleagues
-(<A HREF="../references.shtml#North1" TARGET="_top">North et al., 1993</A>) used this strategy to search for exons on eight cosmid clones that covered a region of 185 kb from the
+<P>In theory, a protocol of this type should allow the isolation of all of the exons present in a particular YAC clone. This collection of exons would be representative 
+of all of the gene present on the YAC. However, in practice, sophisticated protocols of this type often fail to live up to expectations. To test the validity of exon trapping 
+as a generalized approach to gene identification, Lehrach and his colleagues 
+(<A HREF="../references.shtml#North1" TARGET="_top">North et al., 1993</A>) used this strategy to search for exons on eight cosmid clones that covered a region of 185 kb from the 
 MHC class II region. Of the eight genes that are known to be present within this contig, seven were accounted for within the exon clones that were recovered.
-<SUP><A HREF="notes.shtml#108" TARGET="_top">108</A></SUP>
+<SUP><A HREF="notes.shtml#108" TARGET="_top">108</A></SUP> 
 This result would imply a success rate for gene identification of &#126;90%.
 
 <a name="10.3.4.4"></a><H3><I>10.3.4.4 CpG islands</I></H3>
 
-<P>As discussed previously, the dinucleotide CpG is severely under-represented in mammalian genomes. This under-representation results from the methylation of the cytosines
-on both strands of the two-basepair sequence; methylated cytosines are highly susceptible to spontaneous deamination which can cause a transitional mutation to thymidine
-(<A HREF="../references.shtml#Barker1" TARGET="_top">Barker et al., 1984</A>). Thus, when
-<I>CG/GC</I> sequences are present in the genome, they will mutate frequently to
-<I>TG/AC</I> or
-<I>CA/GT</I>,
-and, in fact, these dinucleotide sequences are present at a frequency significantly higher than expected throughout the genome
-(<A HREF="../references.shtml#McClelland1" TARGET="_top">McClelland and Ivarie, 1982</A>). In contrast, the CpG dinucleotides present at the 5' ends of many vertebrate genes remain devoid
-of methylation and thus resistant to mutation. As a consequence, the distribution of CpG dinucleotides is highly non-random with high density &#034;islands&#034; of multiple CpGs
-that mark the 5'-ends of genes in the midst of large genomic seas that contain only scattered CpGs as isolated entities
-(<A HREF="../references.shtml#Bird2" TARGET="_top">Bird, 1986</A>;
-<A HREF="../references.shtml#Bird1" TARGET="_top">Bird et al., 1987</A>;
+<P>As discussed previously, the dinucleotide CpG is severely under-represented in mammalian genomes. This under-representation results from the methylation of the cytosines 
+on both strands of the two-basepair sequence; methylated cytosines are highly susceptible to spontaneous deamination which can cause a transitional mutation to thymidine 
+(<A HREF="../references.shtml#Barker1" TARGET="_top">Barker et al., 1984</A>). Thus, when 
+<I>CG/GC</I> sequences are present in the genome, they will mutate frequently to 
+<I>TG/AC</I> or 
+<I>CA/GT</I>, 
+and, in fact, these dinucleotide sequences are present at a frequency significantly higher than expected throughout the genome 
+(<A HREF="../references.shtml#McClelland1" TARGET="_top">McClelland and Ivarie, 1982</A>). In contrast, the CpG dinucleotides present at the 5' ends of many vertebrate genes remain devoid 
+of methylation and thus resistant to mutation. As a consequence, the distribution of CpG dinucleotides is highly non-random with high density &#034;islands&#034; of multiple CpGs 
+that mark the 5'-ends of genes in the midst of large genomic seas that contain only scattered CpGs as isolated entities 
+(<A HREF="../references.shtml#Bird2" TARGET="_top">Bird, 1986</A>; 
+<A HREF="../references.shtml#Bird1" TARGET="_top">Bird et al., 1987</A>; 
 <A HREF="../references.shtml#Bird3" TARGET="_top">Bird, 1987</A>).
 
-<P>Gene searchers can exploit this situation by using restriction enzymes that contain two CpG dinucleotides in their recognition sites to identify the 5' ends of genes.
-<A HREF="../references.shtml#Lindsay1" TARGET="_top">Lindsay and Bird (1987)</A>
-have calculated that 89% of all <i>Not</i>I sites (GCGGCCGC) are located in CpG islands, as is the case for
-74% of all <i>Eag</i>I (CGGCCG), <i>Sac</i>II (CCGCGG), and <i>Bss</i>HII sites (GCGCGC). Thus, the approach to identifying CpG islands within YAC clones becomes
-relatively straightforward. Partial digestion of the clone is performed with each of the double CpG enzymes just described and the resulting DNA is separated by PFGE,
-blotted and probed sequentially with fragments from each of the YAC arms. The appearance of bands of the same size in digests obtained with two or more enzymes is highly
-suggestive of a CpG island. If <i>Not</i>I and one of these other enzymes both recognize sites within one or two kilobases of each other (below the resolution of PFGE),
-the presence of a CpG island can be assumed with a probability of 97%. If two of the six-cutter double CpG enzymes both recognize nearby sites, the likelihood of a CpG
-island is 93%. Once a putative CpG island is identified, various PCR-based methods can then be used to clone the DNA adjacent to the island
+<P>Gene searchers can exploit this situation by using restriction enzymes that contain two CpG dinucleotides in their recognition sites to identify the 5' ends of genes. 
+<A HREF="../references.shtml#Lindsay1" TARGET="_top">Lindsay and Bird (1987)</A> 
+have calculated that 89% of all <i>Not</i>I sites (GCGGCCGC) are located in CpG islands, as is the case for 
+74% of all <i>Eag</i>I (CGGCCG), <i>Sac</i>II (CCGCGG), and <i>Bss</i>HII sites (GCGCGC). Thus, the approach to identifying CpG islands within YAC clones becomes 
+relatively straightforward. Partial digestion of the clone is performed with each of the double CpG enzymes just described and the resulting DNA is separated by PFGE, 
+blotted and probed sequentially with fragments from each of the YAC arms. The appearance of bands of the same size in digests obtained with two or more enzymes is highly 
+suggestive of a CpG island. If <i>Not</i>I and one of these other enzymes both recognize sites within one or two kilobases of each other (below the resolution of PFGE), 
+the presence of a CpG island can be assumed with a probability of 97%. If two of the six-cutter double CpG enzymes both recognize nearby sites, the likelihood of a CpG 
+island is 93%. Once a putative CpG island is identified, various PCR-based methods can then be used to clone the DNA adjacent to the island 
 (<A HREF="../references.shtml#Parrish1" TARGET="_top">Parrish and Nelson, 1993</A>), and these sequences can be examined thoroughly to characterize the associated transcription unit.
 
-<P>There are two main advantages to this approach to gene identification. The first is its simplicity: it is based entirely on restriction digests, gel running, and
-cloning. The second is that it can enable the identification of genes that may not be detectable by other approaches. The only real disadvantage is that CpG islands are
+<P>There are two main advantages to this approach to gene identification. The first is its simplicity: it is based entirely on restriction digests, gel running, and 
+cloning. The second is that it can enable the identification of genes that may not be detectable by other approaches. The only real disadvantage is that CpG islands are 
 only found in association with 50 to 70% of all genes.
 
 <a name="10.3.4.5"></a><H3><I>10.3.4.5 Conservation from mice to humans and beyond</I></H3>
 
-<P>Less than 5% of the sequences within the mammalian genome actually contain information that is used to encode gene products. An even smaller fraction
-(&#126;0.1%) of the genome accounts for all of the regulatory elements, such as promoters and enhancers that control the stage and tissue-specific expression of this
-genetic information. Another 5-10% of the genome consists of elements required for the construction of centromeres, telomeres and other chromosomal
+<P>Less than 5% of the sequences within the mammalian genome actually contain information that is used to encode gene products. An even smaller fraction 
+(&#126;0.1%) of the genome accounts for all of the regulatory elements, such as promoters and enhancers that control the stage and tissue-specific expression of this 
+genetic information. Another 5-10% of the genome consists of elements required for the construction of centromeres, telomeres and other chromosomal 
 structures. The remaining 85-90% of the genome has no apparent sequence-specific function.
 
-<P>Nucleotide changes that occur within a non-functional DNA sequence are considered to be neutral. That is to say that such changes provide neither benefit nor
-harm to the organism within which they reside and, as such, they will not be subjected to selective forces. Instead, over a period of many generations, they will
-decrease or increase in allele frequency by a process of random drift which will lead either to their extinction (in most cases) or to their fixation within the
-species. Since spontaneous mutations occur at a constant rate within a population and since each neutral change will have the same (very low) probability of fixation,
-a non-functional sequence of DNA will slowly change at a constant rate. In mammals, this rate of change has been determined empirically to be on the order of 0.5%
+<P>Nucleotide changes that occur within a non-functional DNA sequence are considered to be neutral. That is to say that such changes provide neither benefit nor 
+harm to the organism within which they reside and, as such, they will not be subjected to selective forces. Instead, over a period of many generations, they will 
+decrease or increase in allele frequency by a process of random drift which will lead either to their extinction (in most cases) or to their fixation within the 
+species. Since spontaneous mutations occur at a constant rate within a population and since each neutral change will have the same (very low) probability of fixation, 
+a non-functional sequence of DNA will slowly change at a constant rate. In mammals, this rate of change has been determined empirically to be on the order of 0.5% 
 (five changes in 1,000 nucleotides) per million years.
 
-<P>The constant rate of change in non-functional sequences can be used as a &#034;molecular clock&#034; to gauge the evolutionary distances that separate different species
-from each other [see, for example,
-<A HREF="../references.shtml#Nei1" TARGET="_top">Nei (1987)</A>],
-and when the distance between two species is already known, the molecular clock can be used to predict the expected
-homology between sequences in each that are descendent from a common ancestor. Consider the consequences of genetic drift on a non-functional sequence present in the
-common ancestor to mice and humans some 65 million years ago. During the evolution from this common ancestor to the modern house mouse, it would have undergone changes
-in 65 X 0.5% or 32.5% of its nucleotides. During the separate evolution of this sequence along the line from the common ancestor to modern humans, changes would also
-have occurred in 32.5% of its nucleotides. With so many random changes occurring, there is a certain probability that the same nucleotide will be hit two or more
-times. Taking this fact into consideration yields a corrected divergence of &#126;27% along each evolutionary line and a comparison between the sequences currently
-present in mice and humans would show a divergence of &#126;46%. With changes at approximately half of the nucleotides present in the derived sequences, it will often
-be hard to even recognize the fact that they have a common ancestor. Most importantly for physical mappers, at this level of divergence, specific cross-hybridization
+<P>The constant rate of change in non-functional sequences can be used as a &#034;molecular clock&#034; to gauge the evolutionary distances that separate different species 
+from each other [see, for example, 
+<A HREF="../references.shtml#Nei1" TARGET="_top">Nei (1987)</A>], 
+and when the distance between two species is already known, the molecular clock can be used to predict the expected 
+homology between sequences in each that are descendent from a common ancestor. Consider the consequences of genetic drift on a non-functional sequence present in the 
+common ancestor to mice and humans some 65 million years ago. During the evolution from this common ancestor to the modern house mouse, it would have undergone changes 
+in 65 X 0.5% or 32.5% of its nucleotides. During the separate evolution of this sequence along the line from the common ancestor to modern humans, changes would also 
+have occurred in 32.5% of its nucleotides. With so many random changes occurring, there is a certain probability that the same nucleotide will be hit two or more 
+times. Taking this fact into consideration yields a corrected divergence of &#126;27% along each evolutionary line and a comparison between the sequences currently 
+present in mice and humans would show a divergence of &#126;46%. With changes at approximately half of the nucleotides present in the derived sequences, it will often 
+be hard to even recognize the fact that they have a common ancestor. Most importantly for physical mappers, at this level of divergence, specific cross-hybridization 
 will not take place.
 
-<P>In contrast to the situation encountered with non-functional sequences, most nucleotide changes that occur within coding regions will, in fact, be subjected to
-selective forces. The vast majority of changes that alter protein sequence are detrimental and will not survive within a population. Thus, coding regions will evolve
-much more slowly than non-functional regions. Although the actual rate of evolution can vary greatly for different genes, the vast majority of mammalian genes
-characterized to date show specific cross-hybridization between homologous sequences in the mouse and human genomes. In addition, a subset of mammalian genes are
-so conserved that specific cross-species hybridization can be detected with homologs in <i>Drosophila</i> and <i>C. elegans</i>, and in a smaller subset still,
+<P>In contrast to the situation encountered with non-functional sequences, most nucleotide changes that occur within coding regions will, in fact, be subjected to 
+selective forces. The vast majority of changes that alter protein sequence are detrimental and will not survive within a population. Thus, coding regions will evolve 
+much more slowly than non-functional regions. Although the actual rate of evolution can vary greatly for different genes, the vast majority of mammalian genes 
+characterized to date show specific cross-hybridization between homologous sequences in the mouse and human genomes. In addition, a subset of mammalian genes are 
+so conserved that specific cross-species hybridization can be detected with homologs in <i>Drosophila</i> and <i>C. elegans</i>, and in a smaller subset still, 
 cross-hybridization is detected with homologs in yeast.
 
-<P>With all of this information in hand, it becomes clear that cross-species Southern blot hybridization studies that use subcloned YAC fragments as probes, under
-low stringency conditions, can provide a tool for distinguishing between the five percent of sequences that encode proteins and the remaining 95% without coding
+<P>With all of this information in hand, it becomes clear that cross-species Southern blot hybridization studies that use subcloned YAC fragments as probes, under 
+low stringency conditions, can provide a tool for distinguishing between the five percent of sequences that encode proteins and the remaining 95% without coding 
 information. Since investigators often run samples from several different species in adjacent lanes, this approach is often referred to as &#034;zoo blotting&#034;.
 
-<P>There are several advantages to this approach. First, it allows detection of the vast majority of coding sequences and, thus, is more universal than the CpG island
-approach. Second, it is not dependent on actual gene expression and, thus, avoids all of the problems inherent in low level or restricted transcript distributions.
-The major problem with this approach is that the YAC clone must be subdivided into much smaller pieces that need to be tested individually for hybridization, and
-once a positive result is obtained, further subcloning and analysis is required. Consequently, the examination of a several hundred kilobase contig by this approach
+<P>There are several advantages to this approach. First, it allows detection of the vast majority of coding sequences and, thus, is more universal than the CpG island 
+approach. Second, it is not dependent on actual gene expression and, thus, avoids all of the problems inherent in low level or restricted transcript distributions. 
+The major problem with this approach is that the YAC clone must be subdivided into much smaller pieces that need to be tested individually for hybridization, and 
+once a positive result is obtained, further subcloning and analysis is required. Consequently, the examination of a several hundred kilobase contig by this approach 
 can be extremely tedious and time consuming.
 
 <a name="10.3.4.6"></a><H3><I>10.3.4.6 Gene identification based on sequence</I></H3>
 
-<P>As sequencing becomes more highly automated and more accurate, the feasibility of stepping nucleotide by nucleotide across an entire YAC clone becomes more and
-more realistic. The basic approach would be to begin sequencing across the insert from both sides with initial primers facing in from the two YAC arms. The maximum
-amount of sequence possible would be obtained by moving away from these two primers and then a short segment at the end of each would be used to design a new primer
-for the next step in sequencing. This process would be repeated over and over until overlap was reached in the middle of the clone. If, with improvements in
-technology, it becomes possible to read 1,000 bases of sequence in any single run, then each step in this procedure would provide 2 kb of information.
-In total, 150 steps would be required for a single pass over the complete sequence of a 300 kb clone. This is certainly not a feasible approach in
+<P>As sequencing becomes more highly automated and more accurate, the feasibility of stepping nucleotide by nucleotide across an entire YAC clone becomes more and 
+more realistic. The basic approach would be to begin sequencing across the insert from both sides with initial primers facing in from the two YAC arms. The maximum 
+amount of sequence possible would be obtained by moving away from these two primers and then a short segment at the end of each would be used to design a new primer 
+for the next step in sequencing. This process would be repeated over and over until overlap was reached in the middle of the clone. If, with improvements in 
+technology, it becomes possible to read 1,000 bases of sequence in any single run, then each step in this procedure would provide 2 kb of information. 
+In total, 150 steps would be required for a single pass over the complete sequence of a 300 kb clone. This is certainly not a feasible approach in 
 1993, but the pace of technology is such that it may well be possible within in the next 5 years.
 
-<P>With a long-range sequence, it becomes possible to use computational methods alone to ferret out coding regions. Sophisticated computer programs based on neural nets
-have been developed that can identify 90% of all exons with a twenty percent false positive rate as of 1993
-(<A HREF="../references.shtml#Forrest1" TARGET="_top">Forrest, 1993</A>;
-<A HREF="../references.shtml#Jan1" TARGET="_top">Jan and Jan, 1993</A>;
-<A HREF="../references.shtml#Little2" TARGET="_top">Little, 1993</A>;
-<A HREF="../references.shtml#Martin1" TARGET="_top">Martin et al., 1993</A>).
-Once a putative exon has been identified, it can be used as a probe to search for the tissue in which its expression takes place, and with further studies, it becomes
+<P>With a long-range sequence, it becomes possible to use computational methods alone to ferret out coding regions. Sophisticated computer programs based on neural nets 
+have been developed that can identify 90% of all exons with a twenty percent false positive rate as of 1993 
+(<A HREF="../references.shtml#Forrest1" TARGET="_top">Forrest, 1993</A>; 
+<A HREF="../references.shtml#Jan1" TARGET="_top">Jan and Jan, 1993</A>; 
+<A HREF="../references.shtml#Little2" TARGET="_top">Little, 1993</A>; 
+<A HREF="../references.shtml#Martin1" TARGET="_top">Martin et al., 1993</A>). 
+Once a putative exon has been identified, it can be used as a probe to search for the tissue in which its expression takes place, and with further studies, it becomes 
 possible to identify the remaining portions of the transcription unit with which it is associated.
 
 <DIV Align="center"><H4> <A HREF="10-2.shtml">Previous</A> <A HREF="10-4.shtml">Next</A></H4></DIV>

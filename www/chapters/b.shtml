@@ -15,178 +15,178 @@ Computational Tools and Electronic Databases</H2>
 
 <A NAME="B1-1"></A><B><H3>B1.1 The World Wide Web</H3></B>
 
-An ever-increasing amount of genetic information can be easily accessed and selectively retrieved over the Internet through the use of newly
-developed software protocols that break through the arcane language that was characteristic of Internet communications up until just a few years ago.
-It is now possible to access information over the Internet without knowing any computer commands and by barely touching the computer keyboard.
-The opening of the academic information superhighway was initiated with the development of a user interface called Gopher at the University of Minnesota.
-Gopher provided anyone sitting at an Internet-linked computer with the ability to &#034;surf the net&#034; by clicking through a series of menus to move from one
-Internet location to another, where it was often possible to search for and recover specific information.
-Although Gopher opened up the Internet to the masses, it is limited in the sense that it is essentially a text-based system (although it does allow one to download images as well).
+An ever-increasing amount of genetic information can be easily accessed and selectively retrieved over the Internet through the use of newly 
+developed software protocols that break through the arcane language that was characteristic of Internet communications up until just a few years ago. 
+It is now possible to access information over the Internet without knowing any computer commands and by barely touching the computer keyboard. 
+The opening of the academic information superhighway was initiated with the development of a user interface called Gopher at the University of Minnesota. 
+Gopher provided anyone sitting at an Internet-linked computer with the ability to &#034;surf the net&#034; by clicking through a series of menus to move from one 
+Internet location to another, where it was often possible to search for and recover specific information. 
+Although Gopher opened up the Internet to the masses, it is limited in the sense that it is essentially a text-based system (although it does allow one to download images as well). 
 Those interested in the Gopher system of software should write to the Gopher development group at the following E-mail address: Gopher@boombox.micro.umn.edu.
 
-<P>By the summer of 1994, a new vehicle for Internet surfing had taken hold in the form of the World Wide Web, which is also known as WWW, W3, or simply the Web.
-WWW is a body of software and a set of protocols and conventions developed initially at CERN, a high-energy physics laboratory in Switzerland. WWW is a true
-multimedia system with a highly graphical interface containing imbedded hypermedia.
-WWW allows the flow not only of text, but also images, video animation, and sound over the Internet.
-Hypermedia referes to the fact that text and objects on the computer screen can be given life in the sense that pointing at them and clicking on a mouse will
-initiate software protocols that, among other possibilities, provide &#034;gateways&#034; that transport a user from one Internet site to another which may be halfway around the world.
+<P>By the summer of 1994, a new vehicle for Internet surfing had taken hold in the form of the World Wide Web, which is also known as WWW, W3, or simply the Web. 
+WWW is a body of software and a set of protocols and conventions developed initially at CERN, a high-energy physics laboratory in Switzerland. WWW is a true 
+multimedia system with a highly graphical interface containing imbedded hypermedia. 
+WWW allows the flow not only of text, but also images, video animation, and sound over the Internet. 
+Hypermedia referes to the fact that text and objects on the computer screen can be given life in the sense that pointing at them and clicking on a mouse will 
+initiate software protocols that, among other possibilities, provide &#034;gateways&#034; that transport a user from one Internet site to another which may be halfway around the world. 
 In this way, hypermedia allows information to be organized as an interconnected web of associations rather than as a linear chain.
 
-<P>In order to use the Web to the fullest extent, it is important to understand the meaning of three critical terms: server, client, and uniform resource locator (or URL).
-Any computer site on the Internet that has opened itself up to &#034;browsing&#034; and information retreival via WWW is called a server.
-A WWW server must run special server software to present its information in the form of hypermedia, but otherwise, there are few limitations to who may develop a server.
+<P>In order to use the Web to the fullest extent, it is important to understand the meaning of three critical terms: server, client, and uniform resource locator (or URL). 
+Any computer site on the Internet that has opened itself up to &#034;browsing&#034; and information retreival via WWW is called a server. 
+A WWW server must run special server software to present its information in the form of hypermedia, but otherwise, there are few limitations to who may develop a server. 
 
-<P>Surfing the Web is accomplished by linking into, and jumping between, WWW servers over the Internet.
-To begin WWW explorations, you must install special software on your computer known as client software (or a WWW client). Different types of client software
-have been developed for the Macintosh, IBM-compatible computers running Windows, and other computer platforms.
-The most popular client was developed by the National Center for Supercomputing Applications (NCSA) and is called Mosaic with separate versions for different computer types.
-For more information, make contact through the following E-mail address: mosaic-mac@ncsa.uiuc.edu.
-It is also possible to download Mosaic software directly by anonymous file transfer protocol (anonymous FTP) at the NCSA FTP server: ftp ftp.ncsa.uiuc.edu.
-Several othertypes of WWW client software have been developed independently including MacWeb of the Macintosh, and Cello and WinWeb for the Windows environment.
-For more information of MacWeb, write to the following E-mail address: macweb@einet.net.
-For more information on Cello, write to the following E-mail address: cellobug@fatty.law.cornell.edu.
-For more information on WinWeb, write to the following E-mail address: winweb@einet.net.
+<P>Surfing the Web is accomplished by linking into, and jumping between, WWW servers over the Internet. 
+To begin WWW explorations, you must install special software on your computer known as client software (or a WWW client). Different types of client software 
+have been developed for the Macintosh, IBM-compatible computers running Windows, and other computer platforms. 
+The most popular client was developed by the National Center for Supercomputing Applications (NCSA) and is called Mosaic with separate versions for different computer types. 
+For more information, make contact through the following E-mail address: mosaic-mac@ncsa.uiuc.edu. 
+It is also possible to download Mosaic software directly by anonymous file transfer protocol (anonymous FTP) at the NCSA FTP server: ftp ftp.ncsa.uiuc.edu. 
+Several othertypes of WWW client software have been developed independently including MacWeb of the Macintosh, and Cello and WinWeb for the Windows environment. 
+For more information of MacWeb, write to the following E-mail address: macweb@einet.net. 
+For more information on Cello, write to the following E-mail address: cellobug@fatty.law.cornell.edu. 
+For more information on WinWeb, write to the following E-mail address: winweb@einet.net. 
 To download either Cello or MacWeb client software directly by anonymous FTP, go to the following server: ftp.einet.net.
 
-<P>An understanding of the final critical term &#151; URL &#151; will allow you to find particular WWW servers of interest among the many thousands that exist on the Internet.
-The URL is a long file name that acts as an address for each WWW server as well as each packet of hypermedia available at that server.
-Once WWW client software is up and running on your computer, you can move to any WWW site by opening the File menu and choosing the &#034;Open URL...&#034; command.
-Then type the URL of interest into the box, hit return, and off you go.
-URLs of particular interest to mouse geneticists are described below. As this book is being written, WWW us still in its infancy and is expanding rapidly.
-It is a near-certainty that the data sources described below will be enriched and supplemented with new sources of information and modes for their retrieval.
+<P>An understanding of the final critical term &#151; URL &#151; will allow you to find particular WWW servers of interest among the many thousands that exist on the Internet. 
+The URL is a long file name that acts as an address for each WWW server as well as each packet of hypermedia available at that server. 
+Once WWW client software is up and running on your computer, you can move to any WWW site by opening the File menu and choosing the &#034;Open URL...&#034; command. 
+Then type the URL of interest into the box, hit return, and off you go. 
+URLs of particular interest to mouse geneticists are described below. As this book is being written, WWW us still in its infancy and is expanding rapidly. 
+It is a near-certainty that the data sources described below will be enriched and supplemented with new sources of information and modes for their retrieval. 
 You should contact the sources of client software described above or your local computer advisor for up-to-date information on the most advanced system available at the time of this reading.<BR><BR>
 
 <A NAME="B1-2"></A><B><H3>B1.2 Mouse Genetics</H3></B>
 
-<P>The central WWW server for mouse geneticists is located at the Jackson Laboratory and has the following URL:
-<A HREF="<!--#include file='../include/mgi.html'-->" TARGET="_top">http://www.informatics.jax.org/</A>.
-This server provides access to the
-<A HREF="<!--#include file='../include/mgi_home.html'-->MGD/aboutMGD.shtml" TARGET="_top">Mouse Genome Database (MGD)</A> which is a compendium of linked data sources that includes
-<A HREF="<!--#include file='../include/mgi.html'-->searches/marker_form.shtml" TARGET="_top">locus information</A>,
-<A HREF="<!--#include file='../include/mgi.html'-->menus/map_menu.shtml" TARGET="_top">genetic mapping data</A>,
-<A HREF="<!--#include file='../include/mgi.html'-->searches/polymorphism_form.shtml" TARGET="_top">polymorphisms</A>,
-<A HREF="<!--#include file='../include/mgi.html'-->searches/probe_form.shtml" TARGET="_top">probes</A>,
-<A HREF="<!--#include file='../include/mgi.html'-->searches/probe_form.shtml" TARGET="_top">clones</A>,
-<A HREF="<!--#include file='../include/mgi.html'-->searches/probe_form.shtml" TARGET="_top">PCR primers</A>,
-<A HREF="<!--#include file='../include/mgi.html'-->searches/reference_form.shtml" TARGET="_top">citations</A>, and
-<A HREF="<!--#include file='../include/mgi.html'-->menus/homology_menu.shtml" TARGET="_top">homology</A> data with other mammalian genomes.
-Included in this compendium is the online version of Margaret Green's "Catalog of mutant genes and polymorphic loci"
-(<A HREF="../references.shtml#Green5" TARGET="_top">Green, 1989</A>).
-The online version, called the
-<A HREF="<!--#include file='../include/mgi_mlc.html'-->" TARGET="_top">Mouse Locus Catalog (or MLC)</A>
-is updated regularly by staff members of the Jackson Laboratory led by Dr M.T. Davisson and Dr D.P. Doolittle.
-The entire database can be
-<A HREF="<!--#include file='../include/mgi_mlc.html'-->" TARGET="_top">searched</A> to retrieve a list of loci (with associated descriptions and citations) that contain a particular
-search word or combination of words anywhere within the locus record.
-For further information, the MGD staff can be reached at the following E-mail address:
-<A HREF="<!--#include file='../include/mgi_support.html'-->" TARGET="_top">mgi-help@informatics.jax.org</A>.
+<P>The central WWW server for mouse geneticists is located at the Jackson Laboratory and has the following URL: 
+<A HREF="<!--#include file='include/mgi.html'-->" TARGET="_top">http://www.informatics.jax.org/</A>. 
+This server provides access to the 
+<A HREF="<!--#include file='include/mgi_home.html'-->MGD/aboutMGD.shtml" TARGET="_top">Mouse Genome Database (MGD)</A> which is a compendium of linked data sources that includes 
+<A HREF="<!--#include file='include/mgi.html'-->searches/marker_form.shtml" TARGET="_top">locus information</A>, 
+<A HREF="<!--#include file='include/mgi.html'-->menus/map_menu.shtml" TARGET="_top">genetic mapping data</A>, 
+<A HREF="<!--#include file='include/mgi.html'-->searches/polymorphism_form.shtml" TARGET="_top">polymorphisms</A>, 
+<A HREF="<!--#include file='include/mgi.html'-->searches/probe_form.shtml" TARGET="_top">probes</A>, 
+<A HREF="<!--#include file='include/mgi.html'-->searches/probe_form.shtml" TARGET="_top">clones</A>, 
+<A HREF="<!--#include file='include/mgi.html'-->searches/probe_form.shtml" TARGET="_top">PCR primers</A>, 
+<A HREF="<!--#include file='include/mgi.html'-->searches/reference_form.shtml" TARGET="_top">citations</A>, and 
+<A HREF="<!--#include file='include/mgi.html'-->menus/homology_menu.shtml" TARGET="_top">homology</A> data with other mammalian genomes. 
+Included in this compendium is the online version of Margaret Green's "Catalog of mutant genes and polymorphic loci" 
+(<A HREF="../references.shtml#Green5" TARGET="_top">Green, 1989</A>). 
+The online version, called the 
+<A HREF="<!--#include file='include/mgi_mlc.html'-->" TARGET="_top">Mouse Locus Catalog (or MLC)</A> 
+is updated regularly by staff members of the Jackson Laboratory led by Dr M.T. Davisson and Dr D.P. Doolittle. 
+The entire database can be 
+<A HREF="<!--#include file='include/mgi_mlc.html'-->" TARGET="_top">searched</A> to retrieve a list of loci (with associated descriptions and citations) that contain a particular 
+search word or combination of words anywhere within the locus record. 
+For further information, the MGD staff can be reached at the following E-mail address: 
+<A HREF="<!--#include file='include/mgi_support.html'-->" TARGET="_top">mgi-help@informatics.jax.org</A>.
 
-<P>The <I><A HREF="http://www-genome.wi.mit.edu/" TARGET="_top">Genome Center at the Whitehead Institute, MIT</A></I>
-provides a highly specialized but very useful source of information through
-either an automated E-mail query and answer protocol or anonymous FTP.
-This Genome Center has characterized and mapped over 3,000 polymorphic mouse microsatellite markers (as of January, 1994) that are each defined by a unique pair of oligonucleotide primers.
-By filling out and transmitting a special E-mail query form, an investigator can retrieve an automatic response containing information about sets of microsatellite markers defined
-by various criteria, including chromosomal location and polymorphisms between particular strains.
-It is possible to retrieve primer sequences as well as a graphical representation of a chromosome map that shows all the microsatellites (in Macintosh PICT format suitable for
-incorporation into all Mac drawing programs).
-To receive a blank E-mail query form and instructions for its use, send an E-mail message with the single word help to genome_database@genome.wi.mit.edu.<BR><BR>
-Data can also be retrieved by anonymous ftp to genome.wi.mit.edu.
+<P>The <I><A HREF="http://www-genome.wi.mit.edu/" TARGET="_top">Genome Center at the Whitehead Institute, MIT</A></I> 
+provides a highly specialized but very useful source of information through 
+either an automated E-mail query and answer protocol or anonymous FTP. 
+This Genome Center has characterized and mapped over 3,000 polymorphic mouse microsatellite markers (as of January, 1994) that are each defined by a unique pair of oligonucleotide primers. 
+By filling out and transmitting a special E-mail query form, an investigator can retrieve an automatic response containing information about sets of microsatellite markers defined 
+by various criteria, including chromosomal location and polymorphisms between particular strains. 
+It is possible to retrieve primer sequences as well as a graphical representation of a chromosome map that shows all the microsatellites (in Macintosh PICT format suitable for 
+incorporation into all Mac drawing programs). 
+To receive a blank E-mail query form and instructions for its use, send an E-mail message with the single word help to genome_database@genome.wi.mit.edu.<BR><BR> 
+Data can also be retrieved by anonymous ftp to genome.wi.mit.edu. 
 For more information, contact Linclon Stein at the Whitehead Institute [Email address: lstein@genome.wi.mit.edu].<BR><BR>
 
 <A NAME="B1-3"></A><B><H3>B1.3 Other WWW servers of interest to mouse geneticists</H3></B>
 
-<P>The central WWW server for human genetic information is maintained by the
-<A HREF="http://www.gdb.org/" TARGET="_top">Genome Database</A> group at the Johns Hopkins University and has the following URL:
-<A HREF="http://www.gdb.org/" TARGET="_top">http://www.gdb.org/</A>.
-A compendium of interlinked databases is available at this site where it is possible to recover information on human chromosomes, loci, maps, mutations, citations, cell lines, probes, polymorphisms, and other data items.
-Included in this compendium is the online version of Victor McKusick's <I>Mendelian Inheritance of Man</I> (called
-<A HREF="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM" TARGET="_top">OMIM</A>) which contains comprehensive textual information on all defined human loci.
-For further information, the
-<A HREF="http://www.gdb.org/gdb-bin/gdb/feedback" TARGET="_top">GDB staff</A> can be reached at the following E-mail address: Help@gdb.org, or the following address: GDB User Support, Genome Data Base,
+<P>The central WWW server for human genetic information is maintained by the 
+<A HREF="http://www.gdb.org/" TARGET="_top">Genome Database</A> group at the Johns Hopkins University and has the following URL: 
+<A HREF="http://www.gdb.org/" TARGET="_top">http://www.gdb.org/</A>. 
+A compendium of interlinked databases is available at this site where it is possible to recover information on human chromosomes, loci, maps, mutations, citations, cell lines, probes, polymorphisms, and other data items. 
+Included in this compendium is the online version of Victor McKusick's <I>Mendelian Inheritance of Man</I> (called 
+<A HREF="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=OMIM" TARGET="_top">OMIM</A>) which contains comprehensive textual information on all defined human loci. 
+For further information, the 
+<A HREF="http://www.gdb.org/gdb-bin/gdb/feedback" TARGET="_top">GDB staff</A> can be reached at the following E-mail address: Help@gdb.org, or the following address: GDB User Support, Genome Data Base, 
 Johns Hopkins University, 2024 E. Monument Street, Baltimore, MD 21205-2100.
 
 <P>Another critical WWW server is maintained by the National Center for Biotechnology Information (
-<A HREF="http://www.ncbi.nlm.nih.gov/" TARGET="_top">NCBI</A>) which is the location of the GenBank database. The URL for this server is:
-<A HREF="http://www.ncbi.nlm.nih.gov/" TARGET="_top">http://www.ncbi.nlm.nih.gov/</A>. GenBank searches can be conducted through this linkup.
-For further information, contact NCBI at the following E-mail address:
+<A HREF="http://www.ncbi.nlm.nih.gov/" TARGET="_top">NCBI</A>) which is the location of the GenBank database. The URL for this server is: 
+<A HREF="http://www.ncbi.nlm.nih.gov/" TARGET="_top">http://www.ncbi.nlm.nih.gov/</A>. GenBank searches can be conducted through this linkup. 
+For further information, contact NCBI at the following E-mail address: 
 <A HREF="mailto:info@ncbi.nlm.nih.gov">info@ncbi.nlm.nih.gov</A>.
 
-<P>There are numerous other databases that may be of interest to mouse geneticists including servers devoted to other experimental genetic systems.
-Many of the WWW servers described above provide gateways to these other servers.
-A very useful set of gateways to WWW servers of particular interest to biologists is called the Biologist's Control Panel and can be reached at the following URL:
+<P>There are numerous other databases that may be of interest to mouse geneticists including servers devoted to other experimental genetic systems. 
+Many of the WWW servers described above provide gateways to these other servers. 
+A very useful set of gateways to WWW servers of particular interest to biologists is called the Biologist's Control Panel and can be reached at the following URL: 
 http://gc.bcm.tmc.edu:8088/bio/bio_home.shtml.<BR><BR>
-<I>See also
-<A HREF="<!--#include file='../include/mgi_home.html'-->other/mouse_facts4.shtml" TARGET="_top">Useful Links</A> at MGI.</I><BR><BR>
+<I>See also 
+<A HREF="<!--#include file='include/mgi_home.html'-->other/mouse_facts4.shtml" TARGET="_top">Useful Links</A> at MGI.</I><BR><BR>
 
 <A NAME="B2"></A><B><H3>B2 MOUSE GENETICS COMMUNITY BULLETIN BOARD</H3></B>
 
-<P>An electronic bulletin board (called
-<A HREF="http://lists.informatics.jax.org/lyris-cgi/lyris.pl?enter=mgi-list&text_mode=0" TARGET="_top">MGI-LIST</A>) has been set up at the Jackson Laboratory with E-mail addresses of mouse geneticists throughout the world.
-The Mouse Genome Informatics Group at the JAX will use this bulletin board to make announcements of new software related to the Mouse Genome Data Base.
-In addition, all subscribers will be able to broadcast to, and receive messages of interest from, all other linked-up members of the community.
-If you would like to subscribe to this bulletin board, send a message that reads &#034;subscribe mgi-list &lt;your name>&#034; to listserver@informatics.jax.org.
-For further information or help, send an E-mail message to
-<A HREF="<!--#include file='../include/mgi_support.html'-->" TARGET="_top">mgi-help@informatics.jax.org</A>.<BR><BR>
+<P>An electronic bulletin board (called 
+<A HREF="http://lists.informatics.jax.org/lyris-cgi/lyris.pl?enter=mgi-list&text_mode=0" TARGET="_top">MGI-LIST</A>) has been set up at the Jackson Laboratory with E-mail addresses of mouse geneticists throughout the world. 
+The Mouse Genome Informatics Group at the JAX will use this bulletin board to make announcements of new software related to the Mouse Genome Data Base. 
+In addition, all subscribers will be able to broadcast to, and receive messages of interest from, all other linked-up members of the community. 
+If you would like to subscribe to this bulletin board, send a message that reads &#034;subscribe mgi-list &lt;your name>&#034; to listserver@informatics.jax.org. 
+For further information or help, send an E-mail message to 
+<A HREF="<!--#include file='include/mgi_support.html'-->" TARGET="_top">mgi-help@informatics.jax.org</A>.<BR><BR>
 
 <A NAME="B3"></A><B><H3>B3 COMPUTER PROGRAMS</H3></B>
 
 <A NAME="B3-1"></A><B><H3>B3.1 Linkage analysis</H3></B>
 
-<P>Numerous computer programs are available for the determination of linkage relationships among loci typed in large numbers of individuals.
-Most of these were developed for the analysis of complex human pedigrees with algorithms that incorporate Maximum Likelihood Estimation statistics
-(<A HREF="../references.shtml#Elston1" TARGET="_top">Elston and Stewart, 1971</A>) and provide LOD score
-(<A HREF="../references.shtml#Morton1" TARGET="_top">Morton, 1955</A>) output.
-Although these pedigree-based programs can be used for the analysis of mouse linkage data, they are usually less than optimal for this task.
-First, it is often not possible to derive unequivocal
-<A HREF="../glossary.shtml#Haplotype" TARGET="_top">haplotype</A> information for all individuals studied in a human pedigree, and as such, pedigree-based programs are not
-oriented toward this type of analysis which is so common in mouse linkage studies (see
-<a href="javascript:windowf915 = window.open('../figures/figure9.15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>).
-Second, for most studies, mouse geneticists will not need to avail themselves of the sophisticated Maximum likelihood/LOD score estimation tools required for human pedigree analysis.
-Two linkage programs developed specifically for mouse linkage studies &#151; Map Manager and GENE-LINK &#151; are described below.
-In addition, the most useful multi-locus pedigree-based program &#151; Mapmaker &#151; is also described.
-Other pedigree-based linkage analysis packages are listed and reviewed by
+<P>Numerous computer programs are available for the determination of linkage relationships among loci typed in large numbers of individuals. 
+Most of these were developed for the analysis of complex human pedigrees with algorithms that incorporate Maximum Likelihood Estimation statistics 
+(<A HREF="../references.shtml#Elston1" TARGET="_top">Elston and Stewart, 1971</A>) and provide LOD score 
+(<A HREF="../references.shtml#Morton1" TARGET="_top">Morton, 1955</A>) output. 
+Although these pedigree-based programs can be used for the analysis of mouse linkage data, they are usually less than optimal for this task. 
+First, it is often not possible to derive unequivocal 
+<A HREF="../glossary.shtml#Haplotype" TARGET="_top">haplotype</A> information for all individuals studied in a human pedigree, and as such, pedigree-based programs are not 
+oriented toward this type of analysis which is so common in mouse linkage studies (see 
+<a href="javascript:windowf915 = window.open('../figures/figure9.15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>). 
+Second, for most studies, mouse geneticists will not need to avail themselves of the sophisticated Maximum likelihood/LOD score estimation tools required for human pedigree analysis. 
+Two linkage programs developed specifically for mouse linkage studies &#151; Map Manager and GENE-LINK &#151; are described below. 
+In addition, the most useful multi-locus pedigree-based program &#151; Mapmaker &#151; is also described. 
+Other pedigree-based linkage analysis packages are listed and reviewed by 
 <A HREF="../references.shtml#Bryant1" TARGET="_top">Bryant (1991)</A>.
 
-<P><A HREF="http://www.mapmanager.org/mmQTX.html" TARGET="_top"><I>Map Manager</I></A> is a Macintosh program that can be used for the analysis of linkage data obtained from a backcross, F<SUB>1</SUB> X F<SUB>1</SUB>
-intercross, or from a group of recombinant inbred strains
-(<A HREF="../references.shtml#Manly1" TARGET="_top">Manly, 1993</A>).
-It was written by Dr. Kenneth F. Manly and is made available without charge from the author.
-Map Manager uses a standard Macintosh format and is both extremely versatile and extremely easy to use.
-It allows easy storage, display, and retrieval of information from mapping experiments.
-The strain distribution patterns (SDPs) obtained with newly typed loci can be evaluated rapidly to determine likely map positions relative to other loci in the database.
-The program is distributed with a large database of previously published RI strain distribution patterns which greatly facilitates the RI analysis of new loci.
-Map Manager has many other sophisticated features including a statistical evaluation package and various output options, as well as a means for importing and exporting data to and from spreadsheets or Mapmaker files (see below).
-It can be obtained from the
-<A HREF="http://www.mapmanager.org" TARGET="_top">author</A> on disk or by anonymous ftp or gopher from several sites including (mcbio.med.buffalo.edu), (hobbes.jax.org), (ftp.bio.indiana.edu), and (ftp.embl-heidelberg.de).
-For further information, Dr. Manly can be contacted at the E-mail address
+<P><A HREF="http://www.mapmanager.org/mmQTX.html" TARGET="_top"><I>Map Manager</I></A> is a Macintosh program that can be used for the analysis of linkage data obtained from a backcross, F<SUB>1</SUB> X F<SUB>1</SUB> 
+intercross, or from a group of recombinant inbred strains 
+(<A HREF="../references.shtml#Manly1" TARGET="_top">Manly, 1993</A>). 
+It was written by Dr. Kenneth F. Manly and is made available without charge from the author. 
+Map Manager uses a standard Macintosh format and is both extremely versatile and extremely easy to use. 
+It allows easy storage, display, and retrieval of information from mapping experiments. 
+The strain distribution patterns (SDPs) obtained with newly typed loci can be evaluated rapidly to determine likely map positions relative to other loci in the database. 
+The program is distributed with a large database of previously published RI strain distribution patterns which greatly facilitates the RI analysis of new loci. 
+Map Manager has many other sophisticated features including a statistical evaluation package and various output options, as well as a means for importing and exporting data to and from spreadsheets or Mapmaker files (see below). 
+It can be obtained from the 
+<A HREF="http://www.mapmanager.org" TARGET="_top">author</A> on disk or by anonymous ftp or gopher from several sites including (mcbio.med.buffalo.edu), (hobbes.jax.org), (ftp.bio.indiana.edu), and (ftp.embl-heidelberg.de). 
+For further information, Dr. Manly can be contacted at the E-mail address 
 <A HREF="mailto:manly@buffalo.edu">Kmanly@mcbio.med.buffalo.edu</A> or at Roswell Park Cancer Institute, Buffalo, New York 14263.
 
-<P><I>GENE-LINK</I> is a DOS program that can be used for the analysis of linkage data from a backcross
-(<A HREF="../references.shtml#Montagutelli1" TARGET="_top">Montagutelli, 1990</A>).
-It was written by Dr. Xavier Montagutelli and has been made available to investigators without cost.
-It will provide best-fit map positions for entered strain distribution patterns.
-For further information,
+<P><I>GENE-LINK</I> is a DOS program that can be used for the analysis of linkage data from a backcross 
+(<A HREF="../references.shtml#Montagutelli1" TARGET="_top">Montagutelli, 1990</A>). 
+It was written by Dr. Xavier Montagutelli and has been made available to investigators without cost. 
+It will provide best-fit map positions for entered strain distribution patterns. 
+For further information, 
 Dr. Montagutelli can be contacted at Institut Pasteur de Paris, 25 Rue du Docteur Roux, 75724 Paris, Cedex 15, France (gensoft@pasteur.fr).
 
-<P><I>Mapmaker</I> and <I>Mapmaker/QTL</I> are a pair of pedigree-based programs written by Dr. Eric Lander and his
-colleagues for constructing linkage maps from raw genotyping and phenotyping data recovered from large numbers of loci
-(<A HREF="../references.shtml#Lander1" TARGET="_top">Lander et al., 1987</A>).
-These programs use a highly efficient algorithm for &#034;likelihood of linkage&#034; computations.
-They can be run on UNIX-based workstations or VAX minicomputers running under the VMS operating system.
-The programs and a manual are available from the author for licensing to academic researchers.
-Mapmaker is most useful to mouse geneticists for the analysis of linkage data obtained from an F<SUB>1</SUB> X F<SUB>1</SUB> intercross.
+<P><I>Mapmaker</I> and <I>Mapmaker/QTL</I> are a pair of pedigree-based programs written by Dr. Eric Lander and his 
+colleagues for constructing linkage maps from raw genotyping and phenotyping data recovered from large numbers of loci 
+(<A HREF="../references.shtml#Lander1" TARGET="_top">Lander et al., 1987</A>). 
+These programs use a highly efficient algorithm for &#034;likelihood of linkage&#034; computations. 
+They can be run on UNIX-based workstations or VAX minicomputers running under the VMS operating system. 
+The programs and a manual are available from the author for licensing to academic researchers. 
+Mapmaker is most useful to mouse geneticists for the analysis of linkage data obtained from an F<SUB>1</SUB> X F<SUB>1</SUB> intercross. 
 Mapmaker/QTL can be used for the analysis of quantitative traits. For further information, contact Dr. Eric Lander (lander@genome.wi.mit.edu), Whitehead Institute, 9 Cambridge Center, Cambridge, MA 02142.<BR><BR>
 
 <A NAME="B3-2"></A><B><H3>B3.2 Mouse colony management software</H3></B>
 
-<P><I>Animal House Manager (AMAN)</I> and MacAMAN are software packages for IBM-compatables and Macintosh computers, that can be used for keeping track of a breeding mouse
-colony with records for animals, litters, cages, and samples derived from them.
-These programs are described more fully in
-<A HREF="3-5.shtml#3.5.5">Chapter 3</A>
-(<A HREF="../references.shtml#Silver4" TARGET="_top">Silver, 1986</A>;
-<A HREF="../references.shtml#Silver8" TARGET="_top">Silver, 1993b</A>).
-They were written by the author of this book and can be licensed for use from Princeton University.
-For further information, the author can be reached at his E-mail address:
+<P><I>Animal House Manager (AMAN)</I> and MacAMAN are software packages for IBM-compatables and Macintosh computers, that can be used for keeping track of a breeding mouse 
+colony with records for animals, litters, cages, and samples derived from them. 
+These programs are described more fully in 
+<A HREF="3-5.shtml#3.5.5">Chapter 3</A> 
+(<A HREF="../references.shtml#Silver4" TARGET="_top">Silver, 1986</A>; 
+<A HREF="../references.shtml#Silver8" TARGET="_top">Silver, 1993b</A>). 
+They were written by the author of this book and can be licensed for use from Princeton University. 
+For further information, the author can be reached at his E-mail address: 
 Lsilver@Molbiol.Princeton.Edu, or at the Department of Molecular Biology, Princeton University, Princeton, NJ 08544-1014.
 
 <DIV Align="center"><H4> <A HREF="a.shtml">Previous</A> <A HREF="c.shtml">Next</A></H4></DIV>

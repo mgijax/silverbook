@@ -139,19 +139,19 @@
 <TD>13.4</TD><TD>&nbsp;</TD>
 <TD>High</TD></TR></TABLE>
 <HR>
-Matings are considered &#034;productive&#034; if any offspring at all are born.
-&#034;Weeks at first mating&#034; refers to the age at which the first &#034;productive&#034; mating occurred; it is estimated by subtracting 3 weeks
-from the age of the parents at the first birth.
-&#034;Relative fecundity&#034; is obtained as the following product: (productive mating frequency) X (litter size) X (number of litters);
-the value obtained is a measure of the overall fecundity of the strain.
-The &#034;response to superovulation&#034; is based on information extracted from <I>Manipulating the Mouse Embryo: A Laboratory Manual</I>
-(<A HREF="../references.shtml#Hogan1" TARGET="_blank">Hogan et al., 1994</A>); the significance of this parameter is discussed in
-<A HREF="../frames/frame6-2.shtml" target="_blank">Section 6.2.</a> Data for all strains other than FVB/N are extracted from the <I>Handbook of Genetically Standardized JAX Mice</I>
-(<A HREF="../references.shtml#Green6" TARGET="_blank">Green and Witham, 1991</A>).
-Data for the FVB/N strain are extracted from a publication by
+Matings are considered &#034;productive&#034; if any offspring at all are born. 
+&#034;Weeks at first mating&#034; refers to the age at which the first &#034;productive&#034; mating occurred; it is estimated by subtracting 3 weeks 
+from the age of the parents at the first birth. 
+&#034;Relative fecundity&#034; is obtained as the following product: (productive mating frequency) X (litter size) X (number of litters); 
+the value obtained is a measure of the overall fecundity of the strain. 
+The &#034;response to superovulation&#034; is based on information extracted from <I>Manipulating the Mouse Embryo: A Laboratory Manual</I> 
+(<A HREF="../references.shtml#Hogan1" TARGET="_blank">Hogan et al., 1994</A>); the significance of this parameter is discussed in 
+<A HREF="../frames/frame6-2.shtml" target="_blank">Section 6.2.</a> Data for all strains other than FVB/N are extracted from the <I>Handbook of Genetically Standardized JAX Mice</I> 
+(<A HREF="../references.shtml#Green6" TARGET="_blank">Green and Witham, 1991</A>). 
+Data for the FVB/N strain are extracted from a publication by 
 <A HREF="../references.shtml#Taketo1" TARGET="_blank">Taketo and colleagues (1991)</A>.<BR><BR>
-<SUP>a</SUP><I>Please see
-<A HREF="<!--#include file='../include/mgi_home.html'-->nomen/strain_129.shtml" TARGET="_blank">Revised nomenclature for strain 129 mice</A>
+<SUP>a</SUP><I>Please see 
+<A HREF="<!--#include file='include/mgi_home.html'-->nomen/strain_129.shtml" TARGET="_blank">Revised nomenclature for strain 129 mice</A> 
 at MGI.</I>
 </BODY>
 </HTML>

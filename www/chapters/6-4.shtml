@@ -12,162 +12,162 @@
 
 <a name="6.4.1"></a><H3>6.4.1 Overview</H3>
 
-<P>Although the transgene insertion technology described in the
-<A HREF="6-3.shtml">previous section</A> provides a powerful tool for the
-analysis of gene action in the whole organism, it has one serious limitation in that it does not provide a mechanism
-for the directed generation of recessive alleles. This limitation can be overcome with a technology known variously
-as gene targeting, targeted mutagenesis, or gene replacement &#151; the subject of this section. This powerful technology
-allows investigators to generate directed mutations at any cloned locus. These new mutant alleles can be passed
-through the germ line to produce an unlimited number of mutant offspring, and different mutations can be combined
+<P>Although the transgene insertion technology described in the 
+<A HREF="6-3.shtml">previous section</A> provides a powerful tool for the 
+analysis of gene action in the whole organism, it has one serious limitation in that it does not provide a mechanism 
+for the directed generation of recessive alleles. This limitation can be overcome with a technology known variously 
+as gene targeting, targeted mutagenesis, or gene replacement &#151; the subject of this section. This powerful technology 
+allows investigators to generate directed mutations at any cloned locus. These new mutant alleles can be passed 
+through the germ line to produce an unlimited number of mutant offspring, and different mutations can be combined 
 with variants at other loci to study gene interactions.
 
-<P>This ultimate tool of genetic engineering was born through the combination of several technologies that had
-developed independently over the preceding 10 to 20 years including embryonic stem cell culture and homologous
-recombination, with mouse embryo manipulation and
-<A HREF="../glossary.shtml#Chimera" TARGET="_top">chimera</A> formation
-(<A HREF="../references.shtml#Sedivy1" TARGET="_top">Sedivy and Joyner, 1992</A>, provide an excellent
-review of all aspects of this field). Two independent laboratories, headed by Oliver Smithies and Mario Cappechi,
-finally succeeded in bringing all of these various technologies together during the mid-1980s
-(<A HREF="../references.shtml#Capecchi1" TARGET="_top">Capecchi, 1989</A>;
+<P>This ultimate tool of genetic engineering was born through the combination of several technologies that had 
+developed independently over the preceding 10 to 20 years including embryonic stem cell culture and homologous 
+recombination, with mouse embryo manipulation and 
+<A HREF="../glossary.shtml#Chimera" TARGET="_top">chimera</A> formation 
+(<A HREF="../references.shtml#Sedivy1" TARGET="_top">Sedivy and Joyner, 1992</A>, provide an excellent 
+review of all aspects of this field). Two independent laboratories, headed by Oliver Smithies and Mario Cappechi, 
+finally succeeded in bringing all of these various technologies together during the mid-1980s 
+(<A HREF="../references.shtml#Capecchi1" TARGET="_top">Capecchi, 1989</A>; 
 <A HREF="../references.shtml#Smithies1" TARGET="_top">Smithies, 1993</A>).
 
-<P>One, although not the only, appeal of the gene targeting technology is the ability to create mouse models for
-particular human diseases
-(<A HREF="../references.shtml#Smithies1" TARGET="_top">Smithies, 1993</A>). But, in essence, gene targeting
-can provide investigators with powerful tools to study any cloned gene. While patterns of RNA and protein expression
-provide clues to the stages and tissues in which genes are active, it is only with mutations that a true understanding
-of function can be obtained
+<P>One, although not the only, appeal of the gene targeting technology is the ability to create mouse models for 
+particular human diseases 
+(<A HREF="../references.shtml#Smithies1" TARGET="_top">Smithies, 1993</A>). But, in essence, gene targeting 
+can provide investigators with powerful tools to study any cloned gene. While patterns of RNA and protein expression 
+provide clues to the stages and tissues in which genes are active, it is only with mutations that a true understanding 
+of function can be obtained 
 (<A HREF="../references.shtml#Chisaka1" TARGET="_top">Chisaka and Capecchi, 1991</A>).
 
-<P>After heaping such praises on gene targeting, it is important to forewarn potential users of this technology that
-its application is not problem-free. First, an investigator must achieve a high level of competence and experience
-with several distinct, technically demanding protocols; this requires a significant investment of time and energy.
-Second, there is the fickle nature of the technology itself as discussed below. Nevertheless, the handful of laboratories
-initially able to target genes successfully has expanded quickly with the training of new young investigators, and this
-expansion is likely to continue much further with the recent publication of several excellent volumes containing detailed
-chapters on experimental protocols
-(<A HREF="../references.shtml#Joyner1" TARGET="_top">Joyner, 1993</A>;
-<A HREF="../references.shtml#Wassarman3" TARGET="_top">Wassarman and DePamphilis, 1993</A>;
+<P>After heaping such praises on gene targeting, it is important to forewarn potential users of this technology that 
+its application is not problem-free. First, an investigator must achieve a high level of competence and experience 
+with several distinct, technically demanding protocols; this requires a significant investment of time and energy. 
+Second, there is the fickle nature of the technology itself as discussed below. Nevertheless, the handful of laboratories 
+initially able to target genes successfully has expanded quickly with the training of new young investigators, and this 
+expansion is likely to continue much further with the recent publication of several excellent volumes containing detailed 
+chapters on experimental protocols 
+(<A HREF="../references.shtml#Joyner1" TARGET="_top">Joyner, 1993</A>; 
+<A HREF="../references.shtml#Wassarman3" TARGET="_top">Wassarman and DePamphilis, 1993</A>; 
 <A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>).
 
 <a name="6.4.2"></a><H3>6.4.2 Creating &#034;gene knockouts&#034;</H3>
 
-<P>Once a particular gene has been cloned and characterized, the steps involved in obtaining a mouse with a <i>null</i>
-mutation in the corresponding locus can be outlined briefly as follows. First, one must design and construct an appropriate
-targeting vector in which the gene of interest has been disrupted with a positive selectable marker; in the most commonly
-used protocol, a negative selectable marker is also added at a position that flanks the gene sequence. The most commonly
-used positive selectable marker is the neomycin resistance
-(<i>neo</i>) gene, and the most commonly used negative selectable
-marker is the thymidine kinase
+<P>Once a particular gene has been cloned and characterized, the steps involved in obtaining a mouse with a <i>null</i> 
+mutation in the corresponding locus can be outlined briefly as follows. First, one must design and construct an appropriate 
+targeting vector in which the gene of interest has been disrupted with a positive selectable marker; in the most commonly 
+used protocol, a negative selectable marker is also added at a position that flanks the gene sequence. The most commonly 
+used positive selectable marker is the neomycin resistance 
+(<i>neo</i>) gene, and the most commonly used negative selectable 
+marker is the thymidine kinase 
 (<i>tk</i>) gene.
 
-<P>The second step involves the introduction of the targeting vector into a culture of embryonic stem (ES) cells
-(usually derived from the 129 strain) followed by selection for those cells in which the internal positive selectable
-marker has become integrated into the genome without the flanking negative selectable marker. The third step involves
-screening for clones that have integrated the vector by homologous recombination rather than by the more common non-homologous
-recombination in random genomic sites.
+<P>The second step involves the introduction of the targeting vector into a culture of embryonic stem (ES) cells 
+(usually derived from the 129 strain) followed by selection for those cells in which the internal positive selectable 
+marker has become integrated into the genome without the flanking negative selectable marker. The third step involves 
+screening for clones that have integrated the vector by homologous recombination rather than by the more common non-homologous 
+recombination in random genomic sites. 
 
-<P>Once &#034;targeted clones&#034; have been identified, the fourth step involves the production
-of chimeric embryos through the injection of the mutated ES cells into the inner cavity of a blastocyst (usually of the
-B6 strain), and the placement of these chimeric embryos back into foster mothers who bring them to term. A recently developed
-alternative approach to chimera formation through the aggregation and spontaneous incorpation of ES cells into cleavage stage
-embryos has the advantage of not requiring sophisticated microinjection equipment
+<P>Once &#034;targeted clones&#034; have been identified, the fourth step involves the production 
+of chimeric embryos through the injection of the mutated ES cells into the inner cavity of a blastocyst (usually of the 
+B6 strain), and the placement of these chimeric embryos back into foster mothers who bring them to term. A recently developed 
+alternative approach to chimera formation through the aggregation and spontaneous incorpation of ES cells into cleavage stage 
+embryos has the advantage of not requiring sophisticated microinjection equipment 
 (<A HREF="../references.shtml#Wood1" TARGET="_top">Wood et al., 1993</A>).
 
-<P>The experiment is deemed a success if the ES cells successfully enter the germline of the chimeric animals as demonstrated
-by breeding. If the disrupted gene is indeed transmitted through the germline, the first generation of offspring from the
-chimeric founder will include heterozygous animals that can be intercrossed to produce a second generation with individuals
-homozygous for the mutated gene. The nomenclature rules that are used to name all newly created mutations are described in
+<P>The experiment is deemed a success if the ES cells successfully enter the germline of the chimeric animals as demonstrated 
+by breeding. If the disrupted gene is indeed transmitted through the germline, the first generation of offspring from the 
+chimeric founder will include heterozygous animals that can be intercrossed to produce a second generation with individuals 
+homozygous for the mutated gene. The nomenclature rules that are used to name all newly created mutations are described in 
 <A HREF="3-4.shtml#3.4.4">Section 3.4.4</A>.
 
 <a name="6.4.3"></a><H3>6.4.3 Creating subtle changes</H3>
 
-<P>A second generation of homologous recombination strategies have been developed to allow the placement of specific small
-mutations into a locus without the concomitant presence of disrupting intragenic selectable markers. The ability to create
-subtle changes in a gene could provide an investigator with the tools required to dissect apart the function of a gene
-product one amino acid residue at a time. A number of different approaches toward this goal have been described. The most promising
-of these, called &#034;hit and run,&#034; is based on the generation of ES cell lines that have undergone homologous recombination
-with a targeting vector, followed by selection for an intrachromosomal recombination event that eliminates the selectable
-markers and leaves behind just the mutated form of the gene
-(<A HREF="../references.shtml#Joyner3" TARGET="_top">Joyner et al., 1989</A>;
-<A HREF="../references.shtml#Hasty1" TARGET="_top">Hasty et al., 1991</A>;
-<A HREF="../references.shtml#Valancius1" TARGET="_top">Valancius and Smithies, 1991</A>;
+<P>A second generation of homologous recombination strategies have been developed to allow the placement of specific small 
+mutations into a locus without the concomitant presence of disrupting intragenic selectable markers. The ability to create 
+subtle changes in a gene could provide an investigator with the tools required to dissect apart the function of a gene 
+product one amino acid residue at a time. A number of different approaches toward this goal have been described. The most promising 
+of these, called &#034;hit and run,&#034; is based on the generation of ES cell lines that have undergone homologous recombination 
+with a targeting vector, followed by selection for an intrachromosomal recombination event that eliminates the selectable 
+markers and leaves behind just the mutated form of the gene 
+(<A HREF="../references.shtml#Joyner3" TARGET="_top">Joyner et al., 1989</A>; 
+<A HREF="../references.shtml#Hasty1" TARGET="_top">Hasty et al., 1991</A>; 
+<A HREF="../references.shtml#Valancius1" TARGET="_top">Valancius and Smithies, 1991</A>; 
 <A HREF="../references.shtml#Fiering1" TARGET="_top">Fiering et al., 1993</A>).
 
-<P>Unfortunately, at the time of this writing, the <i>hit and run</i> protocols are still extremely demanding and with each
-experiment, an investigator will only obtain a single mutant allele at the locus of interest. An alternative strategy is to
-break the problem into two separate tasks: (1) knocking-out the gene completely in one strain by standard homologous
-recombination, and (2) the independent production of one or more transgenic lines that contain subtly altered mutant
-versions of the gene. By breeding the knock-out line with one of the transgenic lines, it becomes possible to generate
-a new line of animals in which the original wild-type allele has been replaced (although not at the same site) with a
-specially designed transgene allele. There are several advantages to this approach. First, the methodology required for
-simply knocking-out a gene is more straightforward and better developed at the time of this writing than the hit and run
-methodology. Second, gene targeting in ES cells requires much more time and effort than the production of transgenic mice
-by nuclear injection. Thus, when an investigator wishes to study a variety of alleles at a particular locus, it will be
-much easier to create a single line of mice by gene targeting and then breed it to different transgenic lines. The one
-potential disadvantage to this approach is that the transgene construct may not be regulated properly and accurate
+<P>Unfortunately, at the time of this writing, the <i>hit and run</i> protocols are still extremely demanding and with each 
+experiment, an investigator will only obtain a single mutant allele at the locus of interest. An alternative strategy is to 
+break the problem into two separate tasks: (1) knocking-out the gene completely in one strain by standard homologous 
+recombination, and (2) the independent production of one or more transgenic lines that contain subtly altered mutant 
+versions of the gene. By breeding the knock-out line with one of the transgenic lines, it becomes possible to generate 
+a new line of animals in which the original wild-type allele has been replaced (although not at the same site) with a 
+specially designed transgene allele. There are several advantages to this approach. First, the methodology required for 
+simply knocking-out a gene is more straightforward and better developed at the time of this writing than the hit and run 
+methodology. Second, gene targeting in ES cells requires much more time and effort than the production of transgenic mice 
+by nuclear injection. Thus, when an investigator wishes to study a variety of alleles at a particular locus, it will be 
+much easier to create a single line of mice by gene targeting and then breed it to different transgenic lines. The one 
+potential disadvantage to this approach is that the transgene construct may not be regulated properly and accurate 
 patterns of expression may not occur in the animal, even when the transgene is linked to its own promoter/enhancer.
 
 <a name="6.4.4"></a><H3>6.4.4 Potential problems</H3>
 
-<P>Even when a laboratory has mastered all of the protocols required to perform gene targeting, the difference between
-success and failure can still be a matter of luck. Some DNA sites appear highly impervious to homologous recombination,
-whereas sites a few kilobases away may be much more open to integration. But even at the same site, the frequency of
-homologous versus non-homologous recombination events can vary by a factor of ten from one day to the next
+<P>Even when a laboratory has mastered all of the protocols required to perform gene targeting, the difference between 
+success and failure can still be a matter of luck. Some DNA sites appear highly impervious to homologous recombination, 
+whereas sites a few kilobases away may be much more open to integration. But even at the same site, the frequency of 
+homologous versus non-homologous recombination events can vary by a factor of ten from one day to the next 
 (<A HREF="../references.shtml#Snouwaert1" TARGET="_top">Snouwaert et al., 1992</A>).
 
-<P>At the time of this writing, many of the factors responsible for success remain unknown. However, one critical factor
-that has recently become evident is the need to use source DNA for the targeting construct that has been cloned from the
-same strain of mice used for the derivation of the ES cell line into which the construct will be placed
-(<A HREF="../references.shtml#vanDeursen1" TARGET="_top">van Deursen and Wieringa, 1992</A>). In other words, the highest levels of gene replacement
-are obtained when the incoming DNA is <i>isogenic</i> with the target DNA. Apparently, the homologous recombination process
-is very sensitive to the infrequent nucleotide polymorphisms that are likely to distinguish different inbred strains from
-each other. In most cases today, ES cell lines have been derived from the 129/SvJ mouse strain (but see
-<A HREF="6-4.shtml#6.4.5">Section 6.4.5</A> below), and thus it is usually wise to build DNA constructs with clones obtained
+<P>At the time of this writing, many of the factors responsible for success remain unknown. However, one critical factor 
+that has recently become evident is the need to use source DNA for the targeting construct that has been cloned from the 
+same strain of mice used for the derivation of the ES cell line into which the construct will be placed 
+(<A HREF="../references.shtml#vanDeursen1" TARGET="_top">van Deursen and Wieringa, 1992</A>). In other words, the highest levels of gene replacement 
+are obtained when the incoming DNA is <i>isogenic</i> with the target DNA. Apparently, the homologous recombination process 
+is very sensitive to the infrequent nucleotide polymorphisms that are likely to distinguish different inbred strains from 
+each other. In most cases today, ES cell lines have been derived from the 129/SvJ mouse strain (but see 
+<A HREF="6-4.shtml#6.4.5">Section 6.4.5</A> below), and thus it is usually wise to build DNA constructs with clones obtained 
 from 129 genomic libraries.
 
 <a name="6.4.5"></a><H3>6.4.5 The &#034;129 mouse&#034;</H3>
 
-<P>The original 129/SvJ mouse, and the one still available from the
-<A HREF="a.shtml">Jackson Laboratory</A>, has an off-white coat color caused
-by homozygosity for the
-<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97454" TARGET="_top">pink-eye dilution</A>
-(<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97454" TARGET="_top">p</A></i>)
-mutation, and forced heterozygosity for the
-<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98880" TARGET="_top">chinchilla</A>
-(<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98880" TARGET="_top">c<SUP>ch</SUP></A></i>) and
-<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98880" TARGET="_top">albino</A>
-(<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98880" TARGET="_top">c</A></i>)
-alleles at the linked albino locus (<i>c<SUP>ch</SUP>p</i>/<i>c p</i>).
-In contrast, the &#034;129 mouse&#034; that serves as the source of most ES cell lines used for homologous recombination has a wild-type
+<P>The original 129/SvJ mouse, and the one still available from the 
+<A HREF="a.shtml">Jackson Laboratory</A>, has an off-white coat color caused 
+by homozygosity for the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97454" TARGET="_top">pink-eye dilution</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97454" TARGET="_top">p</A></i>) 
+mutation, and forced heterozygosity for the 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">chinchilla</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">c<SUP>ch</SUP></A></i>) and 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">albino</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">c</A></i>) 
+alleles at the linked albino locus (<i>c<SUP>ch</SUP>p</i>/<i>c p</i>). 
+In contrast, the &#034;129 mouse&#034; that serves as the source of most ES cell lines used for homologous recombination has a wild-type 
 agouti coat color. What is the basis for this difference?
 
-<P>The answer is a historical one that centers on the work of Leroy Stevens, a cancer geneticist, now retired, who worked at
-the Jackson Laboratory. Stevens had observed that the 129/SvJ strain was unique in the occurrence of spontaneous testicular
-teratomas at an unusually high rate of 3-5% in male animals. As a means to better understand the genetic parameters
-responsible for tumor incidence, Stevens set out to determine whether any of a variety of well-characterized single locus
-mutations that affect either tumor incidence or germ-cell differentiation would interact with the 129 genome in a manner to
-increase or decrease the natural frequency of tumor formation in this strain. One of the mutations that he tested was
-<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96974" TARGET="_top">Steel</A>
-(<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96974" TARGET="_top">Sl</A></i>),
-which plays an important role in the differentiation of germ cells as well as melanocytes and hematopoetic cells. The
-<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96974" TARGET="_top">Sl</A></i>
-mutation expresses a dominant visible phenotype &#151; the lightening of the normal wild-type black
-agouti coat color so that it has a &#034;steely&#034; appearance, and a reduction of pigment in the distal half of the tail.
-Unfortunately, it is impossible to see this phenotypic alteration on the
-<i>c<SUP>ch</SUP>p</i>/<i>c p</i> coat of 129/SvJ mice which already have a nearly complete loss of pigment production.
-Thus, to follow the
-backcrossing of
-<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96974" TARGET="_top">Sl</A></i>
-onto 129/SvJ, it was necessary to replace the mutant alleles at the
-<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98880" TARGET="_top">c</A></i> and
-<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97454" TARGET="_top">p</A></i>
-loci with wild-type alleles. It is the triple congenic
-129/Sv-<i>Sl/&#043;</i>, <i>&#043;<SUP>c</SUP></i> <i>&#043;<SUP>p</SUP></i>
+<P>The answer is a historical one that centers on the work of Leroy Stevens, a cancer geneticist, now retired, who worked at 
+the Jackson Laboratory. Stevens had observed that the 129/SvJ strain was unique in the occurrence of spontaneous testicular 
+teratomas at an unusually high rate of 3-5% in male animals. As a means to better understand the genetic parameters 
+responsible for tumor incidence, Stevens set out to determine whether any of a variety of well-characterized single locus 
+mutations that affect either tumor incidence or germ-cell differentiation would interact with the 129 genome in a manner to 
+increase or decrease the natural frequency of tumor formation in this strain. One of the mutations that he tested was 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96974" TARGET="_top">Steel</A> 
+(<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96974" TARGET="_top">Sl</A></i>), 
+which plays an important role in the differentiation of germ cells as well as melanocytes and hematopoetic cells. The 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96974" TARGET="_top">Sl</A></i> 
+mutation expresses a dominant visible phenotype &#151; the lightening of the normal wild-type black 
+agouti coat color so that it has a &#034;steely&#034; appearance, and a reduction of pigment in the distal half of the tail. 
+Unfortunately, it is impossible to see this phenotypic alteration on the 
+<i>c<SUP>ch</SUP>p</i>/<i>c p</i> coat of 129/SvJ mice which already have a nearly complete loss of pigment production. 
+Thus, to follow the 
+backcrossing of 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96974" TARGET="_top">Sl</A></i> 
+onto 129/SvJ, it was necessary to replace the mutant alleles at the 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98880" TARGET="_top">c</A></i> and 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97454" TARGET="_top">p</A></i> 
+loci with wild-type alleles. It is the triple congenic 
+129/Sv-<i>Sl/&#043;</i>, <i>&#043;<SUP>c</SUP></i> <i>&#043;<SUP>p</SUP></i> 
 line produced by Stevens that acted as the founder for all &#034;129 mice&#034; that have been used in ES cell work.
 <SUP><A HREF="notes.shtml#41" TARGET="_top">41</A></SUP>
 <BR><BR>
-<I>See <A HREF="<!--#include file='../include/mgi_home.html'-->nomen/strain_129.shtml" TARGET="_top">New 129 Nomenclature</A> at MGI.</I>
+<I>See <A HREF="<!--#include file='include/mgi_home.html'-->nomen/strain_129.shtml" TARGET="_top">New 129 Nomenclature</A> at MGI.</I>
 
 <DIV Align="center"><H4> <A HREF="6-3.shtml">Previous</A> <A HREF="6-5.shtml">Next</A></H4></DIV>
 <PRE>

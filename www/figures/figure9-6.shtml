@@ -2,7 +2,7 @@
 <HTML>
 <HEAD>
 	<TITLE>Figure 9.6 - BXD RI Data Matrix for Chromosome 17 Strain Distribution Patterns. </TITLE>
-	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">	
 </HEAD>
 <BODY BGCOLOR="FFFFFF">
 <STYLE type="text/css">
@@ -41,7 +41,7 @@
 <TD><B>32<HR></B></TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:894608" TARGET="_blank">D17Leh119</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:894608" TARGET="_blank">D17Leh119</A></I></TD>
 <TD>D</TD>
 <TD><SPAN class="underlinedbold"><U>D</U></SPAN></TD>
 <TD>D</TD>
@@ -62,7 +62,7 @@
 <TD>B</TD>
 <TD>D</TD>
 <TD>B</TD>
-<TD>B</TD>
+<TD>B</TD> 
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -70,7 +70,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90648" TARGET="_blank">D17Byu1</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90648" TARGET="_blank">D17Byu1</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -99,7 +99,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97620" TARGET="_blank">Plg</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97620" TARGET="_blank">Plg</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -128,7 +128,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90718" TARGET="_blank">D17Leh66D</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90718" TARGET="_blank">D17Leh66D</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -157,7 +157,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90947" TARGET="_blank">D17Pri1</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90947" TARGET="_blank">D17Pri1</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -186,7 +186,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:99185" TARGET="_blank">Zfp40</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:99185" TARGET="_blank">Zfp40</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -215,7 +215,7 @@
 <TD>U</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96018" TARGET="_blank">Hba-ps4</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96018" TARGET="_blank">Hba-ps4</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -244,7 +244,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90691" TARGET="_blank">D17Leh12</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90691" TARGET="_blank">D17Leh12</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -273,7 +273,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95742" TARGET="_blank">Glo-1</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95742" TARGET="_blank">Glo-1</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -302,7 +302,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:97584" TARGET="_blank">Pim-1</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97584" TARGET="_blank">Pim-1</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -331,7 +331,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:88515" TARGET="_blank">Crya-1</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88515" TARGET="_blank">Crya-1</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -360,7 +360,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95901" TARGET="_blank">H-2Eb</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95901" TARGET="_blank">H-2Eb</A></I></TD>
 <TD>U</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -389,7 +389,7 @@
 <TD>U</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95914" TARGET="_blank">H-2M2</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95914" TARGET="_blank">H-2M2</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -418,7 +418,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90696" TARGET="_blank">D17Leh173</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90696" TARGET="_blank">D17Leh173</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -447,7 +447,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90749" TARGET="_blank">D17Mit11</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90749" TARGET="_blank">D17Mit11</A></I></TD>
 <TD>U</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -476,7 +476,7 @@
 <TD>U</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90963" TARGET="_blank">D17Tu16</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90963" TARGET="_blank">D17Tu16</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -505,7 +505,7 @@
 <TD>U</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98815" TARGET="_blank">TpU-1</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98815" TARGET="_blank">TpU-1</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -534,7 +534,7 @@
 <TD>U</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96325" TARGET="_blank">Iapls1-3</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96325" TARGET="_blank">Iapls1-3</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>D</TD>
@@ -563,7 +563,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98640" TARGET="_blank">Tcte-1</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98640" TARGET="_blank">Tcte-1</A></I></TD>
 <TD>D</TD>
 <TD><SPAN class="underlinedbold"><U>B</U></SPAN></TD>
 <TD>D</TD>
@@ -592,7 +592,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90694" TARGET="_blank">D17Leh154</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90694" TARGET="_blank">D17Leh154</A></I></TD>
 <TD>D</TD>
 <TD>D</TD>
 <TD>D</TD>
@@ -621,7 +621,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90699" TARGET="_blank">D17Leh23</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90699" TARGET="_blank">D17Leh23</A></I></TD>
 <TD>D</TD>
 <TD>D</TD>
 <TD>D</TD>
@@ -650,7 +650,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98909" TARGET="_blank">Upg-1</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98909" TARGET="_blank">Upg-1</A></I></TD>
 <TD>D</TD>
 <TD>D</TD>
 <TD>D</TD>
@@ -679,7 +679,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90738" TARGET="_blank">D17Mit10</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90738" TARGET="_blank">D17Mit10</A></I></TD>
 <TD>U</TD>
 <TD>D</TD>
 <TD>D</TD>
@@ -708,7 +708,7 @@
 <TD>U</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90850" TARGET="_blank">D17Mit6</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90850" TARGET="_blank">D17Mit6</A></I></TD>
 <TD>U</TD>
 <TD>D</TD>
 <TD>D</TD>
@@ -737,7 +737,7 @@
 <TD>U</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:90861" TARGET="_blank">D17Mit7</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90861" TARGET="_blank">D17Mit7</A></I></TD>
 <TD>U</TD>
 <TD>D</TD>
 <TD>D</TD>
@@ -766,7 +766,7 @@
 <TD>U</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:88409" TARGET="_blank">Ckb-rs2</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88409" TARGET="_blank">Ckb-rs2</A></I></TD>
 <TD>D</TD>
 <TD><SPAN class="underlinedbold"><U>D</U></SPAN></TD>
 <TD><SPAN class="underlinedbold"><U>D</U></SPAN></TD>
@@ -795,7 +795,7 @@
 <TD>D</TD>
 </TR>
 <TR align="center">
-<TD align="left"><I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:96218" TARGET="_blank">Hprt-ps1</A></I></TD>
+<TD align="left"><I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96218" TARGET="_blank">Hprt-ps1</A></I></TD>
 <TD>D</TD>
 <TD>B</TD>
 <TD>B</TD>
@@ -824,17 +824,17 @@
 <TD>D</TD>
 </TR>
 <TR>
-<TD colspan="27"><B>Figure 9.6</B> BXD RI data matrix for chromosome 17 strain distribution patterns.
-Each column shows the results obtained for a particular RI strain of the BXD set.
-Each row shows the results obtained for the particular locus named at the left; the
-data set obtained with each locus is called a strain distribution pattern or SDP.
-Loci are listed in order from the most centromeric at the top.
-A B6 allele is indicated with a "B", a DBA allele with a "D", and an unknown allele is indicated with a "U".
-Immortalized crossover sites are indicated with a horizontal line.
-Additional loci in this region of Chr 17 have been typed on the BXD RI set with SDPs that are identical to ones shown here
+<TD colspan="27"><B>Figure 9.6</B> BXD RI data matrix for chromosome 17 strain distribution patterns. 
+Each column shows the results obtained for a particular RI strain of the BXD set. 
+Each row shows the results obtained for the particular locus named at the left; the 
+data set obtained with each locus is called a strain distribution pattern or SDP. 
+Loci are listed in order from the most centromeric at the top. 
+A B6 allele is indicated with a "B", a DBA allele with a "D", and an unknown allele is indicated with a "U". 
+Immortalized crossover sites are indicated with a horizontal line. 
+Additional loci in this region of Chr 17 have been typed on the BXD RI set with SDPs that are identical to ones shown here 
 (<a href="../references.shtml#Himmelbauer1" TARGET="_blank">Himmelbauer et al., 1993</a>).<BR>
-<I>See also the
-<A HREF="javascript:windowf96a = window.open('<!--#include file='../include/mgi.html'-->searches/riset.cgi?sort=cM&format=html&set=BXD&chromosome=17', 'windowf96a', 'width=800,height=550,resizable=yes,scrollbars=yes'); windowf96a.focus()">BXD RI SDP data for chromosome 17</A> at MGI.</I>
+<I>See also the 
+<A HREF="javascript:windowf96a = window.open('<!--#include file='include/mgi.html'-->searches/riset.cgi?sort=cM&format=html&set=BXD&chromosome=17', 'windowf96a', 'width=800,height=550,resizable=yes,scrollbars=yes'); windowf96a.focus()">BXD RI SDP data for chromosome 17</A> at MGI.</I>
 </TD></TR>
 </TABLE>
 </BODY>

@@ -9,24 +9,24 @@
 <TR><TD><IMG SRC="../images/figure6-1.gif" Alt="Figure 6.1" Width="640" Height="403"> </TD></TR>
 
 <TR><TD>
-<B>Figure 6.1</B>
-A genetic strategy for generating sterile stud males.
-The breeding scheme shown is based on the interaction of two pseudo-allelic variants of the mouse
-<A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:105076" TARGET="_blank"><I>t</I></A> complex on Chr 17
-(<A HREF="../references.shtml#Silver3" TARGET="_blank">Silver, 1985</A>).
-The <A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98472" TARGET="_blank"><I>T</I></A> mutation is a recessive lethal allele.
-The <A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:98472" TARGET="_blank"><I>t<SUP>w2</SUP></I></A>
-<A HREF="../glossary.shtml#Haplotype" TARGET="_blank">haplotype</A> is a recessive sterile allele.
-Together, these two variants interact to produce doubly heterozygous animals that are fully viable and fertile, but have no tail.
-Matings between two <I>T/t<SUP>w2</SUP></I> animals will generate offspring of two phenotypic classes.
-Tailless animals will have the same genotype as their parents and can be used to propagate the strain.
-Animals with normal tails must be homozygous for the <I>t<SUP>w2</SUP></I> haplotype, and all such males will be unconditionally sterile.
-The percentage of sterile <I>t<SUP>w2</SUP></I>/<I>t<SUP>w2</SUP></I> males produced from the intercross is actually greater than the 12.5% expected from simple Mendelian calculations
-because the ratio of transmission of the <I>t<SUP>w2</SUP></I> haplotype is favorably distorted from heterozygous <I>t<SUP>w2</SUP></I>-bearing males
-(<A HREF="../references.shtml#Silver5" TARGET="_blank">Silver 1988</A>,
-<A HREF="../references.shtml#Silver6" TARGET="_blank">Silver 1990</A>).
-Although the ratio of transmission of the <I>t<SUP>w2</SUP></I>-bearing chromosome relative to the <I>T</I>-bearing homolog can be as high as 95:5, there is a counteracting, partially
-penetrant lethal phenotype associated with the <I>t<SUP>w2</SUP></I>/<I>t<SUP>w2</SUP></I> genotype that reduces the percentage of live-born animals.
+<B>Figure 6.1</B> 
+A genetic strategy for generating sterile stud males. 
+The breeding scheme shown is based on the interaction of two pseudo-allelic variants of the mouse 
+<A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105076" TARGET="_blank"><I>t</I></A> complex on Chr 17 
+(<A HREF="../references.shtml#Silver3" TARGET="_blank">Silver, 1985</A>). 
+The <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" TARGET="_blank"><I>T</I></A> mutation is a recessive lethal allele. 
+The <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:98472" TARGET="_blank"><I>t<SUP>w2</SUP></I></A> 
+<A HREF="../glossary.shtml#Haplotype" TARGET="_blank">haplotype</A> is a recessive sterile allele. 
+Together, these two variants interact to produce doubly heterozygous animals that are fully viable and fertile, but have no tail. 
+Matings between two <I>T/t<SUP>w2</SUP></I> animals will generate offspring of two phenotypic classes. 
+Tailless animals will have the same genotype as their parents and can be used to propagate the strain. 
+Animals with normal tails must be homozygous for the <I>t<SUP>w2</SUP></I> haplotype, and all such males will be unconditionally sterile. 
+The percentage of sterile <I>t<SUP>w2</SUP></I>/<I>t<SUP>w2</SUP></I> males produced from the intercross is actually greater than the 12.5% expected from simple Mendelian calculations 
+because the ratio of transmission of the <I>t<SUP>w2</SUP></I> haplotype is favorably distorted from heterozygous <I>t<SUP>w2</SUP></I>-bearing males 
+(<A HREF="../references.shtml#Silver5" TARGET="_blank">Silver 1988</A>, 
+<A HREF="../references.shtml#Silver6" TARGET="_blank">Silver 1990</A>). 
+Although the ratio of transmission of the <I>t<SUP>w2</SUP></I>-bearing chromosome relative to the <I>T</I>-bearing homolog can be as high as 95:5, there is a counteracting, partially 
+penetrant lethal phenotype associated with the <I>t<SUP>w2</SUP></I>/<I>t<SUP>w2</SUP></I> genotype that reduces the percentage of live-born animals. 
 Only 80% of these embryos are viable and, together with the distorted transmission ratio, this will lead to a final fraction of <I>t<SUP>w2</SUP></I>/<I>t<SUP>w2</SUP></I> offspring of approximately 43% with half of these being males.
 
 

@@ -6,7 +6,7 @@
 </HEAD>
 <BODY BGCOLOR="#FFFFFF">
 
-<B>Table 3.1</B> Some important inbred strains.<BR><I>See also
+<B>Table 3.1</B> Some important inbred strains.<BR><I>See also 
 <A HREF="http://www.informatics.jax.org/external/festing/search_form.cgi" TARGET="_blank">Inbred Strains of Mice and Rats</A> at MGI.</I>
 
 <TABLE CELLPADDING=3>
@@ -25,8 +25,8 @@
 <TR><TD COLSPAN=11><HR></TD></TR>
 
 <TR>
-<TD VALIGN=TOP>129/Sv-<I>Sl/&#043;, c<SUP>&#043;</SUP>p<SUP>&#043;</SUP>
-(<A HREF="<!--#include file='../include/mgi_home.html'-->nomen/strain_129.shtml" TARGET="_blank">129</A>)</I></TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>129/Sv-<I>Sl/&#043;, c<SUP>&#043;</SUP>p<SUP>&#043;</SUP> 
+(<A HREF="<!--#include file='include/mgi_home.html'-->nomen/strain_129.shtml" TARGET="_blank">129</A>)</I></TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Agouti</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Source of most ES cell lines and genetic material used for homologous recombination. Used of studies of embryology and reproduction.</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Relatively high testicular teratoma incidence. Relatively small size. Resistant to radiation.</TD><TD>&nbsp;</TD>
@@ -38,10 +38,10 @@
 <TR>
 <TD VALIGN=TOP>BALB/c</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Albino</TD><TD>&nbsp;</TD>
-<TD VALIGN=TOP>Used in immunological studies and for the production of hybridomas. A new congenic strain
-<A HREF="http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=001802" TARGET="_blank">BALB/cByJ-Rb(8.12)5Bnr</A>
+<TD VALIGN=TOP>Used in immunological studies and for the production of hybridomas. A new congenic strain 
+<A HREF="http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=001802" TARGET="_blank">BALB/cByJ-Rb(8.12)5Bnr</A> 
 available from JAX is most efficient for hybridoma production.</TD><TD>&nbsp;</TD>
-<TD VALIGN=TOP>Docile females. Males of the J substrain only are extremely aggressive. Relatively poor breeders,
+<TD VALIGN=TOP>Docile females. Males of the J substrain only are extremely aggressive. Relatively poor breeders, 
 but variation among sublines. Sensitive to radiation.</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>1913 (Bagg)</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>F105 (CR)<BR>F180 (JAX)<BR>F195 (Taconic)</TD>
@@ -61,8 +61,8 @@ but variation among sublines. Sensitive to radiation.</TD><TD>&nbsp;</TD>
 <TR>
 <TD VALIGN=TOP>C57BL/10 (B10)</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Black</TD><TD>&nbsp;</TD>
-<TD VALIGN=TOP>Commonly used in genetic studies performed outside of the US and for the construction of congenics at the
-<I><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:95894" TARGET="_blank">H2</A></I> complex.</TD><TD>&nbsp;</TD>
+<TD VALIGN=TOP>Commonly used in genetic studies performed outside of the US and for the construction of congenics at the 
+<I><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_blank">H2</A></I> complex.</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Common ancestry with B6.</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>1921 (Little)</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>F192 (JAX)</TD>
@@ -71,10 +71,10 @@ but variation among sublines. Sensitive to radiation.</TD><TD>&nbsp;</TD>
 <TR>
 <TD VALIGN=TOP>CAST/Ei</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Agouti</TD><TD>&nbsp;</TD>
-<TD VALIGN=TOP>Used in matings with traditional inbred strains to create F<SUB>1</SUB>
-hybrids with high levels of heterozygosity for linkage studies. Better
+<TD VALIGN=TOP>Used in matings with traditional inbred strains to create F<SUB>1</SUB> 
+hybrids with high levels of heterozygosity for linkage studies. Better 
 intercross reproductive performance than <I>M. spretus</I> strains.</TD><TD>&nbsp;</TD>
-<TD VALIGN=TOP>Derived from wild animals of the subspecies <I>M. m. castaneus</I>.
+<TD VALIGN=TOP>Derived from wild animals of the subspecies <I>M. m. castaneus</I>. 
 Male F<SUB>1</SUB> hybrids formed with lab strains are fertile.</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>1971 (Marshall to Eicher)</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>F53 (JAX)</TD>
@@ -92,7 +92,7 @@ Male F<SUB>1</SUB> hybrids formed with lab strains are fertile.</TD><TD>&nbsp;</
 <TR>
 <TD VALIGN=TOP>DBA/2</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Dilute brown</TD><TD>&nbsp;</TD>
-<TD VALIGN=TOP>Used in crosses with B6 to produce the best-characterized set of RI strains, and for the production of
+<TD VALIGN=TOP>Used in crosses with B6 to produce the best-characterized set of RI strains, and for the production of 
 standard F<SUB>1</SUB> hybrid animals.</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>&nbsp;</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>1909 (Little)</TD><TD>&nbsp;</TD>
@@ -102,7 +102,7 @@ standard F<SUB>1</SUB> hybrid animals.</TD><TD>&nbsp;</TD>
 <TR>
 <TD VALIGN=TOP>FVB/N</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Albino</TD><TD>&nbsp;</TD>
-<TD VALIGN=TOP>Recently derived strain with special characteristics that are ideal for the production of transgenic mice.
+<TD VALIGN=TOP>Recently derived strain with special characteristics that are ideal for the production of transgenic mice. 
 An agouti congenic is currently under construction.</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Very large litters, easy to handle, large and prominent pronuclei in zygotes.</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>1975 (NIH)</TD><TD>&nbsp;</TD>
@@ -112,9 +112,9 @@ An agouti congenic is currently under construction.</TD><TD>&nbsp;</TD>
 <TR>
 <TD VALIGN=TOP>MOLF/Ei</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>Agouti</TD><TD>&nbsp;</TD>
-<TD VALIGN=TOP>Used in matings with traditional inbred strains to create F<SUB>1</SUB> hybrids with high levels of heterozygosity for linkage studies.
+<TD VALIGN=TOP>Used in matings with traditional inbred strains to create F<SUB>1</SUB> hybrids with high levels of heterozygosity for linkage studies. 
 Better intercross reproductive performance than <I>M. spretus</I> strains.</TD><TD>&nbsp;</TD>
-<TD VALIGN=TOP>Derived from wild animals of the <I>faux</I> subspecies <I>M. m. molossinus</I>
+<TD VALIGN=TOP>Derived from wild animals of the <I>faux</I> subspecies <I>M. m. molossinus</I> 
 (<a href="../frames/frame2-3.shtml" TARGET="_blank">Section 2.3</a>).</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>&#126;1975 (Potter to Eicher)</TD><TD>&nbsp;</TD>
 <TD VALIGN=TOP>F50 (JAX)</TD>

@@ -12,157 +12,157 @@
 
 <a name="6.2.1"></a><H3>6.2.1 Experimental possibilities</H3>
 
-<P>The basic technology required to obtain preimplantation embryos from the female reproductive tract, to culture them for short
-periods of time in petri dishes, and then to place them back into foster mothers where they can grow and develop into viable
-mice has been available since the 1950s
-(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). Over the ensuing years, this basic technology has been used in a
-host of different types of experiments aimed at manipulating the process of development or the embryonic genome itself. Embryos
-can be dissolved into individual cells that can be recombined in new combinations to initiate the development of chimeric mice.
-Pronuclei and nuclei can be switched from one early embryo to another to examine the relative contributions of the cytoplasm and
-the genome to particular phenotypes, as well as to investigate aspects of genomic imprinting and parthenogenesis. Foreign DNA can
-be injected directly into pronuclei for stable integration into chromosomes which can lead to the formation of transgenic animals.
-Finally, embryonic cells can be converted into tissue culture cells (called embryonic stem [ES] cells) where targeted gene replacement
-can be accomplished. Selected ES cells can be combined with normal embryos to form chimeric animals that can pass the targeted locus
-through their germline. These experimental possibilities are discussed more fully
-<A HREF="6-4.shtml">later in this chapter</A>. This section is concerned
+<P>The basic technology required to obtain preimplantation embryos from the female reproductive tract, to culture them for short 
+periods of time in petri dishes, and then to place them back into foster mothers where they can grow and develop into viable 
+mice has been available since the 1950s 
+(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). Over the ensuing years, this basic technology has been used in a 
+host of different types of experiments aimed at manipulating the process of development or the embryonic genome itself. Embryos 
+can be dissolved into individual cells that can be recombined in new combinations to initiate the development of chimeric mice. 
+Pronuclei and nuclei can be switched from one early embryo to another to examine the relative contributions of the cytoplasm and 
+the genome to particular phenotypes, as well as to investigate aspects of genomic imprinting and parthenogenesis. Foreign DNA can 
+be injected directly into pronuclei for stable integration into chromosomes which can lead to the formation of transgenic animals. 
+Finally, embryonic cells can be converted into tissue culture cells (called embryonic stem [ES] cells) where targeted gene replacement 
+can be accomplished. Selected ES cells can be combined with normal embryos to form chimeric animals that can pass the targeted locus 
+through their germline. These experimental possibilities are discussed more fully 
+<A HREF="6-4.shtml">later in this chapter</A>. This section is concerned 
 simply with genetic considerations involved in the choice of mice to be used for the generation and gestation of embryos for various experimental purposes.
 
 <a name="6.2.2"></a><H3>6.2.2 Choice of strains for egg production</H3>
 
 <a name="6.2.2.1"></a><H3><I>6.2.2.1 General considerations</I></H3>
 
-<P>A number of factors will play a role in the selection of an appropriate strain of females who will contribute the eggs to be
-used as experimental material. First, in all cases, it is important that the eggs are hardy enough to resist damage from the manipulations
-that they will undergo. Second, the particular experimental protocol may impose a need for eggs that have special genetically determined
-qualities. Third, in those cases where very large numbers of eggs are required, it will be important that the strain is one that responds
-well to superovulation, as discussed in the
-<A HREF="6-2.shtml#6.2.3">next section</A>. Finally, there is a question of genetic restrictions on the offspring that will
+<P>A number of factors will play a role in the selection of an appropriate strain of females who will contribute the eggs to be 
+used as experimental material. First, in all cases, it is important that the eggs are hardy enough to resist damage from the manipulations 
+that they will undergo. Second, the particular experimental protocol may impose a need for eggs that have special genetically determined 
+qualities. Third, in those cases where very large numbers of eggs are required, it will be important that the strain is one that responds 
+well to superovulation, as discussed in the 
+<A HREF="6-2.shtml#6.2.3">next section</A>. Finally, there is a question of genetic restrictions on the offspring that will 
 emerge from the manipulation.
 
-<P>As concerns this last criterion, for some experiments it will be important to maintain strict control over the genetic background of
-embryos to be used for genomic manipulation. In these cases, inbred embryos should be derived from matings between two members of the same
-inbred strain. If these embryos are used for germ-line introduction of foreign genetic material, the resulting transgenic animals will be
+<P>As concerns this last criterion, for some experiments it will be important to maintain strict control over the genetic background of 
+embryos to be used for genomic manipulation. In these cases, inbred embryos should be derived from matings between two members of the same 
+inbred strain. If these embryos are used for germ-line introduction of foreign genetic material, the resulting transgenic animals will be 
 truly coisogenic to the original inbred strain.
 
-<P>For other experiments, strict genetic homogeneity will not be required. In these cases, it is possible to use F<SUB>2</SUB> embryos from
-superovulated F<SUB>1</SUB> females who have been mated to F<SUB>1</SUB> males of the same autosomal genotype. This breeding protocol is often
-preferable to the use of either a strictly inbred approach or a random-bred approach. First, in contrast to the random-bred approach, one still
-maintains a certain degree of control over the genetic input since only alleles derived from one or both of the inbred strains used to generate
-the F<SUB>1</SUB> parents will be present at any locus in each embryo. Second, in contrast to the inbred approach, the use of both females and
-embryos with heterozygous genotypes allows the expression of hybrid vigor at all levels of the reproductive process. In particular, heterozygous
+<P>For other experiments, strict genetic homogeneity will not be required. In these cases, it is possible to use F<SUB>2</SUB> embryos from 
+superovulated F<SUB>1</SUB> females who have been mated to F<SUB>1</SUB> males of the same autosomal genotype. This breeding protocol is often 
+preferable to the use of either a strictly inbred approach or a random-bred approach. First, in contrast to the random-bred approach, one still 
+maintains a certain degree of control over the genetic input since only alleles derived from one or both of the inbred strains used to generate 
+the F<SUB>1</SUB> parents will be present at any locus in each embryo. Second, in contrast to the inbred approach, the use of both females and 
+embryos with heterozygous genotypes allows the expression of hybrid vigor at all levels of the reproductive process. In particular, heterozygous 
 embryos are less likely to be injured by in vitro manipulations.
 
 <a name="6.2.2.2"></a><H3><I>6.2.2.2 The FVB/N strain is ideal for the production of transgenic mice</I></H3>
 
-<P>One inbred strain that has been developed relatively recently from a non-inbred colony of mice with a long history of laboratory breeding at
-NIH has special characteristics of particular interest to investigators interested in producing transgenic mice: this strain is called FVB/N.
-The FVB/N strain is unique in several important ways
-(<A HREF="../references.shtml#Taketo1" TARGET="_top">Taketo et al., 1991</A>). First, its average litter size of 9.5 (with a range up to 13) is significantly higher
-than that found with any other well-known inbred strain (see
-<a href="javascript:windowt41 = window.open('../tables/table4-1.shtml', 'windowt41', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt41.focus()">Table 4.1</A>).
-Second, fertilized eggs derived from FVB/N mothers have very large and
-visually prominent pronuclei; this characteristic is unique among the known inbred strains and greatly facilitates the injection of DNA. Finally,
-the fraction of injected embryos that survive into live born animals is also much greater than that observed with all other inbred strains. For
+<P>One inbred strain that has been developed relatively recently from a non-inbred colony of mice with a long history of laboratory breeding at 
+NIH has special characteristics of particular interest to investigators interested in producing transgenic mice: this strain is called FVB/N. 
+The FVB/N strain is unique in several important ways 
+(<A HREF="../references.shtml#Taketo1" TARGET="_top">Taketo et al., 1991</A>). First, its average litter size of 9.5 (with a range up to 13) is significantly higher 
+than that found with any other well-known inbred strain (see 
+<a href="javascript:windowt41 = window.open('../tables/table4-1.shtml', 'windowt41', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt41.focus()">Table 4.1</A>). 
+Second, fertilized eggs derived from FVB/N mothers have very large and 
+visually prominent pronuclei; this characteristic is unique among the known inbred strains and greatly facilitates the injection of DNA. Finally, 
+the fraction of injected embryos that survive into live born animals is also much greater than that observed with all other inbred strains. For 
 these reasons, FVB/N has quickly become the strain of choice for use in the production of transgenic animals.
 
 <a name="6.2.3"></a><H3>6.2.3 Optimizing embryo production by superovulation</H3>
 
-<P>Although one can recover on the order of 6 to 10 eggs directly from individual naturally mated inbred or F<SUB>1</SUB> females, it is possible
-to obtain much larger numbers &#151; up to 60 eggs per animal &#151; by inducing a state of <i>superovulation</i>. For many experiments, it is important
-to begin with a large number of embryos; with superovulation, one can drastically reduce the number of females required to produce this large number.
-Superovulation is induced by administering two precisely-timed intraperitoneal injections of commercially-available gonadotropin reagents which mimic
-natural mouse hormones and initiate the maturation of an aberrantly large number of egg follicles. Superovulation, like normal ovulation, causes both
-a stimulation of male interest in mating as well as female receptivity to interested males. The protocol is described in detail in the mouse embryology
-manual by
+<P>Although one can recover on the order of 6 to 10 eggs directly from individual naturally mated inbred or F<SUB>1</SUB> females, it is possible 
+to obtain much larger numbers &#151; up to 60 eggs per animal &#151; by inducing a state of <i>superovulation</i>. For many experiments, it is important 
+to begin with a large number of embryos; with superovulation, one can drastically reduce the number of females required to produce this large number. 
+Superovulation is induced by administering two precisely-timed intraperitoneal injections of commercially-available gonadotropin reagents which mimic 
+natural mouse hormones and initiate the maturation of an aberrantly large number of egg follicles. Superovulation, like normal ovulation, causes both 
+a stimulation of male interest in mating as well as female receptivity to interested males. The protocol is described in detail in the mouse embryology 
+manual by 
 <A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan and colleagues (1994)</A>.
 
 <P>Not unexpectedly, the average number of eggs induced by superovulation is highly strain-dependent. Appropriately aged females
-<SUP><A HREF="notes.shtml#36" TARGET="_top">36</A></SUP>
-of the strains B6,
-BALB/cByJ, 129/SvJ, CBA/CaJ, SJL/J and C58/J can be induced to ovulate 40-60 eggs
-(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). At the other extreme, females of the strains A/J, C3H/HeJ, BALB/cJ, 129/J 129/ReJ, DBA/2J, and
-C57L/J do not respond well to the superovulation protocol, producing only 15 or fewer eggs per mouse. The response of the FVB/N strain to superovulation
-falls between the two extremes with the production of 25 embryos or fewer per female
-(<A HREF="../references.shtml#Taketo1" TARGET="_top">Taketo et al., 1991</A>). For generating transgenic
+<SUP><A HREF="notes.shtml#36" TARGET="_top">36</A></SUP> 
+of the strains B6, 
+BALB/cByJ, 129/SvJ, CBA/CaJ, SJL/J and C58/J can be induced to ovulate 40-60 eggs 
+(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). At the other extreme, females of the strains A/J, C3H/HeJ, BALB/cJ, 129/J 129/ReJ, DBA/2J, and 
+C57L/J do not respond well to the superovulation protocol, producing only 15 or fewer eggs per mouse. The response of the FVB/N strain to superovulation 
+falls between the two extremes with the production of 25 embryos or fewer per female 
+(<A HREF="../references.shtml#Taketo1" TARGET="_top">Taketo et al., 1991</A>). For generating transgenic 
 mice, however, this single negative feature of FVB/N is outweighed by the other characteristics of this strain discussed above.
 
-<P>An interesting aspect of the high versus low response to superovulation is that in two cases, substrains derived from the same original inbred strain
-(BALB/cByJ versus BALB/cJ and 129/SvJ versus 129/J) express such clearly distinct phenotypes. This finding suggests that subtle changes in genotype can
+<P>An interesting aspect of the high versus low response to superovulation is that in two cases, substrains derived from the same original inbred strain 
+(BALB/cByJ versus BALB/cJ and 129/SvJ versus 129/J) express such clearly distinct phenotypes. This finding suggests that subtle changes in genotype can 
 have dramatic consequences on the expression of this particular reproductive trait.
 
-<P>One critical finding of both practical and theoretical importance is that F<SUB>1</SUB> hybrid females do not always express a better response to
-superovulation then both of their inbred parents. For example, the commonly used F<SUB>1</SUB> hybrid B6D2F<SUB>1</SUB>, which is formed by a cross
-between a high ovulator (B6) and a low ovulator (DBA/2J), expresses the low ovulator phenotype
-(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). This observation goes against the grain of hybrid vigor and it suggests that the genetic
-basis for this phenotype may be much more specific and limited than it is for other general viability and fertility phenotypes. In addition, this
+<P>One critical finding of both practical and theoretical importance is that F<SUB>1</SUB> hybrid females do not always express a better response to 
+superovulation then both of their inbred parents. For example, the commonly used F<SUB>1</SUB> hybrid B6D2F<SUB>1</SUB>, which is formed by a cross 
+between a high ovulator (B6) and a low ovulator (DBA/2J), expresses the low ovulator phenotype 
+(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). This observation goes against the grain of hybrid vigor and it suggests that the genetic 
+basis for this phenotype may be much more specific and limited than it is for other general viability and fertility phenotypes. In addition, this 
 observation suggests that for the major genes involved, the &#034;high ovulatory&#034; alleles are recessive.
 
-<P>Two F<SUB>1</SUB> hybrids have been determined empirically to express a high level superovulation &#151; [BALB/cByJ x B6] and [B6 x CBA/CaJ]
-(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). It is also very likely that F<SUB>1</SUB> hybrids derived from matings between any of the
-high responders listed above will themselves be high responders as well. Many of these F<SUB>1</SUB> hybrids can be purchased directly from animal
+<P>Two F<SUB>1</SUB> hybrids have been determined empirically to express a high level superovulation &#151; [BALB/cByJ x B6] and [B6 x CBA/CaJ] 
+(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). It is also very likely that F<SUB>1</SUB> hybrids derived from matings between any of the 
+high responders listed above will themselves be high responders as well. Many of these F<SUB>1</SUB> hybrids can be purchased directly from animal 
 suppliers; however, in most cases, suppliers cannot provide an exact day of birth which is necessary to determine the optimal time of use.
 
 <a name="6.2.4"></a><H3>6.2.4 The fertile stud male</H3>
 
-<P>Females that have undergone ovulation &#151; either naturally or induced &#151; must be mated with a &#034;fertile stud male&#034; to produce zygotes that can be
-used for nuclear injection or other purposes. As discussed earlier, it is always preferable to use a fertile stud male with the same genotype as the
-female, whether it is inbred or an F<SUB>1</SUB> hybrid. Obviously, it is important to use visibly healthy animals in the prime of their life, between
-2 and 8 months of age. In addition, past experience is often a good indicator of future performance. Males that have mated successfully on demand in
-the past (as indicated by a vaginal plug) are likely to do the same in the future; for this reason, records should be maintained on the performance of
-each male used for this purpose. For optimal results, one should place only one male and one female in each cage, and after a successful mating, the
+<P>Females that have undergone ovulation &#151; either naturally or induced &#151; must be mated with a &#034;fertile stud male&#034; to produce zygotes that can be 
+used for nuclear injection or other purposes. As discussed earlier, it is always preferable to use a fertile stud male with the same genotype as the 
+female, whether it is inbred or an F<SUB>1</SUB> hybrid. Obviously, it is important to use visibly healthy animals in the prime of their life, between 
+2 and 8 months of age. In addition, past experience is often a good indicator of future performance. Males that have mated successfully on demand in 
+the past (as indicated by a vaginal plug) are likely to do the same in the future; for this reason, records should be maintained on the performance of 
+each male used for this purpose. For optimal results, one should place only one male and one female in each cage, and after a successful mating, the 
 male should be given a rest of 2-3 days.
 
 <a name="6.2.5"></a><H3>6.2.5 Embryo transfer into foster mothers</H3>
 
 <a name="6.2.5.1"></a><H3><I>6.2.5.1 Choice of strain</I></H3>
 
-<P>Once embryos have been manipulated in culture, they must be placed back into the reproductive tract of a <i>foster mother</i>, to allow
-their development into fully formed live-born animals. Since the foster mother contributes only a womb, and not genomic material, to the engineered
-offspring, her genetic constituency should not be chosen according to the same criteria used for animals in most other experimental protocols. Only two
-considerations are important in the choice of a foster mother. First, and most important, she should have optimal reproductive fitness and "mothering"
-characteristics. This can be accomplished with either an F<SUB>1</SUB> hybrid between two standard inbred strains [B6 x CBA is recommended
-(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>), but others will do as well] or with outbred strains available from various commercial breeders.
+<P>Once embryos have been manipulated in culture, they must be placed back into the reproductive tract of a <i>foster mother</i>, to allow  
+their development into fully formed live-born animals. Since the foster mother contributes only a womb, and not genomic material, to the engineered 
+offspring, her genetic constituency should not be chosen according to the same criteria used for animals in most other experimental protocols. Only two 
+considerations are important in the choice of a foster mother. First, and most important, she should have optimal reproductive fitness and "mothering" 
+characteristics. This can be accomplished with either an F<SUB>1</SUB> hybrid between two standard inbred strains [B6 x CBA is recommended 
+(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>), but others will do as well] or with outbred strains available from various commercial breeders. 
 
-<P>A second consideration is whether the investigator will be able to distinguish natural-born pups from those that have been fostered. This is only a
-factor when the foster mother has been mated to a sterile male in order to induce the required state of pseudopregnancy, and there is some question as
-to whether the male has been properly sterilized. The simplest method for distinguishing the two types of potential offspring is by a coat color
-difference; for example, albino versus pigmented. If the experimental embryos are derived from parents without an albino allele, then both the foster
-mother as well as her sterile stud partner (discussed below) can be chosen from commercially available outbred albino strains such as CD-1
-(<A HREF="a.shtml">Charles River Breeding Laboratories</A>) or Swiss Webster mice (from
-<A HREF="a.shtml">Taconic Farms</A>). When one is certain that the sterile stud male is really sterile, coat color differences
-are less critical, so long as well-defined DNA differences exist if the unexpected need does arise to distinguish the genotypes of potential natural-born
+<P>A second consideration is whether the investigator will be able to distinguish natural-born pups from those that have been fostered. This is only a 
+factor when the foster mother has been mated to a sterile male in order to induce the required state of pseudopregnancy, and there is some question as 
+to whether the male has been properly sterilized. The simplest method for distinguishing the two types of potential offspring is by a coat color 
+difference; for example, albino versus pigmented. If the experimental embryos are derived from parents without an albino allele, then both the foster 
+mother as well as her sterile stud partner (discussed below) can be chosen from commercially available outbred albino strains such as CD-1 
+(<A HREF="a.shtml">Charles River Breeding Laboratories</A>) or Swiss Webster mice (from 
+<A HREF="a.shtml">Taconic Farms</A>). When one is certain that the sterile stud male is really sterile, coat color differences 
+are less critical, so long as well-defined DNA differences exist if the unexpected need does arise to distinguish the genotypes of potential natural-born 
 offspring from experimentally transferred offspring.
 
 <a name="6.2.5.2"></a><H3><I>6.2.5.2 Induction of pseudopregnancy and the sterile stud male</I></H3>
 
-<P>In human females, the uterine environment becomes receptive to the implantation of fertilized eggs as a direct consequence of the hormonal induction of
-ovulation. In mice and most other non-primate mammals, the uterine environment becomes receptive to implantation <i>only</i> in response to a sufficient
+<P>In human females, the uterine environment becomes receptive to the implantation of fertilized eggs as a direct consequence of the hormonal induction of 
+ovulation. In mice and most other non-primate mammals, the uterine environment becomes receptive to implantation <i>only</i> in response to a sufficient 
 degree of sexual stimulation.
-<SUP><A HREF="notes.shtml#37" TARGET="_top">37</A></SUP>
-In addition, this stimulation also causes hormonal changes which alter the normal estrus cycle under the assumption that a
+<SUP><A HREF="notes.shtml#37" TARGET="_top">37</A></SUP> 
+In addition, this stimulation also causes hormonal changes which alter the normal estrus cycle under the assumption that a 
 pregnancy will ensue.
-<SUP><A HREF="notes.shtml#38" TARGET="_top">38</A></SUP>
-When a successful stimulatory response has occurred in the absence of fertilization, the female is said to be in a state of
-&#034;pseudopregnancy.&#034; Only pseudopregnant females will allow the successful implantation and development of fostered embryos. Pseudopregnancy can be achieved
-in one of two ways: (1) by mating to a sterile male or (2) through the use of female masturbation tools such as vibrating rods inserted into the vagina
-(<A HREF="../references.shtml#West1" TARGET="_top">West et al., 1977</A>). Most investigators have found that natural matings produce a higher percentage of pseudopregnancies
+<SUP><A HREF="notes.shtml#38" TARGET="_top">38</A></SUP> 
+When a successful stimulatory response has occurred in the absence of fertilization, the female is said to be in a state of 
+&#034;pseudopregnancy.&#034; Only pseudopregnant females will allow the successful implantation and development of fostered embryos. Pseudopregnancy can be achieved 
+in one of two ways: (1) by mating to a sterile male or (2) through the use of female masturbation tools such as vibrating rods inserted into the vagina 
+(<A HREF="../references.shtml#West1" TARGET="_top">West et al., 1977</A>). Most investigators have found that natural matings produce a higher percentage of pseudopregnancies 
 than human surrogates.
 
-<P>Sterile males can be derived genetically or surgically. Genetic derivation requires a breeding colony of mice that are doubly heterozygous for pseudo-allelic
-mutations on chromosome 17 in a region known as the
-<i><A HREF="<!--#include file='../include/mgi_acc.html'-->MGI:105076" TARGET="_top">t</A></i> complex
-(<A HREF="../references.shtml#Silver3" TARGET="_top">Silver, 1985</A>). Animals with the genotype <i>T</i>/<i>t</i><i>w2</i> (available from the
-<A HREF="a.shtml">Jackson Laboratory</A>) are
-intercrossed for the purposes of both maintaining the strain as well as for the production of sterile males as diagrammed in
+<P>Sterile males can be derived genetically or surgically. Genetic derivation requires a breeding colony of mice that are doubly heterozygous for pseudo-allelic 
+mutations on chromosome 17 in a region known as the 
+<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:105076" TARGET="_top">t</A></i> complex 
+(<A HREF="../references.shtml#Silver3" TARGET="_top">Silver, 1985</A>). Animals with the genotype <i>T</i>/<i>t</i><i>w2</i> (available from the 
+<A HREF="a.shtml">Jackson Laboratory</A>) are 
+intercrossed for the purposes of both maintaining the strain as well as for the production of sterile males as diagrammed in 
 <a href="javascript:windowf61 = window.open('../figures/figure6-1.shtml', 'windowf61', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf61.focus()">Figure 6.1</A>.
 
-<P>For those without the resources or personnel required to breed genetically sterile males, the only other choice is surgical vasectomy, which involves the
-severing of the vas deferens on both sides of the body
-(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). The choice of mouse strain to use is based
-on criteria analogous to those set out for the choice of a foster mother, except that mating ability should be considered in place of mothering ability.
-The standard F<SUB>1</SUB> hybrids as well as &#034;random-bred&#034; animals can all be used with success. When it comes to choosing between individual males
-within a particular strain, one should use the same criteria described in
-<A HREF="6-2.shtml#6.2.2.2">Section 6.2.2.2</A> for the choice of fertile stud
+<P>For those without the resources or personnel required to breed genetically sterile males, the only other choice is surgical vasectomy, which involves the 
+severing of the vas deferens on both sides of the body 
+(<A HREF="../references.shtml#Hogan1" TARGET="_top">Hogan et al., 1994</A>). The choice of mouse strain to use is based 
+on criteria analogous to those set out for the choice of a foster mother, except that mating ability should be considered in place of mothering ability. 
+The standard F<SUB>1</SUB> hybrids as well as &#034;random-bred&#034; animals can all be used with success. When it comes to choosing between individual males 
+within a particular strain, one should use the same criteria described in 
+<A HREF="6-2.shtml#6.2.2.2">Section 6.2.2.2</A> for the choice of fertile stud 
 males. In addition, pre-mating &#034;sterile&#034; males with fertile females serves to confirm the success of the vasectomy.
 
 <DIV Align="center"><H4> <A HREF="6-1.shtml">Previous</A> <A HREF="6-3.shtml">Next</A></H4></DIV>
