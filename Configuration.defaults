@@ -49,3 +49,6 @@ GDB_CLONE	http://www.gdb.org/gdb-bin/genera/genera/hgd/Clone?!sub=0&!key=
 
 # link to detail pages at JaxMice - just append the stock number
 JAXMICE		http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=
+
+# link to javawi2
+JAVAWI		http://devwww.informatics.jax.org:12311/javawi2/
