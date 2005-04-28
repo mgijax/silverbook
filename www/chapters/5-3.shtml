@@ -188,7 +188,7 @@ can be visualized within context of branches upon branches in evolutionary trees
 crossover events that expanded the size of gene clusters and transposition events that acted to seed distant genomic regions with new genes or clusters.
 
 <P>A prototypical small-size gene superfamily is represented by the very well-studied globin genes illustrated in 
-<a href="javascript:windowf56 = window.open('../figures/figure5.6.shtml', 'windowf56', 'width=700,height=370,resizable=yes,scrollbars=yes'); windowf56.focus()">Figure 5.6</A>. 
+<a href="javascript:windowf56 = window.open('../figures/figure5-6.shtml', 'windowf56', 'width=700,height=370,resizable=yes,scrollbars=yes'); windowf56.focus()">Figure 5.6</A>. 
 All functional members of this superfamily play a role in oxygen transport. The superfamily has three main families (or branches) represented by the 
 beta-like genes, the alpha-like genes and the single myoglobin gene. The duplication and divergence of these three main branches occurred early during 
 the evolution of vertebrates and, as such, all three are a common feature of all mammals. The products encoded by genes within two of these branches &#151; 
@@ -197,7 +197,7 @@ oxygen through the blood stream. The product encoded by the third branch of this
 
 <P>The beta-like branch of this gene superfamily has duplicated by multiple unequal crossing over events and diverged into five functional genes and two 
 beta-like pseudogenes that are all present in a single cluster on mouse chromosome 7 as shown in 
-<a href="javascript:windowf56 = window.open('../figures/figure5.6.shtml', 'windowf56', 'width=700,height=370,resizable=yes,scrollbars=yes'); windowf56.focus()">Figure 5.6</A> 
+<a href="javascript:windowf56 = window.open('../figures/figure5-6.shtml', 'windowf56', 'width=700,height=370,resizable=yes,scrollbars=yes'); windowf56.focus()">Figure 5.6</A> 
 (<A HREF="../references.shtml#Jahn1" TARGET="_top">Jahn et al., 1980</A>). Each of the beta-like chains codes for a similar polypeptide, which has been selected for optimal 
 functionality at a specific stage of mouse development: one functions during early embryogenesis, one during a later stage of embryogenesis, and two in 
 the adult. The alpha-like branch has also expanded by unequal crossing over into a cluster of three genes &#151; one functional during embryogenesis and two 
@@ -225,7 +225,7 @@ by the genome to evolve structural and functional complexity.
 <P>The 
 <i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96169,MGI:96181,MGI:96191,MGI:96200" TARGET="_top">Hox</A></i> 
 gene superfamily provides an alternative prototype for the expansion of gene number as illustrated in 
-<a href="javascript:windowf57 = window.open('../figures/figure5.7.shtml', 'windowf57', 'width=700,height=550,resizable=yes,scrollbars=yes'); windowf57.focus()">Figure 5.7</A>. 
+<a href="javascript:windowf57 = window.open('../figures/figure5-7.shtml', 'windowf57', 'width=700,height=550,resizable=yes,scrollbars=yes'); windowf57.focus()">Figure 5.7</A>. 
 In this case, the earliest duplication events (which pre-date the divergence of vertebrates and insects) led to 
 a cluster of related genes that encoded DNA-binding proteins used to encode spatial information in the developing embryo. The original gene cluster has 
 been duplicated <i>en masse</i> and dispersed to a total of four chromosomal locations 
@@ -238,7 +238,7 @@ each of which contains 9-11 genes
 (<A HREF="../references.shtml#McGinnis1" TARGET="_top">McGinnis and Krumlauf, 1992</A>). Interestingly, because of the order in which the duplication events occurred &#151; 
 unequal crossing over to expand the cluster size first, transposition <i>en masse</i> second &#151; an evolutionary tree would show that a single "gene family" 
 within this superfamily is actually splayed out physically across all of the different gene clusters as shown in 
-<a href="javascript:windowf57 = window.open('../figures/figure5.7.shtml', 'windowf57', 'width=700,height=550,resizable=yes,scrollbars=yes'); windowf57.focus()">Figure 5.7</A>. 
+<a href="javascript:windowf57 = window.open('../figures/figure5-7.shtml', 'windowf57', 'width=700,height=550,resizable=yes,scrollbars=yes'); windowf57.focus()">Figure 5.7</A>. 
 Some gene additions and subtractions within individual clusters have occurred by unequal crossing over since the 
 <i>en masse</i> duplication so that differences in gene number and type can be seen within a basic framework of homology among the different whole clusters.
 
@@ -271,7 +271,7 @@ With few exceptions, X-linked and Y-linked genes have remained in the same linka
 <P>The second question asked at the head of this section can be re-stated as follows: do fine-structure genetic maps have functional significance? The 
 answer is that in at least some cases, the integrity of genes within a clustered family is clearly important to function. This was first illustrated in 
 the case of the beta-globin gene family with its five members arranged in a 70 kb array 
-(<a href="javascript:windowf56 = window.open('../figures/figure5.6.shtml', 'windowf56', 'width=700,height=370,resizable=yes,scrollbars=yes'); windowf56.focus()">Figure 5.6</A>). 
+(<a href="javascript:windowf56 = window.open('../figures/figure5-6.shtml', 'windowf56', 'width=700,height=370,resizable=yes,scrollbars=yes'); windowf56.focus()">Figure 5.6</A>). 
 Although beta-globin was used in the first transgenic experiments conducted in 1980 and many subsequent 
 experiments, it was never possible for researchers to achieve full expression of the transgene at the same level as the endogenous gene. The problem 
 was that all of the members of the endogenous gene family are dependent for expression on a <i>locus control region</i> (or LCR) that maps outside of 
@@ -291,7 +291,7 @@ cluster, the temporal sequence of expression appears to be directly encoded (to 
 <i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:96169,MGI:96181,MGI:96191,MGI:96200" TARGET="_top">Hox</A></i> 
 gene clusters, the order of genes correlates with the pattern of spatial expression along the anterior-posterior axis of the developing embryo 
 (<A HREF="../references.shtml#McGinnis1" TARGET="_top">McGinnis and Krumlauf, 1992</A> and 
-<a href="javascript:windowf57 = window.open('../figures/figure5.7.shtml', 'windowf57', 'width=700,height=550,resizable=yes,scrollbars=yes'); windowf57.focus()">Figure 5.7</A>).
+<a href="javascript:windowf57 = window.open('../figures/figure5-7.shtml', 'windowf57', 'width=700,height=550,resizable=yes,scrollbars=yes'); windowf57.focus()">Figure 5.7</A>).
 
 <P>There are also a few examples of genes and clusters that are unrelated by sequence, but which map together in a small chromosomal region and have a 
 common arena of function. The best example of this phenomenon is the 
