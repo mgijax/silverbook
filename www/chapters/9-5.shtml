@@ -35,7 +35,7 @@ under identical environmental conditions, then existing variation is likely to b
 <P>Geneticists are, obviously, most interested in the genetic contribution to a quantitative trait. A genetic contribution cannot be demonstrated by 
 looking at individuals from a single inbred strain alone. Rather, a comparison of expression levels must be made on sets of animals from two different 
 inbred strains 
-(<a href="javascript:windowf918 = window.open('../figures/figure9-19.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+(<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 The statistical approach described in 
 <A HREF="d.shtml#D2">Appendix D2</A> can be used to determine formally whether two 
 strains differ significantly in the expression of the quantitative trait. If a significant strain-specific difference is demonstrated, and all other 
@@ -44,7 +44,7 @@ distinguish the two strains.
 
 <P>In practice, a quantitative trait is most amenable to genetic analysis in mice and other experimental organisms with a pair of inbred strains that 
 show non-overlapping distributions in measured levels of expression among at least 20 members of each group
-(<a href="javascript:windowf918 = window.open('../figures/figure9-19.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+(<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 Although a significant strain-specific difference can be demonstrated under much less stringent criteria (as described in 
 <A HREF="d.shtml#D2">Appendix D2</A>), it becomes more and more difficult to ferret out the quantitative trait loci (QTLs) involved as the possibility 
 of phenotypic overlap increases.
@@ -158,18 +158,18 @@ from either breeding group.
 
 <P>Upon choosing two inbred parental strains (called P1 and P2 in the following discussion), one should perform a cross to obtain F<SUB>1</SUB> hybrid 
 offspring. However, before proceeding to a second-generation cross, it is critical to determine the expression of the trait of interest in the F<SUB>1</SUB> population. 
-<a href="javascript:windowf918 = window.open('../figures/figure9-19.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A> 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A> 
 shows different examples of the potential results that might be obtained. If the pairs of alleles present at all 
 &#034;polygenetic&#034; loci that distinguish P1 from P2 act in a strictly semidominant manner, the F<SUB>1</SUB> population will show a mean level of expression halfway 
 between the means of the two parental strains (example 3 in 
-<a href="javascript:windowf918 = window.open('../figures/figure9-19.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 On the other hand, the F<SUB>1</SUB> population may show a distribution that is 
 indistinguishable from one parental strain or the other if there are strong dominant effects (example 1 in 
-<a href="javascript:windowf918 = window.open('../figures/figure9-19.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 Finally, a likely result is the complex 
 one with unequal allele strengths &#151; but not strict dominance &#151; that lead to a distribution differing from both parental strains, but with a mean value that is 
 closer to one than the other (example 2 in the 
-<a href="javascript:windowf918 = window.open('../figures/figure9-19.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 In fact, the F<SUB>1</SUB> distribution can have a mean value that lies anywhere along the continuum 
 between the two parental means. However, in all cases, the standard deviation around this mean value should be similar to that found with the parental strains, 
 since the F<SUB>1</SUB> population is always genetically homogeneous.
@@ -181,9 +181,9 @@ be performed with either parent. Other criteria, such as reproductive performanc
 <a href="javascript:windowt41 = window.open('../tables/table4-1.shtml', 'windowt41', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt41.focus()">Table 4.1</A>).
 <SUP><A HREF="notes.shtml#100" TARGET="_top">100</A></SUP> 
 However, if the mean F<SUB>1</SUB> expression is closer to one parent (such as P1 in examples 1 and 2 shown in 
-<a href="javascript:windowf918 = window.open('../figures/figure9-19.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>), 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>), 
 one should backcross F<SUB>1</SUB> animals to the opposite parent (P2 in the example). As one can see from 
-<a href="javascript:windowf918 = window.open('../figures/figure9-19.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>, 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>, 
 this choice will serve to minimize the degree of phenotypic overlap between the two &#034;parents of the backcross&#034; and 
 will allow a more accurate identification of N<SUB>2</SUB> animals with genotypes that match one parent or the other as discussed below.
 
