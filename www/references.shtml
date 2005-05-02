@@ -244,7 +244,7 @@
 <I>See also <A HREF="<!--#include file='include/pubmed.html'-->1406950">PubMed</A>.</I>
 
 <P><DT> <a name="Cochran1"></a>Cochran, W. G. (1954).<DD> Some methods for strenghening the common 
-<I><a href="javascript:windowm6 = window.open('chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
 tests. Biometrics 10: 417-451.
 
 <P><DT> <a name="Collins1"></a>Collins, F., and Galas, D. (1993).<DD> A new five-year plan for the U.S. human genome project. Science 262: 43-46.<BR>

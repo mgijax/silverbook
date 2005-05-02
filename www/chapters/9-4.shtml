@@ -34,8 +34,8 @@ polymorphisms at DNA marker loci) and ability to generate offspring in which seg
 The choice of breeding scheme is limited typically to one of two different two-generation crosses: the outcross-backcross 
 (F<SUB>1</SUB> X P, where P represents one of the original parental strains) or the outcross-intercross 
 (F<SUB>1</SUB> X F<SUB>1</SUB>) illustrated in Figures 
-<a href="javascript:windowf911 = window.open('../figures/figure9.11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">9.11</A> and 
-<a href="javascript:windowf912 = window.open('../figures/figure9.12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">9.12</A>, 
+<a href="javascript:windowf911 = window.open('../figures/figure9-11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">9.11</A> and 
+<a href="javascript:windowf912 = window.open('../figures/figure9-12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">9.12</A>, 
 respectively. 
 If the purpose of the analysis is to map loci associated with a mutant phenotype, the nature of the phenotype may limit 
 this choice further as discussed more fully in 
@@ -191,8 +191,8 @@ choice of a second parental strain would be one that is inbred from a different 
 
 <P>The second choice that an investigator will make upon beginning a new linkage study is between the two prescribed breeding schemes. 
 With both schemes, illustrated in Figures 
-<a href="javascript:windowf911 = window.open('../figures/figure9.11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">9.11</A> and 
-<a href="javascript:windowf912 = window.open('../figures/figure9.12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">9.12</A>, 
+<a href="javascript:windowf911 = window.open('../figures/figure9-11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">9.11</A> and 
+<a href="javascript:windowf912 = window.open('../figures/figure9-12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">9.12</A>, 
 the first mating will always be an outcross between 
 the two parental strains chosen according to the strategies outlined above. However, once F<SUB>1</SUB> hybrid animals have been obtained, an 
 investigator must decide whether to backcross them to one of the parental strains or <i>intercross</i> them with each other. There 
@@ -202,14 +202,14 @@ are advantages and disadvantages to each breeding scheme.
 
 <P>The primary advantages of the backcross approach are all based on the fact that each offspring from the backcross can be viewed as 
 representing an isolated meiotic event. The entire set of alleles contributed by the inbred parent (strain B in 
-<a href="javascript:windowf911 = window.open('../figures/figure9.11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>) 
+<a href="javascript:windowf911 = window.open('../figures/figure9-11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>) 
 is pre-determined. Thus, the only question to be resolved at each typed locus is whether the 
 F<SUB>1</SUB> parent has contributed the same parental allele (from strain B) or the allele from the other parent (strain A): in the first 
 instance, typing would demonstrate the presence of only the strain B allele, and in the second instance, typing would demonstrate the presence 
 of both the strain A and strain B alleles.
 
 <P>By looking at 
-<a href="javascript:windowf915 = window.open('../figures/figure9.15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>, 
+<a href="javascript:windowf915 = window.open('../figures/figure9-15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>, 
 one can visualize the actual meiotic products contributed by the F<SUB>1</SUB> 
 parent in the form of individual 
 <A HREF="../glossary.shtml#Haplotype" TARGET="_top">haplotypes</A>. Every recombination event can be detected and the frequency of recombination between any two 
@@ -260,13 +260,13 @@ events may be critical to efforts aimed at zeroing in on the locus of interest.
 in situations where the mutation is strictly recessive, one will only be able to map the mutant locus with those 25% of F<SUB>2</SUB> animals that 
 express the mutant phenotype because the genotype of non-expressing animals cannot be determined 
 (see 
-<a href="javascript:windowf912 = window.open('../figures/figure9.12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">Figure 9.12</A>). 
+<a href="javascript:windowf912 = window.open('../figures/figure9-12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">Figure 9.12</A>). 
 Since two meiotic events are scored in each F<SUB>2</SUB> animal, the total amount of genetic information 
 obtained will be approximately double that obtained from an equivalent number of backcross animals that can be typed. Nevertheless, this still comes out to 
 only 50% of the information obtained from typing a complete backcross panel of the same size as the complete intercross panel. Consequently, if the trait 
 under analysis is strictly recessive but does <i>not</i> seriously hinder viability or fecundity in homozygotes of at least one sex, it is more advantageous 
 to use the backcross. In these situations, a backcross can be set up with a homozygous mutant parent, as illustrated in 
-<a href="javascript:windowf911 = window.open('../figures/figure9.11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>, 
+<a href="javascript:windowf911 = window.open('../figures/figure9-11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>, 
 and 100% of the offspring can be scored phenotypically for the contribution of either the mutant or wild-type allele 
 from the F<SUB>1</SUB> parent.
 
@@ -301,10 +301,10 @@ charts, and figures, this alternative metric will be used.
 <SUP><A HREF="notes.shtml#93" TARGET="_top">93</A></SUP>
 
 <P>Two measures of the backcross swept radius, determined for sample sizes that range from 20 to 100 animals, are presented in 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>. 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>. 
 The first measure is based on the traditional view of a swept radius as a boundary that separates significant from 
 non-significant rates of observed recombination. This &#034;experimental swept radius&#034; is shown as the solid curve in 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>. 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>. 
 The graph can be used to find out quickly whether any experimentally determined recombination fraction, or concordance 
 value, meets the strictly defined Bayesian-corrected cutoff for demonstration of linkage at a probability of 95% or greater 
 (see <A HREF="9-1.shtml#9.1.3.6">Section 9.1.3.6</A>).
@@ -323,11 +323,11 @@ to the value of the experimental swept radius for a sample set of a particular s
 means for establishing the distances that should separate markers to be used in setting up a new framework map.
 
 <P>With a set number of backcross samples, one can use 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A> 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A> 
 to find the corresponding framework swept radius associated with 
 each anchor locus. For example, with 52 samples, the framework swept radius is 15 cM, with 72 samples, it is 20 cM, and with 94 samples, it becomes 24 cM. It is 
 clear that once a critical number of samples has been reached (45-50), further increases in number provide only a marginal increase in the distance that is swept. 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A> 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A> 
 can also provide a first approximation of the framework swept radius associated with a panel of intercross samples. To a 
 first approximation, each intercross sample is equivalent to two backcross samples. Thus, a swept radius of &#126;15 cM can be obtained with 26 intercross samples, and 
 &#126;20 cM can be obtained with 36 intercross samples.
@@ -336,14 +336,14 @@ first approximation, each intercross sample is equivalent to two backcross sampl
 <P>The framework swept radius can be used in conjunction with the lengths of each individual chromosome to determine the number of anchor loci required to provide 
 complete coverage over the entire genome. Essentially, anchors can be chosen such that their &#034;swept diameters&#034; (twice the swept radius) cover directly adjacent 
 regions that span the length of every chromosome as illustrated in 
-<a href="javascript:windowf914 = window.open('../figures/figure9.14.shtml', 'windowf914', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf914.focus()">Figure 9.14</A>. 
+<a href="javascript:windowf914 = window.open('../figures/figure9-14.shtml', 'windowf914', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf914.focus()">Figure 9.14</A>. 
 The first and last anchors on each chromosome must be 
 placed within one swept radius of their respective ends, while the distance between adjacent anchors should be within two swept radii. The estimated lengths of all 
 twenty mouse chromosomes are sorted into a set of ranges in 
 <a href="javascript:windowt94 = window.open('../tables/table9-4.shtml', 'windowt94', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt94.focus()">Table 9.4</A>. 
 The number of anchors required per chromosome for a backcross analysis is calculated by 
 dividing the chromosome length by the swept diameter defined with a sample set of a particular number (from the graph in 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>) 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>) 
 and rounding up to the nearest integer. As indicated in 
 <a href="javascript:windowt94 = window.open('../tables/table9-4.shtml', 'windowt94', 'width=600,height=500,resizable=yes,scrollbars=yes'); windowt94.focus()">Table 9.4</A>, 
 with 52 backcross samples, it is possible to cover the entire mouse genome with 60 well-placed anchors. With 72 samples, the 
@@ -357,7 +357,7 @@ availability of over 3,000 highly polymorphic microsatellite loci that span the 
 <A HREF="b.shtml">Appendix B</A>, one can obtain chromosome-specific lists of microsatellites that are polymorphic between the particular parental strains that an 
 investigator has used to generate his or her linkage panel. With this information, one can choose specific microsatellite loci that map to each of the general locations 
 required to span each chromosome as illustrated in 
-<a href="javascript:windowf914 = window.open('../figures/figure9.14.shtml', 'windowf914', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf914.focus()">Figure 9.14</A>.
+<a href="javascript:windowf914 = window.open('../figures/figure9-14.shtml', 'windowf914', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf914.focus()">Figure 9.14</A>.
 
 <P>In the backcross linkage studies reported to date, the gender of the F<SUB>1</SUB> hybrid used in the second-generation cross has usually been female. In the case of 
 the interspecific cross, there is no other choice since the F<SUB>1</SUB> male is sterile. However, this is not a factor in the intraspecific or intersubspecific cross. 
@@ -387,7 +387,7 @@ Map Manager program developed by
 <P>It is also possible to determine linkage, when a backcross set is not too large, without the use of a specialized computer program. This can be accomplished by 
 entering the allele segregation information for each locus along a separate row or line in a spreadsheet or word processing file, where each column represents a 
 separate animal (analogous to the RI strain data matrix illustrated in 
-<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>). 
+<a href="javascript:windowf96 = window.open('../figures/figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>). 
 Anchor loci should be placed in sequential rows according to their known order along each chromosome. The very first rows 
 should be reserved for the new locus (or loci). The complete file will be a matrix of information with the number of rows equal to the number of anchor and new loci 
 typed and the number of columns equal to the number of backcross animals analyzed. For the <i>N</i> &#061; 52 backcross typed for one new locus in addition to a minimal 
@@ -398,7 +398,7 @@ this would be a 61 X 52 matrix of data.
 <P>Next, one would take the row representing a new locus and compare it row by row, either on the computer or on paper, for pattern similarities with each anchor 
 locus allele distribution. Visual inspection alone will be sufficient to distinguish similar runs of alleles in two rows. The total recombination fraction between the 
 new locus and any anchor locus identified in this way can be easily calculated; if the fraction of recombinants is greater than the experimental swept radius found in 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A> 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A> 
 (0.27 for <i>N</i> &#061; 52), linkage can be rejected and one can move on to the next locus. Although this process is somewhat 
 tedious, the time that it takes is minimal compared to the time involved in actually typing DNA markers in the first place. In contrast, with whole genome data obtained 
 from an intercross, manual determination of linkage is extremely difficult. Instead, one should use one of the limited number of programs available for this type of 
@@ -457,12 +457,12 @@ incompletely penetrant traits and for quantitative traits controlled by segregat
 detected with equal levels of intensity. Thus, not all PCR-based markers will be suitable.
 
 <P>Let us consider the simple example of a backcross in which all N<SUB>2</SUB> animals can be phenotypically distinguished at a single mutant locus as illustrated in 
-<a href="javascript:windowf911 = window.open('../figures/figure9.11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>. 
+<a href="javascript:windowf911 = window.open('../figures/figure9-11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>. 
 The first step of the analysis would be to classify each animal as &#043;/<i>m</i> or <i>m</i>/<i>m</i> followed by the conversion of 
 each individual into a high quality DNA sample. Then, equal amounts of DNA from each <i>m</i>/<i>m</i> sample would be combined into one pool, and equal amounts of DNA 
 from each &#043;/<i>m</i> sample would be combined into a second pool. A third control sample would be formed by combining equal amounts of DNA from the two parents of the 
 cross: the F<SUB>1</SUB> hybrid and strain B in 
-<a href="javascript:windowf911 = window.open('../figures/figure9.11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>. 
+<a href="javascript:windowf911 = window.open('../figures/figure9-11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>. 
 Finally, an aliquot from each of these three composite samples would be subjected to PCR amplification with primer pairs specific 
 for one marker at a time (or restriction digestion), and the amplified (or digested) samples would be separated by gel electrophoresis and analyzed by ethidium bromide 
 staining, or probing, or autoradiography.
@@ -483,7 +483,7 @@ observed.
 
 <P>Increasing the number of individual samples in each pool serves two purposes. First, random errors in the measurement of individual sample aliquots will tend to become 
 evened out over a larger pool. Second, chance departures from the control ratio of alleles (i.e. false positives) will become much less frequent for unlinked markers (see 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>). 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>). 
 For both of these reasons, one should set a minimum pool size at 20 animals. There is no maximum to the pool size but there is 
 nothing to be gained from pooling more than 50 samples together.
 
@@ -497,16 +497,16 @@ would appear possible. Thus, up to 50% more markers may be required to sweep the
 
 <P>The pooled DNA approach is maximally resolving when the nature of the phenotype under analysis allows the investigator to obtain two pools representing samples from 
 each of the parents in the backcross (the F<SUB>1</SUB> and strain B in 
-<a href="javascript:windowf911 = window.open('../figures/figure9.11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>) 
+<a href="javascript:windowf911 = window.open('../figures/figure9-11.shtml', 'windowf911', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf911.focus()">Figure 9.11</A>) 
 or the two original strains used to generate the intercross (strain A and strain B in 
-<a href="javascript:windowf912 = window.open('../figures/figure9.12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">Figure 9.12</A>). 
+<a href="javascript:windowf912 = window.open('../figures/figure9-12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">Figure 9.12</A>). 
 In a situation of this type, each departure from the control ratio observed for a marker in one pool should be accompanied by 
 a departure in the opposite direction for the other pool (see 
 <a href="javascript:windowt95 = window.open('../tables/table9-5.shtml', 'windowt95', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowt95.focus()">Table 9.5</A>). 
 This requirement for confirmation will act to reduce the frequency of false positive results. In many experimental situations, 
 however, it will only be possible to develop a single pool of homozygous <i>m</i>/<i>m</i> samples for analysis. This will be the case for backcross studies of 
 incompletely penetrant traits and for intercross studies of fully recessive phenotypes 
-(<a href="javascript:windowf912 = window.open('../figures/figure9.12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">Figure 9.12</A>). 
+(<a href="javascript:windowf912 = window.open('../figures/figure9-12.shtml', 'windowf912', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf912.focus()">Figure 9.12</A>). 
 In such cases, it will be necessary to generate and phenotype a larger number of animals in order to identify the smaller 
 subset of samples that can be included within the single pool that can be made available for comparison to the control.
 
@@ -527,7 +527,7 @@ alleles, they have the same &#034;haplotype&#034; on that chromosome. By compari
 different haplotypes that are present.
 
 <P>As illustrated in 
-<a href="javascript:windowf91 = window.open('../figures/figure9.15.shtml', 'windowf91', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf91.focus()">Figure 9.15</A>, 
+<a href="javascript:windowf91 = window.open('../figures/figure9-15.shtml', 'windowf91', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf91.focus()">Figure 9.15</A>, 
 each distinct haplotype is represented by a column of boxes, with one box for each locus; each box is either 
 filled in to indicate one parental allele or left empty to indicate the other parental allele. Anchor loci are placed according to their order along the chromosome from 
 most centromeric at the top to most telomeric at the bottom. The number of animals that carry each haplotype is indicated at the bottom of each column. Haplotypes are 
@@ -535,13 +535,13 @@ presented in order from left to right according to the number and location of re
 Haplotypes with single recombination events are presented next, followed by those with two recombination events, and more, if they exist. Vertical lines can be used to 
 separate haplotype pairs defined by reciprocal allele combinations. The class of single recombination haplotypes are presented in order from left to right according to 
 the position of the breakpoint from most centromeric to most telomeric. The haplotype diagram shown in 
-<a href="javascript:windowf915 = window.open('../figures/figure9.15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A> 
+<a href="javascript:windowf915 = window.open('../figures/figure9-15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A> 
 can be generated automatically (in printable form) from recorded data in the 
 <A HREF="../references.shtml#Manly1" TARGET="_top">Manly (1993)</A> Map Manager program.
 
 <P>The haplotype diagram can be used to generate a linkage map by adding up the total number of animals that are recombinant between adjacent loci. For example, the 
 G, H, I, and K haplotypes show recombination between the hypothetical <i>D51</i> and <i>D33</i> loci shown in 
-<a href="javascript:windowf915 = window.open('../figures/figure9.15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>; 
+<a href="javascript:windowf915 = window.open('../figures/figure9-15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>; 
 these haplotypes are carried by 9, 10, 1, and 1 animals respectively. Thus, in total, 21 animals are recombinant between these 
 loci for a calculated recombination fraction (<i>rf</i>) of 0.404. When a recombination fraction is larger than 0.25, one should use the Carter-Falconer mapping function 
 (<A HREF="7-2.shtml#equation7.3">Equation 7.3</A>) to obtain a more accurate estimate of map distance in centimorgans. The calculated <i>m</i><i>FC</i> value is 44 cM. Similarly, the 
@@ -549,12 +549,12 @@ recombination fractions that separate <i>D81</i> from <i>D12</i>, and <i>D12</i>
 recombination fraction value is adjusted slightly to a map distance of 27.3 cM.
 
 <P>With a framework haplotype diagram and map, it becomes possible to determine the location of a new locus under analysis. Consider the hypothetical example in 
-<a href="javascript:windowf915 = window.open('../figures/figure9.15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A> 
+<a href="javascript:windowf915 = window.open('../figures/figure9-15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A> 
 where linkage has already been demonstrated between a new locus and just one anchor locus &#151; <i>D51</i>. In this case, the new 
 locus could be in either one of two positions on the chromosome, proximal or distal to <i>D51</i>. To test these two locations, one can draw a second set of haplotype 
 diagrams that include only those newly defined haplotypes showing recombination between the linked anchor <i>D51</i> and the new locus. In this example, a subset of 
 animals from the previously defined haplotype classes A, G, H, and I define four new haplotypes labeled A', G', H' and I' respectively as illustrated in 
-<a href="javascript:windowf915 = window.open('../figures/figure9.15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>. 
+<a href="javascript:windowf915 = window.open('../figures/figure9-15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>. 
 These haplotypes are drawn in two different ways with the new locus either proximal or distal to <i>D51</i>. The correct order 
 can be determined by minimizing both the number of multiply recombinant haplotypes and the total number of implied recombination events within the sample set. In the 
 example shown, a distal location requires a total of eight crossover events that take place within four single recombinant chromosomes and two double recombinant 
@@ -611,8 +611,8 @@ region-specific markers as discussed in
 <A HREF="8-4.shtml">Section 8.4</A>.
 
 <P>With the identification of one or more DNA markers that show no recombination with the locus of interest, Figures 
-<a href="javascript:windowf916 = window.open('../figures/figure9.16.shtml', 'windowf916', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf916.focus()">9.16</A> or 
-<a href="javascript:windowf917 = window.open('../figures/figure9.17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">9.17</A> 
+<a href="javascript:windowf916 = window.open('../figures/figure9-16.shtml', 'windowf916', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf916.focus()">9.16</A> or 
+<a href="javascript:windowf917 = window.open('../figures/figure9-17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">9.17</A> 
 can be used to gain a sense of the distance that separates them. For example, with an initial cohort of 380 animals, the average 
 distance that will separate marker and locus will be 0.2 cM and the 95% confidence interval will extend out to 1 cM. With an initial cohort of 1,000 animals, 
 the mean distance will be less than 0.1 cM and the 95% confidence interval will extend out less than 0.4 cM. At this stage of analysis, one can move on to the task of 

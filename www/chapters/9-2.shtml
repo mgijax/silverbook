@@ -247,8 +247,8 @@ referred to as an &#034;RI group.&#034; Increasing the size of the RI group can 
 effects on the sensitivity and resolution with which it is possible to determine 
 linkage and map distances, as described in the following subsections and depicted in 
 <a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A> and Tables 
-<a href="javascript:windowtd1 = window.open('../tableD1.shtml', 'windowtd1', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd1.focus()">D1</A> and 
-<a href="javascript:windowtd2 = window.open('../tableD2.shtml', 'windowtd2', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">D2</A> in 
+<a href="javascript:windowtd1 = window.open('../tables/tableD1.shtml', 'windowtd1', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd1.focus()">D1</A> and 
+<a href="javascript:windowtd2 = window.open('../tables/tableD2.shtml', 'windowtd2', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">D2</A> in 
 <A HREF="d.shtml">Appendix D</A>.
 
 <a name="9.2.2.3"></a><H3><I>9.2.2.3 Demonstrating linkage: statistical approaches</I></H3>
