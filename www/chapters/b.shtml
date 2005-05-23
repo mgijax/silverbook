@@ -61,7 +61,7 @@ You should contact the sources of client software described above or your local 
 <P>The central WWW server for mouse geneticists is located at the Jackson Laboratory and has the following URL:
 <A HREF="<!--#include file='include/mgi.html'-->" TARGET="_top">http://www.informatics.jax.org/</A>.
 This server provides access to the
-<A HREF="<!--#include file='include/mgi_home.html'-->projects/aboutmgi.shtmll" TARGET="_top">Mouse Genome Database (MGD)</A> which is a compendium of linked data sources that includes
+<A HREF="<!--#include file='include/mgi_home.html'-->projects/aboutmgi.shtml" TARGET="_top">Mouse Genome Database (MGD)</A> which is a compendium of linked data sources that includes
 <A HREF="<!--#include file='include/mgi.html'-->searches/marker_form.shtml" TARGET="_top">locus information</A>,
 <A HREF="<!--#include file='include/mgi.html'-->menus/map_menu.shtml" TARGET="_top">genetic mapping data</A>,
 <A HREF="<!--#include file='include/mgi.html'-->searches/polymorphism_form.shtml" TARGET="_top">polymorphisms</A>,
