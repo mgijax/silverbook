@@ -198,8 +198,8 @@ fi
 
 logHeading "Getting Configuration options..."
 CONFIG=/tmp/$$.config
-$1 ./Configuration sh > $CONFIG
-. $CONFIG
+$1 ./Configuration sh > $CONFIG 2>/dev/null
+. $CONFIG 
 rm -f $CONFIG
 
 checkGroup $GROUP $TMPDIR	# ensure that the user is a member of $GROUP
