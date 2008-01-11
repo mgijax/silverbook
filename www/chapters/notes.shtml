@@ -12,7 +12,7 @@
 <P><A NAME="1"></A>1. The domestic rat (<I>Rattus norvegicus</I>) was not far behind in earlier centuries, but its current census and range are much more limited than that of the mouse.
 
 <P><A NAME="2"></A>2. Phenotypes of this kind are called 
-<I><A HREF="../glossary.shtml#Quantitative" TARGET="_top">Quantitative traits</A></I> and the loci that control these phenotypes are called <I>quantitative trait loci</I> or <I>QTLs</I>.
+<I><A HREF="../glossary.shtml#Quantitative trait" TARGET="_top">Quantitative traits</A></I> and the loci that control these phenotypes are called <I>quantitative trait loci</I> or <I>QTLs</I>.
 
 <P><A NAME="3"></A>3. Several detailed histories of the early years of mouse genetics have been published (
 <A HREF="../references.shtml#Keeler1">Keeler, 1931</A>; 
@@ -271,7 +271,7 @@ When this goal is reached, each 1 cM bin will hold approximately four microsatel
 <P><A NAME="69"></A>69. This simplifying assumption is only valid when there is no distortion of equal segregation of alleles from either of the two loci under analaysis.
 
 <P><A NAME="70"></A>70. The author is indebted to Earl Green for pointing out this simplification of the 
-<I><a href="javascript:windowm6 = window.open('../figures/chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
+<I><a href="javascript:windowm6 = window.open('chisquared.shtml', 'windowm6', 'width=450,height=150,resizable=yes,scrollbars=yes'); windowm6.focus()">Chi-squared</A></I> 
 equation in the special case of the backcross as shown in equation 1.40 in his book 
 (<A HREF="../references.shtml#Green2">Green, 1981</A>).
 

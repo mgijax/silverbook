@@ -22,7 +22,7 @@ of offspring is required to have a reasonable chance at identifying recombinatio
 markers. This is the second panel of tools. Ideally, one would like to have at hand a set of markers, such as microsatellites, distributed at average distances of a few hundred kilobases 
 apart. This would provide sufficient resolution for the mapping of recombination sites 
 (<A HREF="7-2.shtml#7.2.3">Section 7.2.3</A> and 
-<a href="javascript:windowf75 = window.open('../figures/figure7-5.shtml', 'windowf75', 'width=700,height=430,resizable=yes,scrollbars=yes'); windowf75.focus()">Figure 7.5</A>) 
+<a href="javascript:windowf75 = window.open('../figures/figure7.5.shtml', 'windowf75', 'width=700,height=430,resizable=yes,scrollbars=yes'); windowf75.focus()">Figure 7.5</A>) 
 as well for the recovery of overlapping YAC clones 
 (<A HREF="10-3.shtml#10.3.3">Section 10.3.3</A>).
 
@@ -114,7 +114,7 @@ interest from one species within the genetic background of the other species. Th
 markers from those limited cases where the appropriate congenic lines have been 
 constructed. In genetic terms, congenic strains are far superior to somatic cell hybrids because the region of 
 interest can be more greatly circumscribed. As indicated in 
-<a href="javascript:windowf36 = window.open('../figures/figure3-6.shtml', 'windowf36', 'width=580,height=380,resizable=yes,scrollbars=yes'); windowf36.focus()">Figure 3.6</A>, 
+<a href="javascript:windowf36 = window.open('../figures/figure3.6.shtml', 'windowf36', 'width=580,height=380,resizable=yes,scrollbars=yes'); windowf36.focus()">Figure 3.6</A>, 
 after ten generations of backcrossing, the differential region will have an average length of 20 cM, and after 20 generations of backcrossing, 
 the average differential length will be reduced to 10 cM.
 

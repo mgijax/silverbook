@@ -33,7 +33,7 @@
 
 <a href="javascript:windowtd1 = window.open('tables/tableD1.shtml', 'windowtd1', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd1.focus()">Table D1</A> Lower/upper limits on 68% confidence intervals for linkage distances (in cM) with <I>i</I> discordances observed in 20-100 RI strains.<BR><BR>
 
-<a href="javascript:windowtd2 = window.open('tables/tableD2.shtml', 'windowtd2', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">Table D2</A> Lower/upper limits on 95% confidence intervals for linkage distances (in cM) with <I>i</I> discordances observed in 20-100 RI strains.<BR><BR>
+<a href="javascript:windowtd2 = window.open('tables/tableD2.shtml', 'windowtd2', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">Table D2</A> Lower/upper limits on 95% confidence intervals for linkage distances (in cM) with <I>i</I> discordances observed in 20-100 RI strains.<BR><BR>
 
 <a href="javascript:windowtd3 = window.open('tables/tableD3.shtml', 'windowtd3', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd3.focus()">Table D3</A> Lower/upper limits on 68% confidence intervals for linkage distances (in cM) with <I>i</I> discordances observed in 20-100 backcross animals.<BR><BR>
 

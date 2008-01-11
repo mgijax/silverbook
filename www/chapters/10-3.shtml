@@ -35,8 +35,8 @@ of the region that must contain the gene. There are no absolute cutoffs for dete
 this path, but in general, linkage should be tighter than 1 cM. Ideally, it is best to start a cloning project with one, or preferably 
 more, DNA markers that show absolute linkage to the gene of interest upon analysis of at least 300 meiotic events or 77 recombinant inbred lines. 
 From the equations used to derive Figures 
-<a href="javascript:windowf98 = window.open('../figures/figure9-8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">9.8</A> and 
-<a href="javascript:windowf917 = window.open('../figures/figure9-17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">9.17</A> (from 
+<a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">9.8</A> and 
+<a href="javascript:windowf917 = window.open('../figures/figure9.17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">9.17</A> (from 
 <A HREF="d.shtml">Appendix D</A>), one can determine that complete concordance 
 in either of these cases provides a mean estimate for linkage distance of 0.23 cM which translates into a mean physical distance of 460 kb between 
 marker and locus. These data also provide a 95% confidence upper limit of one centimorgan which translates into a distance of 2,000 kb.
@@ -119,7 +119,7 @@ Several other mouse YAC libraries have since been described with greater insert 
 The most comprehensive, well-characterized mouse YAC library described to date contains 19,421 clones with an average insert size of 650 kb for a 
 4.3-fold coverage of the genome 
 (<A HREF="../references.shtml#Kusumi1" TARGET="_top">Kusumi et al., 1993</A>). This library is available for screening commercially through 
-<A HREF="http://www.resgen.com/index.php3" TARGET="_top">Research Genetics Inc.</A> (Huntsville, Alabama USA). Screening of this library, and most others, is based 
+Research Genetics Inc. (Huntsville, Alabama USA). Screening of this library, and most others, is based 
 on PCR analysis of a hierarchy of clone pools 
 (<A HREF="../references.shtml#Green1" TARGET="_top">Green and Olson, 1990</A>). 
 Detailed protocols for library preparation, screening, and analysis have been described 

@@ -281,10 +281,10 @@ been demonstrated for the IAP family of elements
 
 <P>A second, very different approach is based on increasing resolving power, rather than decreasing complexity, by fractionating genomic DNA in two sequential dimensions. 
 This can be accomplished as illustrated in 
-<a href="javascript:windowf85 = window.open('../figures/figure8-5.shtml', 'windowf85', 'width=500,height=520,resizable=yes,scrollbars=yes'); windowf85.focus()">Figure 8.5</A>. 
+<a href="javascript:windowf85 = window.open('../figures/figure8.5.shtml', 'windowf85', 'width=500,height=520,resizable=yes,scrollbars=yes'); windowf85.focus()">Figure 8.5</A>. 
 DNA samples are first subjected to digestion with a restriction enzyme that cuts 
 relatively infrequently (step 1 in the 
-<a href="javascript:windowf85 = window.open('../figures/figure8-5.shtml', 'windowf85', 'width=500,height=520,resizable=yes,scrollbars=yes'); windowf85.focus()">Figure</A>) 
+<a href="javascript:windowf85 = window.open('../figures/figure8.5.shtml', 'windowf85', 'width=500,height=520,resizable=yes,scrollbars=yes'); windowf85.focus()">Figure</A>) 
 followed by fractionation on an agarose gel (step 2). At the completion of electrophoresis, each sample-containing gel 
 lane is excised and incubated directly with a second restriction enzyme that cuts more frequently (step 3). Finally, the gel slice itself is used as the sample for a 
 second round of electrophoresis in a direction perpendicular to the first round (step 4). At the completion of this second dimension run, the gel is blotted, hybridized 

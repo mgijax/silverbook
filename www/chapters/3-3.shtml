@@ -262,7 +262,7 @@ Nevertheless, the expected average length of the differential chromosomal segmen
 <A HREF="../glossary.shtml#centimorgan" TARGET="_top">centimorgans</A> can also be calculated as [200 (1 - 2<SUP>-N</SUP>)/N] where N is the 
 generation number. For all values of N greater than 5, this equation can be 
 simplified to [200/N]. This function is represented graphically in 
-<a href="javascript:windowf36 = window.open('../figures/figure3-6.shtml', 'windowf36', 'width=580,height=380,resizable=yes,scrollbars=yes'); windowf36.focus()">Figure 3.6</a>. As one 
+<a href="javascript:windowf36 = window.open('../figures/figure3.6.shtml', 'windowf36', 'width=580,height=380,resizable=yes,scrollbars=yes'); windowf36.focus()">Figure 3.6</a>. As one 
 can see, the average size of the differential segment decreases very slowly. At the 
 tenth generation, there will still be, on average, a 20 cM region of chromosome 
 encompassing the differential locus derived from the donor strain.

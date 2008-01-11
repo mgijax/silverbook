@@ -38,7 +38,9 @@ loci.
 
 <a name="6.5.2"></a><H3>6.5.2 A database and a repository of genetically engineered mice</H3>
 
-<P>A computerized database (called TBASE) has been developed to help investigators catalog the strains that they produce and find potentially useful 
+<P>A 
+<A HREF="http://tbase.jax.org/" TARGET="_top">computerized database</A> (called 
+<A HREF="http://tbase.jax.org/" TARGET="_top">TBASE</A>) has been developed to help investigators catalog the strains that they produce and find potentially useful 
 strains produced by others 
 (<A HREF="../references.shtml#Woychik1" TARGET="_top">Woychik et al., 1993</A>). The database is available over the Internet through the 
 Johns Hopkins Computational Biology Gopher Server and is linked to the on-line mouse databases maintained by the 

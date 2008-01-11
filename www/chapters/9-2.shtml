@@ -247,8 +247,8 @@ referred to as an &#034;RI group.&#034; Increasing the size of the RI group can 
 effects on the sensitivity and resolution with which it is possible to determine 
 linkage and map distances, as described in the following subsections and depicted in 
 <a href="javascript:windowf95 = window.open('../figures/figure9-5.shtml', 'windowf95', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf95.focus()">Figure 9.5</A> and Tables 
-<a href="javascript:windowtd1 = window.open('../tables/tableD1.shtml', 'windowtd1', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd1.focus()">D1</A> and 
-<a href="javascript:windowtd2 = window.open('../tables/tableD2.shtml', 'windowtd2', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">D2</A> in 
+<a href="javascript:windowtd1 = window.open('../tableD1.shtml', 'windowtd1', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd1.focus()">D1</A> and 
+<a href="javascript:windowtd2 = window.open('../tableD2.shtml', 'windowtd2', 'width=800,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">D2</A> in 
 <A HREF="d.shtml">Appendix D</A>.
 
 <a name="9.2.2.3"></a><H3><I>9.2.2.3 Demonstrating linkage: statistical approaches</I></H3>
@@ -309,7 +309,7 @@ an RI group of 100 strains, the swept radius is only 13-15 cM. In general, the d
 swept by each marker locus in an RI group is only 40%-45% of the distance swept 
 by each locus in a linkage analysis performed with an equivalent number of 
 backcross offspring (see 
-<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>). 
+<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>). 
 This disadvantage is offset by the easy 
 availability of the major RI sets and the ever-accumulating number of marker loci 
 for which SDPs have been determined as discussed further below.
@@ -374,7 +374,7 @@ association of the test locus with this genomic region is false, one would expec
 see a substantial number of double recombination events that separate the test locus 
 from both markers. This type of analysis is most easily visualized in the form of a 
 data matrix, discussed just below and illustrated in 
-<a href="javascript:windowf96 = window.open('../figures/figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
 It is important to 
 point out, however, that interference does not operate in the formation of RI strain 
 genotypes since the crossover events that produced each patchwork genome 
@@ -389,7 +389,7 @@ each other. This can be accomplished computationally with a program like Map Man
 (<a href="../references.shtml#Manly1" TARGET="_top">Manly, 1993</a>), but it is also possible to carry out this analysis without a 
 dedicated computer program. The first task is to set up an adjustable 2 x 2 data matrix 
 of the kind illustrated in 
-<a href="javascript:windowf96 = window.open('../figures/figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
 This sample data matrix contains a subset of the 
 actual data obtained with Chr 17 loci typed on the 26 RI strains present in the BXD 
 set. Each row represents an independently determined SDP for the locus indicated 
@@ -414,14 +414,14 @@ the eight loci from
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90691" TARGET="_top"><I>D17Leh12</I></A> and the eight loci from 
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90696" TARGET="_top"><I>D17Leh173</I></A> to 
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90699" TARGET="_top"><I>D17Leh23</I></A> shown in 
-<a href="javascript:windowf96 = window.open('../figures/figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
 The computer program Map Manager will carry out 
 this process automatically and will also allow manual adjustment of order when 
 this is desired.
 
 <P>There will sometimes be cases where two or more different orders appear equally 
 likely. For example, in 
-<a href="javascript:windowf96 = window.open('../figures/figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>, 
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>, 
 one could remove the 
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95742" TARGET="_top"><I>Glo1</I></A> and 
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97584" TARGET="_top"><I>Pim1</I></A> loci from 
@@ -429,12 +429,12 @@ the position shown and place them instead between
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95914" TARGET="_top"><I>H2M2</I></A> and 
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:90696" TARGET="_top"><I>D17Leh173</I></A>. Both 
 placements require an unsightly triple crossover: in the position shown in the 
-<a href="javascript:windowf96 = window.open('../figures/figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure</A>, 
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure</A>, 
 this occurs in strain BXD-12; in the new genetic position, this would occur in 
 BXD-27. Both placements also require an equal number of recombination events so 
 it is not possible to choose one order over the other based on the BXD data alone. In 
 this case, other mapping data have been used to confirm the map order shown in the 
-<a href="javascript:windowf96 = window.open('../figures/figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure</A>.
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure</A>.
 
 <P>In general, determining map order with accuracy is increasingly more difficult 
 with linked SDPs that are increasingly more discordant relative to each other. 
@@ -448,12 +448,12 @@ unambiguous evidence in favor of the correct placement of
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95742" TARGET="_top"><I>Glo1</I></A> and 
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:97584" TARGET="_top"><I>Pim1</I></A> proximal to 
 <A HREF="<!--#include file='include/mgi_acc.html'-->MGI:88515" TARGET="_top"><I>Crya1</I></A>, as shown in 
-<a href="javascript:windowf96 = window.open('../figures/figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>.
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>.
 
 <P>With the accumulation of large numbers of RI SDPs and a comprehensive two 
 by two analysis for linkage, it becomes possible to build linkage maps that span 
 many loci distributed over large chromosomal regions as illustrated in 
-<a href="javascript:windowf96 = window.open('../figures/figure9-6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
+<a href="javascript:windowf96 = window.open('../figures/figure9.6.shtml', 'windowf96', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowf96.focus()">Figure 9.6</A>. 
 By looking down any column, one can clearly see the genomic patches that derive from 
 each of the two progenitor strains. At one extreme, four strains &#151; BXD-2, BXD-12, 
 BXD-18 and BXD-25 &#151; appear to have fixed three separate crossover sites in their 
@@ -490,7 +490,7 @@ these junctures. There are also numerous examples of loci that have the same SDP
 as described in the 
 <A HREF="9-2.shtml#9.2.4">next section</A>, loci with shared SDPs across only 26 typed strains 
 can actually be quite distant from each other in terms of map distance (see 
-<a href="javascript:windowf98 = window.open('../figures/figure9-8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">Figure 9.8</A>).
+<a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">Figure 9.8</A>).
 
 <P>The data matrix for this portion of Chr 17 also illustrates how the power of the RI 
 approach to linkage determination increases with the number of loci that are typed. 
@@ -611,7 +611,7 @@ value obtained in
 <A HREF="#equation9.10">Equation 9.10</A> by 100.
 
 <P>The graph in 
-<a href="javascript:windowf97 = window.open('../figures/figure9-7.shtml', 'windowf97', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf97.focus()">Figure 9.7</A> 
+<a href="javascript:windowf97 = window.open('../figures/figure9.7.shtml', 'windowf97', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf97.focus()">Figure 9.7</A> 
 provides a rapid means for determining a linkage 
 distance estimate from values for <I>i</I> and <I>N</I> that are commonly obtained in RI 
 analyses. Just place a ruler over the graph so that it crosses the experimental value 
@@ -628,7 +628,7 @@ relationships between the cloned gene they have just mapped and other previously
 mapped loci that are defined strictly in terms of a mutant phenotype. (A detailed 
 discussion of the general strategy used to evaluate such relationships has been left to 
 <a href="9-3.shtml#9.3.4">Section 9.3.4</a> and is illustrated in 
-<a href="javascript:windowf910 = window.open('../figures/figure9-10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>.)
+<a href="javascript:windowf910 = window.open('../figures/figure9.10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>.)
 
 <P>The accuracy of an experimentally determined value such as linkage distance can 
 be quantitated in terms of a &#034;confidence interval&#034; which is defined by lower and 
@@ -715,7 +715,7 @@ the area under the associated probability density function as discussed in
 <A HREF="d.shtml">Appendix D</A> and illustrated in 
 <a href="javascript:windowfd1 = window.open('../figures/figureD1.shtml', 'windowfd1', 'width=600,height=400,resizable=yes,scrollbars=yes'); windowfd1.focus()">Figure D1</A>. 
 The results of this calculation for the range of 15 to 100 RI strains are presented graphically in 
-<a href="javascript:windowf98 = window.open('../figures/figure9-8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">Figure 9.8</A> 
+<a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">Figure 9.8</A> 
 along with upper limits for 68% and 95% confidence intervals. 
 
 <P>As an example, consider the implications of these statistical formulations in the 
@@ -742,7 +742,7 @@ interval is reduced to 0.45 cM or 900 kb, and the maximum confidence limit for t
 distance estimates by comparing a map obtained with the BXD set of 26 strains to a 
 more accurate map obtained with a set of 374 backcross animals for the same eleven 
 loci distributed over a span of 19-31 cM as shown in 
-<a href="javascript:windowf99 = window.open('../figures/figure9-9.shtml', 'windowf99', 'width=320,height=550,resizable=yes,scrollbars=yes'); windowf99.focus()">Figure 9.9</A>. 
+<a href="javascript:windowf99 = window.open('../figures/figure9.9.shtml', 'windowf99', 'width=320,height=550,resizable=yes,scrollbars=yes'); windowf99.focus()">Figure 9.9</A>. 
 There are five instances here in which a single RI discordance has occurred to yield an interlocus 
 linkage distance estimate of 1.0 cM:
 <UL>

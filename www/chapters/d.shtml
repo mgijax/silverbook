@@ -198,9 +198,9 @@ Once a solution for <I>x</I> has been obtained, it can be converted into a linka
 <A HREF="#equationD.3">Equation D3</A> for RI strain data. Solutions to 
 <A HREF="#equationD.6">Equation D6</A> over a 
 range of <I>N</I> RI strains and backcross animals are shown in 
-<a href="javascript:windowf98 = window.open('../figures/figure9-8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">Figure 9.8</A>, 
-<a href="javascript:windowf916 = window.open('../figures/figure9-16.shtml', 'windowf916', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf916.focus()">Figure 9.16</A>, and 
-<a href="javascript:windowf917 = window.open('../figures/figure9-17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">Figure 9.17</A>.<BR><BR>
+<a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">Figure 9.8</A>, 
+<a href="javascript:windowf916 = window.open('../figures/figure9.16.shtml', 'windowf916', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf916.focus()">Figure 9.16</A>, and 
+<a href="javascript:windowf917 = window.open('../figures/figure9.17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">Figure 9.17</A>.<BR><BR>
 
 <A NAME="D1-2"></A><H3><B>D1.2 The general case of one or more recombinants</B></H3>
 

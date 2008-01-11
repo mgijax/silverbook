@@ -55,20 +55,20 @@ then be synthesized according to the rules just described and tested for their a
 an ethidium bromide-stained band by gel electrophoresis.
 
 <P>With the simplest and most common type of RFLP illustrated in 
-<a href="javascript:windowf86 = window.open('../figures/figure8-6.shtml', 'windowf86', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowf86.focus()">Figure 8.6</A>, 
+<a href="javascript:windowf86 = window.open('../figures/figure8.6.shtml', 'windowf86', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowf86.focus()">Figure 8.6</A>, 
 the polymorphism results from a single nucleotide difference that provides a recognition site for a restriction 
 enzyme in one allelic form and not the other. A polymorphism of this type can be rapidly detected by (1) amplifying the region around the polymorphic site 
 from each sample; (2) subjecting the amplified material to the appropriate restriction enzyme for a brief period of digestion; and (3) distinguishing the 
 undigested PCR product from the smaller digested fragments by gel electrophoresis. By choosing primers that are relatively equidistant to and sufficiently 
 far from the polymorphic site, one can easily resolve allelic forms on agarose or polyacrylamide gels as illustrated in 
-<a href="javascript:windowf86 = window.open('../figures/figure8-6.shtml', 'windowf86', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowf86.focus()">Figure 8.6</A>.
+<a href="javascript:windowf86 = window.open('../figures/figure8.6.shtml', 'windowf86', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowf86.focus()">Figure 8.6</A>.
 
 <P>This PCR-based protocol provides results much more rapidly and is much easier to carry out than the Southern blot alternative which requires blotting, 
 probe labeling, hybridization, and autoradiography. Since the major expense involved with PCR is in the initial sequencing of the locus and the synthesis 
 of PCR primers, it is also less costly in all cases where one expects to type large numbers of samples for the particular locus in question.
 
 <P>Even RFLPs caused by more complex mutational events can be analyzed by PCR. 
-<a href="javascript:windowf87 = window.open('../figures/figure8-7.shtml', 'windowf87', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf87.focus()">Figure 8.7</A> 
+<a href="javascript:windowf87 = window.open('../figures/figure8.7.shtml', 'windowf87', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf87.focus()">Figure 8.7</A> 
 illustrates the logic behind devising PCR strategies for detecting deletions, insertions, inversions, and translocations. 
 The only requirement is a knowledge of the sequences that surround the breakpoints associated with each particular genetic event.
 
@@ -166,7 +166,7 @@ Nevertheless, even with these pitfalls, the PCR/ASO protocol remains a useful to
 <A HREF="../references.shtml#Landegren1" TARGET="_top">Landegren et al., 1990</A>). This method, called the oligonucleotide ligation assay (OLA) or ligase-mediated gene detection, 
 is predicated on the requirement for proper base pairing at the 3'-end of one oligonucleotide as well as the 5'-end of an adjacent oligonucleotide before ligase 
 can work to form a covalent phosphodiester bond. The conceptual framework behind the protocol is illustrated in 
-<a href="javascript:windowf88 = window.open('../figures/figure8-8.shtml', 'windowf88', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf88.focus()">Figure 8.8</A>. 
+<a href="javascript:windowf88 = window.open('../figures/figure8.8.shtml', 'windowf88', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf88.focus()">Figure 8.8</A>. 
 First, the potential target sequence is amplified by PCR. Next hybridization is carried out simultaneously with two 
 oligonucleotides complementary to sequences that are adjacent to each other and directly flank the variant nucleotide. The variant base itself will be either 
 complementary or non-complementary to the most 3'-base of the first allele-specific oligonucleotide. This ASO is modified ahead of time with an attached biotin 
@@ -188,14 +188,14 @@ reaction or LCR
 (<A HREF="../references.shtml#Barany1" TARGET="_top">Barany, 1991</A>; 
 <A HREF="../references.shtml#Weiss1" TARGET="_top">Weiss, 1991</A>). Like OLA, detection of nucleotide differences with the LCR protocol is based upon a requirement for perfect 
 pairing at the two sites that flank the break between two oligonucleotides in order for ligase to form a phosphodiester bond between them as illustrated in 
-<a href="javascript:windowf88 = window.open('../figures/figure8-8.shtml', 'windowf88', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf88.focus()">Figure 8.8</A>. 
+<a href="javascript:windowf88 = window.open('../figures/figure8.8.shtml', 'windowf88', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf88.focus()">Figure 8.8</A>. 
 The difference is that in the LCR protocol, four oligonucleotides are used corresponding to the regions that flank 
 the polymorphic site on <i>both</i> strands of the target DNA molecule. Therein lies the mechanism of amplification. If the target sequence provides a match, 
 both sets of flanking oligonucleotides will become ligated. After denaturation, each of the newly created double-length oligonucleotides can now act as a 
 template for a new set of oligonucleotides to basepair and ligate. Thus, LCR proceeds by rounds of annealing in the presence of a heat-stable ligase followed 
 by denaturation and then annealing again. The only difference in the thermocycler pattern from that used for PCR is the elimination of the elongation step. 
 At the end of the process, the products of LCR can be detected easily in the same manner used for OLA as shown in 
-<a href="javascript:windowf88 = window.open('../figures/figure8-8.shtml', 'windowf88', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf88.focus()">Figure 8.8</A>. 
+<a href="javascript:windowf88 = window.open('../figures/figure8.8.shtml', 'windowf88', 'width=700,height=450,resizable=yes,scrollbars=yes'); windowf88.focus()">Figure 8.8</A>. 
 In contrast, detection of polymorphic sites with PCR requires a follow-up protocol &#151; either hybridization to an 
 allele-specific oligonucleotide or restriction digestion followed by gel electrophoresis.
 
@@ -302,7 +302,7 @@ oligonucleotides will amplify completely different sets of loci.
 
 <P>RAPD polymorphisms result from the fact that a primer hybridization site in one genome that is altered at a <i>single</i> nucleotide in a second genome 
 can lead to the elimination of a specific amplification product from that second genome as illustrated in 
-<a href="javascript:windowf89 = window.open('../figures/figure8-9.shtml', 'windowf89', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf89.focus()">Figure 8.9</A>. 
+<a href="javascript:windowf89 = window.open('../figures/figure8.9.shtml', 'windowf89', 'width=700,height=500,resizable=yes,scrollbars=yes'); windowf89.focus()">Figure 8.9</A>. 
 If, for example, the random primer being used has a length of 10 bases, then each PCR product will be defined by 
 20 bases (10 in the primer target at each end) that are all susceptible to polymorphic changes.
 <SUP><A HREF="notes.shtml#60" TARGET="_top">60</A></SUP> 
@@ -487,7 +487,7 @@ is based entirely on differences in the number of repeats present
 in a tandem array rather than specific basepair changes. Thus, the only way in which alleles can be distinguished is by measuring the total length of the 
 microsatellite. This is most readily accomplished through PCR amplification of the microsatellite itself along with a small amount of defined flanking 
 sequence on each side followed by gel electrophoresis to determine the relative size of the product as illustrated in 
-<a href="javascript:windowf810 = window.open('../figures/figure8-10.shtml', 'windowf810', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowf810.focus()">Figure 8.10</A>.
+<a href="javascript:windowf810 = window.open('../figures/figure8.10.shtml', 'windowf810', 'width=700,height=300,resizable=yes,scrollbars=yes'); windowf810.focus()">Figure 8.10</A>.
 
 <P>Microsatellite loci can be identified in two ways &#151; by searching through DNA sequence databases or by hybridization to libraries or clones with an 
 appropriate oligonucleotide such as (CA)<SUB>15</SUB>. In the former case, flanking sequence information is obtained directly from the database. In the latter case, 

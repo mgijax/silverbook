@@ -141,9 +141,7 @@ cloned gene will usually not provide simultaneous map information for any phenot
 
 <P>One should begin a search for potentially equivalent mutationally defined loci by scanning database lists of all loci that are thought to lie within 10 cM of the map position 
 obtained for the new clone. The databases to search should include the chromosome map compiled by the appropriate mouse chromosome committee and published annually in a special 
-issue of <i>Mammalian Genome</i> 
-(<A HREF="../references.shtml#Chromosome1" TARGET="_top">Chromosome committee chairs, 1993</A>) and 
-the electronic databases maintained at the Jackson Laboratory (see 
+issue of <i>Mammalian Genome</i> (Chromosome committee chairs, 1993) and the electronic databases maintained at the Jackson Laboratory (see 
 <A HREF="b.shtml">Appendix B</A>). Descriptions of the phenotypes associated with loci picked up in this scan can be obtained from a compendium published in the latest edition of the 
 <i>Genetic Variants and Strains of the Laboratory Mouse</i> 
 (<A HREF="../references.shtml#Green5" TARGET="_top">Green, 1989</A>) or electronically from the continuously updated on-line Mouse Locus Catalog in the Jackson Laboratory databases (see 
@@ -164,7 +162,7 @@ whether the confidence intervals associated with the map position of each show o
 <A HREF="d.shtml">Appendix D</A>.
 
 <P>An illustration of such an analysis is presented in 
-<a href="javascript:windowf910 = window.open('../figures/figure9-10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>. 
+<a href="javascript:windowf910 = window.open('../figures/figure9.10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>. 
 In this hypothetical example, a newly cloned locus has been mapped relative to a common anchor locus with nine recombinants found in 94 
 backcross samples. This provides an estimated linkage distance of 9.6 cM. By consulting 
 <a href="javascript:windowtd5 = window.open('../tables/tableD5.shtml', 'windowtd5', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd5.focus()">Table D5</A>, 
@@ -175,15 +173,15 @@ Extrapolation from the values given in
 <a href="javascript:windowtd6 = window.open('../tables/tableD6.shtml', 'windowtd6', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd6.focus()">Table D6</A> 
 provides lower and upper 95% confidence limits of 16 and 26 cM, respectively. Mutation number two (<i>Mut2</i>) has also been mapped relative to 
 the same anchor locus in a backcross, with 88 recombinants in 400 samples giving a linkage distance of 22 cM with lower and upper confidence limits of 18.2 and 26.3 cM (also from 
-<a href="javascript:windowtd6 = window.open('../tables/tableD6.shtml', 'windowtd6', 'width=500,height=600,resizable=yes,scrollbars=yes'); windowtd6.focus()">Table D6</A>). 
+<a href="javascript:windowtd6 = window.open('../tableD6.shtml', 'windowtd6', 'width=500,height=600,resizable=yes,scrollbars=yes'); windowtd6.focus()">Table D6</A>). 
 Finally, mutation number 3 (<i>Mut3</i>) has been mapped with a group of RI strains with one discordance observed in 40 strains giving an estimated 
 linkage distance of 0.6 cM (from 
-<a href="javascript:windowf97 = window.open('../figures/figure9-7.shtml', 'windowf97', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf97.focus()">Figure 9.7</A>) 
+<a href="javascript:windowf97 = window.open('../figures/figure9.7.shtml', 'windowf97', 'width=600,height=450,resizable=yes,scrollbars=yes'); windowf97.focus()">Figure 9.7</A>) 
 and lower and upper confidence limits of 0.2 and 4.0 cM (from 
 <a href="javascript:windowtd2 = window.open('../tables/tableD2.shtml', 'windowtd2', 'width=600,height=600,resizable=yes,scrollbars=yes'); windowtd2.focus()">Table D2</A>).
 
 <P>The results of all four crosses are represented graphically in 
-<a href="javascript:windowf910 = window.open('../figures/figure9-10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>. 
+<a href="javascript:windowf910 = window.open('../figures/figure9.10.shtml', 'windowf910', 'width=700,height=400,resizable=yes,scrollbars=yes'); windowf910.focus()">Figure 9.10</A>. 
 The data make it very unlikely that the newly cloned gene is equivalent to loci defined by either mutation 2 or mutation 3 since none of these 
 confidence intervals overlap. However, the 95% confidence intervals of the cloned gene and mutation 1 do overlap (even though absolute estimates of their map positions place them over 
 10 cM apart). If mutant-bearing animals are available, the potential equivalence between these two loci can be followed up with further experiments of several types. First, 
