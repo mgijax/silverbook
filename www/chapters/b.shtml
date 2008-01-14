@@ -61,7 +61,7 @@ You should contact the sources of client software described above or your local 
 <P>The central WWW server for mouse geneticists is located at the Jackson Laboratory and has the following URL: 
 <A HREF="<!--#include file='include/mgi.html'-->" TARGET="_top">http://www.informatics.jax.org/</A>. 
 This server provides access to the 
-<A HREF="<!--#include file='include/mgi_home.html'-->MGD/aboutMGD.shtml" TARGET="_top">Mouse Genome Database (MGD)</A> which is a compendium of linked data sources that includes 
+<A HREF="<!--#include file='include/mgi_home.html'-->www/projects/overview.shtml#aboutMGD" TARGET="_top">Mouse Genome Database (MGD)</A> which is a compendium of linked data sources that includes 
 locus information, genetic mapping data, polymorphisms, probes, clones, PCR primers, citations, and homology data with other mammalian genomes. 
 Included in this compendium is the online version of Margaret Green's "Catalog of mutant genes and polymorphic loci" 
 (<A HREF="../references.shtml#Green5" TARGET="_top">Green, 1989</A>). 
