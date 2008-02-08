@@ -39,7 +39,7 @@ Glossary of Terms</H2>
 <DD>An isolated DNA region with no known function but with at least two
 <A HREF="#Allele">allelic</A> states that can be followed through some form of DNA analysis in mapping studies.
 <BR><I>See</I>
-<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=anonymous_DNA" TARGET="_top">Anonymous DNA Segment</A>
+<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=anonymous_dna" TARGET="_top">Anonymous DNA Segment</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="ASO"></A><B>ASO</B>
@@ -272,7 +272,7 @@ The most prominent class of microsatellites found in mammalian
 <DD>Embryonic stem cells. Cultured cells derived from the pluripotent inner cell mass of blastocyst stage embryos. Used for gene targeting by homologous recombination (see
 <A HREF="frames/frame6-4-1.shtml">Chapter 6</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=ES_cells" TARGET="_top">ES Cells</A>
+<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=es_cells" TARGET="_top">ES Cells</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Expressivity"></A><B>Expressivity</B>
@@ -309,7 +309,7 @@ with subsequent generations of brother-sister matings numbered with integer incr
 <A HREF="#In_situ_hybridization"><I>in situ</I> hybridization</A> with high resolution and sensitivity (see
 <A HREF="frames/frame10-2-2-1.shtml">Chapter 10</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=FISH" TARGET="_top">FISH</A>
+<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=fish" TARGET="_top">FISH</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Genetic drift"></A><B>Genetic drift</B>
@@ -634,7 +634,7 @@ The variation in expression can be due to combinations of genetic and environmen
 <A HREF="#Allele">alleles</A> at multiple
 <A HREF="#Locus">loci</A>.
 <BR><I>See</I>
-<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=QTL" TARGET="_top">QTL</A>
+<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=qtl" TARGET="_top">QTL</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="Recessive"></A><B>Recessive</B>
@@ -680,7 +680,7 @@ The variation in expression can be due to combinations of genetic and environmen
 <A HREF="frames/frame8-2-1.shtml">Chapter 8</A>). 
 RFLPs are detected upon Southern blot hybridization. The term RFLP is commonly used even in situations where the DNA variation may not represent a true polymorphism in the population-based definition of this term.
 <BR><I>See</I>
-<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=RFLP" TARGET="_top">RFLP</A>
+<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=rflp" TARGET="_top">RFLP</A>
 <I> in the MGI Glossary.</I>
 
 <P><DT><A NAME="ResFLV"></A><B>Restriction Fragment Length Variant (RFLV)</B>
@@ -848,7 +848,7 @@ Also called targeted mutagenesis.
 <DD>Yeast Artificial Chromosome. A vector for cloning very large genomic inserts of 300 kb to one megabase in length (see
 <A HREF="frames/frame10-3-3-1.shtml">Chapter 10</A>). 
 <BR><I>See</I>
-<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=YAC" TARGET="_top">YAC</A>
+<A HREF="<!--#include file='include/javawi.html'-->servlet/WIFetch?page=glossaryTerm&key=yac" TARGET="_top">YAC</A>
 <I> in the MGI Glossary.</I>
 </DL>
 
