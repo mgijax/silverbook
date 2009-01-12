@@ -126,7 +126,7 @@ Although these pedigree-based programs can be used for the analysis of mouse lin
 First, it is often not possible to derive unequivocal 
 <A HREF="../glossary.shtml#Haplotype" TARGET="_top">haplotype</A> information for all individuals studied in a human pedigree, and as such, pedigree-based programs are not 
 oriented toward this type of analysis which is so common in mouse linkage studies (see 
-<a href="javascript:windowf915 = window.open('../figures/figure9.15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>). 
+<a href="javascript:windowf915 = window.open('../figures/figure9-15.shtml', 'windowf915', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf915.focus()">Figure 9.15</A>). 
 Second, for most studies, mouse geneticists will not need to avail themselves of the sophisticated Maximum likelihood/LOD score estimation tools required for human pedigree analysis. 
 Two linkage programs developed specifically for mouse linkage studies &#151; Map Manager and GENE-LINK &#151; are described below. 
 In addition, the most useful multi-locus pedigree-based program &#151; Mapmaker &#151; is also described. 

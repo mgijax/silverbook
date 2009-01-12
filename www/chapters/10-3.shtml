@@ -35,8 +35,8 @@ of the region that must contain the gene. There are no absolute cutoffs for dete
 this path, but in general, linkage should be tighter than 1 cM. Ideally, it is best to start a cloning project with one, or preferably 
 more, DNA markers that show absolute linkage to the gene of interest upon analysis of at least 300 meiotic events or 77 recombinant inbred lines. 
 From the equations used to derive Figures 
-<a href="javascript:windowf98 = window.open('../figures/figure9.8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">9.8</A> and 
-<a href="javascript:windowf917 = window.open('../figures/figure9.17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">9.17</A> (from 
+<a href="javascript:windowf98 = window.open('../figures/figure9-8.shtml', 'windowf98', 'width=550,height=400,resizable=yes,scrollbars=yes'); windowf98.focus()">9.8</A> and 
+<a href="javascript:windowf917 = window.open('../figures/figure9-17.shtml', 'windowf917', 'width=550,height=450,resizable=yes,scrollbars=yes'); windowf917.focus()">9.17</A> (from 
 <A HREF="d.shtml">Appendix D</A>), one can determine that complete concordance 
 in either of these cases provides a mean estimate for linkage distance of 0.23 cM which translates into a mean physical distance of 460 kb between 
 marker and locus. These data also provide a 95% confidence upper limit of one centimorgan which translates into a distance of 2,000 kb.

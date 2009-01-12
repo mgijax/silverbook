@@ -35,7 +35,7 @@ under identical environmental conditions, then existing variation is likely to b
 <P>Geneticists are, obviously, most interested in the genetic contribution to a quantitative trait. A genetic contribution cannot be demonstrated by 
 looking at individuals from a single inbred strain alone. Rather, a comparison of expression levels must be made on sets of animals from two different 
 inbred strains 
-(<a href="javascript:windowf918 = window.open('../figures/figure9.18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+(<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 The statistical approach described in 
 <A HREF="d.shtml#D2">Appendix D2</A> can be used to determine formally whether two 
 strains differ significantly in the expression of the quantitative trait. If a significant strain-specific difference is demonstrated, and all other 
@@ -44,7 +44,7 @@ distinguish the two strains.
 
 <P>In practice, a quantitative trait is most amenable to genetic analysis in mice and other experimental organisms with a pair of inbred strains that 
 show non-overlapping distributions in measured levels of expression among at least 20 members of each group
-(<a href="javascript:windowf918 = window.open('../figures/figure9.18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+(<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 Although a significant strain-specific difference can be demonstrated under much less stringent criteria (as described in 
 <A HREF="d.shtml#D2">Appendix D2</A>), it becomes more and more difficult to ferret out the quantitative trait loci (QTLs) involved as the possibility 
 of phenotypic overlap increases.
@@ -57,7 +57,7 @@ also be some instances where the expression of a quantitative trait is controlle
 quantiative trait difference between two inbred strains, this would most likely become apparent in the second generation of either an outcross-backcross 
 or outcross-intercross breeding protocol. In the first instance, half the N<SUB>2</SUB> animals will be identical to the F<SUB>1</SUB> parent, and the 
 other half will be identical to the inbred backcross parent at the critical locus as illustrated in the top panel of 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>. 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>. 
 The result would be a discontinuous distribution of phenotypes that fall into two equally populated classes 
 with separable distributions that parallel those found for each of the first-generation parents. With the intercross protocol, F<SUB>2</SUB> animals 
 will be distributed among three classes (in a 1:2:1 ratio) that will parallel the phenotypic distributions found among one parental strain, the 
@@ -68,7 +68,7 @@ F<SUB>1</SUB> hybrid,
 <SUP><A HREF="notes.shtml#97" TARGET="_top">97</A></SUP> 
 it is most likely that multiple genetic differences between the progenitor strains 
 are responsible as illustrated in the lower panels of 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>. 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>. 
 The term polygenic is used to describe traits that are controlled by multiple genes, each of which has a 
 significant impact on expression. The term multifactorial is also used to describe such traits, but is more broadly defined to include those traits 
 controlled by a combination of at least one genetic factor with one or more environmental factors.
@@ -133,11 +133,11 @@ for the N<SUB>2</SUB> and F<SUB>1</SUB> populations respectively. The two forms 
 mathematically equivalent so long as the mean value of the N<SUB>2</SUB> population is halfway between the means of the F<SUB>1</SUB> and the backcross 
 parent. One can see the logic behind this equation by considering the probability that a backcross animal will show an extreme phenotype associated with 
 one of its parents. From 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>, 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>, 
 one can see the proportion of genotypes equivalent to either parent drop by a factor of two with each 
 successive increase in locus number from one to two to three. As a consequence, the variance in the complete N<SUB>2</SUB> generation (shown in the right 
 panels of 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>) 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>) 
 will also drop as values tend to cluster more around the mean. As the N<SUB>2</SUB> variance goes down, the 
 denominator of 
 <A HREF="#equation9.11">Equation 9.11</A> will decrease as well. It is important to realize that 
@@ -158,18 +158,18 @@ from either breeding group.
 
 <P>Upon choosing two inbred parental strains (called P1 and P2 in the following discussion), one should perform a cross to obtain F<SUB>1</SUB> hybrid 
 offspring. However, before proceeding to a second-generation cross, it is critical to determine the expression of the trait of interest in the F<SUB>1</SUB> population. 
-<a href="javascript:windowf918 = window.open('../figures/figure9.18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A> 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A> 
 shows different examples of the potential results that might be obtained. If the pairs of alleles present at all 
 &#034;polygenetic&#034; loci that distinguish P1 from P2 act in a strictly semidominant manner, the F<SUB>1</SUB> population will show a mean level of expression halfway 
 between the means of the two parental strains (example 3 in 
-<a href="javascript:windowf918 = window.open('../figures/figure9.18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 On the other hand, the F<SUB>1</SUB> population may show a distribution that is 
 indistinguishable from one parental strain or the other if there are strong dominant effects (example 1 in 
-<a href="javascript:windowf918 = window.open('../figures/figure9.18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 Finally, a likely result is the complex 
 one with unequal allele strengths &#151; but not strict dominance &#151; that lead to a distribution differing from both parental strains, but with a mean value that is 
 closer to one than the other (example 2 in the 
-<a href="javascript:windowf918 = window.open('../figures/figure9.18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>). 
 In fact, the F<SUB>1</SUB> distribution can have a mean value that lies anywhere along the continuum 
 between the two parental means. However, in all cases, the standard deviation around this mean value should be similar to that found with the parental strains, 
 since the F<SUB>1</SUB> population is always genetically homogeneous.
@@ -181,9 +181,9 @@ be performed with either parent. Other criteria, such as reproductive performanc
 <a href="javascript:windowt41 = window.open('../tables/table4-1.shtml', 'windowt41', 'width=600,height=700,resizable=yes,scrollbars=yes'); windowt41.focus()">Table 4.1</A>).
 <SUP><A HREF="notes.shtml#100" TARGET="_top">100</A></SUP> 
 However, if the mean F<SUB>1</SUB> expression is closer to one parent (such as P1 in examples 1 and 2 shown in 
-<a href="javascript:windowf918 = window.open('../figures/figure9.18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>), 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>), 
 one should backcross F<SUB>1</SUB> animals to the opposite parent (P2 in the example). As one can see from 
-<a href="javascript:windowf918 = window.open('../figures/figure9.18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>, 
+<a href="javascript:windowf918 = window.open('../figures/figure9-18.shtml', 'windowf918', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf918.focus()">Figure 9.18</A>, 
 this choice will serve to minimize the degree of phenotypic overlap between the two &#034;parents of the backcross&#034; and 
 will allow a more accurate identification of N<SUB>2</SUB> animals with genotypes that match one parent or the other as discussed below.
 
@@ -201,7 +201,7 @@ Sections
 expression in the F<SUB>1</SUB> and progenitor strain (P1 and P2) populations. When a sufficient number of N<SUB>2</SUB> animals have been tested, the 
 distribution of expression levels can be graphed out and compared to the distributions obtained with the F<SUB>1</SUB> and P<SUB>2</SUB> populations. 
 The right hand side of 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A> 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A> 
 shows examples of the idealized distributions that one would obtain upon analysis of a trait whose expression is 
 determined through the additive effects of semidominant alleles at one, two, or three loci that contribute equally to expression levels.
 
@@ -214,7 +214,7 @@ backcrossing to parent P2:<BR>
 </UL>
 
 Thus, the complete distribution shown in the upper right hand panel of 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A> 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A> 
 can be broken down into the two separate distributions associated with each of these genotypes, as shown in the upper 
 left-hand panel. This analysis shows that the telltale sign of involvement of only single major locus is a biphasic distribution with peaks similar to those of 
 the parents and a paucity of animals in between.
@@ -229,14 +229,14 @@ on expression. In this case, the number of relevant N<SUB>2</SUB> genotypes doub
 </UL>
 If one assumes that the pair of genotypes containing one heterozygous and homozygous locus affect expression equally, the idealized distribution pattern shown 
 in the middle right hand panel of 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A> 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A> 
 would be obtained. This idealized pattern can be broken down into the three subdistributions that correspond to the 
 different genotypic classes as shown in the middle left hand panel; the intermediate subdistribution is twice as high as the side distributions because of the 
 contribution of two genotypes rather than one.
 
 <P>In some experimental cases, when there is a sufficient distance between the mean values of expression of the two parents, it may be possible to actually 
 obtain a triphasic distribution pattern with a shape and peak distribution similar to that shown in the middle right hand panel of 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>. 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>. 
 A result of this type would be a sign that only two major additive loci were involved in the expression of the trait.
 
 <P>In most experimental situations, the distribution patterns obtained for the expression of a complex trait of interest in an N<SUB>2</SUB> population are 
@@ -246,7 +246,7 @@ factors that are likely to contribute to this tendency toward a monophasic distr
 on expression, there will be a doubling in the number of different genotypes that are possible in the N<SUB>2</SUB> population. With just three loci, the 
 number of genotypes will be eight. If alleles at all three loci show addititive semidominant effects, a distribution of the form shown in the bottom right 
 hand panel of 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A> 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A> 
 will be obtained. This nearly monophasic distribution results from the combination of only four subdistributions that correspond to separate genotypic classes.
 <SUP><A HREF="notes.shtml#101" TARGET="_top">101</A></SUP> 
 As the number of genes involved grows beyond three, the possibility of seeing multiple distribution peaks that correspond to different genotypic classes is essentially nil.
@@ -256,7 +256,7 @@ As the number of genes involved grows beyond three, the possibility of seeing mu
 <P>For the purposes of genetic analysis, the most critical feature of polygenic, quantitative trait inheritance is the impossibility of correlating intermediate 
 levels of phenotypic expression with particular genotypes at each of the segregating loci involved. This problem is clearly visible even in the idealized 
 distributions of the three locus trait shown in the bottom panels of 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>. 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>. 
 In this simple example, an N<SUB>2</SUB> phenotype halfway between the means of the F<SUB>1</SUB> and P2 parents could be 
 caused by heterozygosity at any one or two of the three loci involved; thus, this halfway phenotype is almost useless in terms of providing marker linkage information. 
 However, there will always be one or two portions of each N<SUB>2</SUB> distribution that will have a high level of predictability for genotype at linked markers &#151; 
@@ -279,22 +279,22 @@ performed only on these smaller subsets, each of which can be pooled together in
 
 <P>How does one decide what proportion of N<SUB>2</SUB> animals to include in each extreme phenotypic subset when a continuum of expression levels is observed for the whole 
 population? The answer is not simple. If one is too stringent, there may be too few animals to type and the power of the linkage test will suffer accordingly 
-(<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>). 
+(<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>). 
 However, if one is too lax, animals without a parental genotype at each critical locus will be included at a higher frequency 
-(<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>). 
+(<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>). 
 This will cause the level of discordance with truly linked markers to increase beyond the actual recombination fraction to a 
 point that may fall beyond the level of significance shown in 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>. 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>. 
 There will obviously be an optimal cutoff point, but it will be impossible to ascertain its position in advance without knowing 
 how many segregating loci have a major effect on expression. As illustrated in 
-<a href="javascript:windowf919 = window.open('../figures/figure9.19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>, 
+<a href="javascript:windowf919 = window.open('../figures/figure9-19.shtml', 'windowf919', 'width=700,height=600,resizable=yes,scrollbars=yes'); windowf919.focus()">Figure 9.19</A>, 
 as the number of loci grows, so does the phenotypic overlap between each completely parental genotypic class (indicated with dark lines) 
 and its adjacent mixed genotypic class (indicated with lighter lines).
 
 <P>In a first round of analysis without prior information, a reasonable fraction of backcross animals to include within each extreme subset would be 10% 
 (<A HREF="../references.shtml#Soller1" TARGET="_top">Soller, 1991</A>). Since it is important to have at least 20 individual samples within each composite sample for DNA pooling, this would entail 
 the inital phenotypic analysis of at least 200 backcross animals. With a sample size that is this small, the swept radius is quite modest (see 
-<a href="javascript:windowf913 = window.open('../figures/figure9.13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>) 
+<a href="javascript:windowf913 = window.open('../figures/figure9-13.shtml', 'windowf913', 'width=600,height=550,resizable=yes,scrollbars=yes'); windowf913.focus()">Figure 9.13</A>) 
 and a large number of markers will be required to span the whole genome. If it is possible to pool together 30 or 40 samples, this will 
 greatly improve the sweep of individual markers. Alternatively, if the DNA pooling method provides evidence of potential marker linkage, the results obtained upon analysis of 
 individual samples in the two extreme classes (if there are two that can be formed) can be combined for greater statistical power.
