@@ -217,8 +217,7 @@ species to be perfectly transparent.
 <P>In these cases, the symbol should still begin with 
 the character &#034;<i>D</i>&#034; and the mouse chromosomal assignment, but this should now be 
 followed by the character &#034;<i>h</i>&#034;, the chromosomal assignment of the human homolog 
-and its identification number. For example, a probe to the human locus 
-<A HREF="<!--#include file='include/gdb_clone.html'-->GDB:170033" TARGET="_top">D17S111</A> &#151; 
+and its identification number. For example, a probe to the human locus D17S111 &#151; 
 the 111th single copy (S) anonymous locus mapped to human chromosome 17 &#151; is 
 used to identify a mouse homolog on Chr 1. This corresponding mouse homolog 
 will now be named 
@@ -333,8 +332,7 @@ one must keep in mind that mouse genetic nomenclature will continue to evolve
 with the field as a whole. As new types of genetic elements and inter-relationships 
 are uncovered, it will be the charge of the Nomenclature Committee to keep the 
 rules internally consistent and up to date.<BR>
-<I>See also the 
-<A HREF="<!--#include file='include/mgi_home.html'-->nomen/table.shtml" TARGET="_top">Nomenclature Rules and Guidelines</A> at MGI</I>.
+
 
 <DIV Align="center"><H4> <A HREF="3-3.shtml">Previous</A> <A HREF="3-5.shtml">Next</A></H4></DIV>
 <PRE>
