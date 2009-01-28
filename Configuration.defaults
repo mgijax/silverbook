@@ -27,7 +27,7 @@ MGI_ACCESSION	${MGI}searches/accession_report.cgi?id=
 MGI_HOME	http://www.informatics.jax.org/mgihome/
 
 # link to MGI user support page
-MGI_SUPPORT	${MGI}mgihome/support/tjl_inbox.shtml
+MGI_SUPPORT	${MGI}mgihome/support/mgi_inbox.shtml
 
 # link to the Lyris view of mgi-list
 MGI_LIST	http://lists.informatics.jax.org/lyris-cgi/lyris.pl?enter=mgi-list&text_mode=0
