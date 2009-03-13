@@ -48,10 +48,10 @@ GDB_CLONE	http://www.gdb.org/gdb-bin/genera/genera/hgd/Clone?!sub=0&!key=
 JAXMICE		http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=
 
 # link to javawi2
-JAVAWI          http://www.informatics.jax.org/javawi2/
+JAVAWI          ${MGI}javawi2/
 
 # URL to the WK Silvers online book
-WKSILVERS     http://www.informatics.jax.org/wksilvers/
+WKSILVERS     ${MGI}wksilvers/
 
 # link to MGI Glossary
 MGI_GLOSSARY	${JAVAWI}servlet/WIFetch?page=glossaryIndex&print=no
