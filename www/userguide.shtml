@@ -89,7 +89,7 @@ When that section appears in your browser window, click the frame containing tha
 <H3>Further Assistance</H3>
 
 <P>Please send question and comments to 
-<A HREF="<!--#include file='include/mgi_support.html'-->">User Support</A>.
+<A HREF="<!--#include file='include/mgi_support.html'-->" target="_blank">MGI User Support</A>.
 
 <DIV Align="center"><H4> <A HREF="frames/framefigures.shtml">Previous</A></H4></DIV>
 

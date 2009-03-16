@@ -24,10 +24,10 @@ MGI_MLC_OMIM	${MGI}searches/noforms_mlc_omim.cgi
 MGI_ACCESSION	${MGI}searches/accession_report.cgi?id=
 
 # link to MGI Home
-MGI_HOME	http://www.informatics.jax.org/mgihome/
+MGI_HOME	${MGI}mgihome/
 
 # link to MGI user support page
-MGI_SUPPORT	${MGI}mgihome/support/tjl_inbox.shtml
+MGI_SUPPORT	${MGI_HOME}support/mgi_inbox.shtml
 
 # link to the Lyris view of mgi-list
 MGI_LIST	http://lists.informatics.jax.org/lyris-cgi/lyris.pl?enter=mgi-list&text_mode=0
@@ -48,10 +48,10 @@ GDB_CLONE	http://www.gdb.org/gdb-bin/genera/genera/hgd/Clone?!sub=0&!key=
 JAXMICE		http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=
 
 # link to javawi2
-JAVAWI          http://www.informatics.jax.org/javawi2/
+JAVAWI          ${MGI}javawi2/
 
 # URL to the WK Silvers online book
-WKSILVERS     http://www.informatics.jax.org/wksilvers/
+WKSILVERS     ${MGI}wksilvers/
 
 # link to MGI Glossary
 MGI_GLOSSARY	${JAVAWI}servlet/WIFetch?page=glossaryIndex&print=no
