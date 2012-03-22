@@ -102,8 +102,8 @@ strains would reject tissue transplants from each other. Although these
 observations were a clear indication of the fact that genetic differences were 
 responsible for tissue rejection, the number and types of genes involved remained 
 entirely unknown. In absentia, these genes were named 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">histocompatibility</A></i> (or 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i>) 
+<i>histocompatibility</i> (or 
+<i>H</i>) 
 loci. The assumption was that the histocompatibility genes were responsible &#151; 
 directly or indirectly &#151; for the production of tissue (or &#034;histological&#034;) markers that 
 could be distinguished as &#034;self&#034; or &#034;non-self&#034; by an animal's immune system. If 
@@ -117,7 +117,7 @@ to be large because of the rarity with which unrelated individuals &#151; both m
 humans &#151; accept each other's tissues. The logic behind this assumption was the 
 empirical finding that polymorphic loci are most often di-allelic and not usually 
 associated with more than three common alleles. If 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> loci showed a similar level of 
+<i>H</i> loci showed a similar level of 
 polymorphism, a large number would be required to ensure that there would 
 almost always be at least one allelic difference between any two unrelated 
 individuals. The experimental problem was to identify and characterize each of the 
@@ -125,7 +125,7 @@ histocompatibility loci in isolation from all of the others.
 
 <P>Snell's approach to this problem was to use a novel multi-generation breeding 
 protocol based on repeated backcrossing to trap a single 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> locus from one mouse 
+<i>H</i> locus from one mouse 
 strain (the <i>donor</i>) in the genetic background of another (the <i>inbred partner</i>). The 
 basic approach (developed mathematically in the 
 <A HREF="3-3.shtml#3.3.3.2">following section</A>) caused the 
@@ -133,12 +133,12 @@ newly forming congenic strain to become increasingly similar to the inbred partn
 at each generation, but only those offspring who remained <i>histo-incompatible</i> with 
 the inbred partner were selected to participate in the next round of backcrossing. It 
 was assumed that a difference at any one 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> locus would be sufficient to allow full 
+<i>H</i> locus would be sufficient to allow full 
 histo-incompatibility. Thus, at the end of the process, Snell expected to find that 
 each independently derived congenic line would have trapped the donor strain 
 allele at a single random 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> locus. With random selection, all 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> loci could be 
+<i>H</i> locus. With random selection, all 
+<i>H</i> loci could be 
 isolated in different congenic strains so long as a large enough number were 
 generated.
 
@@ -146,7 +146,7 @@ generated.
 congenic strains (originally called &#034;congenic resistant&#034; strains) with 125 independent 
 lines of matings (<a href="../references.shtml#Snell2" TARGET="_top">Snell, 1978</a>). Of these, 27 were carried through to the point at 
 which it was possible to determine which 
-<i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95882,MGI:95894,MGI:95977,MGI:95883,MGI:95884,MGI:95885,MGI:95886,MGI:95887,MGI:95888,MGI:95889,MGI:95890,MGI:95892,MGI:95967,MGI:95968,MGI:95969,MGI:95970,MGI:95971,MGI:95972,MGI:95973,MGI:95974,MGI:95975,MGI:95976,MGI:95978,MGI:95979,MGI:95980,MGI:95981,MGI:95982,MGI:95983,MGI:95984,MGI:95985,MGI:95986,MGI:106031,MGI:104514,MGI:95987,MGI:95988,MGI:95989,MGI:95990,MGI:95991,MGI:95992,MGI:95993,MGI:95994,MGI:95995,MGI:95996,MGI:95997,MGI:95998,MGI:95999,MGI:96000,MGI:96001,MGI:96002,MGI:96003,MGI:96004,MGI:96005,MGI:1306817,MGI:1351672,MGI:96006,MGI:96007,MGI:96008,MGI:96291,MGI:96296" TARGET="_top">H</A></i> locus had been trapped. Surprisingly, 
+<i>H</i> locus had been trapped. Surprisingly, 
 22 of the 27 lines had trapped the same locus, which was given the name 
 <i><A HREF="<!--#include file='include/mgi_acc.html'-->MGI:95894" TARGET="_top">H-2</A></i> 
 (by chance, it was the second one identified). Contrary to expectations, the 
