@@ -21,7 +21,7 @@ MGI		http://www.informatics.jax.org/
 MGI_MLC_OMIM	${MGI}searches/noforms_mlc_omim.cgi
 
 # link to the WI's accession report - just append accIDs
-MGI_ACCESSION	${MGI}searches/accession_report.cgi?id=
+MGI_ACCESSION   ${MGI}accession/
 
 # link to MGI Home
 MGI_HOME	${MGI}mgihome/
