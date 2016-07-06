@@ -47,12 +47,9 @@ GDB_CLONE	http://www.gdb.org/gdb-bin/genera/genera/hgd/Clone?!sub=0&!key=
 # link to detail pages at JaxMice - just append the stock number
 JAXMICE		http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=
 
-# link to javawi2
-JAVAWI          ${MGI}javawi2/
-
 # URL to the WK Silvers online book
 WKSILVERS     ${MGI}wksilvers/
 
 # link to MGI Glossary
-MGI_GLOSSARY	${JAVAWI}servlet/WIFetch?page=glossaryIndex&print=no
+MGI_GLOSSARY	${FEWI_URL}glossary
 
