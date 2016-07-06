@@ -21,7 +21,6 @@ filename = {
 	'NCBI_OMIM'	: 'omim.html',
 	'GDB_CLONE'	: 'gdb_clone.html',
 	'JAXMICE'	: 'jaxmice.html',
-	'JAVAWI'	: 'javawi.html',
 	'WKSILVERS'	: 'wksilvers.html',
 	}
 
