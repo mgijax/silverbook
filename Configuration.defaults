@@ -30,22 +30,22 @@ MGI_HOME	${MGI}mgihome/
 MGI_SUPPORT	${MGI_HOME}support/mgi_inbox.shtml
 
 # link to the Lyris view of mgi-list
-MGI_LIST	http://lists.informatics.jax.org/lyris-cgi/lyris.pl?enter=mgi-list&text_mode=0
+MGI_LIST	http://lyris.dundee.net/read/?forum=mgi-list
 
 # link to MTB
 MTB		http://tumor.informatics.jax.org/FMPro?-db=TumorInstance&-format=mtdp.html&-view
 
 # link to PubMed abstracts at NCBI - just append the ID
-NCBI_PUBMED	http://www.ncbi.nlm.nih.gov:80/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=
+NCBI_PUBMED	  https://www.ncbi.nlm.nih.gov/pubmed/
 
 # link to OMIM records at NCBI - just append the ID
-NCBI_OMIM	http://www3.ncbi.nlm.nih.gov/htbin-post/Omim/dispmim?
+NCBI_OMIM   https://www.omim.org/entry/
 
 # link to clones at GDB - just append the ID
 GDB_CLONE	http://www.gdb.org/gdb-bin/genera/genera/hgd/Clone?!sub=0&!key=
 
 # link to detail pages at JaxMice - just append the stock number
-JAXMICE		http://jaxmice.jax.org/jaxmice-cgi/jaxmicedb.cgi?objtype=pricedetail&stock=
+JAXMICE		https://www.jax.org/strain/
 
 # URL to the WK Silvers online book
 WKSILVERS     ${MGI}wksilvers/
