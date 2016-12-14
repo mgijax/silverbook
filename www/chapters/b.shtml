@@ -69,7 +69,7 @@ The online version, called the Mouse Locus Catalog (or MLC) is updated regularly
 The entire database can be searched to retrieve a list of loci (with associated descriptions and citations) that contain a particular 
 search word or combination of words anywhere within the locus record. 
 For further information, the MGD staff can be reached at the following E-mail address: 
-<A HREF="<!--#include file='include/mgi_support.html'-->" TARGET="_top">mgi-help@informatics.jax.org</A>.
+<A HREF="<!--#include file='include/mgi_support.html'-->" TARGET="_top">mgi-help@jax.org</A>.
 
 <P>The <I><A HREF="http://www-genome.wi.mit.edu/" TARGET="_top">Genome Center at the Whitehead Institute, MIT</A></I> 
 provides a highly specialized but very useful source of information through 
@@ -88,13 +88,13 @@ For more information, contact Linclon Stein at the Whitehead Institute [Email ad
 <P>The central WWW server for human genetic information is maintained by the Genome Database group at the Johns Hopkins University and has the following URL: http://www.gdb.org/. 
 A compendium of interlinked databases is available at this site where it is possible to recover information on human chromosomes, loci, maps, mutations, citations, cell lines, probes, polymorphisms, and other data items. 
 Included in this compendium is the online version of Victor McKusick's <I>Mendelian Inheritance of Man</I> (called 
-<A HREF="http://www.omim.org" TARGET="_top">OMIM</A>) which contains comprehensive textual information on all defined human loci. 
+<A HREF="https://www.omim.org" TARGET="_top">OMIM</A>) which contains comprehensive textual information on all defined human loci. 
 For further information, the GDB staff can be reached at the following E-mail address: Help@gdb.org, or the following address: GDB User Support, Genome Data Base, 
 Johns Hopkins University, 2024 E. Monument Street, Baltimore, MD 21205-2100.
 
 <P>Another critical WWW server is maintained by the National Center for Biotechnology Information (
-<A HREF="http://www.ncbi.nlm.nih.gov/" TARGET="_top">NCBI</A>) which is the location of the GenBank database. The URL for this server is: 
-<A HREF="http://www.ncbi.nlm.nih.gov/" TARGET="_top">http://www.ncbi.nlm.nih.gov/</A>. GenBank searches can be conducted through this linkup. 
+<A HREF="https://www.ncbi.nlm.nih.gov/" TARGET="_top">NCBI</A>) which is the location of the GenBank database. The URL for this server is: 
+<A HREF="https://www.ncbi.nlm.nih.gov/" TARGET="_top">https://www.ncbi.nlm.nih.gov/</A>. GenBank searches can be conducted through this linkup. 
 For further information, contact NCBI at the following E-mail address: 
 <A HREF="mailto:info@ncbi.nlm.nih.gov">info@ncbi.nlm.nih.gov</A>.
 
@@ -106,12 +106,12 @@ http://gc.bcm.tmc.edu:8088/bio/bio_home.shtml.<BR><BR>
 <A NAME="B2"></A><B><H3>B2 MOUSE GENETICS COMMUNITY BULLETIN BOARD</H3></B>
 
 <P>An electronic bulletin board (called 
-<A HREF="http://lists.informatics.jax.org/lyris-cgi/lyris.pl?enter=mgi-list&text_mode=0" TARGET="_top">MGI-LIST</A>) has been set up at the Jackson Laboratory with E-mail addresses of mouse geneticists throughout the world. 
+<A HREF="http://www.informatics.jax.org/mgihome/lists/lists.shtml" TARGET="_top">MGI-LIST</A>) has been set up at the Jackson Laboratory with E-mail addresses of mouse geneticists throughout the world. 
 The Mouse Genome Informatics Group at the JAX will use this bulletin board to make announcements of new software related to the Mouse Genome Data Base. 
 In addition, all subscribers will be able to broadcast to, and receive messages of interest from, all other linked-up members of the community. 
-If you would like to subscribe to this bulletin board, send a message that reads &#034;subscribe mgi-list &lt;your name>&#034; to listserver@informatics.jax.org. 
+If you would like to subscribe to this bulletin board, send a message that reads &#034;subscribe mgi-list &lt;your name>&#034; to lyris@lists.informatics.jax.dundee.net. 
 For further information or help, send an E-mail message to 
-<A HREF="<!--#include file='include/mgi_support.html'-->" TARGET="_top">mgi-help@informatics.jax.org</A>.<BR><BR>
+<A HREF="<!--#include file='include/mgi_support.html'-->" TARGET="_top">mgi-help@jax.org</A>.<BR><BR>
 
 <A NAME="B3"></A><B><H3>B3 COMPUTER PROGRAMS</H3></B>
 
