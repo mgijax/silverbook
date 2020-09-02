@@ -24,10 +24,10 @@ filename = {
 	'WKSILVERS'	: 'wksilvers.html',
 	}
 
-print 'Writing include files...'
+print ('Writing include files...')
 
 for option in filename.keys():
-	print '...writing %s' % filename[option]
+	print ('...writing %s' % filename[option])
 
 	fp = open ('../www/include/%s' % filename[option], 'w')
 	fp.write (config[option])
