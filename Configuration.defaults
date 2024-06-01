@@ -1,7 +1,7 @@
 ###--- non-URL config options ---###
 
 # location of Python interpreter
-PYTHON		/opt/python3.7/bin/python3
+PYTHON		/opt/python3.8/bin/python3
 
 # Unix group to which to chmod the files, must be web-accessible
 GROUP		www
