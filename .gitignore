@@ -1,9 +1,3 @@
 Configuration
-admin/Configuration.pyc
-admin/python
-bin/
-logs/Install.log
-www/chapters/include
-www/figures/include
-www/include/
-www/tables/include
+Configuration.pyc
+python

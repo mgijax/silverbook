@@ -29,7 +29,7 @@ print ('Writing include files...')
 for option in filename.keys():
 	print ('...writing %s' % filename[option])
 
-	fp = open ('../www/include/%s' % filename[option], 'w')
+	fp = open ('../include/%s' % filename[option], 'w')
 	fp.write (config[option])
 	fp.close()
 
