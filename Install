@@ -3,7 +3,6 @@
 # Program: Install
 # Purpose: Install script for the Silver Book
 # Assumptions: that this script is run from the directory which contains it
-#	(the silverbook installation directory)
 
 ###--- Global Variables ---###
 
@@ -261,8 +260,8 @@ do
 	reLink $TOP/www/include include
 	cd $TOP
 done
-# Make sure that all files are owned by $GROUP
 
+# Make sure that all files are owned by $GROUP
 logHeading "Changing file and directory ownerships..."
 execute find . \( -type f -o -type d \) -exec chgrp $GROUP '{}' \;
 
